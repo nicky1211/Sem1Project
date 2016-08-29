@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]> <html lang='en' class='ie7'> <![endif]-->
+<!--[if IE 8 ]> <html lang='en' class='ie8'> <![endif]-->
+<!--[if IE 9 ]> <html lang='en' class='ie9'> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang='en'> <!--<![endif]-->
+<head>
+<title>Ask.com - What's Your Question?</title>
+<script type="text/javascript">
+var ss=function(){},cs=function(){};
+var _docReadyFns = [];
+$j = function(){return {ready:function(fn){_docReadyFns.push(fn);}};};
+window.onload = function() {
+for (var i = 0; i < _docReadyFns.length; i++) {
+var fn = _docReadyFns[i];
+if (typeof fn === 'function') fn.call(document, jQuery);
+}
+};
+var JASK = JASK || {};
+JASK.cfg = (function() {
+return {
+"ldomain":"www.ask.com" ,
+"_ldomain":"www.ask.com",
+"disableSearchBoxFocus":false,
+"appendSearchQuery":false,
+"fixedRR":false,
+"displayAdBelowFold":true,
+"landingPageVersion":"",
+"sbFocusColor":"",
+"fixedHeaderScroll":false,
+"baseImprovement":false,
+"flyoverDelay":"500"
+};
+})();
+</script>
+<script type="text/javascript">
+</script> <meta charset='UTF-8'>
+<meta content='initial-scale=0.9, user-scalable=no, maximum-scale=1, width=device-width' name='viewport'>
+<meta name="description" content="Ask.com is the #1 question answering service that delivers the best answers from the web and real people - all in one place.">
+<link REL="shortcut icon" HREF="//www.ask.com/favicon.ico">
+<link REL="search" type="application/opensearchdescription+xml" HREF="//www.ask.com/ask-search.xml" title="Ask Search">
+<link rel="apple-touch-icon" href="//www.ask.com/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//www.ask.com/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//www.ask.com/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//www.ask.com/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="//www.ask.com/apple-touch-icon-180x180.png"> <link type="text/css" rel="stylesheet" href="/st/c/css/ask_home.min.343c9b0a.css">
+<style type="text/css">
+.sb-logo,.s-but,.social-facebook, .social-twitter, .social-google , .arrow, .rotate-arrow, .answerA a:before, .answerB a:before, .answerC a:before, .answerD a:before, .searchbox-clear{
+background-image: url(//sp.ask.com/sh/i/images/homepage-sprite-1.0.2.png);
+}
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+.sb-logo,.s-but,.social-facebook, .social-twitter, .social-google , .arrow, .rotate-arrow, .answerA a:before, .answerB a:before, .answerC a:before, .answerD a:before, .searchbox-clear{
+background-image: url(//sp.ask.com/sh/i/images/homepage-sprite-1.0.2-@2x.png);
+background-size: 133px 168px;
+}
+}
+/*Overriding the search suggestion styles*/
+.ac_results{
+border: 1px solid #c3c3c3;
+}
+.ac_results li{
+padding: 6px 0 6px 16px;
+}
+.ac_over, li.ac_over {
+background-color: #ededed;
+color: #000;
+}
+.sb-input{right: 0;}
+.search-block {
+min-width: 64%;
+max-width: 854px;
+height: 100px;
+margin: 125px auto 250px auto;
+}
+.search-box-input {
+border: medium none;
+display: block;
+width: 91%;
+height: 48px;
+float: left;
+}
+#search-box {
+margin: 0;
+}
+.sb-logo {
+height: 98px;
+width: 133px;
+float: left;
+}
+.search-bar {
+display: inline-block;
+margin-left: 20px;
+width: 81%;
+height: 48px;
+border: 1px solid silver;
+background-color: #fff;
+margin-top: 25px;
+}
+.sb-button {
+margin-top: -1px;
+float: right;
+}
+body {
+background-color: #FFFFFF;
+}
+.page-wrapper {
+background-color: #FFFFFF;
+}
+</style> <link rel="canonical" href="//www.ask.com"/>
+<link rel="alternate" hreflang="en" href="//www.ask.com"/>
+<link rel="alternate" hreflang="en-AU" href="//au.ask.com"/>
+<link rel="alternate" hreflang="en-GB" href="//uk.ask.com"/>
+<link rel="alternate" hreflang="fr" href="//fr.ask.com"/>
+<link rel="alternate" hreflang="ru" href="//ru.ask.com"/>
+<link rel="alternate" hreflang="pt-BR" href="//br.ask.com"/>
+<link rel="alternate" hreflang="pt" href="//pt.ask.com"/>
+<link rel="alternate" hreflang="de" href="//de.ask.com"/>
+<link rel="alternate" hreflang="de-AT" href="//at.ask.com"/>
+<link rel="alternate" hreflang="it" href="//it.ask.com"/>
+<link rel="alternate" hreflang="nl" href="//nl.ask.com"/>
+<link rel="alternate" hreflang="jp" href="//jp.ask.com"/>
+<link rel="alternate" hreflang="es" href="//es.ask.com"/>
+<link rel="alternate" hreflang="es-AR" href="//ar.ask.com"/>
+<link rel="alternate" hreflang="es-MX" href="//mx.ask.com"/>
+<link rel="alternate" hreflang="es-CL" href="//cl.ask.com"/>
+<meta property="og:image" content="//about.ask.com/wp-content/uploads/2013/04/Ask-Logo-Medium.jpg" />
+<meta property="og:description" content="Ask.com is the #1 question answering service that delivers the best answers from the web and real people - all in one place."/>
+<meta property="og:title" content="Ask.com - What's Your Question?"/>
+<meta property="og:url" content="www.ask.com"/>
+<meta property="og:site_name" content="Ask.com"/>
+<meta property="fb:page_id" content="123118179545" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@askdotcom" />
+<meta name="google-site-verification" content="t1SUuVQ_reOZwUXy_U6JBSSqrKRH6gGsDnjriV7LzF0" />
+<meta name="google-site-verification" content="s89ONKESmARKIiARRHPtHQytGUqVAsbSpJowT1vzEmw" />
+<meta name="google-site-verification" content="ULKVDJtuDYjxxCkZM521VKYgqMrdXGyuETfTOmwf3dE" />
+<meta name="google-site-verification" content="Yy-rANR5ykcKJ9jFbLRTh9YE18tcdT40JvEW2qT2OM4" />
+<meta name="google-site-verification" content="YzLed7-k4UKktSHljrLZZYL6wVstSOrNWs_Vr462n9I" />
+<meta name="google-site-verification" content="f149PvK8Pkssqod0hWO2cHV00Xcicoj2naDl_OenW4Q" />
+<meta name="google-site-verification" content="ef6bneVqkEMDsgtDS3oqTxRlNsqCBPBS8qsR84Mp4DQ" />
+<meta name="google-site-verification" content="a2VFwibISMkZ3dwloxR6hqrCilAXxQYh545JhkiA2jk" />
+<meta name="google-site-verification" content="XAfLMau8YSciNtKLEdAYhQWdh66dO3v6EF8Iw4ZptDM" />
+<meta name="google-site-verification" content="bLDlJEIYv9pAO9jyRA5cDPS4QyvEpw-e6FZTUpi93U0" /></head>
+<body class="a16">
+<script type="text/javascript">
+var dataLayer = [
+{
+"channel": "home",
+"affiliateid": "0",
+"sessionid": "884732383",
+"ldid": "",
+"acquisitiondivision": "dirN"
+}
+];
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T3KVMC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T3KVMC');</script>
+<img src="//sp.ask.com/sh/i/images/homepage-sprite-1.0.2.png" style="display: none"/>
+<div class="page-wrapper clr dib posR">
+<div class="header">
+</div>
+<div class="content">
+<div class="search-block">
+<div class="sb-logo"></div>
+<div class="search-bar">
+<form accept-charset="UTF-8" action="/web" id="main-search" data-ordinal="0">
+<input class="search-box-input" autocomplete="off" id="search-box" maxlength="2048" name="q" type="text" data-moduleNumber="1">
+<button class="sb-button" value="" type="submit">
+<span id="sbut" class="s-but"></span>
+</button>
+<input id="header-qsrc" type="hidden" value="0" name="qsrc">
+<input id="header-origin" type="hidden" value="0" name="o">
+<input id="header-partnerID" type="hidden" value="dir" name="l">
+<input id="header-qo" type="hidden" value="homepageSearchBox" name="qo">
+</form>
+<span class="searchbox-clear js-searchbox-clear"></span>
+</div>
+</div> <div class="footer clr">
+<div class="bot-category-nav">
+<div class="category-nav-body dib">
+<div class='mod-category-questions'>
+<ul>
+<li>
+<a onmousedown="uaction(this,{up:'1bf5y=CpCTwx4J1&p=SL66pN&zJ=g&LR=v5Mp5rvK&Kb=t6sldxSf&1h=3&+T=FQgoNjwbR'});" href="https://www.reference.com/art-literature?qo=homePageTaxonomyFooter">ART & LITERATURE</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'64a5P=uJPtPFaEJ&n=V1dSnm&9l=+&FQ=XT1Pla5z&QR=mjoWrbCL&ym=D&AM=+fCBIyNJb'});" href="https://www.reference.com/beauty-fashion?qo=homePageTaxonomyFooter">BEAUTY & FASHION</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'bf55U=GAAmWRmnL&U=wyaIpL&1w=C&SD=rM4xauWc&0A=5TT6YGqk&VM=M&AX=uJ3CYmDzn'});" href="https://www.reference.com/business-finance?qo=homePageTaxonomyFooter">BUSINESS & FINANCE</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'ec052=XfHQClo+S&c=tFIShb&Yu=p&D1=ft%kO8lq&s9=Pw+y3KyJ&jf=I&UG=ovgGhYNY8'});" href="https://www.reference.com/education?qo=homePageTaxonomyFooter">EDUCATION</a>
+</li>
+</ul>
+<ul>
+<li>
+<a onmousedown="uaction(this,{up:'aab5s=2ZR6CoZfN&B=tAyzIW&Jw=f&cH=CKxXuOAY&te=SZv6W8dG&2y=I&hd=CQ63qC2+a'});" href="https://www.reference.com/family?qo=homePageTaxonomyFooter">FAMILY</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'bb65r=G0QoHfTUh&g=iyt6se&5S=X&Qs=Nlv9ukSz&hH=t1+sSzHZ&hq=2&uP=VYcY%A5pj'});" href="https://www.reference.com/food?qo=homePageTaxonomyFooter">FOOD</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'de15d=Ezo2A+Sk7&v=IQcEhk&JL=a&M3=11fD3ps0&ab=Ulmn7Qdj&mC=T&fI=2%oHa7GYg'});" href="https://www.reference.com/geography?qo=homePageTaxonomyFooter">GEOGRAPHY</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'d2c55=GYgb3mFQ0&y=qFwvWu&ss=K&fb=wu5coPB0&lw=mMnDVG5v&uT=y&ma=IEqthpD5O'});" href="https://www.reference.com/government-politics?qo=homePageTaxonomyFooter">GOVERNMENT & POLITICS</a>
+</li>
+</ul>
+<ul>
+<li>
+<a onmousedown="uaction(this,{up:'5975d=yod+Q93EH&E=dh%W%Y&1c=n&xF=BybBOixi&6q=%1rYvQse&WY=g&wq=IH1zcOD0E'});" href="https://www.reference.com/health?qo=homePageTaxonomyFooter">HEALTH</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'3225W=Z90bGIJ1Y&3=QZQ+GZ&8f=Q&Tb=uWSyvBxH&DE=tPO7+5Fi&VC=h&vK=NyVcItsYz'});" href="https://www.reference.com/history?qo=homePageTaxonomyFooter">HISTORY</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'1cd5r=Jrkxmkuaz&1=2ZmrhN&zS=S&xz=qnkRMtRU&dX=BXJP98Vr&HA=S&5m=GsUEwISei'});" href="https://www.reference.com/hobbies-games?qo=homePageTaxonomyFooter">HOBBIES & GAMES</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'d9851=yx0qBg5od&L=wwr3IG&5h=c&Ku=FESbRFIF&84=N9sREJso&xC=f&Xx=9FH%pLA5C'});" href="https://www.reference.com/holidays-celebrations?qo=homePageTaxonomyFooter">HOLIDAYS & CELEBRATIONS</a>
+</li>
+</ul>
+<ul>
+<li>
+<a onmousedown="uaction(this,{up:'2835S=bHJ9+LdVI&z=7TRaIR&oL=D&LK=tuInZWnM&AK=h+eYYGzW&Hu=H&Uv=Wq5Y8RnHe'});" href="https://www.reference.com/home-garden?qo=homePageTaxonomyFooter">HOME & GARDEN</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'c8e5h=p+gTO3H0M&H=uhk82A&ix=S&P5=5E78p17W&QK=kKkTlGuM&oV=q&Fx=M1Ljne0nW'});" href="https://www.reference.com/math?qo=homePageTaxonomyFooter">MATH</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'7b95w=XanWfndT%&m=r0D8p9&wS=G&ac=JTiaoF8V&%P=bEZn2vsH&VF=K&1T=sDwu0cans'});" href="https://www.reference.com/pets-animals?qo=homePageTaxonomyFooter">PETS & ANIMALS</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'0045O=y0Qxh3BPB&Q=KfvqCJ&P0=O&7W=HWyjaDHt&MI=7DpbfVKq&tu=Q&FM=Hz7IEYGWx'});" href="https://www.reference.com/science?qo=homePageTaxonomyFooter">SCIENCE</a>
+</li>
+</ul>
+<ul>
+<li>
+<a onmousedown="uaction(this,{up:'16f5o=ZTkYDew4S&m=6kHhnC&Wa=0&QY=cx7g2F6l&X+=iqV6iDzK&k9=0&ot=f4fd9MfhX'});" href="https://www.reference.com/sports-active-lifestyle?qo=homePageTaxonomyFooter">SPORTS & ACTIVE LIFESTYLE</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'7fa5x=Z4Fq4fMSI&c=gsYYu6&CG=2&C5=wucOaxwi&VY=5OJNoqbm&Ll=s&Xd=UkJibUEHq'});" href="https://www.reference.com/technology?qo=homePageTaxonomyFooter">TECHNOLOGY</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'fa55t=hNzchj7sS&B=1U3GEk&CJ=B&I0=Vu9ETYf5&XO=Eu64N3T4&0T=t&4g=lGfbzzBoJ'});" href="https://www.reference.com/vehicles?qo=homePageTaxonomyFooter">VEHICLES</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'4705t=GkNx7Ge87&O=5THHDE&HA=v&lu=Aj7zoIzp&hu=gffFLdTA&gu=h&vT=nkD923UFB'});" href="https://www.reference.com/world-view?qo=homePageTaxonomyFooter">WORLD VIEW</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="mod-footer dib posR">
+<ul id="footer-left-nav">
+<li>
+<a onmousedown="uaction(this,{up:'25b5N=NW4FdBY6%&4=cFFgbg&Au=u&Ni=JJlcRjMP+E&%8=j7DDkhZQzc&bE=f&fB=0zkE6AyZ8'});" href="//about.ask.com" target="_top">About</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'aa85C=o32ONvnvF&L=6o9Mwh&2N=g&8H=PYYyK1H8RN&lm=OH%QCkM0EI&iL=9&d1=4fLl74qZ6'});" href="//www.ask.com/privacy-policy" target="_top">Privacy</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'a155T=JjXSz7fmU&D=V4PYiK&%f=1&mg=BE1AOExBdn&0i=seAdAQ1QU+&k4=H&CQ=O77ZicJoK'});" href="//www.ask.com/terms-of-service" class="link grey" target="_top">Terms</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'4a25k=Zx4BM8Pp4&r=WnWzMn&cF=W&hh=O2eyOt4x2F&Pb=4ZH5Z2qD6O&3O=G&IR=vTEgYNJ1l'});" href="http://about.ask.com/jobs" target="_top">Careers</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'e4f5I=rrCNHjknq&X=o%LlbX&uL=i&E2=aloKuL1+0U&zg=k+eBx+MCYU&ae=Q&LN=olE1ixGx%'});" href="http://help.ask.com" target="_blank">Help</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'b1c5M=kMS9xr33d&S=y7v5Oa&bg=m&bG=uSdlBJ%JUj&0N=33Z53uN4fG&vD=W&0o=KekWBdPKo'});" href="http://feedback.ask.com" target="_blank">Feedback</a>
+</li>
+<li>
+<a onmousedown="uaction(this,{up:'f095f=Wh5pAeb8J&Z=FZttSS&CZ=n&Fy=uQuGTEcvub&R2=VSDLdgeaJp&Lc=I&Gr=MiZM6Bpnk'});" href="http://www.ask.com/sitemap.html" target="_blank">Sitemap</a>
+</li>
+<li>
+<span style="color:#91939C;">&#169; 2016 Ask.com</span>
+</li>
+</ul>
+<div class="clr"></div>
+</div> </div>
+</div>
+</div>
+<script src="/st/c/js/ask_home.min.2c30daba.js" type="text/javascript"></script>
+<script type="text/javascript">
+var UInfo = window.UInfo || {};
+UInfo.pl = "e165Zz=&L9f=&8f=P%+UX&yZ=VmTNN+0Z+ZzeUHywdYBKmMyFCd4Wk4kt&ma=qwsFwFv&A65m=1Z-1ll&Hzr=MnHD&Z5=xhnXre&NA=7gq.Xx2&KAm=&Sz=9zAD++es&hQ=R0Gcr&P6P=ul&gQ=VeNf&CI=K&m0=&wkM=&G=T";
+</script>
+<script type="text/javascript" src="//sp.ask.com/sh/ads/ads.js">
+</script>
+<script type="text/javascript">
+var _AnemoneParams2 = {
+appId: 'T2_AskUS',
+appVersion: 'ef5e8e5',
+appDate: '2016-07-27T14:45:00Z',
+serverName: 'askus036iad.io.askjeeves.info',
+uniqueUser: '0D2AB57E-7EE1-419A-967E-FA9187A9E1D7',
+backFillRequired: true,
+suppressCookies: false,
+eventId: '798D5BFE-64E7-42D7-8238-AC032E985F38',
+browserLanguage: '',
+maxSession: 30,
+domain: '.ask.com',
+url: '/ulog',
+logPageView: false
+};
+</script>
+<script type="text/javascript" src="/st/c/js/ask_unified.min.c7f61e55.js"></script>
+<script type="text/javascript">
+var ask = (typeof ask === 'undefined') ? {} : ask;
+(function(){
+var _timedOut = false,
+_fullPayload = window.backfillParam || {}, _timeFromSerpStart = null,
+_adsLoggingTimeout = null,
+_dynamicLoggingTimeout = null;
+try{
+_timeFromSerpStart = ((new Date() - ask.CSA.startTime) - ask.CSA.showSerpStartTime);
+_adsLoggingTimeout = parseInt('2000') - _timeFromSerpStart;
+_dynamicLoggingTimeout = Math.max(_adsLoggingTimeout, 1);
+}catch(e){
+_dynamicLoggingTimeout = 2000;
+}
+function mixinCSAAdData(payload){
+var externalData = {
+csaInfo: {
+domTime: ask.CSA.domReadyTime ? ask.CSA.domReadyTime : 0,
+adsResponseTime: ask.CSA.responseTime ? ask.CSA.responseTime : 0,
+adsShownTime: ask.CSA.adsShownTime ? ask.CSA.adsShownTime : 0,
+serpShownTime: ask.CSA.serpShownTime ? ask.CSA.serpShownTime : 0,
+supplement: _timedOut,
+serpTimedOut: !!ask.CSA.showSerpTimeoutFired,
+serpTimeoutStartTime: ask.CSA.showSerpStartTime ? ask.CSA.showSerpStartTime : 0,
+dynamicTimeout: _dynamicLoggingTimeout,
+viewportHeight: ask.CSA.viewportHeight ? ask.CSA.viewportHeight : 0,
+viewportWidth: ask.CSA.viewportWidth ? ask.CSA.viewportWidth : 0,
+adContentRatio: ask.CSA.adContentRatio ? ask.CSA.adContentRatio : 0,
+csaHeight: ask.CSA.csaHeight ? ask.CSA.csaHeight : 0,
+csaWidth: ask.CSA.csaWidth ? ask.CSA.csaWidth : 0,
+centerRailHeight: ask.CSA.centerRailHeight ? ask.CSA.centerRailHeight : 0,
+centerRailWidth: ask.CSA.centerRailWidth ? ask.CSA.centerRailWidth : 0,
+rightRailHeight: ask.CSA.rightRailHeight ? ask.CSA.rightRailHeight : 0,
+rightRailWidth: ask.CSA.rightRailWidth ? ask.CSA.rightRailWidth : 0,
+gslExtensions : ask.CSA.gslExtensions ? ask.CSA.gslExtensions : ""
+}
+};
+payload.pl_time = ask.CSA.responseTime ? ask.CSA.responseTime : 0;
+payload.pl_tnum = ask.CSA.numTopAds ? ask.CSA.numTopAds : 0;
+payload.pl_bnum = ask.CSA.numBottomAds ? ask.CSA.numBottomAds : 0;
+payload.pl_rrnum = ask.CSA.numRightAds ? ask.CSA.numRightAds : 0;
+payload.pl_rnum = parseInt(payload.pl_tnum) + parseInt(payload.pl_bnum) + parseInt(payload.pl_rrnum);
+try{
+mixinNavigationTimingInfo(externalData);
+payload.pl_edata = JSON.stringify(externalData);
+}catch(e){
+}
+}
+function mixinNavigationTimingInfo(eData) {
+if (typeof window.performance === 'undefined') {
+return;
+}
+var navInfo = eData["navInfo"] = {},
+csaInfo = eData.csaInfo,
+timing = window.performance.timing,
+navigation = window.performance.navigation,
+navStart = timing.navigationStart;
+navInfo.redirectCount = navigation.redirectCount;
+navInfo.navType = navigation.type;
+csaInfo.csaStartTime = (ask.CSA.startTime.getTime() - navStart);
+for (var k in timing) {
+//if (timing.hasOwnProperty(k)) {
+navInfo[k] = Math.max((timing[k] - navStart), 0);
+//}
+}
+}
+if (typeof ask !== 'undefined' && typeof ask.CSA !== 'undefined' && typeof ask.CSA.addCSALoadCallback === "function") {
+ask.CSA.addCSALoadCallback(function(){
+var payload = _timedOut ? { pl_supplement:true, pl_cl:_fullPayload.pl_cl, pl_ch:_fullPayload.pl_ch } : _fullPayload;
+var bookmark = false;
+if(typeof ask.CSA.calculateAdContentMetrics === "function") {
+ask.CSA.calculateAdContentMetrics(bookmark);
+}
+mixinCSAAdData(payload);
+logBackfillEvent(payload);
+}, function(){
+_timedOut = true;
+logBackfillEvent(_fullPayload);
+}, _dynamicLoggingTimeout);
+} else {
+logBackfillEvent(_fullPayload);
+}
+function addBingParams(payload) {
+payload.presentation={"count":0};
+payload.provider={};
+payload.pl_bfj = JSON.stringify(payload);
+return payload;
+}
+function logBackfillEvent(payload) {
+payload['anxi'] = JSUtil.defaultVal(_AnemoneParams2.eventId, '');
+payload.pl_as = !window.canRunAds ? true : false;
+ask.backFillPayload = payload;
+_Anemone.logEvent('BackFill', payload);
+}
+})();
+</script>
+<script>
+$j(window).load(function(){
+setTimeout(function(){
+if(
+typeof getNavigationTimingInfo === "function" &&
+typeof _Anemone === "object"
+) {
+if(
+ask &&
+ask.backFillPayload &&
+ask.backFillPayload.pl_edata &&
+JSON.parse(ask.backFillPayload.pl_edata).navInfo &&
+JSON.parse(ask.backFillPayload.pl_edata).navInfo.loadEventEnd
+) {
+console.log("abort 2nd backfill ",JSON.parse(ask.backFillPayload.pl_edata).navInfo.loadEventEnd);
+return;
+}
+var navInfo = getNavigationTimingInfo(window),
+payload = {};
+if(navInfo) {
+payload.pl_edata = {};
+payload.presentation={"count":0};
+payload.provider={};
+payload.pl_bfj = JSON.stringify(payload);
+payload.pl_edata.navInfo = navInfo;
+payload.pl_edata = JSON.stringify(payload.pl_edata);
+//console.log("nav info ",JSON.parse(payload.pl_edata));
+payload['anxi'] = JSUtil.defaultVal(_AnemoneParams2.eventId, '');
+_Anemone.logEvent('BackFill', payload);
+}
+}
+},0);
+});
+</script> <script>
+/**
+* Trigger the backfill event with lotame params
+* @param lotameInfo
+* @returns no return
+*/
+var logBackfillEvent = function (lotameInfo) {
+setTimeout(function () {
+if (typeof _Anemone === "object") {
+payload = {};
+payload.pl_ltmedata = {};
+payload.presentation = {"count": 0};
+payload.provider = {};
+payload.pl_bfj = JSON.stringify(payload);
+payload.pl_ltmedata = lotameInfo;
+payload.pl_ltmedata = JSON.stringify(lotameInfo);
+payload['anxi'] = JSUtil.defaultVal(_AnemoneParams2.eventId, '');
+_Anemone.logEvent('BackFill', payload);
+}
+}, 0);
+}
+/**
+* Read the lotame cookie
+* If lotame cookie not exist then make a request for the Lotame Audience Extraction async call
+* Drop the lotame cookie
+* Trigger the backfill with lotame params
+* @param e
+* @param t
+* @param id
+*/
+var lotame_getScript = function (e, t, id) {
+var n = document.getElementsByTagName("head")[0], r = !1, i = document.createElement("script");
+i.src = e, i.async = true, i.id = id || "", i.onload = i.onreadystatechange = function () {
+!r && (!this.readyState || this.readyState === "loaded" || this.readyState === "complete") && (r = !0, typeof t == "function" && t())
+}, n.appendChild(i)
+};
+lotame_getScript("//ad.crwdcntrl.net/5/c=4736/pe=y/var=ccauds", function () {
+var lpid = (typeof(ccauds.Profile.pid) != 'undefined') ? ccauds.Profile.pid : "",
+ltpid = (typeof(ccauds.Profile.tpid) != 'undefined') ? ccauds.Profile.tpid : "", cid = "LOTCC_4737";
+if (lpid && ltpid ) {
+var lotameInfo = {};
+lotameInfo.profileId = lpid;
+lotameInfo.tempProfileId = ltpid;
+lotameInfo.clientId = cid;
+var cookieValue = lotameInfo.profileId +'|'+lotameInfo.tempProfileId ;
+var cookieProperties ={};
+cookieProperties.path = '/';
+cookieProperties.domain = '.'+location.hostname.match(/\w+\.[^\.]+$/g)[0].replace(/\:\d+/,'');
+cookieProperties.expires = 3650;
+//Setting the cookie.raw to true to avoid the encoding
+$j.cookie.raw = true;
+$j.cookie("ltme",cookieValue,cookieProperties);
+logBackfillEvent(lotameInfo);
+}
+});
+</script>
+<script>
+var _comscore = _comscore || [];
+_comscore.push({c1: "2", c2: "6034776", c3: "", c4: ""});
+(function () {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src=""http://b.scorecardresearch.com/p?c1=2&c2=6034776&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1"
+/>
+</noscript> <script>
+function lotame_getScript(e,t,id){var n=document.getElementsByTagName("head")[0],r=!1,i=document.createElement("script");i.src=e,i.async=true,i.id=id||"",i.onload=i.onreadystatechange=function(){!r&&(!this.readyState||this.readyState==="loaded"||this.readyState==="complete")&&(r=!0,typeof t=="function"&&t())},n.appendChild(i)};
+lotame_getScript("//tags.crwdcntrl.net/c/4737/cc.js?ns=_cc4737",function(){
+_cc4737.bcp();
+},"LOTCC_4737");
+</script>
+<script type="text/javascript">
+var ask = ask || {},
+sp = sp || {};
+sp.gls_top = parseInt('$gslTop');
+sp.gls_bottom = parseInt('$gslBottom');
+sp.ad_count = (window['google_ads']) ? window['google_ads'].length : (sp.gls_top + sp.gls_bottom);
+ask.adsPixelTimeout = '2000';
+function initPixel(cb, cbTimeout) {
+if (typeof ask !== 'undefined' && typeof ask.CSA !== 'undefined' && typeof ask.CSA.addCSALoadCallback === "function") {
+ask.CSA.addCSALoadCallback(function() {
+cb(true);
+}, function(){
+cbTimeout();
+}, ask.adsPixelTimeout);
+} else {
+cb(false);
+}
+}
+$j(document).ready(function(){
+if (typeof ask !== 'undefined' && typeof ask.CSA !== 'undefined' && typeof ask.CSA.domReady == "function") {
+ask.CSA.domReady();
+}
+});
+</script>
+<script type="text/javascript">
+JASK.ssCfg = (function(){
+return {
+"topOffset":3,
+"channel":"home",
+"path":"web",
+"disableTurnOffLink":"'false'",
+"disableSS": false,
+"server":"//ss.ask.com",
+"ldomain":"//www.ask.com/",
+"ssBold":"'false'",
+"clearSearchHistory":"Clear search history",
+"max":"",
+"ssFromQueryHistory":"true",
+"queryHistory":"",
+"queryHistoryContentColor":"",
+"ssContentColor":"'false'",
+"ssContentColorCode": "",
+"matchingTextUnBold": "",
+"suggestionTextUnBold": "",
+"ssItems":"",
+"appendParams":[]
+};
+})();
+</script>
+</body>
+</html>

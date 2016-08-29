@@ -1,0 +1,3513 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<meta property="og:title" content="MagicBricks"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.magicbricks.com/bricks/indexc.html"/>
+<meta property="og:image" content="http://www.magicbricks.com/images/FB_banner4.3.jpg"/>
+<meta property="og:site_name" content="Magicbricks"/>
+<title>Real Estate | Property in India | Buy/Sale/Rent Properties | MagicBricks</title>
+<meta name="description" content="Search Real Estate Properties in India at Magicbricks, the best property site in India. Buy, Sell, Rent residential and commercial properties"/>
+<meta name="keywords" content="Real Estate, Property in India, Properties, Property sites India"/>
+<meta name="Owner" content="MagicBricks.com"/>
+<meta name="Copyright" content="MagicBricks.com"/>
+<meta name="classification" content="Real Estate Property Search"/>
+<meta name="distribution" content="India"/>
+<meta name="rating" content="General"/>
+<meta name="subject" content="Search Property for Sale And Rent, Search New	Projects, Builders And Property Dealers in India"/>
+<meta name="audience" content="All"/>
+<link rel="canonical" href="http://www.magicbricks.com"/>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.magicbricks.com/mbs/"/>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="android-app://com.timesgroup.magicbricks/mb/splash"/>
+<style type="text/css">
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('http://cdn.staticmb.com/font/opensans-regular-webfont.eot');
+    src: url('http://cdn.staticmb.com/font/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://cdn.staticmb.com/font/opensans-regular-webfont.woff') format('woff'),
+         url('http://cdn.staticmb.com/font/opensans-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-bold';
+    src: url('http://cdn.staticmb.com/font/OpenSans-Bold-webfont.eot');
+    src: url('http://cdn.staticmb.com/font/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://cdn.staticmb.com/font/OpenSans-Bold-webfont.woff') format('woff'),
+         url('http://cdn.staticmb.com/font/OpenSans-Bold-webfont.ttf') format('truetype');
+   	font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'opensans-semibold';
+    src: url('http://cdn.staticmb.com/font/opensans-semibold-webfont.eot');
+    src: url('http://cdn.staticmb.com/font/opensans-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://cdn.staticmb.com/font/opensans-semibold-webfont.woff') format('woff'),
+         url('http://cdn.staticmb.com/font/opensans-semibold-webfont.ttf') format('truetype');
+   	font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_light';
+    src: url('http://cdn.staticmb.com/font/opensans-light-webfont.eot');
+    src: url('http://cdn.staticmb.com/font/opensans-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://cdn.staticmb.com/font/opensans-light-webfont.woff') format('woff'),
+         url('http://cdn.staticmb.com/font/opensans-light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="http://cdn.staticmb.com/cssGroup/homeCityGroup.css?0.196"/>
+<!--[if IE 8]>
+ <html class="ieOld">
+<![endif]-->
+<!--[if IE 9]>
+ <html class="ieOld9">
+<![endif]-->
+<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="http://cdn.staticmb.com/css/ie8new.css" />
+<![endif]-->
+<!--[if lte IE 9]>
+	<link rel="stylesheet" type="text/css" href="http://cdn.staticmb.com/css/ie9.css" />
+<![endif]-->
+<script type="text/javascript">
+			var imgPath = "http://cdn.staticmb.com/images/";
+</script>
+<script type="text/javascript" src="http://cdn.staticmb.com/jsGroup/homeCityGroup.js?1.183"></script>
+<script type="text/javascript">
+			var contextPath = "/bricks/";
+			var comScoreUrlPath = 'http://www.magicbricks.com/bricks/';
+			var jsPath = 'http://cdn.staticmb.com/scripts/';
+			var userType="null";
+			var name="null";
+			var emailid="null";
+			var mobile="null";
+			var userMobileCountry="null";
+			// Google Analytics
+			var _gaq = _gaq || [];
+			// Comscore
+			var _comscore = _comscore || [];
+			if((emailid!='' && emailid!='null') || (mobile!='' && mobile!='null')){
+				setCookieForMailer(userType, name, emailid, mobile, userMobileCountry);
+			}
+			googleAnalyticsLoad();
+			comscoreLoad();
+			function initLoad(){
+				
+				
+					
+						homeOnLoad();
+					
+					
+					
+				
+				loadFooterTracking();
+				
+			}
+
+			$(document).ready(function() {
+				$('.forward').live('click',function() {
+					try{ 
+						$('.anythingSlider').removeClass('selectedSlider');
+						$(this).parents('.anythingSlider').addClass('selectedSlider');
+						$(this).parents('.anythingSlider').find('.activePage').next().find('.lazy').each(function(){
+							var getOrigSrc = $(this).attr('data-original')+"";
+							var getSrc = $(this).attr('src')+"";
+							if(getOrigSrc!=getSrc){
+								$(this).attr('src', getOrigSrc);
+							}
+						});
+					}catch(e){
+						if(!(typeof window.errorHandler === 'undefined')){
+							errorHandler('homeTopInclude.jsp', 'ready function', e);
+						}
+					}
+				});
+				$(document).live('keydown', function(e){
+					if(e.keyCode == 39){
+						$('.selectedSlider').find('.forward').trigger('click');
+					}
+				});
+
+				// Google Auto Suggest
+				var script = document.createElement('script');
+				script.type = 'text/javascript';
+				script.src = "http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false&libraries=places";
+				document.body.appendChild(script);
+			});
+function loadIframe(crossDomainUrl, appendIn, iframeId, wd, ht) {
+	var iframe = document.createElement('iframe');
+	iframe.frameBorder=0;
+	iframe.width=wd+"px";
+	iframe.height=ht+"px";
+	iframe.scrolling="no";
+	iframe.id=iframeId;
+	iframe.setAttribute("src", crossDomainUrl);
+	document.getElementById(appendIn).appendChild(iframe);
+}
+</script>
+<script type="text/javascript">
+	dataLayer = [];
+</script>
+<link rel="stylesheet" type="text/css" href="http://cdn.staticmb.com/greybox/gb_styles.css"/><style type="text/css">
+@-moz-document url-prefix() { 
+  .dremIcon {
+     top: 0px;
+  }
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+ .posRelOffer{display: inline; }
+ .dremIcon {display: inline; }
+}
+
+</style><link rel="dns-prefetch" href="//cdn.perfdrive.com"></head>
+<body onload="initLoad();">
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&cv=2.0&cj=1"/></noscript>
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<script type="text/javascript">var GB_ROOT_DIR = "/greybox/";</script>
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<script type="text/javascript" src="http://cdn.staticmb.com/scripts/externalJS/porthole.min.js?1.183"></script>
+<script type='text/javascript' src="http://cdn.staticmb.com/scripts/externalJS/ntracking.js?1.183"></script>
+<script type="text/javascript">
+	var allDivs = ['#advancedProperty', '#advancedProject', '#advancedBuilder', '#advancedAgent', '#advancedBuyer', '#searchByID', '#searchByKeyword'];
+	var divHeights = {'#advancedProperty': '450', '#advancedProject':'379', '#advancedBuilder':'303', '#advancedAgent':'336', '#advancedBuyer':'390', '#searchByID':'170', '#searchByKeyword':'170'};
+		
+	eraseCookie("SHOWSEARCHTEXT");
+	var seachVersion = "";
+	 
+		seachVersion = "A";
+	
+	var paramTraffic = '';
+	
+	
+	
+	initializeDSS('984a2c2ddb2a4398a4f57f4bcea39c5','', '', seachVersion, paramTraffic);
+</script>
+<script type="text/javascript">
+	    var clientIP = "14.139.155.243";
+</script>
+<div class="globalMenu">
+<div class="middleData">
+<div class="clearAll"></div>
+<div class="topNav">
+<div class="logoCont">
+<a title="magicbricks.com" href="http://www.magicbricks.com/property-for-sale-rent/residential-real-estate?hpr=LOGO" class="sitLogo"></a>
+<div class="loginBlock">
+<ul>
+<li class="allIndiaLi dropdownLink">
+<a href="javascript:void(0)" class="allIndiaDD">India</a><span class="allIndia"></span>
+<div class="allCityDropDown dropdownMenu"><span class="dropDownArrow"></span>
+<div class="cityDropDownEffect">
+<div class="allCityDropDownInner">
+<div class="dropDownheading"> <a href="http://www.magicbricks.com/property-for-sale-rent/residential-real-estate?hpr=LINK"><span class="locationIcon"></span>INDIA</a> </div>
+<div class="citiesSec">
+<h4>Bangalore and Suburbs</h4>
+<div class="citiesList">
+<ul>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-area-East-in-Bangalore/residential-real-estate-area-East-in-Bangalore">Bangalore - East</a></li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-area-South-in-Bangalore/residential-real-estate-area-South-in-Bangalore">Bangalore - South</a></li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-area-West-in-Bangalore/residential-real-estate-area-West-in-Bangalore">Bangalore - West</a></li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-area-Central-in-Bangalore/residential-real-estate-area-Central-in-Bangalore">Bangalore - Central</a></li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-area-North-in-Bangalore/residential-real-estate-area-North-in-Bangalore">Bangalore - North</a></li>
+</ul>
+<div class="clearAll"></div>
+</div>
+<h4>Popular Cities</h4>
+<div class="citiesList">
+<ul>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Bangalore/residential-real-estate-Bangalore">Bangalore</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Mumbai/residential-real-estate-Mumbai">Mumbai</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Pune/residential-real-estate-Pune">Pune</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Chennai/residential-real-estate-Chennai">Chennai</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Hyderabad/residential-real-estate-Hyderabad">Hyderabad</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Kolkata/residential-real-estate-Kolkata">Kolkata</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Ahmedabad/residential-real-estate-Ahmedabad">Ahmedabad</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Navi-Mumbai/residential-real-estate-Navi-Mumbai">Navi Mumbai</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Thane/residential-real-estate-Thane">Thane</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Noida/residential-real-estate-Noida">Noida</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Gurgaon/residential-real-estate-Gurgaon">Gurgaon</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Ghaziabad/residential-real-estate-Ghaziabad">Ghaziabad</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Faridabad/residential-real-estate-Faridabad">Faridabad</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Greater-Noida/residential-real-estate-Greater-Noida">Greater Noida</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-New-Delhi/residential-real-estate-New-Delhi">New Delhi</a> </li>
+</ul>
+<div class="clearAll"></div>
+</div>
+<h4>Other Cities</h4>
+<div class="citiesList">
+<ul>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Agra/residential-real-estate-Agra">Agra</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Aurangabad/residential-real-estate-Aurangabad">Aurangabad</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Bhiwadi/residential-real-estate-Bhiwadi">Bhiwadi</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Bhopal/residential-real-estate-Bhopal">Bhopal</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Bhubaneswar/residential-real-estate-Bhubaneswar">Bhubaneswar</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Bokaro-Steel-City/residential-real-estate-Bokaro-Steel-City">Bokaro Steel City</a></li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Chandigarh/residential-real-estate-Chandigarh">Chandigarh</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Coimbatore/residential-real-estate-Coimbatore">Coimbatore</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Dehradun/residential-real-estate-Dehradun">Dehradun</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Durgapur/residential-real-estate-Durgapur">Durgapur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Goa/residential-real-estate-Goa">Goa</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Gorakhpur/residential-real-estate-Gorakhpur">Gorakhpur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Guntur/residential-real-estate-Guntur">Guntur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Guwahati/residential-real-estate-Guwahati">Guwahati</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Haridwar/residential-real-estate-Haridwar">Haridwar</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Indore/residential-real-estate-Indore">Indore</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Jaipur/residential-real-estate-Jaipur">Jaipur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Jamshedpur/residential-real-estate-Jamshedpur">Jamshedpur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Jodhpur/residential-real-estate-Jodhpur">Jodhpur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Kanpur/residential-real-estate-Kanpur">Kanpur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Kochi/residential-real-estate-Kochi">Kochi</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Kottayam/residential-real-estate-Kottayam">Kottayam </a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Kozhikode/residential-real-estate-Kozhikode">Kozhikode</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Lucknow/residential-real-estate-Lucknow">Lucknow</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Madurai/residential-real-estate-Madurai">Madurai</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Mangalore/residential-real-estate-Mangalore">Mangalore</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Mysore/residential-real-estate-Mysore">Mysore</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Nagpur/residential-real-estate-Nagpur">Nagpur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Nashik/residential-real-estate-Nashik">Nashik</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Navsari/residential-real-estate-Navsari">Navsari</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Palghar/residential-real-estate-Palghar">Palghar</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Patna/residential-real-estate-Patna">Patna</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Rajahmundry/residential-real-estate-Rajahmundry">Rajahmundry</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Ranchi/residential-real-estate-Ranchi">Ranchi</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Raipur/residential-real-estate-Raipur">Raipur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Salem/residential-real-estate-Salem">Salem</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Surat/residential-real-estate-Surat">Surat</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Thrissur/residential-real-estate-Thrissur">Thrissur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Trivandrum/residential-real-estate-Trivandrum">Trivandrum</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Trichy/residential-real-estate-Trichy">Trichy</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Udaipur/residential-real-estate-Udaipur">Udaipur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Vadodara/residential-real-estate-Vadodara">Vadodara</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Vapi/residential-real-estate-Vapi">Vapi</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Varanasi/residential-real-estate-Varanasi">Varanasi</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Vijayawada/residential-real-estate-Vijayawada">Vijayawada</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Visakhapatnam/residential-real-estate-Visakhapatnam">Visakhapatnam</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Vrindavan/residential-real-estate-Vrindavan">Vrindavan</a> </li>
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+<div class="srpFilterSection">
+<input id="moveSrpFilterTop" type="hidden" value=""/>
+</div>
+<div class="mainLinks">
+<ul>
+<li class="luxHomes"><a href="http://luxury.magicbricks.com/bangalore/?utm_source=MB&utm_medium=NavBar&utm_campaign=NavBar_All_India/" class="luxHomes" target="_blank">Luxury Homes</a></li>
+<li style="position: relative;" class="megaNOW"><a target="_blank" href="http://www.magicbricks.com/tv"><span class="tvIcon"></span>MAGICBRICKS NOW</a></li>
+<li><a href="http://www.magicbricks.com/new-projects/" target="_blank">New Projects</a></li>
+<li class="adviceDDLink dropdownLink"><a href="http://advice.magicbricks.com/" target="_blank">Advice<span class="downArrow"></span></a>
+<div class="adviceDropDown dropdownMenu">
+<div class="moreLinkDropDown dropdownMenu">
+<div class="moreLinkDropDownInner clearfix">
+<div class="moreOptionColumn clearfix">
+<span class="dropDownArrow"></span>
+<div class="moreOptionsList"><a href="http://advice.magicbricks.com/" target="_blank">
+<span class="linkTitle">Explore & Compare</span>
+<span class="linkTitleDetail">Know which project/locality is best for you</span>
+</a></div>
+<div class="moreOptionsList mtr4"> <a href="http://www.magicbricks.com/buyers-guide/" target="_blank">
+<span class="linkTitle">Home Buying Guide</span>
+<span class="linkTitleDetail">India's first e-book on how to buy a house</span>
+</a> </div>
+</div>
+<div class="moreOptionColumn clearfix">
+<div class="moreOptionsList"> <a href="http://advice.magicbricks.com/#investSmart" target="_blank">
+<span class="linkTitle">Invest Smart</span>
+<span class="linkTitleDetail">Find what your money can buy</span>
+</a> </div>
+<div class="moreOptionsList"> <a href="http://Propindex.magicbricks.com/" target="_blank">
+<span class="linkTitle">Prop Index</span>
+<span class="linkTitleDetail">Analysis, Insight, Trends & More</span>
+</a> </div>
+</div>
+<div class="moreOptionColumn clearfix">
+<div class="moreOptionsList"> <a href="http://advice.magicbricks.com/#homeLoanSection" target="_blank">
+<span class="linkTitle">Calculators</span>
+<span class="linkTitleDetail">Home loan, EMI, Home Worth & more</span>
+</a></div>
+<div class="moreOptionsList"> <a href="http://www.magicbricks.com/Property-Rates-Trends" target="_blank">
+<span class="linkTitle">Rates & Trends</span>
+<span class="linkTitleDetail">Track & compare property prices</span>
+</a> </div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="loginDDLi"><a href="http://www.magicbricks.com/userLogin" class="loginLink" rel="nofollow">Login</a></li>
+<div class="donwAppContainer menu">
+<div class="srpDownloadBtn">
+<span class="icon"></span><span class="apDowntext">Download
+Our App</span>
+</div>
+<div class="DD">
+<div class="ddArrow"></div>
+<div class="ddContent">
+<div id="appDownloadHomePage"></div>
+<script type="text/javascript">
+									createAppDownloadUI('N',"appDownloadHomePage","6");
+                                    </script>
+</div>
+</div>
+</div>
+<li class="sellRentProp"><a href="http://www.magicbricks.com/post-property-for-sale-rent/residential-commercial" onclick="trackThisData();return false;">POST PROPERTY <span>FREE</span></a></li>
+<li class="sellRentProp for-mymagicbox"><a href="http://www.magicbricks.com/post-property-for-sale-rent/residential-commercial" onclick="trackThisData();return false;">POST PROPERTY <span>FREE</span></a></li>
+<li class="moreNav dropdownLink"> <a href="javascript:void(0);" class="moreLink"> <span class="transIconClose"> <span class="lines-button" aria-label="Toggle Navigation" role="button" type="button"> <span class="lines"></span> </span> <span class="menuText">menu</span> </span> </a>
+<div class="moreLinkDropDown dropdownMenu">
+<div class="moreLinkDropDownInner clearfix">
+<div class="moreOptionColumn clearfix"> <span class="dropDownArrow"></span>
+<div class="moreOptionsList"> <a href="http://www.magicbricks.com/property-requirement-to-buy-rent/residential-commercial">
+<span class="linkTitle">Property alerts</span>
+<span class="linkTitleDetail">Get Property alerts</span>
+</a> </div>
+<div class="moreOptionsList"> <a href="http://www.magicbricks.com/locality/New-Delhi-Locality-Review.htm" target="_blank">
+<span class="linkTitle">Magicbricks localities</span>
+<span class="linkTitleDetail">Explore top localities around you</span>
+</a> </div>
+<div class="moreOptionsList lastLi"> <a href="http://www.magicbricks.com/bricks/campaign.html?pageName=http://luxury.magicbricks.com/&amp;campaignCode=main_menu_luxury" target="_blank">
+<span class="linkTitle">Luxury Homes</span>
+<span class="linkTitleDetail">Fulfil your luxury home search</span>
+</a> </div>
+</div>
+<div class="moreOptionColumn clearfix">
+<div class="moreOptionsList"> <a href="http://www.magicbricks.com/apply-for-loan">
+<span class="linkTitle">HOME LOAN</span>
+<span class="linkTitleDetail">Get the Best Deals</span>
+</a> </div>
+<div class="moreOptionsList"> <a href="http://content.magicbricks.com/" target="_blank">
+<span class="linkTitle">Property News</span>
+<span class="linkTitleDetail">Real Estate News &amp; updates </span>
+</a> </div>
+<div class="moreOptionsList lastLi">
+<div class="moreOptionsListSublinks"> <a href="http://blog.magicbricks.com" target="_blank">
+<span class="linkTitle">BLOG</span>
+<span class="linkTitleDetail">Know What's New at Magicbricks</span>
+</a> </div>
+</div>
+</div>
+<div class="moreOptionColumn clearfix bdrTop">
+<div class="moreOptionsList"> <a href="http://www.magicbricks.com/advertise-with-us">
+<span class="linkTitle">ADVERTISE WITH US</span>
+<span class="linkTitleDetail">Advertise your properties with us</span>
+</a> </div>
+<div class="moreOptionsList">
+<div class="moreOptionsListSublinks"> <a href="http://www.magicbricks.com/contactUs" title="Customer Care">
+<span class="linkTitle">CUSTOMER CARE</span>
+</a>
+<span class="linkTitleDetail">0124-4869300 / <span class="customerEmail"><a href="mailto:support@magicbricks.com">Email Us</a></span></span>
+</div>
+</div>
+<div class="moreOptionsList downloadApp lastLi">
+<div class="moreOptionsListSublinks">
+<span class="linkTitle downloadApp"><a href="http://property.magicbricks.com/microsite/buy/magicbricks-on-mobile/index.html" target="_blank">DOWNLOAD MOBILE APP</a></span>
+<div class="moreSublink"><a href="https://play.google.com/store/apps/details?id=com.timesgroup.magicbricks&referrer=utm_source=MobileAppBanner" target="_blank">Android | </a><a href="https://itunes.apple.com/us/app/magicbricks/id486328406?ls=1&mt=8&referrer=utm_source=MobileAppBanner" target="_blank">iOS | </a><a href="https://www.microsoft.com/en-gb/store/apps/magicbricks/9nblggh09mxm" target="_blank">Windows</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+<div class="fullScreenGray" id="fullScreenGray"></div>
+<div class="contactGlobalAlert" id="contactGlobalAlert"><span class="globalTick"></span><span class="globalContTxt">Congratulations! You've been registered on Magicbrics.com. Your password has been sent on your email ID & via SMS</span><a href="javascript:void(0);">OK, GOT IT</a></div>
+<script>
+
+$(document).ready(function() {
+	if(is_touch_device()) {	
+	  	/*$(".dropdownLink").click(function(){
+		  	if($(this).find(".dropdownMenu").is(':hidden')){
+				$(this).find(".dropdownMenu").stop().slideDown();
+			}else{
+				$(this).find(".dropdownMenu").stop().slideUp()
+			}
+	  	})*/
+	}else{ 
+		/*$(".dropdownLink").hover(function(){
+			$(this).find(".dropdownMenu").stop().slideDown();
+			//$(this).find(".dropdownMenu").stop().slideToggle()
+		},function(){
+			$(this).find(".dropdownMenu").stop().slideUp()
+		})*/
+	}
+	function is_touch_device() {
+  	return !!('ontouchstart' in window);
+	}
+	$('#adviceSearchBar').css('height','37px');
+	$(document).click(function() {
+		$('#adviceSearchBar').css('height','37px');
+		$("#adviceSearchBar").contents().find("body").find("#propType_buy").hide();
+		$("#adviceSearchBar").contents().find("body").find("#propType_rent").hide();
+		$("#adviceSearchBar").contents().find("body").find("#errorMessageCity").hide();
+		$("#adviceSearchBar").contents().find("body").find("#moreThanOneCityDivkeyword").hide();
+		$("#adviceSearchBar").contents().find("body").find("#budgetRentRange").hide();
+		$("#adviceSearchBar").contents().find("body").find("#budgetBuyRange").hide();
+		$("#adviceSearchBar").contents().find("body").find(".searchSuggestionsContainer").hide();
+		$("#adviceSearchBar").contents().find("body").find(".searchFormTab ul").hide();
+		$("#adviceSearchBar").contents().find("body").click();
+	})
+});
+</script>
+<script type="text/javascript">
+function trackThisData(){
+ _gaq.push(['_trackEvent', 'New_Home_Text_UI', 'start']);
+ setTimeout(function(){
+     window.location = 'http://www.magicbricks.com/post-property-for-sale-rent/residential-commercial';
+
+ }, 400);
+
+}
+var _weq = _weq || {};
+_weq['webengage.licenseCode'] = '~2024c606';
+_weq['webengage.widgetVersion'] = "4.0";
+_weq['webengage.survey.width'] = 550;
+
+ 
+
+</script>
+<script>
+
+$(function() {
+	$(".latestUpdatesSlider").show()
+	// $("#rentSlider").hide()
+
+	$("#keyword").on('click', function(event) {
+		event.stopPropagation();
+		var getSelectedVal = $('.localityKeywordParent:visible').size();
+  		var value = $(this).val().length;
+  		//alert(value);
+	   	if (getSelectedVal <= 0) {
+	    	$(".searchSuggestionsContainer").slideDown();
+	    }
+	});
+
+	$("#keyword").on('keyup', function() {
+		var getSelectedVal = $('.localityKeywordParent:visible').size();
+		var value = $(this).val().length;
+        console.log(value);
+        if (value >= 3) {
+        	$(".searchSuggestionsContainer").slideUp();
+        	$(".searchSuggestionsContainer").remove();
+        }
+    });
+	/*$(".travelTimePopUpLink").live('click',function(event){
+		event.stopPropagation()
+		$(".travelTimePopUp").slideToggle();
+	});
+
+	
+	$("body").live('click',function(){
+		$(".travelTimePopUp").slideUp();
+	});
+	
+	$(".travelTimePopUp").live('click',function(event){
+		event.stopPropagation();
+	});    */    
+        
+        
+	
+
+
+		        
+	if ($('.searchHomeOnly').length > 0) { 		        
+		var nav = $('.globalMenu');
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 510) {
+		    	nav.addClass("f-nav");
+		    } else {
+		    	nav.removeClass("f-nav");
+		    }
+		}); 
+	}
+	
+});
+</script>
+<script>
+$(document).ready(function() {
+    $(".donwAppContainer").hover(
+function(event){ 
+event.stopPropagation()
+	$(this).find(".DD").toggleClass("h232")}
+	)
+
+});
+</script>
+<style type="text/css">
+.topNav .mainLinks ul li.luxHomes{vertical-align: 2px;}
+.topNav .mainLinks ul li.megaNOW{display:none !important;}
+.loginDropDown{top:0px;box-shadow: none; display:block; transition: all 0.4s ease; height:0px; overflow:hidden; padding:0px 6px !important; margin-top: 27px;}
+.dropdownLink:hover .loginDropDown{height:232px; padding:6px 6px 0 !important;}
+.loginDropDown .dropdownEffect{box-shadow: 0 0 5px rgba(0,0,0,.2);}
+#adviceSearchBar{width: 672px;}
+.topNav .mainLinks ul li.searchLink{width: 194px; background:#fff url(http://cdn.staticmb.com/images/iconForExpandSearch.png) 181px 7px no-repeat; }
+.topNav .mainLinks ul li.megaNOW span.tvIcon{height: 16px; width: 16px; display: inline-block; background:url(http://cdn.staticmb.com/images/mbnow-icon.png) no-repeat 0 0; vertical-align:top; margin-right: 5px;}
+
+
+@media only screen and (max-width : 1200px) {
+	.topNav .mainLinks ul li.megaNOW{display: none !important;}
+	#adviceSearchBar{width: 672px;}
+	.topNav .mainLinks ul li.searchLink{width: 194px; background:#fff url(http://cdn.staticmb.com/images/iconForExpandSearch.png) 181px 7px no-repeat; }
+	.middleData{width:980px}
+	.wrap1200, .wrap1200 .proGalleryFour, #topProjects .blockWidth, #topProjects .blockWidth .proGalleryFour{width:980px;margin: auto;}
+	#newProGalleryTop{width:980px; margin: 0px auto}
+	#exploreProjBudget .blockWidth{width:980px; margin: auto; padding:0px;}
+	#newProjectWrapper.paddingTop .blockWidth{width:980px; margin: auto;}
+	#newProjectWrapper.paddingTop .proGalleryTwo .pgTwoBlock{ width: 479px;}
+	#newProjectWrapper.paddingTop .proGalleryTwo .borderHover{width: 477px;}
+	#newProjectWrapper .proGalleryFour .pgFourBlock {width: 229px !important;}
+	#newProjectWrapper .proGalleryFour .borderHover{width: 227px !important;}
+	#homeSearchContainer .latestUpdatesSlider{width:940px}
+	.fSection1 ul{width: 130px;}
+	.fSection1{width:405px;}
+	.proGalleryFour:hover .borderHover{width:231px}
+	.latestUpdatesSlider .anythingSlider-default .back{left:-23px !important}
+	.latestUpdatesSlider .anythingSlider-default .forward{right:-20px !important}
+	.globalMenu a.allIndiaDD{float:left; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; max-width:66px;}
+	.topNav .mainLinks ul li.luxHomes{display: none;}
+}
+.topNav .logoCont .sitLogo, .topNav .logoCont .newProjectLogo, #postRequirement .topNav .logoCont .sitLogo{background: url("http://cdn.staticmb.com/images/magicBricksLogo.png?ni") no-repeat !important;}
+.f-nav .topNav .logoCont .sitLogo{background: url("http://cdn.staticmb.com/images/magicBricksLogoColor.png?ni")  !important;}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+.topNav .logoCont .sitLogo {
+	background: url(http://cdn.staticmb.com/images/magicBricksLogoWhiteHd.png?ni) left center no-repeat  !important; background-size:100%  !important
+}
+.f-nav .topNav .logoCont .sitLogo{
+background: url(http://cdn.staticmb.com/images/magicBricksLogoColorHd.png?ni) left center no-repeat  !important; background-size:100%  !important
+}
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+ .luxHomes{ line-height: 16px;}
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+ .topNav .mainLinks ul li.megaNOW{top: 2px;}
+ .topNav .mainLinks ul li.luxHomes{top: 2px; vertical-align: 0px;}
+}
+
+</style>
+<div class="posRelChristmas">
+<div class="leftBlockChristmas"></div>
+<div class="rightBlockChristmas"></div>
+</div>
+<style>
+html, body{overflow-x: hidden;}
+#proGalleryTop .blockWidth {padding-top:28px;}
+#proGalleryTop .blockWidth .blockHeading {font-size:20px; margin-bottom:12px; color:#000;}
+.bannerCityFont {font-family: "opensans-semibold";}
+#homeTravelTimer{top:171px;}
+/* .globalMenu{background-color: rgba(0,0,0,0.3);} */
+.homeSearchBg {position:absolute; left:0; top:0; width:100%;}
+.homeSearchBg_1 {background:url(http://cdn.staticmb.com/images/heroshot-30-6-16.jpg?v=2.5) center top / 100% auto no-repeat #000;}
+.homeSearchBg_2 {background:url(http://cdn.staticmb.com/images/MB-hershots-2.jpg?v=1.1) center top / 100% auto no-repeat #000;}
+.homeSearchBg_3 {background:url(http://cdn.staticmb.com/images/MB-hershots-3.jpg?v=1.1) center top / 100% auto no-repeat #000;}
+.homeSearchBg_puneOnly {background:url(http://cdn.staticmb.com/images/MB-hershots-pune.jpg?v=1.1) center top / 100% auto no-repeat #000;}
+
+.ieOld .homeSearchBg_1 {background:url(http://cdn.staticmb.com/images/hero-shot-28july16-bg.jpg?v=2.49)}
+.ieOld .homeSearchBg_2 {background:url(http://cdn.staticmb.com/images/MB-hershots-2.jpg?v=1.1)}
+.ieOld .homeSearchBg_3 {background:url(http://cdn.staticmb.com/images/MB-hershots-3.jpg?v=1.1)}
+
+.homeSearchBg_1 .heroImagesTitle {background-image:url(http://cdn.staticmb.com/images/line-14april16.png?v=2.2); margin-left:0px; margin-top: 5px;}
+.homeSearchBg_2 .heroImagesTitle {background-image:url(http://cdn.staticmb.com/images/heroTitle_2.png?v=1.3);}
+.homeSearchBg_3 .heroImagesTitle {background-image:url(http://cdn.staticmb.com/images/heroTitle_3.png?v=1.3);}
+
+.heroImagesTitle {
+    height: 48px;
+    width:100%;
+    top: 26%;
+    position: absolute;
+    left:0px;
+    margin-left:0px;
+}
+.ieOld .homeSearchBg {position:absolute; left:0; top:0; background:url(http://cdn.staticmb.com/images/MB-hershots-14april16-bg.jpg?v=7.2); width:100%;}
+/* temp backgroud image to test the css parameter */
+#homeSearchBg{height: 548px; }
+.bookNow {position:relative; margin:auto;}
+.bookNowLink {display:none; height:444px; position:absolute; left:0; top:0; z-index:2; width:100%; outline:none}
+
+.anythingSlider-default .forward {right:2px !important}
+.latestUpdatesSlider .listItems .exclusive{padding:4px 6px; position:absolute; top:0px; right:0px; background:#f4c505; font-size:10px; line-height:10px; color:#000000; font-family:"opensans-semibold";}
+.latestUpdatesSlider .arrow span{width:12px; height:19px; background:url(http://cdn.staticmb.com/images/homeSliderControls2.png) no-repeat left top;}
+.latestUpdatesSlider .anythingSlider-default .forward span{background-position:right top;}
+
+#homeSearchContainer .searchFormWrapper {position:absolute; left:50%; top:120px; z-index:7; width:980px; margin-left:-486px;}
+#homeSearchContainer .searchForm {margin:0 auto 0;}
+.latestUpdatesSlider{width: 1200px; background:none; bottom:-29px;}
+.latestUpdatesSlider a {display:block; text-decoration:none;}
+
+.srickBlock {
+    border: 0px solid #ccc;
+    height: 68px;
+    position: absolute;
+    right: -116px;
+        top: 334px;
+    width: 231px;
+	transition: all 0.4s ease-in-out 0s;transform: rotate(45deg);
+
+}
+.srickBlock2 {
+  border: 0px solid #ccc;
+    height: 68px;
+    position: absolute;
+    right: -116px;
+    top: 236px;
+    cursor:pointer;
+    width: 195px;
+    z-index:1;
+	background:url(http://cdn.staticmb.com/images/play.jpg) no-repeat left top;
+}
+.mobileOptionsHandler{width:40px; height:60px; float:left; cursor:pointer; transition: all 0.4s ease-in-out 0s;}
+
+.srickBlock:hover {transition: all 0.4s ease-in-out 0s;transform: rotate(0deg);}
+
+.srickBlock .mobileOptionsContainer {
+    height:58px;
+    position: absolute;
+    right: -114px;
+    transition: all 0.4s ease-in-out 0s;
+    width: 265px;
+    background-color:rgba(88, 175 ,154, 0.8)
+}
+.srickBlock:hover .mobileOptionsContainer{transform: rotate(0deg);  right: 73px; transition: all 0.4s ease-in-out 0s;}
+.mobileOptions {
+    box-sizing: border-box;
+    padding: 7px 5px 0px 8px;
+    width: 220px;
+    float: left;
+    height: 60px;
+    box-sizing: border-box;
+}
+.mobileOptions h4 a{color:#ffffff; text-decoration:none;}
+.latestUpdatesSlider .listItems {background-color: rgba(0,0,0,0.5);}
+.proGalleryFour .pgFourContent{position: relative;}
+
+.proGalleryFour .pgFourAdd{margin-bottom:4px}
+.proGalleryFour .pgFourPrice .offerRel{margin-top:4px}
+.searchHomeOnly#homeSearchContainer #btnPropertySearch,.searchHomeOnly#homeSearchContainer #btnPropertySearch:hover{transition: all .3s ease-in-out;}
+.anythingSlider .arrow.disabled{display:none !important;}
+
+.mask {
+    background-color: black;
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    opacity: 0.8;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index:999;
+	display: none;
+}
+.overlay{display:none}
+.mask{display:none}
+.videoOverlayPopup {
+    background-color: #000;
+    bottom: 0;
+    width: 698px;
+    height: 404px;
+    left: 0;
+    margin: auto;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 999;
+    border: 1px solid #262626;
+    border-radius: 4px;
+}
+.videoOverlayPopup .popupContent{box-sizing: border-box; padding: 7px;} 
+.closeMark {margin: 10px 10px 5px 0; text-align: center; color: #fff; font-size: 14px;}
+
+.homeSearchBg_1 .hbfBannerBg{height:90px; background:#312845 url(http://cdn.staticmb.com/images/hbfHomeBannerBg.png) no-repeat center bottom; margin-top:49px;}
+.homeSearchBg_1 .hbfBannerSection{}
+.homeSearchBg_1 .hbfBannerSection a{display:block; height:90px; background:url(http://cdn.staticmb.com/images/hbfHomeBannerImg2.png) no-repeat center center;}
+
+
+
+.proGalleryFour .marketedBy, .proGalleryFour .pgFourContent > span{position: absolute;}
+.proGalleryFour .marketedBy{bottom: 10px;}
+.proGalleryFour .pgFourContent > span{bottom:26px; left:10px}
+.headerCOntNew{margin-bottom: 50px; height: 34px; overflow: hidden;}
+@media screen and (max-width:1366px) {
+.homeSearchBg {position:absolute; left:0; top:0; width:100%; height:444px;}
+.homeSearchBg_1 {background:url(http://cdn.staticmb.com/images/hero-shot-28july16-bg.jpg?v=2.49) center top no-repeat #000;}
+.homeSearchBg_2 {background:url(http://cdn.staticmb.com/images/MB-hershots-2.jpg?v=1.1) center top no-repeat #000;}
+.homeSearchBg_3 {background:url(http://cdn.staticmb.com/images/MB-hershots-3.jpg?v=1.1) center top no-repeat #000;}
+.homeSearchBg_puneOnly {background:url(http://cdn.staticmb.com/images/MB-hershots-pune.jpg?v=1.1)  center top no-repeat #000;}
+}
+
+
+</style>
+<link rel='stylesheet' media='screen and (max-width: 1279px)' href='http://cdn.staticmb.com/css/homeLowRes.css?0.196'/>
+<div class="mask"></div>
+<div class="videoOverlayPopup overlay">
+<div class="closeMark">Magicbricks TV Commercial<span class="popUpClose"></span></div>
+<div class="popupContent">
+<iframe width="685" height="356" src="" frameborder="0" allowfullscreen> </iframe>
+</div>
+</div>
+<div id="homeSearchContainer" class="searchHomeOnly">
+<div id="homeSearchBg" class="homeSearchBg">
+<div class="heroImagesTitle" style="display:none;"></div>
+</div>
+<div class="srickBlock2" id="videoOverlay"></div>
+<div class="srickBlock" style="display:none">
+<div class="mobileOptionsContainer clearAll">
+<div class="mobileOptionsHandler"></div>
+<div class="mobileOptions">
+<div class="videoLink" id="videoOverlay">
+Magicbricks
+TV Commercial
+</div>
+</div>
+</div></div>
+<div id="searchFormHolderDiv"></div>
+<script type="text/javascript">
+	var isSearchLoaded = false;
+	function loadHomeSearchForm(attempt){
+	 try{
+		isInclude = false;
+		if(isSearchLoaded==false){
+			$.ajax({
+				dataType: "html",
+				type: "get",
+				url: "/bricks/searchForm.html?bar_city=&readCookie=Y&source=homeSearchForm&cssIncludeRequired=N&jsIncludeRequired=N&formVersion=F",
+				async:false, 
+				cache: false,
+				success: function(obj){
+					if(obj){
+						$('#searchFormHolderDiv').html(obj);
+						isSearchLoaded = true;
+						// code migrated from searchForm.jsp
+						var bar_cat_val = $('#bar_category').val();
+						if(bar_cat_val=='R'){
+							$('#rentTab').click();
+							$('#keyword').attr('placeholder','Enter Landmark, Location or Society');
+						} else if(bar_cat_val==''){
+							$('#bar_category').val('S');
+						}
+						var bar_city = $('#bar_city').val();
+						if(bar_city==''){
+							$('#bar_city').val('*');
+						}
+						var bar_budgetMin = $('#bar_budgetMin').val();
+						if(bar_budgetMin==''){
+							$('#bar_budgetMin').val('-1');
+						}
+						setTimeout(function(){
+							initializeLoc('keyword');
+							addProjectsToSpan('keyword','localityName');
+							setCityOnLoadAndChange('keyword','bar_city');
+						}, 500);
+						setTimeout(function(){
+							$(document).trigger('click');
+						}, 2000);
+					}
+				}
+			});
+		  }
+		 }catch(e){
+			if(!(typeof window.errorHandler === 'undefined')){
+				errorHandler('homeSearchInclude.jsp', 'loadHomeSearchForm:attempt:'+attempt, e);
+			}
+		}
+	}
+	loadHomeSearchForm('1');
+	function getAfterDateTimeMatchedClass(startddMMyyyy, endddMMyyyy, time24){
+        return "DEFAULT";
+	}
+
+	// Hero Shot Banneralert()
+	
+	$(document).ready(function(){ 
+		loadHomeSearchForm('2');
+	});
+	
+	function pad(s) { return (s < 10) ? '0' + s : s; }
+	
+	$('#homeSearchBg').addClass('homeSearchBg_1');
+	
+
+	/*  */
+	
+	</script>
+<div class="buyNRentBlock">
+<div class="sliderHeadN" id="headerHideBuy">Let's assist you in your <span class="semiBold">buying</span> journey through our <span class="semiBold">exclusive offerings:</span></div>
+<div class="sliderHeadN" id="headerHideRent" style="display: none;">Let's assist you in your <span class="semiBold">renting</span> journey through our <span class="semiBold">exclusive offerings:</span></div>
+<div class="collectionNPosition">
+<div id="buySlider" class="hiddenAnim showContainer animated active">
+<div class="blackContBlock">
+<div class="blackContBox">
+<div class="animateBlock">
+<div class="black1Cont listBlock">
+<div class="vertiHeading imageBlock">
+<div class="vhLine">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</div>
+<div class="vhText">MOST POPULAR</div>
+</div>
+<div class="listContBlock">
+<a href="http://www.magicbricks.com/new-projects/?utm_source=CollectionsRent/CollectionsSale&utm_medium=MBSite&utm_campaign=NewProjects" target="_blank">
+<div class="assetsIcon1 assIconP"></div>
+<div class="linkText"><span>New Projects</span> Upcoming projects in your budget</div>
+<div class="clearAll"></div>
+</a>
+<a href="http://luxury.magicbricks.com/?utm_source=CollectionsRent/CollectionsSale&utm_medium=MBSite&utm_campaign=LuxuryLiving" target="_blank">
+<div class="assetsIcon2 assIconP"></div>
+<div class="linkText"><span>Luxury Living</span> Assortment of iconic lifestyle addresses</div>
+<div class="clearAll"></div>
+</a>
+<a href="http://www.magicbricks.com/hbf/?utm_source=CollectionsRent/CollectionsSale&utm_medium=MBSite&utm_campaign=InvestmentHotspot" target="_blank">
+<div class="assetsIcon3 assIconP"></div>
+<div class="linkText"><span>Investment Hotspots</span>Know the areas that promise best returns</div>
+<div class="clearAll"></div>
+</a>
+</div>
+</div>
+<div class="black2Cont listBlock">
+<div class="vertiHeading  imageBlock1">
+<div class="vhLine">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</div>
+<div class="vhText">Tools</div>
+</div>
+<div class="listContBlock">
+<a href="http://advice.magicbricks.com/#homeLoanSection" target="_blank">
+<div class="assetsIcon4 assIconP"></div>
+<div class="linkText"><span>Calculators</span>Know the loan amount you are eligible for</div>
+<div class="clearAll"></div>
+</a>
+<a href="http://property.magicbricks.com/home-worth/?utm_source=CollectionsRent/CollectionsSale&utm_medium=MBSite&utm_campaign=HomeWorth" target="_blank">
+<div class="assetsIcon5 assIconP"></div>
+<div class="linkText"><span>Home Worth</span>Know the value of any property on the go</div>
+<div class="clearAll"></div>
+</a>
+<a href="http://advice.magicbricks.com/where-to-buy-property-in-Bangalore?proptype=&budgetPerSqftMin=0&budgetPerSqftMax=75000&city=&utm_source=MB&utm_medium=Collection&utm_campaign=SmartSearch" target="_blank">
+<div class="assetsIcon6 assIconP"></div>
+<div class="linkText"><span>Smart Search</span>Localities that offer home in your budget</div>
+<div class="clearAll"></div>
+</a>
+</div>
+</div>
+<div class="black3Cont listBlock">
+<div class="vertiHeading  imageBlock2">
+<div class="vhLine">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</div>
+<div class="vhText">Research</div>
+</div>
+<div class="listContBlock">
+<a href="http://www.magicbricks.com/buyers-guide/?utm_source=CollectionsRent/CollectionsSale&utm_medium=MBSite&utm_campaign=HomeBuyingGuide" target="_blank">
+<div class="assetsIcon7 assIconP"></div>
+<div class="linkText"><span>Home Buying Guide</span>India's first e-book on How to Buy a House</div>
+<div class="clearAll"></div>
+</a>
+<a href="http://www.magicbricks.com/Property-Rates-Trends/ALL-RESIDENTIAL-rates-in-Bangalore?utm_source=CollectionsRent/CollectionsSale&utm_medium=MBSite&utm_campaign=RatesAndTrends" target="_blank">
+<div class="assetsIcon8 assIconP"></div>
+<div class="linkText"><span>Rates & Trends</span>Track & compare property prices</div>
+<div class="clearAll"></div>
+</a>
+<a href="http://advice.magicbricks.com/#financialAdviceSection" target="_blank">
+<div class="assetsIcon9 assIconP"></div>
+<div class="linkText"><span>Finance/Legal</span>Get Advice from Experts</div>
+<div class="clearAll"></div>
+</a>
+</div>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="rentSlider" class="showContainer animated hiddenAnim">
+<div class="blackContBlock">
+<div class="blackContBox">
+<div class="animateBlock">
+<div class="black1Cont listBlock">
+<div class="vertiHeading imageBlock">
+<div class="vhLine">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</div>
+<div class="vhText">MOST POPULAR</div>
+</div>
+<div class="listContBlock">
+<a href="/property-for-rent/residential-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Service-Apartment&cityName=Bangalore&inputListings=I&utm_source=MB&utm_medium=Collection&utm_campaign=OwnerPostedProperties" target="_blank">
+<div class="assetsIcon10 assIconP"></div>
+<div class="linkText"><span>Owner Posted Properties</span>20,000 homes on rent directly from owners</div>
+<div class="clearAll"></div>
+</a>
+<a href="/property-for-rent/residential-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Service-Apartment&cityName=Bangalore&agentRating=8&utm_source=MB&utm_medium=Collection&utm_campaign=PropertiesbyTopAgents" target="_blank">
+<div class="assetsIcon11 assIconP"></div>
+<div class="linkText"><span>Properties By Top Agents</span>Explore 20,000 properties by Top Agents</div>
+<div class="clearAll"></div>
+</a>
+<a href="/property-for-rent/residential-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Service-Apartment,Residential-House,Villa&cityName=Bangalore&BudgetMin=50000&utm_source=MB&utm_medium=Collection&utm_campaign=LuxuryLivingRent" target="_blank">
+<div class="assetsIcon12 assIconP"></div>
+<div class="linkText"><span>Luxury Living</span>Collection of elite addresses to move in</div>
+<div class="clearAll"></div>
+</a>
+</div>
+</div>
+<div class="black2Cont listBlock">
+<div class="vertiHeading imageBlock3">
+<div class="vhLine">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</div>
+<div class="vhText">Quick Move-in</div>
+</div>
+<div class="listContBlock">
+<a href="/property-for-rent/residential-real-estate?proptype=Paying-Guest&cityName=Bangalore&utm_source=MB&utm_medium=Collection&utm_campaign=PayingGuest" target="_blank">
+<div class="assetsIcon13 assIconP"></div>
+<div class="linkText"><span>Paying Guest (PG)</span>List of best PG accomodations in the city</div>
+<div class="clearAll"></div>
+</a>
+<a href="/property-for-rent/residential-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Service-Apartment&cityName=Bangalore&bachelorProperty=Y&utm_source=MB&utm_medium=Collection&utm_campaign=PropertiesForBachelors" target="_blank">
+<div class="assetsIcon14 assIconP"></div>
+<div class="linkText"><span>Properties For Bachelors</span>Properties best suited for bachelors</div>
+<div class="clearAll"></div>
+</a>
+<a href="/property-for-rent/residential-real-estate?proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Service-Apartment&cityName=Bangalore&gatedComunity=Y&utm_source=MB&utm_medium=Collection&utm_campaign=GatedCommunities" target="_blank">
+<div class="assetsIcon15 assIconP"></div>
+<div class="linkText"><span>Properties in Gated Communities</span>Some great properties waiting for you</div>
+<div class="clearAll"></div>
+</a>
+</div>
+</div>
+<div class="black3Cont listBlock">
+<div class="vertiHeading imageBlock2">
+<div class="vhLine">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</div>
+<div class="vhText">Research</div>
+</div>
+<div class="listContBlock">
+<a href="http://www.magicbricks.com/locality/Bangalore-Locality-Review.htm?utm_source=MB&utm_medium=Collection&utm_campaign=TopRatedLocalities" target="_blank">
+<div class="assetsIcon16 assIconP"></div>
+<div class="linkText"><span>Top Rated Localities</span>See the best places to live in Bangalore</div>
+<div class="clearAll"></div>
+</a>
+<a href="http://www.magicbricks.com/Property-Rates-Trends/ALL-RESIDENTIAL-rates-in-Bangalore?utm_source=MB&utm_medium=Collection&utm_campaign=CheckRentalRates" target="_blank">
+<div class="assetsIcon17 assIconP"></div>
+<div class="linkText"><span>Check Rental Rates</span>Know which locality is best for you</div>
+<div class="clearAll"></div>
+</a>
+<a href="http://advice.magicbricks.com/buy-rent-calculator-financial-advice?utm_source=MB&utm_medium=Collection&utm_campaign=BuyVsRent" target="_blank">
+<div class="assetsIcon18 assIconP"></div>
+<div class="linkText"><span>Buy vs Rent</span>Should you buy or rent a house?</div>
+<div class="clearAll"></div>
+</a>
+</div>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+$(document).ready(function() {
+    $(".srickBlock2").on("click",function(){
+			var getTargeId = $(this).attr("id")
+			$(".videoOverlayPopup iframe").attr("src","http://www.youtube.com/embed/rY9n3ggcO4o?&showinfo=0")
+			$("."+getTargeId+"Popup").show()
+			$(".mask").show()
+			})
+			$(".popUpClose").on("click",function(){
+			$(".videoOverlayPopup iframe").attr("src","")
+			$(this).parents(".overlay").hide()
+			$(".mask").hide()
+			})	
+});
+
+</script>
+<div class="stripBannerWrap" id="middleStrip1" style="display: none"></div>
+<div class="blockWrap" id="proGalleryTop" style="display: none">
+<div class="blockWidth" style="padding:0px;">
+<div class="tb-bann">
+<div class="tb-row">
+<div id="remarketingBannCont"></div>
+</div>
+</div>
+</div>
+<div class="blockWidth">
+<div class="blockHeading">Project Gallery</div>
+<div class="proGallerySingle" id="projGalSingle" style="display: none"> </div>
+<div class="proGalleryTwo">
+<div id="projGalTwo" style="display: none">
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="proGalleryFour" id="proGalleryFourdive1" style="display: none">
+<ul id="proGalleryFourSlider_1">
+</ul>
+<div class="clearAll"></div>
+</div>
+<div class="proGalleryFour" id="proGalleryFourdive2" style="display: none">
+<ul id="proGalleryFourSlider_2">
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+<div class="stripBannerWrap" id="middleStrip2" style="display: none"></div>
+<div class="blockWrap" id="localityOverviewTop" style="display: block">
+<div class="blockWidth localityOverviewWidth">
+<div class="blockHeading"><h3>Locality Overview</h3></div>
+<div class="localityOverview">
+<div class="locNavbar">
+<ul id="localityOverviewHomeUL">
+<li><a href="javascript:void(0);" onclick="showHomeLocality('2624','localities-container-ul',
+                	'moreLoc','otherLocPropContainer','otherLocHeadingId','otherLocHeadingUlId', this);" id="localityOverviewHomeDefault">New Delhi</a></li>
+<li><a href="javascript:void(0);" onclick="showHomeLocality('2951','localities-container-ul',
+                	'moreLoc','otherLocPropContainer','otherLocHeadingId','otherLocHeadingUlId', this);">Gurgaon</a></li>
+<li><a href="javascript:void(0);" onclick="showHomeLocality('6403','localities-container-ul',
+                	'moreLoc','otherLocPropContainer','otherLocHeadingId','otherLocHeadingUlId', this);">Noida</a></li>
+<li><a href="javascript:void(0);" onclick="showHomeLocality('4320','localities-container-ul',
+                	'moreLoc','otherLocPropContainer','otherLocHeadingId','otherLocHeadingUlId', this);">Mumbai</a></li>
+<li><a href="javascript:void(0);" onclick="showHomeLocality('3327','localities-container-ul',
+                	'moreLoc','otherLocPropContainer','otherLocHeadingId','otherLocHeadingUlId', this);">Bangalore</a></li>
+<li><a href="javascript:void(0);" onclick="showHomeLocality('5196','localities-container-ul',
+                	'moreLoc','otherLocPropContainer','otherLocHeadingId','otherLocHeadingUlId', this);">Chennai</a></li>
+<li><a href="javascript:void(0);" onclick="showHomeLocality('4378','localities-container-ul',
+                	'moreLoc','otherLocPropContainer','otherLocHeadingId','otherLocHeadingUlId', this);">Pune</a></li>
+</ul>
+<div class="clearAll"></div>
+</div>
+<div class="loaderWrap"><div class="mbLoader" id="refreshIndication">Updating Results</div></div>
+<div id="localityOverAjax">
+<div class="locRow">
+<ul id="localities-container-ul">
+</ul>
+<div class="clearAll"></div>
+</div>
+<div class="moreLocLink" id="moreLocLinkId">
+<div id="moreLoc2624" style="display: none;"><a href="http://www.magicbricks.com/locality/New-Delhi-Locality-Review.htm" target="_blank">View More Localities</a></div>
+<div id="moreLoc2951" style="display: none;"><a href="http://www.magicbricks.com/locality/Gurgaon-Locality-Review.htm" target="_blank">View More Localities</a></div>
+<div id="moreLoc6403" style="display: none;"><a href="http://www.magicbricks.com/locality/Noida-Locality-Review.htm" target="_blank">View More Localities</a></div>
+<div id="moreLoc4320" style="display: none;"><a href="http://www.magicbricks.com/locality/Mumbai-Locality-Review.htm" target="_blank">View More Localities</a></div>
+<div id="moreLoc3327" style="display: none;"><a href="http://www.magicbricks.com/locality/Bangalore-Locality-Review.htm" target="_blank">View More Localities</a></div>
+<div id="moreLoc5196" style="display: none;"><a href="http://www.magicbricks.com/locality/Chennai-Locality-Review.htm" target="_blank">View More Localities</a></div>
+<div id="moreLoc4378" style="display: none;"><a href="http://www.magicbricks.com/locality/Pune-Locality-Review.htm" target="_blank">View More Localities</a></div>
+</div>
+<div id="otherLocPropContainer2624" style="display: none;" class="otherLocPropContainer">
+<div class="otherLocProperties">
+<div class="otherLocHeading" id="otherLocHeadingId"><h4>Checkout properties in New Delhi</h4></div>
+<ul id="otherLocHeadingUlId">
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Rohini-area-New-Delhi">New Delhi Rohini</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Dwarka-area-New-Delhi">New Delhi Dwarka</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-North-area-New-Delhi">New Delhi North</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-South--area-New-Delhi">New Delhi South </a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-East-area-New-Delhi">New Delhi East</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-West-area-New-Delhi">New Delhi West</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Central-area-New-Delhi">New Delhi Central</a></li>
+</ul>
+</div>
+<div class="clearAll"></div>
+</div>
+<div id="otherLocPropContainer4320" style="display: none;" class="otherLocPropContainer">
+<div class="otherLocProperties">
+<div class="otherLocHeading" id="otherLocHeadingId"><h4>Checkout properties in Mumbai</h4></div>
+<ul id="otherLocHeadingUlId">
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Central-Mumbai-area-Mumbai">Mumbai-Central Mumbai</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-South-Mumbai-area-Mumbai">Mumbai-South Mumbai</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Western-Suburbs-area-Mumbai">Mumbai-Western Suburbs</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Harbour-Line-area-Mumbai">Mumbai-Harbour Line</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Central-Line-area-Mumbai">Mumbai-Central Line</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Around-Mumbai-area-Mumbai">Mumbai-Around Mumbai</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-North-Mumbai-area-Mumbai">Mumbai-North Mumbai</a></li>
+</ul>
+</div>
+<div class="clearAll"></div>
+</div>
+<div id="otherLocPropContainer3327" style="display: none;" class="otherLocPropContainer">
+<div class="otherLocProperties">
+<div class="otherLocHeading" id="otherLocHeadingId"><h4>Checkout properties in Bangalore</h4></div>
+<ul id="otherLocHeadingUlId">
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-North-West-area-Bangalore">Bangalore-North West</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-North-East-area-Bangalore">Bangalore-North East</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-South-West-area-Bangalore">Bangalore-South West</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-South-East-area-Bangalore">Bangalore-South East</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-North-area-Bangalore">Bangalore-North</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-South-area-Bangalore">Bangalore-South</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-East-area-Bangalore">Bangalore-East</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-West-area-Bangalore">Bangalore-West</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Central-area-Bangalore">Bangalore-Central</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Anekal-area-Bangalore">Bangalore-Anekal</a></li>
+</ul>
+</div>
+<div class="clearAll"></div>
+</div>
+<div id="otherLocPropContainer5196" style="display: none;" class="otherLocPropContainer">
+<div class="otherLocProperties">
+<div class="otherLocHeading" id="otherLocHeadingId"><h4>Checkout properties in Chennai</h4></div>
+<ul id="otherLocHeadingUlId">
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-East-area-Chennai">Chennai-East</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-West-area-Chennai">Chennai-West</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-North-area-Chennai">Chennai-North</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-South-area-Chennai">Chennai-South</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Central-area-Chennai">Chennai-Central</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Suburb-area-Chennai">Chennai-Suburb</a></li>
+</ul>
+</div>
+<div class="clearAll"></div>
+</div>
+<div id="otherLocPropContainer4378" style="display: none;" class="otherLocPropContainer">
+<div class="otherLocProperties">
+<div class="otherLocHeading" id="otherLocHeadingId"><h4>Checkout properties in Pune</h4></div>
+<ul id="otherLocHeadingUlId">
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-East-area-Pune">Pune-East</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-West-area-Pune">Pune-West</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-South-area-Pune">Pune-South</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-North-area-Pune">Pune-North</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Central-area-Pune">Pune-Central</a></li>
+<li><a href="/property-for-sale/ALL-RESIDENTIAL-real-estate-Suburb-area-Pune">Pune-Suburb</a></li>
+</ul>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="stripBannerWrap" id="middleStrip6" style="display: none"></div>
+<div class="blockWrap" id="propertyadvice" style="display: none"></div>
+<div class="stripBannerWrap" id="middleStrip16" style="display: none"></div>
+<div class="blockWrap" id="featuredProjectTop" style="display: none">
+<div class="blockWidth">
+<div class="blockHeading"><H1>Featured Projects</H1></div>
+<div class="featuredProjectWrap">
+<ul id="featuredAgentSlider">
+</ul>
+<div class="clearAll"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+<div class="blockWrap" id="ratesTrendsLinkSec">
+<div class="blockWidth">
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<script src="http://cdn.staticmb.com/scripts/highcharts.js?" type="text/javascript"></script>
+<style type="text/css">
+	ol,ul{list-style:none; margin:0px; padding:0px;}
+	.clearAll{clear:both;}
+	.ratesTrendsAvgCont{}
+	.cityMapSec{width:410px; float:left;}
+	.cityMapChart{width:500px; float:right;}
+	.mapCityHeading{padding:0px 0px 25px 0px; font-size:16px; color:#333333; font-family:'opensans-bold';}
+	.mapCityImages{position:relative; height:365px; background-repeat:no-repeat; background-position:center center; background-size:contain;}
+	.growthPoint{font-size:75px; color:#666666; padding:70px 0px 0px 105px; position:relative;}
+	.growthText{font-size:15px; color:#666666; padding:0px 0px 0px 105px; margin-top:-20px;}
+	.rentDemandSupp{position:absolute; bottom:55px; width:100%;}
+	.rentDemandBox{width:135px; float:left; font-size:40px; color:#666666; position:relative;}
+	.rentDemandBox .rentDemH{font-size:40px; color:#666666; padding:0px 0px 0px 23px;}
+	.rentDemandBox .rentDemText{font-size:14px; color:#666666; padding:0px 0px 0px 23px; margin-top:-10px;}
+	.ratesTrendsArrow{position:absolute; left:60px; top:65px;}
+	.ratesTrendsArrowSmall{position:absolute; left:0px; top:0px;}
+	.ratesTrendsAvgHeading{padding:0px 0px 45px 0px; font-size:32px; color:#2a2a2a; text-align:center;}
+	.ratesTrendsAvgHeading .ratesTrendsCityCont{display:inline-block; position:relative; background:url(http://cdn.staticmb.com/images/arrowLight.png) no-repeat right 22px;}
+	.ratesTrendsAvgHeading .ratesTrendsCityName{display:inline-block; cursor:pointer;}
+	.ratesTrendsAvgHeading .ratesTrendsCityText{display:inline-block; border-bottom:1px dashed #e3e3e3; margin-right:25px;}
+	.ratesTrendsAvgHeading .ratesCityDrop{background: #ffffff; border: 1px solid #cccccc; box-shadow: 1px 4px 9px -4px rgba(0, 0, 0, 0.4); font-size: 14px; height:250px; left:0px; overflow: auto; padding:0px; text-align: left; position:absolute; top: 39px; width:200px; z-index:9; display:none;}
+	.ratesTrendsAvgHeading .ratesCityDrop li{padding:0px 20px 2px 20px; line-height:30px; color:#666666; cursor:pointer;}
+	.ratesTrendsAvgHeading .ratesCityDrop li:hover{background:#f8f8f8;}
+	
+	.btnExplorMore {display:inline-block; text-decoration:none; background: #c0392b; border:none; border-radius: 3px; color: #ffffff; cursor: pointer; font-size: 16px; height: 40px; line-height: 40px; padding: 0; width:205px; text-align:center;}
+	
+	#topLoader {position: fixed; text-align: center; width: 100%; z-index: 20; left:0px; top:0px;}
+	#topLoader.loadingRes {color: #666; font-size: 16px; margin: 12px auto; padding: 76px 0; text-align: center; vertical-align: middle; display:none;}
+	#topLoader .loaderAnimation {background: #fff; border: 1px solid #ebebeb; border-radius: 5px; box-shadow: 0 2px 5px 1px #e7e7e7; margin: 120px auto 0px; padding: 10px 0; width: 242px;}
+	#topLoader.loadingRes span {vertical-align: middle;}
+	#topLoader.loadingRes span img {width: auto; margin-right: 10px; vertical-align: middle;}
+
+</style>
+<script type="text/javascript">
+	$('.ratesTrendsCityName').live('click', function(event){
+		event.stopPropagation();
+		$(this).parents('.ratesTrendsCityCont').find('.ratesCityDrop').toggle();
+	});
+	
+	$('.ratesCityDrop ul li').live('click', function(){
+		var getValue = $(this).text();
+		$(this).parents('.ratesTrendsCityCont').find('.ratesTrendsCityName').find('.ratesTrendsCityText').text(getValue);
+	});
+	
+	$('html').click(function(){
+		$('.ratesCityDrop').hide();
+	});
+	
+	function loadRatesTrendsData(cityId) {
+		$('#topLoader').show();
+	    var urlStr ="http://www.magicbricks.com/bricks/ajax/ratesTrendsLocAvgPriceInclude.json?cityId="+cityId;
+		$.ajax({
+			url : urlStr,
+			success : function(result) {
+				if(result!='' && result!=null) {
+					$("#ratesTrendsAvgId").html(result);
+			 	}
+			},
+			complete: function(){
+				$('#topLoader').hide();
+			}
+		});
+	}
+</script>
+<div class="ratesTrendsAvgCont">
+<div id="topLoader" class="loadingRes">
+<div class="loaderAnimation"><span><img width="45" height="45" alt="Loader" src="http://cdn.staticmb.com/images/mbLoader.gif"> Loading Results</span></div>
+</div>
+<div class="ratesTrendsAvgHeading">
+Rates & Trends for
+<div class="ratesTrendsCityCont">
+<span class="ratesTrendsCityName"><span class="ratesTrendsCityText">Bangalore</span></span>
+<div class="ratesCityDrop">
+<ul>
+<li title="Ahmedabad" id="2690" onclick="loadRatesTrendsData('2690');">Ahmedabad</li>
+<li title="Bangalore" id="3327" onclick="loadRatesTrendsData('3327');">Bangalore</li>
+<li title="Chennai" id="5196" onclick="loadRatesTrendsData('5196');">Chennai</li>
+<li title="Faridabad" id="2944" onclick="loadRatesTrendsData('2944');">Faridabad</li>
+<li title="Ghaziabad" id="6146" onclick="loadRatesTrendsData('6146');">Ghaziabad</li>
+<li title="Greater Noida" id="7045" onclick="loadRatesTrendsData('7045');">Greater Noida</li>
+<li title="Gurgaon" id="2951" onclick="loadRatesTrendsData('2951');">Gurgaon</li>
+<li title="Hyderabad" id="2060" onclick="loadRatesTrendsData('2060');">Hyderabad</li>
+<li title="Kolkata" id="6903" onclick="loadRatesTrendsData('6903');">Kolkata</li>
+<li title="Mumbai" id="4320" onclick="loadRatesTrendsData('4320');">Mumbai</li>
+<li title="Navi Mumbai" id="4341" onclick="loadRatesTrendsData('4341');">Navi Mumbai</li>
+<li title="Noida" id="6403" onclick="loadRatesTrendsData('6403');">Noida</li>
+<li title="New Delhi" id="2624" onclick="loadRatesTrendsData('2624');">New Delhi</li>
+<li title="Pune" id="4378" onclick="loadRatesTrendsData('4378');">Pune</li>
+<li title="Thane" id="4442" onclick="loadRatesTrendsData('4442');">Thane</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="ratesTrendsAvgId">
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<div class="cityMapSec">
+<div class="mapCityHeading">Bangalore Key Indices</div>
+<div class="mapCityImages" style="background-image:url(http://cdn.staticmb.com/images/trendsCityMap/ratesTrendsCityId_3327.png);">
+<div id="growthId" class="growthPoint">
+<img class="ratesTrendsArrow" src="http://cdn.staticmb.com/images/trendsCityMap/ratesTrendsarrowGreen.png" alt=""/>
+1.91%
+</div>
+<div class="growthText">Growth in Price</div>
+<div class="rentDemandSupp">
+<div class="rentDemandBox">
+<div id="rentalYield" class="rentDemH">
+<img class="ratesTrendsArrowSmall" src="http://cdn.staticmb.com/images/trendsCityMap/ratesTrendsarrowGreenSmall.png" alt=""/>
+0.5%
+</div>
+<div class="rentDemText">Rental Yield</div>
+</div>
+<div class="rentDemandBox">
+<div id="demand" class="rentDemH">
+<img class="ratesTrendsArrowSmall" src="http://cdn.staticmb.com/images/trendsCityMap/ratesTrendsarrowGreenSmall.png" alt=""/>
+0.0%
+</div>
+<div class="rentDemText">Demand</div>
+</div>
+<div class="rentDemandBox">
+<div id="supply" class="rentDemH">
+<img class="ratesTrendsArrowSmall" src="http://cdn.staticmb.com/images/trendsCityMap/ratesTrendsarrowOrangeSmall.png" alt=""/>
+-10.0%
+</div>
+<div class="rentDemText">Supply</div>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+<div class="cityMapChart">
+<div class="mapCityHeading">Top Localities by Average Price per sqft</div>
+<div id="avgPriceGraph"></div>
+</div>
+<div class="clearAll"></div>
+<div style="text-align:center;"><a href="http://advice.magicbricks.com/trends/Bangalore" target="_blank" class="btnExplorMore">Explore More Trends</a></div>
+<script type="text/javascript">
+		var avgArr = [];
+		$('#avgPriceGraph').highcharts({
+	
+		chart: {
+	        	events: {
+	            	tooltipRefresh: function (e) {
+	                	avgArr = [];
+	            	}
+	        	}
+	    	},title: {
+	            text: ' ',
+	            x: -20
+	        },xAxis: {
+	             categories: ["Feb'16" , "Mar'16" , "Apr'16" , "May'16" , "Jun'16" , "Jul'16" ],
+	              title: {
+	                enabled: true,
+	                text: 'Time',
+	                style: {
+	                    fontSize:'14px',
+	                    color:'#333333',
+	                    fontFamily: 'opensans-bold'
+	                }
+	            }
+	        },plotOptions: {
+	            series: {
+	                connectNulls: true
+	            }
+	        },yAxis: {
+	            title: {
+	                text: 'Avg Price ( Rs per sqft )',
+	                x:-5,
+	                style: {
+	                    fontSize:'14px',
+	                    color:'#333333',
+	                    fontFamily: 'opensans-bold'
+	                }
+	            }
+	        },tooltip: {
+	            formatter: function () {
+	                var s = '<b>' + this.x + '</b>';
+	
+	                $.each(this.points, function () {
+	                if($.inArray(this.series.name, avgArr) < 0){
+	                    s += '<br/>' + this.series.name + ': ' +
+	                        this.y + '';
+	                    avgArr.push(this.series.name);
+	                    }
+	                });
+	
+	                return s;
+	            },
+	             shared : true,
+	                crosshairs: [true, false],
+					borderColor:'#808080',
+					crosshairs: [{ width: 1, color: 'red' }],style:{opacity:1},
+	                useHTML : true,
+	                style: {
+	                    fontSize: '12px',
+	                    fontFamily: 'open_sansregular'
+	                }
+	        },legend: {
+	            enabled: false
+	        },series: [
+	        
+				 {"visible" : true,"selected" : true,"name": "Richmond Town","color": "#DEBD5A","data": [{y:5880.0,dataLabels:{enabled: true,  padding:6, color:'#FFFFFF', backgroundColor:'#DEBD5A',format: '<b>Richmond Town</b>',shadow: false, style: {fontWeight: 'bold'}}},5481.0,4948.0,5937.0,7125.0,8549.0]}
+				 ,
+	        
+				 {"visible" : true,"selected" : true,"name": "Indira Nagar","color": "#D96161","data": [5914.0,6335.0,{y:6434.0,dataLabels:{enabled: true,  padding:6, color:'#FFFFFF', backgroundColor:'#D96161',format: '<b>Indira Nagar</b>',shadow: false, style: {fontWeight: 'bold'}}},7135.0,7939.0,8172.0]}
+				 ,
+	        
+				 {"visible" : true,"selected" : true,"name": "Basaveshvara Nagar","color": "#B6B7E0","data": [4549.0,5459.0,5639.0,6221.0,{y:6735.0,dataLabels:{enabled: true,  padding:6, color:'#FFFFFF', backgroundColor:'#B6B7E0',format: '<b>Basaveshvara Nagar</b>',shadow: false, style: {fontWeight: 'bold'}}},6565.0]}
+				 
+	         
+	        ]
+	    });
+	</script>
+</div>
+</div>
+</div>
+</div>
+<div class="blockWrap" id="homeLoanSection">
+<div class="blockWidth">
+<div class="blockHeading">Home Loan Calculators</div>
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<script type="text/javascript">
+	imgPath = "http://cdn.staticmb.com/images/";
+	var showNav = "";
+	var showTab = "";
+	var showLI = "";
+	var hideLiTab = ""; // hide OTHER sections on cross domain 
+	hideLiTab="true"
+	
+	
+</script>
+<div id="mbFinancialAdvice">
+<div id="mbFinanceAdviceWrapper">
+<div class="financeAdvicePage">
+<div class="" id="homeLoanCalcSection">
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<div class="advFinanceWrapper">
+<div class="homeLoanNavCont advice_homeLoanNavCont">
+<div class="homeLoanNavSlider advice_homeLoanNavSlider">
+<ul id="hLoanNavSlider">
+<li id="eligId" class="active" onclick="showCalc('activeCalc', 'loanEligibilityCalc');">
+<div class="navHeading">Loan Eligibility</div>
+<div class="navText">How much loan you are eligible for?</div>
+</li>
+<li id="emiCalcId" onclick="showCalc('activeCalc', 'emiCalculator');">
+<div class="navHeading">EMI</div>
+<div class="navText">Find out how much EMI you have to pay</div>
+</li>
+<li id="prepayId" onclick="showCalc('activeCalc', 'prepaymentCalculator');">
+<div class="navHeading">Prepayment</div>
+<div class="navText">Should you prepay your loan?</div>
+</li>
+<li id="rtChangeId" onclick="showCalc('activeCalc', 'rateChangeCalculator');">
+<div class="navHeading">Rate Change</div>
+<div class="navText">Effect of Change in Rate of Interest</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="activeCalc" id="loanEligibilityCalc">
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<script type="text/javascript">
+	
+	$( document ).ready(function() {
+	try{
+		var la= getSessionCookie('lalec');
+		if(la!= null && la!=""){
+		$('#lalec').val(addCommas(la));
+		}else{
+		$('#lalec').val(addCommas(1500000));
+		}
+		var r= getSessionCookie('rlec');
+		if(r!= null && r!=""){
+		$('#rlec').val(r);
+		}else{
+		$('#rlec').val(10);
+		}
+		var ipm= getSessionCookie('inlec');
+		if(ipm!= null && ipm!=""){
+		$('#inlec').val(addCommas(ipm));
+		}else{
+		$('#inlec').val(addCommas(50000));
+		}
+		var lt= getSessionCookie('ltlec');
+		if(lt!= null && lt!=""){
+			if(lt > 50) lt = parseInt(lt/12);  // convert to years : first time after go live
+			$('#ltlec').val(lt);
+		}else{
+		$('#ltlec').val(10);
+		}
+		var el= getSessionCookie('ellec');
+		if(el!= null && el!=""){
+		$('#ellec').val(addCommas(el));
+		}else{
+		$('#ellec').val(addCommas(10000));
+		}
+		
+		submitLoanEligibilityCalculator(false);
+	}catch(e){
+		if(!(typeof window.errorHandler === 'undefined')){
+			errorHandler('loanEligibilityCalculator.jsp', 'onready', e);
+		}
+	}
+	});
+</script>
+<div class="formWrapper formHLEligib">
+<div class="formCont">
+<div class="formRow">
+<div class="formLabel">
+<label>Home Loan Required</label>
+</div>
+<div class="formField">
+<span class="rupeeIcon"></span>
+<input class="inputAdvFinance" type="text" id="lalec" onblur="fromNumberToWords(this,'lalec_in_rs');" oninput="reFormate(this)" maxlength="15"/>
+<div id="lalecError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+<div class="amtInWord" id="lalec_in_rs"></div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel subLebal">
+<label>Net income per month</label>
+<span>Excluding LTA and Medical allowances</span>
+</div>
+<div class="formField">
+<span class="rupeeIcon"></span>
+<input class="inputAdvFinance" type="text" id="inlec" onblur="fromNumberToWords(this,'inlec_in_rs');" oninput="reFormate(this)" maxlength="14"/>
+<div id="inlecError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+<div class="amtInWord" id="inlec_in_rs"></div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel subLebal">
+<label>Existing loan commitments</label>
+<span>(per month)</span>
+</div>
+<div class="formField">
+<span class="rupeeIcon"></span>
+<input class="inputAdvFinance" type="text" id="ellec" onblur="fromNumberToWords(this,'ellec_in_rs');" oninput="reFormate(this)" maxlength="14"/>
+<div id="ellecError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+<div class="amtInWord" id="ellec_in_rs"></div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel subLebal">
+<label>Loan Tenure</label>
+<span>(in years)</span>
+</div>
+<div class="formField">
+<input class="inputAdvFinance" type="text" id="ltlec" oninput="reFormate(this)" maxlength="3"/>
+<div id="ltlecError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+<label>Rate of Interest</label>
+</div>
+<div class="formField">
+<input class="inputAdvFinance" type="text" id="rlec" oninput="reFormate(this)" maxlength="5"/>
+<div id="rlecError" class="calError"></div>
+<span class="modularIcon">%</span>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+&nbsp;
+</div>
+<div class="formField">
+<input class="btnAdvFinance" type="button" value="Check Eligibility" onclick="submitLoanEligibilityCalculator(true)"/>
+<span class="resetAll"><a href="javascript: resetEligibilityCalculator()">Reset All</a>
+</span>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+<div class="resultHLEligib" id="loanEligbCalcOutputSection" style="display: none;">
+<div class="resultHLEligibLeft" id="iconId"> </div>
+<div class="resultHLEligibRight">
+<div id="eligb" style="display: none;">
+<div class="resultHeading" id="firstResultDiv"></div>
+<div class="resultHeading_2">
+<span class="rupeeIcon4"></span>
+<span id="loanAmtResultDiv"></span>
+<span class="rupeeIcon4 marginL15"></span>
+<span id="emiResultDiv"></span>
+</div>
+<div class="resultHLEligibText">
+<div id="maxEligbLoanDiv"></div>
+<span class="rupeeIcon3"></span>
+<span id="maxLoanAmtResultDiv"></span>
+<span class="rupeeIcon3 marginL7"></span>
+<span id="maxAmtEmiResultDiv"></span>
+</div>
+<div class="ApplyLoan" id="loanApplyDiv">
+<a href="http://www.magicbricks.com/apply-for-loan" target="_blank" class="btnAdvFinance2">Apply for a loan</a>
+</div>
+</div>
+<div id="notEligb" style="display: none;">
+<div class="resultHeading" id="firstResultNotEligbDiv"></div>
+<div class="resultHLEligibText">
+<div id="maxNeEligbLoanDiv"></div>
+<span class="rupeeIcon3"></span>
+<span id="maxLoanAmtNeResultDiv"></span>
+<span class="rupeeIcon3 marginL7"></span>
+<span id="maxAmtEmiNeResultDiv"></span>
+</div>
+<div class="ApplyLoan" id="loanApplyDiv">
+<a href="http://www.magicbricks.com/apply-for-loan" target="_blank" class="btnAdvFinance2">Apply for a loan</a>
+</div>
+</div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+<div class="noActiveCalc" id="emiCalculator" style="display: none;">
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<script type="text/javascript">
+	
+	$( document ).ready(function() {
+		try{
+			var mr= getSessionCookie('amountRequired');
+			if(mr!= null && mr!=""){
+			$('#amountRequired').val(addCommas(mr));
+			}else{
+			$('#amountRequired').val(addCommas(2500000));
+			}
+			var pr= getSessionCookie('loanTenureYear');
+			if(pr!= null && pr!=""){
+				if(pr > 50) pr = parseInt(pr/12); // convert to years : first time after go live
+				$('#loanTenureYear').val(pr);
+			}else{
+				$('#loanTenureYear').val(10);
+			}
+			var lty= getSessionCookie('interestRate');
+			if(lty!= null && lty!=""){
+			$('#interestRate').val(lty);
+			}else{
+			$('#interestRate').val(10);
+			}
+			submitEMICalculator(false);
+	}catch(e){
+		if(!(typeof window.errorHandler === 'undefined')){
+			errorHandler('emiCalculator.jsp', 'onready', e);
+		}
+	}
+});
+	
+</script>
+<div class="formWrapper formHLEMI">
+<div class="formCont">
+<div class="formRow">
+<div class="formLabel">
+<label>Loan Amount</label>
+</div>
+<div class="formField">
+<span class="rupeeIcon"></span>
+<input class="inputAdvFinance" type="text" id="amountRequired" onblur="fromNumberToWords(this,'amountRequired_in_rs');" oninput="reFormate(this)" maxlength="15"/>
+<div id="amountRequiredError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+<div class="amtInWord" id="amountRequired_in_rs"></div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel subLebal">
+<label>Loan Tenure</label>
+<span>(in years)</span>
+</div>
+<div class="formField">
+<input class="inputAdvFinance" type="text" id="loanTenureYear" maxlength="3"/>
+<div id="loanTenureYearError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+<label>Rate of Interest</label>
+</div>
+<div class="formField">
+<input class="inputAdvFinance" type="text" id="interestRate" maxlength="5"/>
+<div id="interestRateError" class="calError"></div>
+<span class="modularIcon">%</span>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+&nbsp;
+</div>
+<div class="formField">
+<input class="btnAdvFinance" type="button" value="Calculate EMI" onclick="submitEMICalculator(true)"/>
+<span class="resetAll"><a href="javascript: resetEmiCalculator()">Reset All</a></span>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+<div class="resultHLEMI" id="emiResultSection" style="display: none;">
+<div class="emiTitle">Monthly EMI</div>
+<div class="monthEmi">
+<span class="rupeeIcon5"></span>
+<span id="emiSpan"></span>
+</div>
+<div class="applyLoan">
+<a href="http://www.magicbricks.com/apply-for-loan" target="_blank" class="btnAdvFinance2">Apply for a loan</a>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+<div class="noActiveCalc" id="rateChangeCalculator" style="display: none;">
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<script type="text/javascript">
+	
+	$( document ).ready(function() {
+		try{
+			var la= getSessionCookie('larcc');
+			if(la!= null && la!=""){
+			$('#larcc').val(addCommas(la));
+			}else{
+			$('#larcc').val(addCommas(2500000));
+			}
+			var r= getSessionCookie('rrcc');
+			if(r!= null && r!=""){
+			$('#rrcc').val(r);
+			}else{
+			$('#rrcc').val(10);
+			}
+			var lt= getSessionCookie('ltrcc');
+			if(lt!= null && lt!=""){
+				if(lt>50) lt=parseInt(lt/12); // convert to years : first time after go live
+				$('#ltrcc').val(lt);
+			}else{
+				$('#ltrcc').val(10);
+			}
+			var nr= getSessionCookie('nrrcc');
+			if(nr!= null && nr!=""){
+			$('#nrrcc').val(nr);
+			}else{
+			$('#nrrcc').val(9);
+			}
+			
+		   	//var str = "1/7/2007";
+		   	var date = new Date();
+		   	var str = date.getDate()+"/"+(date.getMonth()+1)+"/"+(date.getFullYear()-5);
+		   	var lsd= getSessionCookie('lsdrcc');
+			if(lsd!= null && lsd!=""){
+				$('#lsdrcc').val(lsd);
+			}else{
+				$('#lsdrcc').val(str);
+			}
+			
+			var date = new Date();
+		   	var newStr = "";
+		   	newStr = date.getDate()+"/" + (date.getMonth()+1) + "/" + date.getFullYear();
+		   	var nrd= getSessionCookie('nrdrcc');
+			if(nrd!= null && nrd!=""){
+				$('#nrdrcc').val(nrd);
+			}else{
+				$('#nrdrcc').val(newStr);
+			}
+			submitRateChangeCalculator(false);
+		}catch(e){
+			if(!(typeof window.errorHandler === 'undefined')){
+				errorHandler('rateChangeCalculator.jsp', 'onready', e);
+			}
+		}
+	});
+	
+</script>
+<div class="formWrapper formHLRate">
+<div class="formCont">
+<div class="formRow">
+<div class="formLabel">
+<label>Loan Amount</label>
+</div>
+<div class="formField">
+<span class="rupeeIcon"></span>
+<input class="inputAdvFinance advice_inputAdvFinance" type="text" id="larcc" onblur="fromNumberToWords(this,'larcc_in_rs');" oninput="reFormate(this)" maxlength="15"/>
+<div id="larccError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+<div class="amtInWord" id="larcc_in_rs"></div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel subLebal">
+<label>Tenure</label>
+<span>(in years)</span>
+</div>
+<div class="formField">
+<input class="inputAdvFinance advice_inputAdvFinance" type="text" id="ltrcc" maxlength="3"/>
+<div id="ltrccError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+<label>Current Rate of Interest</label>
+</div>
+<div class="formField">
+<input class="inputAdvFinance advice_inputAdvFinance" type="text" id="rrcc" maxlength="5"/>
+<div id="rrccError" class="calError"></div>
+<span class="modularIcon">%</span>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+<label>Loan taken on</label>
+</div>
+<div class="formField">
+<input class="inputAdvFinance advice_inputAdvFinance" type="text" id="lsdrcc" onclick="displayCalendar(document.getElementById('lsdrcc'),'dd/mm/yyyy',this);" readonly />
+<span class="calenderIcon"></span><div id="lsdrccError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+<label>New Rate of Interest</label>
+</div>
+<div class="formField">
+<input class="inputAdvFinance advice_inputAdvFinance" type="text" id="nrrcc" maxlength="5"/>
+<span class="modularIcon">%</span><div id="nrrccError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+<label>Rate of Interest changes on</label>
+</div>
+<div class="formField">
+<input class="inputAdvFinance advice_inputAdvFinance" type="text" id="nrdrcc" onclick="displayCalendar(document.getElementById('nrdrcc'),'dd/mm/yyyy',this);" readonly />
+<span class="calenderIcon"></span><div id="nrdrccError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+&nbsp;
+</div>
+<div class="formField">
+<input class="btnAdvFinance" type="button" value="Compare" onclick="submitRateChangeCalculator(true)"/>
+<span class="resetAll"><a href="javascript: resetRateChangeCalculator()">Reset All</a></span>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+<div class="resultHLRate" id="resultSectionDiv" style="display: none;">
+<div class="resultTentureBox">
+<div class="resultHLRateLeft" id="iconRateChangeId">
+</div>
+<div class="resultHLRateRight">
+<div class="resultIfYou" id="sameTenureDiv"></div>
+<div class="resultHeading" id="sameTenureSavingDiv"></div>
+<div class="rateRow">
+<div class="labelDiv">Current EMI</div>
+<div class="valueDiv" id="currentEmiDiv"></div>
+</div>
+<div class="rateRow">
+<div class="labelDiv">New EMI</div>
+<div class="valueDiv" id="newEmiDiv"></div>
+</div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="resultEmiBox">
+<div class="resultHLRateLeft" id="iconElseRateChangeId">
+</div>
+<div class="resultHLRateRight">
+<div class="resultIfYou" id="sameEmiMesgDiv"></div>
+<div class="resultHeading" id="sameEmiSavingDiv"></div>
+<div class="rateRow">
+<div class="labelDiv">Current Tenure</div>
+<div class="valueDiv" id="currentTenureDiv"></div>
+</div>
+<div class="rateRow">
+<div class="labelDiv">New Tenure</div>
+<div class="valueDiv" id="newTenureDiv"></div>
+</div>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+<div class="noActiveCalc" id="prepaymentCalculator" style="display: none;">
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<script type="text/javascript">
+
+$( document ).ready(function() {
+	try{
+		var la= getSessionCookie('lalpc');
+		if(la!= null && la!=""){
+		$('#lalpc').val(addCommas(la));
+		}else{
+		$('#lalpc').val(addCommas(2500000));
+		}
+		var r= getSessionCookie('rlpc');
+		if(r!= null && r!=""){
+		$('#rlpc').val(r);
+		}else{
+		$('#rlpc').val(10);
+		}
+		var ip= getSessionCookie('iplpc');
+		if(ip!= null && ip!=""){
+		$('#iplpc').val(ip);
+		}else{
+		$('#iplpc').val(40);
+		}
+		var lt= getSessionCookie('ltlpc');
+		if(lt!= null && lt!=""){
+			if(lt>50) lt = parseInt(lt/12); // convert to years : first time after go live
+			$('#ltlpc').val(lt);
+		}else{
+			$('#ltlpc').val(10);
+		}
+		var pa= getSessionCookie('palpc');
+		if(pa!= null && pa!=""){
+		$('#palpc').val(addCommas(pa));
+		}else{
+		$('#palpc').val(addCommas(100000));
+		}
+		
+		imgPath = "http://cdn.staticmb.com/images/";
+		submitPrepaymentCalculator(false);
+	}catch(e){
+		if(!(typeof window.errorHandler === 'undefined')){
+			errorHandler('rateChangeCalculator.jsp', 'onready', e);
+		}
+	}
+});
+
+</script>
+<div class="formWrapper formHLPrepay">
+<div class="formCont">
+<div class="formRow">
+<div class="formLabel">
+<label>Loan Amount</label>
+</div>
+<div class="formField">
+<span class="rupeeIcon"></span>
+<input class="inputAdvFinance" type="text" id="lalpc" onblur="fromNumberToWords(this,'lalpc_in_rs');" oninput="reFormate(this)" maxlength="15"/>
+<div id="lalpcError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+<div class="amtInWord" id="lalpc_in_rs"></div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel subLebal">
+<label>Loan Tenure</label>
+<span>(in years)</span>
+</div>
+<div class="formField">
+<span class="rupeeIcon"></span>
+<input class="inputAdvFinance" type="text" id="ltlpc" oninput="reFormate(this)" maxlength="3"/>
+<div id="ltlpcError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+<label>Rate of Interest</label>
+</div>
+<div class="formField">
+<input class="inputAdvFinance" type="text" id="rlpc" oninput="reFormate(this)" maxlength="5"/>
+<div id="rlpcError" class="calError"></div>
+<span class="modularIcon">%</span>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+<label>Installments Paid</label>
+</div>
+<div class="formField">
+<input class="inputAdvFinance" type="text" id="iplpc" maxlength="3"/>
+<div id="iplpcError" class="calError"></div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+<label>Prepayment Amount</label>
+</div>
+<div class="formField" id="partPaymentTextInput">
+<input class="inputAdvFinance" type="text" id="palpc" onblur="fromNumberToWords(this,'palpc_in_rs');" oninput="reFormate(this)" maxlength="15"/>
+<div id="palpcError" class="calError"></div>
+<div class="clearAll"></div>
+</div>
+<div class="clearAll"></div>
+<div class="amtInWord" id="palpc_in_rs"></div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow martp_10px">
+<div class="formLabel">
+<label>&nbsp;</label>
+</div>
+<div class="formField">
+<div class="foreCloser">
+<span class="customCheckBox">
+<input type="checkbox" name="foreclosure" id="foreclosureId" onclick="customCheckBox(this);togglePartPayment();"/>
+</span>
+<label for="foreclosureId">Foreclosure</label>
+</div>
+</div>
+<div class="clearAll"></div>
+</div>
+<div class="formRow">
+<div class="formLabel">
+&nbsp;
+</div>
+<div class="formField">
+<input class="btnAdvFinance" type="button" value="Calculate" onclick="submitPrepaymentCalculator(true)"/>
+<span class="resetAll"><a href="javascript: resetLoanPrepaymentCalculator()">Reset All</a></span>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+<div class="resultPrepay" id="mainResultDiv" style="display: none;">
+<div class="resultHeading" id="interestSavedDiv"></div>
+<div class="resultHeading_2" id="emiTenureReductionDiv"></div>
+<div class="rbiNotify" id="ppGTOPDiv" style="display: none;"></div>
+<div class="prepayBox">
+<h4>Current</h4>
+<div class="boxRow">
+<div class="labelDiv">Interest</div>
+<div class="valueDiv" id="currInterestPayableDiv"></div>
+</div>
+<div class="boxRow">
+<div class="labelDiv">EMI Tenure</div>
+<div class="valueDiv" id="currTenureDiv"></div>
+</div>
+</div>
+<div class="prepayBox">
+<h4>New</h4>
+<div class="boxRow">
+<div class="labelDiv">Interest </div>
+<div class="valueDiv" id="newInterestDiv"></div>
+</div>
+<div class="boxRow">
+<div class="labelDiv">EMI Tenure</div>
+<div class="valueDiv" id="newEmiTenure"></div>
+</div>
+</div>
+<div class="clearAll"></div>
+<div class="outStanding">
+<div class="outRow">
+<div class="labelDiv">Outstanding Principal</div>
+<div class="" id="outstandPrincDivS"></div>
+</div>
+<div class="outRow">
+<div class="labelDiv">EMI</div>
+<div class="" id="emiDivS"></div>
+</div>
+</div>
+<div class="rbiNotify">As per RBI notification all prepayment charges on floating rate loans have been waived</div>
+</div>
+<div class="resultPrepay" id="elseMainResultDiv" style="display: none;">
+<div class="resultHeading" id="elseInterestSavedDiv"></div>
+<div class="clearAll"></div>
+<div class="rbiNotify">As per RBI notification all prepayment charges on floating rate loans have been waived</div>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="stripBannerWrap" id="middleStrip3" style="display: none"></div>
+<div class="blockWrap" id="mobileApp" style="display: none"></div>
+<div class="stripBannerWrap" id="middleStrip4" style="display: none"></div>
+<div class="blockWrap" id="preferredAndusersLoveTop" style="display: none">
+<div class="blockWidth">
+<div id="preferredchoice" style="display: none"></div>
+<div class="clearAll"></div>
+<div class="usersLove" id="usersLove">
+<div class="usersLoveHeading">Users love us</div>
+<ul>
+<li id="usersLove1"></li>
+<li id="usersLove2">
+</li>
+<li id="usersLove3">
+</li>
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+<div class="stripBannerWrap" id="middleStrip5" style="display: none"></div>
+<div class="blockWrap" id="magicbricksInitiativesTop" style="display: none">
+<div class="blockWidth">
+<div class="blockHeading">Initiatives by Magicbricks</div>
+<div class="initMB">
+<ul>
+<li id="magicbricksInitiatives1">
+</li>
+<li id="magicbricksInitiatives2">
+</li>
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+<div class="stripBannerWrap" id="middleStrip8" style="display: none"></div>
+<div class="blockWrap" id="ourPartners" style="display: none"></div>
+<div class="stripBannerWrap" id="middleStrip9" style="display: none"></div>
+<div class="blockWrap" id="mbNewsSliderTop" style="display: none"></div>
+<div class="stripBannerWrap" id="middleStrip10" style="display: none"></div>
+
+<div class="stripBannerWrap" id="middleStrip11" style="display: none"></div>
+<div class="blockWrap" id="expOnlineSliderTop" style="display: none">
+<div class="blockWidth">
+<div class="blockHeading">Connect with Industry Experts Online</div>
+<div class="expOnline">
+<ul id="expOnlineSlider">
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+<div class="stripBannerWrap" id="middleStrip12" style="display: none"></div>
+<div class="blockWidth" id="ratesNtrendsTop" style="display: block">
+<div class="blockWidth">
+<div class="blockHeading"><h2>Rates &amp; Trends</h2></div>
+<div class="ratesNtrends">
+<ul>
+<li class="noMargin rtDelhi">
+<a href="http://advice.magicbricks.com/trends/New-Delhi"><span>Delhi</span></a>
+</li>
+<li class="rtGurgaon">
+<a href="http://advice.magicbricks.com/trends/Gurgaon"><span>Gurgaon</span></a>
+</li>
+<li class="rtNoida">
+<a href="http://advice.magicbricks.com/trends/Noida"><span>Noida</span></a>
+</li>
+<li class="rtGrNoida">
+<a href="http://advice.magicbricks.com/trends/Greater-Noida"><span>Gr. Noida</span></a>
+</li>
+<li class="rtGhaziabad">
+<a href="http://advice.magicbricks.com/trends/Ghaziabad"><span>Ghaziabad</span></a>
+</li>
+<li class="rtFaridabad">
+<a href="http://advice.magicbricks.com/trends/Faridabad"><span>Faridabad</span></a>
+</li>
+<li class="noMargin rtChandigarh">
+<a href="http://advice.magicbricks.com/trends/Chandigarh"><span>Chandigarh</span></a>
+</li>
+<li class="rtKochi">
+<a href="http://advice.magicbricks.com/trends/Kochi"><span>Kochi</span></a>
+</li>
+<li class="rtCoimbatore">
+<a href="http://advice.magicbricks.com/trends/Coimbatore"><span>Coimbatore</span></a>
+</li>
+<li class="rtLucknow">
+<a href="http://advice.magicbricks.com/trends/Lucknow"><span>Lucknow</span></a>
+</li>
+<li class="rtHyderabad">
+<a href="http://advice.magicbricks.com/trends/Hyderabad"><span>Hyderabad</span></a>
+</li>
+<li class="rtMumbai">
+<a href="http://advice.magicbricks.com/trends/Mumbai"><span>Mumbai</span></a>
+</li>
+<li class="noMargin noMarginBot rtPune">
+<a href="http://advice.magicbricks.com/trends/Pune"><span>Pune</span></a>
+</li>
+<li class="noMarginBot rtBangalore">
+<a href="http://advice.magicbricks.com/trends/Bangalore"><span>Bangalore</span></a>
+</li>
+<li class="noMarginBot rtChennai">
+<a href="http://advice.magicbricks.com/trends/Chennai"><span>Chennai</span></a>
+</li>
+<li class="noMarginBot rtKolkata">
+<a href="http://advice.magicbricks.com/trends/Kolkata"><span>Kolkata</span></a>
+</li>
+<li class="noMarginBot rtJaipur">
+<a href="http://advice.magicbricks.com/trends/Jaipur"><span>Jaipur</span></a>
+</li>
+<li class="noMarginBot rtAhmedabad">
+<a href="http://advice.magicbricks.com/trends/Ahmedabad"><span>Ahmedabad</span></a>
+</li>
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+<div class="stripBannerWrap" id="middleStrip13" style="display: none"></div>
+<div class="blockWrap " id="insightsCornerTop" style="display: none"></div>
+<div class="stripBannerWrap" id="middleStrip14" style="display: none"></div>
+<div class="blockWrap" id="homeLoan" style="display: none"></div>
+<div class="stripBannerWrap" id="middleStrip15" style="display: none"></div>
+<div class="blockWrap " id="topStoriesSliderTop" style="display: none"></div>
+<div class="stripBannerWrap" id="middleStrip17" style="display: none"></div>
+<div class="blockWrap" id="magecbricksnewTop" style="display: none">
+<div class="blockWidth">
+<div class="blockHeading">New on Magicbricks</div>
+<div class="newOnMB">
+<ul>
+<li id="magecbricksnew1">
+</li>
+<li id="magecbricksnew2">
+</li>
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+<div class="stripBannerWrap" id="middleStrip7" style="display: none"></div>
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<div class="blockWrap" id="cityProjectsTop" style="display: block">
+<div class="blockWidth cityProjectsWidth">
+<div class='blockHeading'><h5>Browse Residential Projects in Top 8 Cities</h5></div>
+<div class="cityProjects">
+<div class="cityNavbar">
+<ul>
+<li><a href="javascript:void(0);" class="active" onclick="showProjectByCity('browseProjectsContent1', this);">Pune<span></span></a></li>
+<li><a href="javascript:void(0);" onclick="showProjectByCity('browseProjectsContent2', this);">Bangalore<span></span></a></li>
+<li><a href="javascript:void(0);" onclick="showProjectByCity('browseProjectsContent3', this);">Mumbai<span></span></a></li>
+<li><a href="javascript:void(0);" onclick="showProjectByCity('browseProjectsContent4', this);">Chennai<span></span></a></li>
+<li><a href="javascript:void(0);" onclick="showProjectByCity('browseProjectsContent5', this);">Navi Mumbai<span></span></a></li>
+<li><a href="javascript:void(0);" onclick="showProjectByCity('browseProjectsContent6', this);">Gurgaon<span></span></a></li>
+<li><a href="javascript:void(0);" onclick="showProjectByCity('browseProjectsContent7', this);">Kolkata<span></span></a></li>
+<li><a href="javascript:void(0);" onclick="showProjectByCity('browseProjectsContent8', this);">Hyderabad<span></span></a></li>
+</ul>
+<div class="clearAll"></div>
+</div>
+<div class="projectsName">
+<div id="browseProjectsContent1" class="browseProjectsContent" style="display:block;">
+<ul>
+<li><a href="/indrayani-ira-moshi-pune-pdpid-4d4235303839303138" target="_blank">Indrayani Ira</a></li>
+<li><a href="/megapolis-mystic-hinjewadi-pune-pdpid-4d4235303837393332" target="_blank">Megapolis Mystic</a></li>
+<li><a href="/gagan-tisha-undri-pune-pdpid-4d4235303934303233" target="_blank">Gagan Tisha</a></li>
+<li><a href="/sai-village-yavat-pune-pdpid-4d4235303835353339" target="_blank">Sai Village</a></li>
+<li><a href="/privie-sanctum-baner-pune-pdpid-4d4235303236353830" target="_blank">Privie Sanctum</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/aayush-park-phase-2-talegaon-dabhade-pune-pdpid-4d4235303837393637" target="_blank">Aayush Park Phase 2</a></li>
+<li><a href="/aldea-anexo-baner-pune-pdpid-4d4235303735323232" target="_blank">Aldea Anexo</a></li>
+<li><a href="/sky-view-phursungi-pune-pdpid-4d4235303836313730" target="_blank">Sky View</a></li>
+<li><a href="/abhang-vishwa-chikhali-pune-pdpid-4d4235303831383131" target="_blank">Abhang Vishwa</a></li>
+<li><a href="/shubh-kalash-chikhali-pune-pdpid-4d4235303933383637" target="_blank">Shubh Kalash</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/nexus-glorious-sus-pune-pdpid-4d4235303933383535" target="_blank">Nexus Glorious</a></li>
+<li><a href="/marvel-basilo-koregaon-park-pune-pdpid-4d4235303230353536" target="_blank">Marvel Basilo</a></li>
+<li><a href="/opal-baner-pune-pdpid-4d4235303233333736" target="_blank">Opal</a></li>
+<li><a href="/gulmohar-grande-phase-i-jejuri-pune-pdpid-4d4235303933383039" target="_blank">Gulmohar Grande Phase I</a></li>
+<li><a href="/oxygen-raindrops-nibm-annexe-pune-pdpid-4d4235303139383730" target="_blank">Oxygen Raindrops</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/sky-lark-kharadi-pune-pdpid-4d4235303933373239" target="_blank">Sky Lark</a></li>
+<li><a href="/kings-way-b.t-kawade-road-pune-pdpid-4d4235303836353438" target="_blank">Kings Way</a></li>
+<li><a href="/sai-kunj-chikhali-pune-pdpid-4d4235303330303335" target="_blank">Sai Kunj</a></li>
+<li><a href="/vishnu-vihar-phase-2-pirangut-pune-pdpid-4d4235303835333331" target="_blank">Vishnu Vihar Phase 2</a></li>
+<li><a href="/sky-point-keshav-nagar-pune-pdpid-4d4235303832303832" target="_blank">Sky Point</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/florida-river-bank-mundhwa-pune-pdpid-4d4235303339343332" target="_blank">Florida River Bank</a></li>
+<li><a href="/basera-eternity-hinjewadi-pune-pdpid-4d4235303933363539" target="_blank">Basera Eternity</a></li>
+<li><a href="/eastern-meadows-kharadi-pune-pdpid-4d4235303832353133" target="_blank">Eastern Meadows</a></li>
+<li><a href="/shantivan-lonavala-pune-pdpid-4d4235303330333236" target="_blank">Shantivan</a></li>
+<li><a href="/stone-ridge-pimpri-chinchwad-pune-pdpid-4d4235303933353731" target="_blank">Stone Ridge</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/manas-moshi-pune-pdpid-4d4235303933353537" target="_blank">Manas</a></li>
+<li><a href="/urban-nest-undri-pune-pdpid-4d4235303239333931" target="_blank">Urban Nest</a></li>
+<li><a href="/gera-imperium-hinjewadi-pune-pdpid-4d4235303933353435" target="_blank">Gera Imperium</a></li>
+<li><a href="/bella-casa-baner-road-pune-pdpid-4d4235303236333737" target="_blank">Bella Casa</a></li>
+<li><a href="/madhav-moshi-pune-pdpid-4d4235303933353235" target="_blank">Madhav</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+</ul>
+</div>
+<div class="clearAll"></div>
+<div id="browseProjectsContent2" class="browseProjectsContent" style="display:none;">
+<ul>
+<li><a href="/embassy-springs-devanahalli-bangalore-pdpid-4d4235303931383335" target="_blank">Embassy Springs</a></li>
+<li><a href="/north-county-devanahalli-bangalore-pdpid-4d4235303934303037" target="_blank">North County</a></li>
+<li><a href="/mantri-energia-manyata-tech-park-bangalore-pdpid-4d4235303732393835" target="_blank">Mantri Energia</a></li>
+<li><a href="/project-sai-gardens-yemalur-bangalore-pdpid-4d4235303030333336" target="_blank">Project Sai Gardens</a></li>
+<li><a href="/land-of-prosperity-sarjapur-attibele-road-bangalore-pdpid-4d4235303933393833" target="_blank">Land of Prosperity</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/sowparnika-purple-rose-old-madras-road-bangalore-pdpid-4d4235303339363933" target="_blank">Sowparnika Purple Rose</a></li>
+<li><a href="/silver-waves-royal-kengeri-satellite-town-bangalore-pdpid-4d4235303836343330" target="_blank">Silver Waves Royal</a></li>
+<li><a href="/shree-saraswathi-nagar-hosur-road-bangalore-pdpid-4d4235303733323333" target="_blank">Shree Saraswathi Nagar</a></li>
+<li><a href="/lg-green-county-chikkabalapur-bangalore-pdpid-4d4235303230393532" target="_blank">LG Green County</a></li>
+<li><a href="/sg-enclave-horamavu-agara-bangalore-pdpid-4d4235303837333731" target="_blank">SG Enclave</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/garudachala-royal-homes-k-r-puram-bangalore-pdpid-4d4235303933393339" target="_blank">Garudachala Royal Homes</a></li>
+<li><a href="/sbr-horizon-whitefield-bangalore-pdpid-4d4235303933393137" target="_blank">SBR Horizon</a></li>
+<li><a href="/meadow-in-the-sun-sarjapur-road-bangalore-pdpid-4d4235303836373133" target="_blank">Meadow In The Sun</a></li>
+<li><a href="/rajalakshmi-residency-banashankari-stage-3-bangalore-pdpid-4d4235303933383537" target="_blank">Rajalakshmi Residency</a></li>
+<li><a href="/vijayas-vaibhav-1-electronic-city-bangalore-pdpid-4d4235303730303039" target="_blank">Vijayas Vaibhav 1</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/mvs-builders-paradise-whitefield-bangalore-pdpid-4d4235303837353939" target="_blank">MVS Builders Paradise</a></li>
+<li><a href="/shapoorji-pallonji-parkwest-phase-2-binnypete-bangalore-pdpid-4d4235303836313432" target="_blank">Shapoorji Pallonji Parkwest Phase 2</a></li>
+<li><a href="/apas-valmark-hulimavu-bangalore-pdpid-4d4235303431303335" target="_blank">Apas Valmark</a></li>
+<li><a href="/vogue-residences-whitefield-bangalore-pdpid-4d4235303036313034" target="_blank">Vogue Residences</a></li>
+<li><a href="/skyview-devanahalli-bangalore-pdpid-4d4235303730323431" target="_blank">SkyView</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/lilium-kadugodi-bangalore-pdpid-4d4235303837363332" target="_blank">Lilium</a></li>
+<li><a href="/samhita-royal-splendor-old-madras-road-bangalore-pdpid-4d4235303933363935" target="_blank">Samhita Royal Splendor</a></li>
+<li><a href="/prospero-hilltop-banashankari-bangalore-pdpid-4d4235303933363133" target="_blank">Prospero Hilltop</a></li>
+<li><a href="/purva-coronation-square-jp-nagar-bangalore-pdpid-4d4235303334333639" target="_blank">Purva Coronation Square</a></li>
+<li><a href="/southern-crest-banashankari-stage-6-bangalore-pdpid-4d4235303737323239" target="_blank">Southern Crest</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/dnr-reflection-bellandur-bangalore-pdpid-4d4235303933353033" target="_blank">DNR Reflection</a></li>
+<li><a href="/sinchana-pavitra-lotus-banashankari-stage-3-bangalore-pdpid-4d4235303933343835" target="_blank">Sinchana Pavitra Lotus</a></li>
+<li><a href="/golden-lotus-varthur-bangalore-pdpid-4d4235303933343731" target="_blank">Golden Lotus</a></li>
+<li><a href="/song-of-terra-devanahalli-bangalore-pdpid-4d4235303933343331" target="_blank">Song Of Terra</a></li>
+<li><a href="/hebron-enclave-k-r-puram-bangalore-pdpid-4d4235303231393034" target="_blank">Hebron Enclave</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+</ul>
+</div>
+<div class="clearAll"></div>
+<div id="browseProjectsContent3" class="browseProjectsContent" style="display:none;">
+<ul>
+<li><a href="/acme-avenue-kandivali-west-mumbai-pdpid-4d4235303234313138" target="_blank">Acme Avenue</a></li>
+<li><a href="/arkadearth-kanjurmarg-east-mumbai-pdpid-4d4235303934303331" target="_blank">Arkadearth</a></li>
+<li><a href="/runwal-bliss-kanjurmarg-east-mumbai-pdpid-4d4235303733343034" target="_blank">Runwal Bliss</a></li>
+<li><a href="/kanakia-hollywood-versova-mumbai-pdpid-4d4235303933393937" target="_blank">Kanakia Hollywood</a></li>
+<li><a href="/piramal-aranya--byculla-mumbai-pdpid-4d4235303933313135" target="_blank">Piramal Aranya </a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/dharti-pressidio-malad-west-mumbai-pdpid-4d4235303839373333" target="_blank">Dharti Pressidio</a></li>
+<li><a href="/foresta--mira-road-mumbai-pdpid-4d4235303933333237" target="_blank">Foresta </a></li>
+<li><a href="/oyster-club-life-kandivali-west-mumbai-pdpid-4d4235303932323639" target="_blank">Oyster Club life</a></li>
+<li><a href="/ng-shree-ram-van-vasai-east-mumbai-pdpid-4d4235303933393037" target="_blank">NG Shree Ram Van</a></li>
+<li><a href="/rustomjee-seasons-bandra-east-mumbai-pdpid-4d4235303237323636" target="_blank">Rustomjee Seasons</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/oberoi-eternia-mulund-west-mumbai-pdpid-4d4235303733393733" target="_blank">Oberoi Eternia</a></li>
+<li><a href="/ostwal-orchid-phase-ii-mira-road-mumbai-pdpid-4d4235303139383739" target="_blank">Ostwal Orchid Phase II</a></li>
+<li><a href="/elanza-santacruz-east-mumbai-pdpid-4d4235303030333031" target="_blank">Elanza</a></li>
+<li><a href="/10-bkc-bandra-kurla-complex-mumbai-pdpid-4d4235303933383733" target="_blank">10 BKC</a></li>
+<li><a href="/vivati-mulund-east-mumbai-pdpid-4d4235303933383435" target="_blank">Vivati</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/jp-decks-blue-goregaon-east-mumbai-pdpid-4d4235303730303531" target="_blank">JP Decks Blue</a></li>
+<li><a href="/meeras-empire-goregaon-west-mumbai-pdpid-4d4235303230353130" target="_blank">Meeras Empire</a></li>
+<li><a href="/horizon-dadar-west-mumbai-pdpid-4d4235303736303232" target="_blank">Horizon</a></li>
+<li><a href="/the-park-worli-mumbai-pdpid-4d4235303230393239" target="_blank">The Park</a></li>
+<li><a href="/sarova-epsilon-kandivali-east-mumbai-pdpid-4d4235303932373435" target="_blank">Sarova Epsilon</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/veda-andheri-east-mumbai-pdpid-4d4235303933373237" target="_blank">Veda</a></li>
+<li><a href="/sumit-hendre-residency-byculla-mumbai-pdpid-4d4235303933373035" target="_blank">Sumit Hendre Residency</a></li>
+<li><a href="/tower-28-malad-east-mumbai-pdpid-4d4235303932323535" target="_blank">Tower 28</a></li>
+<li><a href="/salasar-woods-mira-road-mumbai-pdpid-4d4235303933363535" target="_blank">Salasar Woods</a></li>
+<li><a href="/transcon-triumph-andheri-west-mumbai-pdpid-4d4235303838383334" target="_blank">Transcon Triumph</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/eco-winds-bhandup-west-mumbai-pdpid-4d4235303730363835" target="_blank">Eco Winds</a></li>
+<li><a href="/opulence-chembur-mumbai-pdpid-4d4235303734363736" target="_blank">Opulence</a></li>
+<li><a href="/tridhaatu-aranya-chembur-mumbai-pdpid-4d4235303838333435" target="_blank">Tridhaatu Aranya</a></li>
+<li><a href="/arkade-art-mira-road-mumbai-pdpid-4d4235303233363338" target="_blank">Arkade Art</a></li>
+<li><a href="/oberoi-exquisite-goregaon-east-mumbai-pdpid-4d4235303030363031" target="_blank">Oberoi Exquisite</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+</ul>
+</div>
+<div class="clearAll"></div>
+<div id="browseProjectsContent4" class="browseProjectsContent" style="display:none;">
+<ul>
+<li><a href="/casa-grande-thirumudivakkam-chromepet-chennai-pdpid-4d4235303934303635" target="_blank">Casa Grande Thirumudivakkam</a></li>
+<li><a href="/vishram-oasis-navalur-chennai-pdpid-4d4235303730363332" target="_blank">Vishram Oasis</a></li>
+<li><a href="/sai-krishna-alwarthirunagar-chennai-pdpid-4d4235303934303339" target="_blank">Sai Krishna</a></li>
+<li><a href="/sree-guru-abinaya-pallikaranai-chennai-pdpid-4d4235303934303231" target="_blank">Sree Guru Abinaya</a></li>
+<li><a href="/marutham-breeze-tambaram-west-chennai-pdpid-4d4235303335373838" target="_blank">Marutham Breeze</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/lakshmi-villa-appartments-madambakkam-chennai-pdpid-4d4235303933393933" target="_blank">Lakshmi Villa Appartments</a></li>
+<li><a href="/tharshini-flats-ambattur-chennai-pdpid-4d4235303933393737" target="_blank">Tharshini Flats</a></li>
+<li><a href="/the-village-old-mahabalipuram-road-chennai-pdpid-4d4235303139363437" target="_blank">The Village</a></li>
+<li><a href="/white-homes-tambaram-chennai-pdpid-4d4235303734353733" target="_blank">White Homes</a></li>
+<li><a href="/nandavanam-mugalivakkam-chennai-pdpid-4d4235303933393631" target="_blank">Nandavanam</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/beach-paradise-east-coast-road-chennai-pdpid-4d4235303933393539" target="_blank">Beach Paradise</a></li>
+<li><a href="/aksharas-perumbakkam-chennai-pdpid-4d4235303430343739" target="_blank">Aksharas</a></li>
+<li><a href="/casa-grande-monte-carlo-mount-road-chennai-pdpid-4d4235303933393531" target="_blank">Casa Grande Monte Carlo</a></li>
+<li><a href="/mayura-sholinganallur-chennai-pdpid-4d4235303933393235" target="_blank">Mayura</a></li>
+<li><a href="/prasana-sholinganallur-chennai-pdpid-4d4235303839303938" target="_blank">Prasana</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/devi-paradise-kolathur-chennai-pdpid-4d4235303933383639" target="_blank">Devi Paradise</a></li>
+<li><a href="/sarvam-velachery-chennai-pdpid-4d4235303236343030" target="_blank">Sarvam</a></li>
+<li><a href="/ananthaya-urapakkam-chennai-pdpid-4d4235303933373439" target="_blank">Ananthaya</a></li>
+<li><a href="/the-bloomingdale-pammal-chennai-pdpid-4d4235303432303630" target="_blank">The Bloomingdale</a></li>
+<li><a href="/poonamallee-farms-poonamalle-chennai-pdpid-4d4235303933373433" target="_blank">Poonamallee Farms</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/habitat-siruseri-chennai-pdpid-4d4235303933373039" target="_blank">Habitat</a></li>
+<li><a href="/samedha-maraimalai-nagar-chennai-pdpid-4d4235303933373037" target="_blank">Samedha</a></li>
+<li><a href="/sarveshwari-homes-urapakkam-chennai-pdpid-4d4235303933363831" target="_blank">Sarveshwari Homes</a></li>
+<li><a href="/silver-oaks-korattur-chennai-pdpid-4d4235303832353532" target="_blank">Silver Oaks</a></li>
+<li><a href="/luz-amor-mylapore-chennai-pdpid-4d4235303431343730" target="_blank">Luz Amor</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/marutham-classic-urapakkam-chennai-pdpid-4d4235303230353736" target="_blank">Marutham Classic</a></li>
+<li><a href="/marutham-prestige-tambaram-west-chennai-pdpid-4d4235303239363935" target="_blank">Marutham Prestige</a></li>
+<li><a href="/jk-avenue-medavakkam-chennai-pdpid-4d4235303933353333" target="_blank">JK Avenue</a></li>
+<li><a href="/natwest-vivas-singaperumal-koil-chennai-pdpid-4d4235303933353431" target="_blank">Natwest Vivas</a></li>
+<li><a href="/srivatsas-sri-guhan-enclave-kundrathur-chennai-pdpid-4d4235303832343833" target="_blank">Srivatsas Sri Guhan Enclave</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+</ul>
+</div>
+<div class="clearAll"></div>
+<div id="browseProjectsContent5" class="browseProjectsContent" style="display:none;">
+<ul>
+<li><a href="/lakhanis-orchid-woods-khopoli-navi-mumbai-pdpid-4d4235303236303133" target="_blank">Lakhanis Orchid Woods</a></li>
+<li><a href="/panvel-paradise-new-panvel-navi-mumbai-pdpid-4d4235303838393432" target="_blank">Panvel Paradise</a></li>
+<li><a href="/goldcrest-residency-ghansoli-navi-mumbai-pdpid-4d4235303933383735" target="_blank">Goldcrest Residency</a></li>
+<li><a href="/raj-harmony-phase-ii-panvel-navi-mumbai-pdpid-4d4235303933383633" target="_blank">Raj Harmony Phase II</a></li>
+<li><a href="/sai-shanti-park-taloja-navi-mumbai-pdpid-4d4235303238383133" target="_blank">Sai Shanti Park</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/shanti-aangan-taloja-navi-mumbai-pdpid-4d4235303836393137" target="_blank">Shanti Aangan</a></li>
+<li><a href="/krishna-angan-complex-new-panvel-navi-mumbai-pdpid-4d4235303933373939" target="_blank">Krishna Angan Complex</a></li>
+<li><a href="/tejas-vastupurti-panvel-navi-mumbai-pdpid-4d4235303933363835" target="_blank">Tejas Vastupurti</a></li>
+<li><a href="/mansarovar-residency-shilphata-navi-mumbai-pdpid-4d4235303933363233" target="_blank">Mansarovar Residency</a></li>
+<li><a href="/dev-ratna-taloja-midc-navi-mumbai-pdpid-4d4235303237313337" target="_blank">Dev Ratna</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/pratham-residency-dronagiri-navi-mumbai-pdpid-4d4235303933353635" target="_blank">Pratham Residency</a></li>
+<li><a href="/bhagwati-eleganza-ghansoli-navi-mumbai-pdpid-4d4235303238383437" target="_blank">Bhagwati Eleganza</a></li>
+<li><a href="/neelkanth-exotica-ulwe-navi-mumbai-pdpid-4d4235303731313833" target="_blank">Neelkanth Exotica</a></li>
+<li><a href="/eternia-greenscapes-road-pali-navi-mumbai-pdpid-4d4235303834333337" target="_blank">Eternia Greenscapes</a></li>
+<li><a href="/arihant-amisha-taloje-panchanand-navi-mumbai-pdpid-4d4235303237323934" target="_blank">Arihant Amisha</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/juhi-serenity-ghansoli-navi-mumbai-pdpid-4d4235303931343835" target="_blank">Juhi Serenity</a></li>
+<li><a href="/ghp-sonnet-kharghar-navi-mumbai-pdpid-4d4235303238313638" target="_blank">GHP Sonnet</a></li>
+<li><a href="/dev-luxuria-dronagiri-navi-mumbai-pdpid-4d4235303232383136" target="_blank">Dev Luxuria</a></li>
+<li><a href="/shivani-heritage-panvel-navi-mumbai-pdpid-4d4235303933303133" target="_blank">Shivani Heritage</a></li>
+<li><a href="/pillars-regency-ulwe-navi-mumbai-pdpid-4d4235303932363931" target="_blank">Pillars Regency</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/dudhe-brothers-vitevari-complex-panvel-navi-mumbai-pdpid-4d4235303337343132" target="_blank">Dudhe Brothers Vitevari complex</a></li>
+<li><a href="/juhi-luxuria-kharghar-navi-mumbai-pdpid-4d4235303835353836" target="_blank">Juhi Luxuria</a></li>
+<li><a href="/avenue-one-kharghar-navi-mumbai-pdpid-4d4235303932363831" target="_blank">Avenue One</a></li>
+<li><a href="/sai-proviso-county-panvel-navi-mumbai-pdpid-4d4235303139333733" target="_blank">Sai Proviso County</a></li>
+<li><a href="/proviso-greenwood-kharghar-navi-mumbai-pdpid-4d4235303932363533" target="_blank">Proviso Greenwood</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/sai-proviso-aashlesha-kopar-khairane-navi-mumbai-pdpid-4d4235303732393335" target="_blank">Sai Proviso Aashlesha</a></li>
+<li><a href="/tricity-palacio-seawoods-navi-mumbai-pdpid-4d4235303932363439" target="_blank">Tricity Palacio</a></li>
+<li><a href="/proviso-heights-ulwe-navi-mumbai-pdpid-4d4235303137353739" target="_blank">Proviso Heights</a></li>
+<li><a href="/proviso-corner-ulwe-navi-mumbai-pdpid-4d4235303236353530" target="_blank">Proviso Corner</a></li>
+<li><a href="/green-villas-panvel-navi-mumbai-pdpid-4d4235303231333334" target="_blank">Green Villas</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+</ul>
+</div>
+<div class="clearAll"></div>
+<div id="browseProjectsContent6" class="browseProjectsContent" style="display:none;">
+<ul>
+<li><a href="/bestech-park-view-city-2-sohna-road-gurgaon-pdpid-4d4235303239393234" target="_blank">Bestech Park View City 2</a></li>
+<li><a href="/ashiana-mulberry-sohna-gurgaon-pdpid-4d4235303738383139" target="_blank">Ashiana Mulberry</a></li>
+<li><a href="/vatika-seven-lamps-sector-82-gurgaon-pdpid-4d4235303030303338" target="_blank">Vatika Seven Lamps</a></li>
+<li><a href="/solera-sector-107-gurgaon-pdpid-4d4235303836353739" target="_blank">Solera</a></li>
+<li><a href="/sidhartha-ncr-one-sector-95-gurgaon-pdpid-4d4235303238353134" target="_blank">Sidhartha NCR One</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/elan-town-centre-sector-67-gurgaon-pdpid-4d4235303834313236" target="_blank">Elan Town Centre</a></li>
+<li><a href="/first-desire-dwarka-expressway-gurgaon-pdpid-4d4235303933383931" target="_blank">First Desire</a></li>
+<li><a href="/central-park-flower-valley-sohna-gurgaon-pdpid-4d4235303932313931" target="_blank">Central Park Flower Valley</a></li>
+<li><a href="/tatvam-villas-sohna-road-gurgaon-pdpid-4d4235303136373037" target="_blank">Tatvam Villas</a></li>
+<li><a href="/vatika-gurgaon-21-sector-83-gurgaon-pdpid-4d4235303030303339" target="_blank">Vatika Gurgaon 21</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/bestech-park-view-grand-spa-sector-81-gurgaon-pdpid-4d4235303233333430" target="_blank">Bestech Park View Grand Spa</a></li>
+<li><a href="/m3m-sierra-sector-68-gurgaon-pdpid-4d4235303834313038" target="_blank">M3M Sierra</a></li>
+<li><a href="/emaar-mgf-emerald-floors-sector-65-gurgaon-pdpid-4d4235303130303532" target="_blank">Emaar MGF Emerald Floors</a></li>
+<li><a href="/pivotal-devaan-sector-84-gurgaon-pdpid-4d4235303834333637" target="_blank">Pivotal Devaan</a></li>
+<li><a href="/apex-our-homes-sector-37c-gurgaon-pdpid-4d4235303239383330" target="_blank">Apex Our Homes</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/ireo-grand-arch-sector-58-gurgaon-pdpid-4d4235303231363439" target="_blank">Ireo Grand Arch</a></li>
+<li><a href="/supertech-azaliya-sector-68-gurgaon-pdpid-4d4235303736393633" target="_blank">Supertech Azaliya</a></li>
+<li><a href="/ireo-victory-valley-sector-67-gurgaon-pdpid-4d4235303231363438" target="_blank">Ireo Victory Valley</a></li>
+<li><a href="/vatika-the-turning-point-sector-88b-gurgaon-pdpid-4d4235303931383733" target="_blank">Vatika The Turning Point</a></li>
+<li><a href="/ireo-skyon-sector-60-gurgaon-pdpid-4d4235303230313733" target="_blank">IREO Skyon</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/raheja-aranya-the-green-city-sohna-road-gurgaon-pdpid-4d4235303139323435" target="_blank">Raheja Aranya The Green City</a></li>
+<li><a href="/ambience-creacions-sector-22-gurgaon-pdpid-4d4235303732313635" target="_blank">Ambience Creacions</a></li>
+<li><a href="/tulip-ivory-sector-70-gurgaon-pdpid-4d4235303137313539" target="_blank">Tulip IVORY</a></li>
+<li><a href="/mapsko-casa-bella-sector-82-gurgaon-pdpid-4d4235303230363030" target="_blank">Mapsko Casa Bella</a></li>
+<li><a href="/project-vatika-city-sector-49-gurgaon-pdpid-4d4235303136383733" target="_blank">Project Vatika City</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/ansal-highland-park-sector-103-gurgaon-pdpid-4d4235303031323036" target="_blank">Ansal Highland Park</a></li>
+<li><a href="/mahindra-aura-sector-110a-gurgaon-pdpid-4d4235303238343934" target="_blank">Mahindra Aura</a></li>
+<li><a href="/dlf-new-town-heights-1-sector-90-gurgaon-pdpid-4d4235303836383036" target="_blank">DLF New Town Heights 1</a></li>
+<li><a href="/dlf-new-town-heights-sector-86-gurgaon-pdpid-4d4235303232373335" target="_blank">DLF New Town Heights</a></li>
+<li><a href="/the-melia-sohna-sector-35-gurgaon-pdpid-4d4235303432313935" target="_blank">The Melia</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+</ul>
+</div>
+<div class="clearAll"></div>
+<div id="browseProjectsContent7" class="browseProjectsContent" style="display:none;">
+<ul>
+<li><a href="/rajwada-altitude-e-m-bypass-kolkata-pdpid-4d4235303430333236" target="_blank">Rajwada Altitude</a></li>
+<li><a href="/magnolia-skyview-signature-new-town-kolkata-pdpid-4d4235303934303337" target="_blank">Magnolia Skyview Signature</a></li>
+<li><a href="/metro-heights-international-airport-kolkata-pdpid-4d4235303933393935" target="_blank">Metro Heights</a></li>
+<li><a href="/bhabani-swurupa-co-op-housing-society-kalyani-kolkata-pdpid-4d4235303933393733" target="_blank">Bhabani Swurupa Co Op Housing Society</a></li>
+<li><a href="/kinnor-garden-prantik-palli-kolkata-pdpid-4d4235303933393633" target="_blank">Kinnor Garden</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/anandi-apartment-rajarhat-kolkata-pdpid-4d4235303235393731" target="_blank">Anandi Apartment</a></li>
+<li><a href="/tulip-garden-narendrapur-kolkata-pdpid-4d4235303835333239" target="_blank">Tulip Garden</a></li>
+<li><a href="/shrachi-dakhinatya-baruipur-kolkata-pdpid-4d4235303330373532" target="_blank">Shrachi Dakhinatya</a></li>
+<li><a href="/siddha-galaxia-phase-2-rajarhat-kolkata-pdpid-4d4235303735303039" target="_blank">Siddha Galaxia Phase 2</a></li>
+<li><a href="/gurukul-grande-new-town-kolkata-pdpid-4d4235303331333437" target="_blank">Gurukul Grande</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/ira-paradise-garia-kolkata-pdpid-4d4235303933393031" target="_blank">IRA Paradise</a></li>
+<li><a href="/green-town-township-phase-i-and-ii-joka-kolkata-pdpid-4d4235303933383939" target="_blank">Green Town Township Phase I and II</a></li>
+<li><a href="/meghdoot-bagnan-kolkata-pdpid-4d4235303933383635" target="_blank">Meghdoot</a></li>
+<li><a href="/siddha-apartment-keshtopur-kolkata-pdpid-4d4235303933383333" target="_blank">Siddha Apartment</a></li>
+<li><a href="/jayashree-residency-behala-chowrasta-kolkata-pdpid-4d4235303933383239" target="_blank">Jayashree Residency</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/sukriti-birati-kolkata-pdpid-4d4235303235343738" target="_blank">Sukriti</a></li>
+<li><a href="/shib-durga-arcade-baghajatin-kolkata-pdpid-4d4235303933373633" target="_blank">Shib Durga Arcade</a></li>
+<li><a href="/royal-residency-rajarhat-kolkata-pdpid-4d4235303731303939" target="_blank">Royal Residency</a></li>
+<li><a href="/mohini-villa-phase-2-kaikhali-kolkata-pdpid-4d4235303933373333" target="_blank">Mohini Villa Phase 2</a></li>
+<li><a href="/megh-mani-e-m-bypass-kolkata-pdpid-4d4235303933373233" target="_blank">Megh Mani</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/kanchenjunga-rajpur-sonarpur-kolkata-pdpid-4d4235303933373137" target="_blank">Kanchenjunga</a></li>
+<li><a href="/kalpataru-residency-baranagar-kolkata-pdpid-4d4235303933363633" target="_blank">Kalpataru Residency</a></li>
+<li><a href="/bhagawati-connect-chandni-chawk-kolkata-pdpid-4d4235303933363339" target="_blank">Bhagawati Connect</a></li>
+<li><a href="/arihant-viento-topsia-kolkata-pdpid-4d4235303735303030" target="_blank">Arihant Viento</a></li>
+<li><a href="/basanta-rajarhat-kolkata-pdpid-4d4235303933353831" target="_blank">Basanta</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/meena-glory-rajarhat-kolkata-pdpid-4d4235303330333930" target="_blank">Meena Glory</a></li>
+<li><a href="/kahm-tower-dharmatala-kolkata-pdpid-4d4235303933343635" target="_blank">Kahm Tower</a></li>
+<li><a href="/metro-city-joka-kolkata-pdpid-4d4235303232383831" target="_blank">Metro City</a></li>
+<li><a href="/shreshta-garden-rajarhat-main-road-kolkata-pdpid-4d4235303138323037" target="_blank">Shreshta Garden</a></li>
+<li><a href="/akretee-enclave-chetla-kolkata-pdpid-4d4235303933343031" target="_blank">Akretee Enclave</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+</ul>
+</div>
+<div class="clearAll"></div>
+<div id="browseProjectsContent8" class="browseProjectsContent" style="display:none;">
+<ul>
+<li><a href="/templetown-ii-yadagirigutta-hyderabad-pdpid-4d4235303934303435" target="_blank">Templetown II</a></li>
+<li><a href="/silicon-city-velimela-hyderabad-pdpid-4d4235303934303239" target="_blank">Silicon City</a></li>
+<li><a href="/nsk-exotica-kukatpally-hyderabad-pdpid-4d4235303933393831" target="_blank">NSK Exotica</a></li>
+<li><a href="/salarpuria-sattva-necklace-pride-kavadiguda-hyderabad-pdpid-4d4235303138343936" target="_blank">Salarpuria Sattva Necklace Pride</a></li>
+<li><a href="/sark-green-plains-adibatla-hyderabad-pdpid-4d4235303832313335" target="_blank">Sark Green Plains</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/lanco-hills-manikonda-hyderabad-pdpid-4d4235303231303136" target="_blank">Lanco Hills</a></li>
+<li><a href="/florina-life-blooming-kokapet-hyderabad-pdpid-4d4235303933393139" target="_blank">Florina Life Blooming</a></li>
+<li><a href="/oyster-blue-ghatkesar-hyderabad-pdpid-4d4235303932303933" target="_blank">Oyster Blue</a></li>
+<li><a href="/vasathi-anandi-appa-junction-hyderabad-pdpid-4d4235303136393135" target="_blank">Vasathi Anandi</a></li>
+<li><a href="/vasathi-navya-chintal-hyderabad-pdpid-4d4235303136393136" target="_blank">Vasathi Navya</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/golden-galaxy-shadnagar-hyderabad-pdpid-4d4235303933373937" target="_blank">Golden Galaxy</a></li>
+<li><a href="/happy-homes-nest-sainikpuri-hyderabad-pdpid-4d4235303739323532" target="_blank">Happy Homes Nest</a></li>
+<li><a href="/incor-one-city-hitech-city-hyderabad-pdpid-4d4235303836323138" target="_blank">Incor One City</a></li>
+<li><a href="/raghuram-a2a-lifespaces-balanagar-hyderabad-pdpid-4d4235303931373932" target="_blank">Raghuram A2A Lifespaces</a></li>
+<li><a href="/elysian-kondapur-hyderabad-pdpid-4d4235303933323335" target="_blank">Elysian</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/first-leaf-gachibowli-hyderabad-pdpid-4d4235303139353931" target="_blank">First Leaf</a></li>
+<li><a href="/jubilee-cyber-grande-madhapur-hyderabad-pdpid-4d4235303030383333" target="_blank">Jubilee Cyber Grande</a></li>
+<li><a href="/bliss-meadows-madinaguda-hyderabad-pdpid-4d4235303933303039" target="_blank">Bliss Meadows</a></li>
+<li><a href="/spring-valley-manikonda-hyderabad-pdpid-4d4235303932393537" target="_blank">Spring Valley</a></li>
+<li><a href="/blue-birds-habitat-yousufguda-hyderabad-pdpid-4d4235303837313337" target="_blank">Blue Birds Habitat</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/sv-brindavanam-boduppal-hyderabad-pdpid-4d4235303932393432" target="_blank">SV Brindavanam</a></li>
+<li><a href="/avighna-appa-junction-hyderabad-pdpid-4d4235303836303830" target="_blank">Avighna</a></li>
+<li><a href="/sm-avenue-bandlaguda-hyderabad-pdpid-4d4235303932393235" target="_blank">SM Avenue</a></li>
+<li><a href="/tranquillas-kismatpur-hyderabad-pdpid-4d4235303338313539" target="_blank">Tranquillas</a></li>
+<li><a href="/urban-one-narsingi-hyderabad-pdpid-4d4235303236393534" target="_blank">Urban One</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+<li><a href="/sark-garden-villas-mokila-hyderabad-pdpid-4d4235303932383732" target="_blank">Sark Garden Villas</a></li>
+<li><a href="/empire-meadows-miyapur-hyderabad-pdpid-4d4235303232343432" target="_blank">Empire Meadows</a></li>
+<li><a href="/green-livings-adibatla-hyderabad-pdpid-4d4235303932383438" target="_blank">Green Livings</a></li>
+<li><a href="/magnus-jubilee-hills-hyderabad-pdpid-4d4235303932383233" target="_blank">Magnus</a></li>
+<li><a href="/the-smart-city-maheshwaram-hyderabad-pdpid-4d4235303932383031" target="_blank">The Smart City</a></li>
+</ul>
+<div class="clearAll"></div>
+<ul>
+</ul>
+</div>
+<div class="clearAll"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="stripBannerWrap" id="middleStrip18" style="display: none"></div>
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<link rel="stylesheet" href="http://cdn.staticmb.com/css/agentSlider.css" type="text/css"/>
+<link rel="stylesheet" href="http://cdn.staticmb.com/css/browserNoti.css?0.196" type="text/css">
+<script type="text/javascript" src="http://cdn.staticmb.com/scripts/vizury.js"></script>
+<script type="text/javascript">
+	var ss2respjson ={"pid":"0E8B9BF3-2ab5-3928-5a14-74a445ba2be0","responsecode":"0","reason":"","url":"/bricks/callShieldAPI.html","dynamic_JS":"var __uzdbm_c = 2+2;"};
+	var __uzdbm_a =ss2respjson.pid;
+	var __uzdbm_b = ss2respjson.url;
+	 
+        "var __uzdbm_c = 2+2;"
+     
+
+</script>
+<script async type="text/javascript" src="https://cdn.perfdrive.com/static/browser_detect_min.js"></script>
+<div id="flslider"></div>
+<script type="text/javascript">
+function createCookieFooterNew(name, value, hour){
+	  var expires = "";
+	  if (hour) {
+	    var date = new Date();
+	    date.setTime(date.getTime()+(hour*60*60*1000));
+	    expires ="; expires="+date.toGMTString();
+	  }
+	  document.cookie = name+"="+value+expires+"; domain=.magicbricks.com; path=/";
+}
+function createCookieNotification(name, value, hour){
+	  var expires = "";
+	  if (hour) {
+	    var date = new Date();
+	    date.setTime(date.getTime()+(hour*60*60*1000));
+	    expires ="; expires="+date.toGMTString();
+	  }
+	  document.cookie = name+"="+value+expires+"; path=/";
+}
+function eraseCookie(c_name) {
+    createCookie(cookie_name,"",-1);
+}
+function readCookie(name){
+	  var ca = document.cookie.split(';');
+	  var nameEQ = name + "=";
+	  for(var i=0; i < ca.length; i++) {
+	    var c = ca[i];
+	    while (c.charAt(0)==' ') c = c.substring(1, c.length); 
+	    if (c.indexOf(nameEQ) == 0){
+	    	retVal=c.substring(nameEQ.length, c.length);
+	    	if(name=='userTypeflSlider' && retVal.indexOf(",")>0)
+	    		return retVal.substring(0, retVal.indexOf(","));
+	    	else if(name=='userEmailflSlider'){
+		    	return retVal.replace(/^"(.*)"$/, '$1');
+		    }else if(name=='userNameflSlider'){
+		    	return retVal.replace(/^"(.\*)"$/, '$1');
+		    }
+	    	else
+	    		return retVal;
+	    }
+	   }
+	  return null;
+}
+
+function closeslider(){
+	createCookieFooterNew("flsliderPopup","N",24);
+	$("#flslider").hide();
+}
+function actionTaken(){
+	createCookieFooterNew("flsliderPopup","N",24);
+	$("#flslider").hide();
+}
+
+	if(readCookie("flsliderPopup") !=null && readCookie("flsliderPopup") == "Y" && readCookie("userTypeflSlider") !=null && readCookie("userTypeflSlider") == "A"){
+		if(readCookie("sliderToShow") !=null && readCookie("sliderToShow") =='true'){
+			if(readCookie("agentcatg") =='6'){
+				//design 3 starts
+				var finalHTML="";
+				finalHTML="<div class=\"agentSlider\">";
+						finalHTML+="<div class=\"agentSliderInner\">";
+					    	finalHTML+="<div class=\"successImg\"><span class=\"freeListImg\"></span></div>";
+					        finalHTML+="<div class=\"successMes\">";
+					        if(readCookie("userNameflSlider") !="" && readCookie("userNameflSlider") !=null){
+					        	finalHTML+="<div class=\"congMes\">Hi "+readCookie("userNameflSlider")+"!!</div>";
+					        } else {
+					        	finalHTML+="<div class=\"congMes\">Hi User!!</div>";
+					        }
+				            finalHTML+="<div class=\"freeList\">Register with us & get <strong>25 Free Listings</strong></div>";
+				            finalHTML+="<div><a href=\'http://www.magicbricks.com/bricks/User-Registration1?src=agentslider\' onClick=\"actionTaken();\" target=\"_blank\">Register Now</a></div>";
+				            finalHTML+="<div class=\"offer\">*Limited Period Offer</div>";
+					    	finalHTML+="</div>";
+					        finalHTML+="<div><a href=\"javascript:void(0);\" class=\"closeImg\" onClick=\"closeslider();\"></a></div>";
+					        finalHTML+="<div class=\"clearAll\"></div>";
+						finalHTML+="</div>";
+					finalHTML+="</div>";
+					document.getElementById("flslider").innerHTML = finalHTML;
+				//design 3 ends
+			} else if(readCookie("agentcatg") =='5'){
+				//design 2 starts
+				var finalHTML="";
+				finalHTML="<div class=\"agentSlider\">";
+						finalHTML+="<div class=\"agentSliderInner\">";
+					    	finalHTML+="<div class=\"successImg\"><span class=\"thumbImg\"></span></div>";
+					        finalHTML+="<div class=\"successMes\">";
+					        if(readCookie("userNameflSlider") !="" && readCookie("userNameflSlider") !=null){
+					        	finalHTML+="<div class=\"congMes\">Congratulations "+readCookie("userNameflSlider")+"!!</div>";
+					        } else {
+					        	finalHTML+="<div class=\"congMes\">Congratulations User!!</div>";
+					        }
+				            finalHTML+="<div class=\"freeList\">We've credited <strong>25 Free Listings</strong> to your account</div>";
+				            finalHTML+="<div><a href=\'http://post.magicbricks.com/postproperty/post-property-for-sale-rent/residential-commercial?src=agentslider\' onClick=\"actionTaken();\" target=\"_blank\">Start Posting Now</a></div>";
+				            finalHTML+="<div class=\"offer\">*Limited Period Offer</div>";
+					    	finalHTML+="</div>";
+					        finalHTML+="<div><a href=\"javascript:void(0);\" class=\"closeImg\" onClick=\"closeslider();\"></a></div>";
+					        finalHTML+="<div class=\"clearAll\"></div>";
+						finalHTML+="</div>";
+					finalHTML+="</div>";
+					document.getElementById("flslider").innerHTML = finalHTML;
+				//design 2 ends
+			} else if(readCookie("agentcatg") =='4' && readCookie("restunitVal") !='0'){
+				//design 1 starts
+					var finalHTML="";
+					finalHTML="<div class=\"agentSlider\">";
+						finalHTML+="<div class=\"agentSliderInner\">";
+					    	finalHTML+="<div class=\"successImg\"><span class=\"remainListImg\"></span></div>";
+					        finalHTML+="<div class=\"successMes\">";
+					        if(readCookie("userNameflSlider") !="" && readCookie("userNameflSlider") !=null){
+					        	finalHTML+="<div class=\"congMes\">Hi "+readCookie("userNameflSlider")+"!!</div>";
+					        } else {
+					        	finalHTML+="<div class=\"congMes\">Hi User!!</div>";
+					        }
+				            finalHTML+="<div class=\"freeList\">You have <strong>"+readCookie("restunitVal")+" Free Listings</strong> left in your account</div>";
+				            finalHTML+="<div><a href=\'http://post.magicbricks.com/postproperty/post-property-for-sale-rent/residential-commercial?src=agentslider\' onClick=\"actionTaken();\" target=\"_blank\">Post Property Now</a></div>";
+				            finalHTML+="<div class=\"offer\">Listing pack valid till "+readCookie("validate")+"</div>";
+					    	finalHTML+="</div>";
+					        finalHTML+="<div><a href=\"javascript:void(0);\" class=\"closeImg\" onClick=\"closeslider();\"></a></div>";
+					        finalHTML+="<div class=\"clearAll\"></div>";
+						finalHTML+="</div>";
+					finalHTML+="</div>";
+					document.getElementById("flslider").innerHTML = finalHTML;
+				//design 1 ends
+			}
+		}
+	} else if (readCookie("flsliderPopup") !=null && readCookie("flsliderPopup") == "N"){
+		//do nothing
+	} else {
+	if(readCookie("userEmailflSlider") !=null && readCookie("userEmailflSlider") !="" && readCookie("userTypeflSlider") !=null && readCookie("userTypeflSlider") == "A"){
+	ajaxService.checkingAgentCategoryToChooseDesign(readCookie("userNameflSlider"),readCookie("userEmailflSlider"),{callback:function (val){
+			if(val){
+				if(val.showslider !=null && val.showslider =='true'){
+					if(val.catg =='6'){
+						//design 3 starts
+						var finalHTML="";
+						finalHTML="<div class=\"agentSlider\">";
+						finalHTML+="<div class=\"agentSliderInner\">";
+					    	finalHTML+="<div class=\"successImg\"><span class=\"freeListImg\"></span></div>";
+					        finalHTML+="<div class=\"successMes\">";
+					        	finalHTML+="<div class=\"congMes\">Hi "+val.name+"!!</div>";
+					            finalHTML+="<div class=\"freeList\">Register with us & get <strong>25 Free Listings</strong></div>";
+					            finalHTML+="<div><a href=\'http://www.magicbricks.com/bricks/User-Registration1?src=agentslider\' onClick=\"actionTaken();\" target=\"_blank\">Register Now</a></div>";
+					            finalHTML+="<div class=\"offer\">*Limited Period Offer</div>";
+					    	finalHTML+="</div>";
+					        finalHTML+="<div><a href=\"javascript:void(0);\" class=\"closeImg\" onClick=\"closeslider();\"></a></div>";
+					        finalHTML+="<div class=\"clearAll\"></div>";
+						finalHTML+="</div>";
+						finalHTML+="</div>";
+						document.getElementById("flslider").innerHTML = finalHTML;
+						//design 3 ends
+					} else if(val.catg =='5'){
+						//design 2 starts
+							var finalHTML="";
+							finalHTML="<div class=\"agentSlider\">";
+							finalHTML+="<div class=\"agentSliderInner\">";
+						    	finalHTML+="<div class=\"successImg\"><span class=\"thumbImg\"></span></div>";
+						        finalHTML+="<div class=\"successMes\">";
+						        	finalHTML+="<div class=\"congMes\">Congratulations "+val.name+"!!</div>";
+						            finalHTML+="<div class=\"freeList\">We've credited <strong>25 Free Listings</strong> to your account</div>";
+						            finalHTML+="<div><a href=\'http://post.magicbricks.com/postproperty/post-property-for-sale-rent/residential-commercial?src=agentslider\' onClick=\"actionTaken();\" target=\"_blank\">Start Posting Now</a></div>";
+						            finalHTML+="<div class=\"offer\">*Limited Period Offer</div>";
+						    	finalHTML+="</div>";
+						        finalHTML+="<div><a href=\"javascript:void(0);\" class=\"closeImg\" onClick=\"closeslider();\"></a></div>";
+						        finalHTML+="<div class=\"clearAll\"></div>";
+							finalHTML+="</div>";
+							finalHTML+="</div>";
+							document.getElementById("flslider").innerHTML = finalHTML;
+					   //design 2 ends
+					    createCookieFooterNew("totalunitVal",val.totalunit,24);
+					} else if(val.catg =='4' && val.restunits !='0'){
+						//design 1 starts
+						var finalHTML="";
+						finalHTML="<div class=\"agentSlider\">";
+							finalHTML+="<div class=\"agentSliderInner\">";
+						    	finalHTML+="<div class=\"successImg\"><span class=\"remainListImg\"></span></div>";
+						        finalHTML+="<div class=\"successMes\">";
+						        	finalHTML+="<div class=\"congMes\">Hi "+val.name+"!!</div>";
+						            finalHTML+="<div class=\"freeList\">You have <strong>"+val.restunits+" Free Listings</strong> left in your account</div>";
+						            finalHTML+="<div><a href=\'http://post.magicbricks.com/postproperty/post-property-for-sale-rent/residential-commercial?src=agentslider\' onClick=\"actionTaken();\" target=\"_blank\">Post Property Now</a></div>";
+						            finalHTML+="<div class=\"offer\">Listing pack valid till "+val.packValiddate+"</div>";
+						    	finalHTML+="</div>";
+						        finalHTML+="<div><a href=\"javascript:void(0);\" class=\"closeImg\" onClick=\"closeslider();\"></a></div>";
+						        finalHTML+="<div class=\"clearAll\"></div>";
+							finalHTML+="</div>";
+						finalHTML+="</div>";
+						document.getElementById("flslider").innerHTML = finalHTML;
+						//design 1 ends
+						createCookieFooterNew("validate",val.packValiddate,24);
+						createCookieFooterNew("restunitVal",val.restunits,24);
+					}
+					createCookieFooterNew("flsliderPopup","Y",24);
+					createCookieFooterNew("agentcatg",val.catg,24);
+					createCookieFooterNew("sliderToShow",val.showslider,24);
+				}
+	 		}
+		 },async:true});
+	   }
+	}
+
+
+setTimeout(function(){
+    $(".agentSlider").animate({right:"0"},500);
+}, 9500);
+
+</script>
+<div id='notification'></div>
+<div class="globalFooter clearfix">
+<div class="globalFooterLinks clearfix">
+<div class="middleData">
+<div class="fSection fSection1">
+<div class="SiteDescription"><p><span class="textWhiteBold">MagicBricks.com</span> is <span class="textWhiteBold">India's No 1</span> Property portal and has been adjudged as the most preferred property site in India, by independent surveys. The portal provides a platform for property buyers and sellers to locate properties of interest and source information on the real estate space in a transparent and unambiguous manner.</p></div>
+<div class="linksBlock clearfix">
+<h4>Resource Center</h4>
+<div>
+<ul>
+<li><a target="_blank" href="http://www.magicbricks.com/bricks/campaign.html?pageName=http://advice.magicbricks.com&campaignCode=footer_propertyAdvice_200814">Advice</a></li></ul>
+<ul>
+<li><a target="_blank" href="http://www.magicbricks.com/forum">Real Estate Forum</a></li></ul>
+<ul>
+<li><a target="_blank" href="http://content.magicbricks.com/">Property News</a></li></ul>
+</div>
+</div>
+<div class="linksBlock">
+<h4>MAGICBRICKS Essentials</h4>
+<div>
+<ul>
+<li><a href="http://www.magicbricks.com/postproperty/post-property-for-sale-rent/residential-commercial">Sell/Rent Property</a></li>
+<li><a href="http://www.magicbricks.com/apply-for-loan" rel="nofollow">Apply for Home Loan</a></li>
+<li><a href="http://www.magicbricks.com/advertise-with-us" rel="nofollow">Advertise with Us</a></li>
+<li><a href="http://www.magicbricks.com/advertisers-support/" title="Advertisers Support" target="_blank">Advertisers Support</a></li>
+</ul>
+<ul><li><a href="http://www.magicbricks.com/property-requirement-to-buy-rent/residential-commercial">Post Requirements</a></li>
+<li><a target="_blank" href="http://www.magicbricks.com/bricks/campaign.html?pageName=http://decor.magicbricks.com/&campaignCode=bottom_decor">Home Decor</a></li>
+<li><a onclick="javascript:feedbackPopup('http://www.ceoconnect.in/feedback/onlineFeedbackForm.html?siteId=1000&seType=magicbricks.com&from='+escape(window.location.href));" href="javascript:void();" rel="nofollow">Feedback</a></li>
+<li><a href="http://property.magicbricks.com" title="Real Estate Developers" target="_blank">Real Estate Developers</a></li>
+</ul>
+<ul>
+<li><a href="http://www.magicbricks.com/Property-Rates-Trends">Rates &amp; Trends</a></li>
+<li><a href="http://www.magicbricks.com/bricks/campaign.html?pageName=http://property.magicbricks.com/microsite/buy/magicbricks-on-mobile/index.html&campaignCode=home_lhs_magicbricks-on-mobile_310811">Magicbricks on Mobile</a></li>
+<li><a href="http://www.magicbricks.com/bricks/unSubscribeMailerStatus.html">Unsubscribe</a></li>
+<li><a target="_blank" href="http://property.magicbricks.com/real-estate-projects.html">All Projects</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fSection fSection2">
+<div class="linksBlock">
+<h4>REAL ESTATE IN INDIA</h4>
+<div>
+<ul>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Ahmedabad/residential-real-estate-Ahmedabad">Property in Ahmedabad</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Trivandrum/residential-real-estate-Trivandrum">Property in Trivandrum</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Lucknow/residential-real-estate-Lucknow">Property in Lucknow</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Mumbai/residential-real-estate-Mumbai">Property in Mumbai</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Jaipur/residential-real-estate-Jaipur">Property in Jaipur</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Chennai/residential-real-estate-Chennai">Property in Chennai</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Bhubaneswar/residential-real-estate-Bhubaneswar">Property in Bhubaneswar</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Bangalore/residential-real-estate-Bangalore">Property in Bangalore</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Hyderabad/residential-real-estate-Hyderabad">Property in Hyderabad</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Mohali/residential-real-estate-Mohali">Property in Mohali</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Greater Noida/residential-real-estate-Greater Noida">Property in Greater Noida</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Nashik/residential-real-estate-Nashik">Property in Nashik</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Bhiwadi/residential-real-estate-Bhiwadi">Property in Bhiwadi</a> </li>
+<li><a href="http://www.magicbricks.com/property-for-sale-rent-in-Bhopal/residential-real-estate-Bhopal">Property in Bhopal</a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fSection fSection3">
+<div class="linksBlock">
+<h4>NEW PROJECTS IN INDIA</h4>
+<div>
+<ul>
+<li><a href="http://www.magicbricks.com/Real-estate-projects-search/ALL-RESIDENTIAL-new-project-Pune">New Projects in Pune</a></li>
+<li><a href="http://www.magicbricks.com/Real-estate-projects-search/ALL-RESIDENTIAL-new-project-Bangalore">New Projects in Bangalore</a></li>
+<li><a href="http://www.magicbricks.com/Real-estate-projects-search/ALL-RESIDENTIAL-new-project-Mumbai">New Projects in Mumbai</a></li>
+<li><a href="http://www.magicbricks.com/Real-estate-projects-search/ALL-RESIDENTIAL-new-project-Chennai">New Projects in Chennai</a></li>
+<li><a href="http://www.magicbricks.com/Real-estate-projects-search/ALL-RESIDENTIAL-new-project-Hyderabad">New Projects in Hyderabad</a></li>
+<li><a href="http://www.magicbricks.com/Real-estate-projects-search/ALL-RESIDENTIAL-new-project-Noida">New Projects in Noida</a></li>
+<li><a href="http://www.magicbricks.com/Real-estate-projects-search/ALL-RESIDENTIAL-new-project-Gurgaon">New Projects in Gurgaon</a></li>
+</ul>
+</div>
+</div>
+<div class="linksBlock">
+<h4>PROPERTY SERVICES</h4>
+<div>
+<ul>
+<li><a href="http://www.magicbricks.com/property-for-sale/ALL-RESIDENTIAL-real-estate-Bangalore" target="_blank">Search Property</a></li>
+<li><a href="http://www.magicbricks.com/Real-estate-projects-search/ALL-RESIDENTIAL-new-project-Bangalore" target="_blank">Search Projects</a></li>
+<li><a target="_blank" href="http://agent.magicbricks.com">Search Agents</a></li>
+<li><a href="http://www.magicbricks.com/User-Registration1" rel="nofollow">Register Now</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fSection fSection4">
+<div class="linksBlock">
+<h4>COMPANY</h4>
+<div>
+<ul>
+<li><a href="http://blog.magicbricks.com/" target="_blank">Blog</a></li>
+<li><a href="http://www.magicbricks.com/careers" title="Careers" rel="nofollow" target="_blank" class="carp"><span class="car"></span>Careers</a></li>
+<li><a href="http://property.magicbricks.com/testimonials/testimonials.htm" title="Testimonials" target="_blank" class="tesp"><span class="tes"></span>Testimonials</a></li>
+<li><a href="http://www.magicbricks.com/contactUs" title="Customer Care" class="ccp" rel="nofollow"><span class="cc"></span>Customer Care</a></li>
+<li><a href="http://property.magicbricks.com/terms/terms.html" target="_blank" title="Terms &amp; Conditions" class="tcp" rel="nofollow"><span class="tc" rel="nofollow"></span>Terms &amp; Conditions</a></li>
+<li><a href="http://property.magicbricks.com/terms/privacy-policy.html" target="_blank" title="Privacy Policy" class="ppp" rel="nofollow"><span class="pp"></span>Privacy Policy</a></li>
+<li><a href="http://www.magicbricks.com/sitemap.html" title="Sitemap" target="_blank" class="sitp"><span class="sit"></span>Sitemap</a></li>
+<li><a href="http://www.magicbricks.com/sitemap-locality-reviews.htm" title="Locality Sitemap" target="_blank" class="lsp"><span class="ls"></span>Locality Sitemap</a></li>
+</ul>
+</div>
+</div>
+<div class="linksBlock">
+<h4>SOCIAL MEDIA</h4>
+<div>
+<ul>
+<li><a href="http://www.facebook.com/magicbricks" target="_blank" class="face" title="Facebook" rel="nofollow"><span class="iconSocialMedia iconFB"></span>Facebook</a></li>
+<li><a href="https://twitter.com/magicbricks" target="_blank" class="twit" title="Twitter" rel="nofollow"><span class="iconSocialMedia iconTwitter"></span>Twitter</a></li>
+<li><a href="http://www.linkedin.com/groups?mostPopular=&gid=2373727" target="_blank" class="link" title="Linkedin" rel="nofollow"><span class="iconSocialMedia iconLinkedin"></span>Linkedin</a></li>
+<li> <a href="https://plus.google.com/111015854483076003257" target="_blank" class="gPlus" title="g+" rel="nofollow"><span class="iconSocialMedia iconGP"></span>Google Plus</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="SiteDisclaimer clearfix">
+<div class="middleData">
+<div class="mbSFootr"></div>
+</div>
+</div>
+<div class="SiteCopyRights clearfix">
+<div class="middleData">
+<p>All trademarks, logos and names are properties of their respective owners. All Rights Reserved. &copy; Copyright 2016 Magicbricks Realty Services Limited.</p>
+</div></div>
+</div>
+<div id="dataCont">
+<script type="text/javascript">
+		var domainUrl = 'http://www.magicbricks.com';
+		//var jsPath = 'http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/';
+		var jsPath = 'http://cdn.staticmb.com/scripts/';
+		var GOOGLE_MAP_KEY_API_V3 = 'http://maps.googleapis.com/maps/api/js?key=AIzaSyC_YU1YQKR4YoafqUTg2vsoPS1JHqW-pto&sensor=false';
+		var SITE_DOMAIN_URL = 'http://www.magicbricks.com/bricks/';
+		var POST_PROPERTY_DOMAIN_URL = 'http://post.magicbricks.com/postproperty/';
+</script>
+<link rel="stylesheet" href="http://cdn.staticmb.com/css/compareSortList.css?0.196" media="all" type="text/css"/>
+<script type="text/javascript" src="http://cdn.staticmb.com/scripts/compareSortList.js?1.183" defer="defer"></script>
+<script>
+	var serverName='www.magicbricks.com';
+	if(serverName.indexOf("magicbricks")>=0){
+		serverName=".magicbricks.com";
+	}
+	var contextPath="/bricks/";
+</script>
+<div id="compareWidget">
+<div class="closeWidget" style="display:none"><span></span></div>
+<div class="widgetInner">
+<div id="widgetLoader" style="display:none">
+<div class="loaderAnimation"><span><img src="http://cdn.staticmb.com/images/mbLoader.gif" width="45" height="45" alt="Loader"/> Loading Results</span></div>
+</div>
+<div id="compareSection">
+<div class="compareContent">
+<div class="tabs">
+<ul>
+<li class="active" id="compareProjectTab">Projects</li>
+<li id="compareLocalityTab">Localities</li>
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+<div id="compareProjects">
+<div class="widgetNSR" id="compareProjectsNSR">
+<div>You have not added any<br>Locality/Project to compare.</div>
+<p>Click on 'Add to compare' to compare.</p>
+<div class="addCompareBtn"><img width="205" height="47" alt="Add to compare" src="http://cdn.staticmb.com/images/addCompareBtn.gif"></div>
+</div>
+<div id="compareProp"></div>
+<div class="compareBtn"><a href="#" id="compareProjectHref">Compare Projects</a></div>
+</div>
+<div id="compareLocalities">
+<div class="widgetNSR" id="compareLocalitiesNSR">
+<div>You have not added any<br>Locality/Project to compare.</div>
+<p>Click on 'Add to compare' to compare.</p>
+<div class="addCompareBtn"><img width="205" height="47" alt="Add to compare" src="http://cdn.staticmb.com/images/addCompareBtn.gif"></div>
+</div>
+<div id="compareLocality"></div>
+<div class="compareBtn"><a href="#" id="compareLocalityHref">Compare Localities</a></div>
+</div>
+</div>
+<div id="shortlistSection">
+<div class="compareContent">
+<div class="tabs">
+<ul>
+<li class="active" id="shortlistPropertyTab">Properties</li>
+<li id="shortlistProjectTab">Projects</li>
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+<div id="shortlistProperties">
+<div class="widgetNSR" id="shortlistPropertiesNSR">
+<div>You have not shortlisted any<br>Property/Project.</div>
+<p>Click on 'Shortlist button' to add.</p>
+<div class="addCompareBtn"><img width="151" height="47" alt="Shortlist" src="http://cdn.staticmb.com/images/shortlistedBtn.gif"></div>
+</div>
+<div class="scrollContent">
+<div id="shortListProp"></div>
+</div>
+<div class="compareBtn"><a href="/bricks/savedPropertySearchResultPage.html" target="_blank">View All</a></div>
+</div>
+<div id="shortlistProjects">
+<div class="widgetNSR" id="shortlistProjectsNSR">
+<div>You have not shortlisted any<br>Property/Project.</div>
+<p>Click on 'Shortlist button' to add.</p>
+<div class="addCompareBtn"><img width="151" height="47" alt="Shortlist" src="http://cdn.staticmb.com/images/shortlistedBtn.gif"></div>
+</div>
+<div class="scrollContent">
+<div id="shortListProj"></div>
+</div>
+<div class="compareBtn"><a href="/bricks/savedPropertySearchResultPage.html?activeTabValue=project" target="_blank">View All</a></div>
+</div>
+</div>
+</div>
+<div class="widgetTabs">
+<ul>
+<li class="compareTab active" id="projLocCompareData"><span class="arrowTab"></span>Compare<span class="selectedListing" id="addToCompareNumber">0</span></li>
+<li class="shortlistTab" id="propProjCompareData"><span class="arrowTab"></span>ShortList<span class="selectedListing" id="shortlistNumber">0</span></li>
+</ul>
+<div class="clearAll"></div>
+</div>
+</div>
+<script>
+function showSavedCallout(){
+	try{
+		if(!(typeof window.showSavedCalloutPropProjLoc === 'undefined')){
+			showSavedCalloutPropProjLoc();  
+		}
+	}catch(e){
+		if(!(typeof window.errorHandler === 'undefined')){
+			errorHandler('FooterNew.jsp', 'showSavedCallout', e);
+		}
+	}
+}
+</script>
+</div>
+<div id='_webengage_script_tag'></div>
+<script type="text/javascript">
+
+// Browser Notification code start -----------------------------------------------------------------------------
+var messageType=window.location.href;
+var notCounter='';
+var category='Genric';
+var firstScreenMsg='Instantly get notified when a new property is posted';
+var secondScreenMsg='Get latest property updates by subscribing to our Notification';
+var browserAgfent=window.navigator.userAgent;
+if((browserAgfent.indexOf('Firefox')!=-1) || (browserAgfent.indexOf('Chrome')!=-1) ||  (browserAgfent.indexOf('Safari')=-1))
+{
+
+
+if(messageType.indexOf("/property-for-sale/")!=-1)
+{
+firstScreenMsg='Be the first one to know about property deals on Magicbricks';
+secondScreenMsg='Get Updates about latest Property deals by subscribing to our Notification';
+category='Sale';
+}
+else if(messageType.indexOf("/property-for-rent/")!=-1)
+{
+firstScreenMsg='Instantly get notified when an Owner posts a property';
+secondScreenMsg='Get Updates about Fresh Owner property by subscribing to our Notification';
+category='Rent';
+}
+
+
+var webpush=readCookie('webpush');
+var notificationFlag=readCookie('notificationFlag');
+setTimeout(function(){
+var  notificatioHtml= '';
+notificatioHtml += '<div class="browserNotiPop">';
+	notificatioHtml += '<div class="notifyStep1">';
+    	notificatioHtml += '<div><a href=\"javascript:void(0);\" class=\"notifiClose\" onClick=\"closeNotification();\"></a></div>';
+        notificatioHtml += '<div class="browserNotiLogo"></div>';
+        notificatioHtml += '<div class="browserNotiCont">';
+            notificatioHtml += '<div class="letUsSend">';
+            notificatioHtml += firstScreenMsg+'</div>';
+            notificatioHtml += '<div class="browserNNoti">Subscribe to our notifications.</div>';
+            notificatioHtml += '<div class="actionBlock"><a \"javascript:void(0);\" onClick=\"allowNotification();\" class="allowMe">Allow</a> <a \"javascript:void(0);\" onClick=\"remindMeLater();\" class="remindMeL">Remind me later</a></div>';
+        notificatioHtml += '</div>';
+        notificatioHtml += '<div class="clearAll"></div>';
+     notificatioHtml += '</div>';
+notificatioHtml += '</div>'; 
+if((webpush=='' || webpush==null) && (notificationFlag==null || notificationFlag==''))
+{
+var notCounter=readCookie('notificationCounter');
+if(notCounter==null || notCounter=='')
+{
+notCounter=1;
+createCookieNotification("notificationCounter",notCounter,24);
+document.getElementById("notification").innerHTML = notificatioHtml;
+}
+else
+{
+notCounter=parseInt(notCounter)+1;
+if(parseInt(notCounter)<4)
+{
+createCookieNotification("notificationCounter",notCounter,0);
+document.getElementById("notification").innerHTML = notificatioHtml;
+}
+else
+{
+createCookieNotification("notificationFlag","N",0);
+eraseCookie("notificationCounter");
+}
+
+}
+}
+_gaq.push(['_trackEvent', 'First Popup_'+'indexc.jsp',category]);
+//_gaq.push(['First Popup', 'indexc.jsp', category]);
+}, 15000);
+}
+function allowNotification()
+{
+				$("#notification").hide();
+				var mainwin;
+                var wdh=0.45*screen.width;
+                var hgt=0.45*screen.height;
+                var st="toolbar=0,location=1,directories=0,status=1,menubar=0,scrollbars=1,resizable=0,top=0,left=0,width=552,height=452";
+                mainwin=window.open("https://notification.magicbricks.com/index.html?msg="+secondScreenMsg,"_notify",st);
+				mainwin.focus();
+		var intervalId = setInterval(function() {
+		 var webpush=readCookie('webpush');
+		 if(webpush!=null)
+		 {
+       mainwin.close();
+        
+				            clearInterval(intervalId);
+				            //alert('Window closed! Hoorah!');
+				           
+				            notCounter=readCookie('notificationCounter');
+				          if(webpush!=null && notCounter!='')
+								{
+								try{				
+									var rawDataObject = ntrack.getRawDataObject();
+										rawDataObject.trackingEvent = ntrack.trackingEvent.BrowserNotification;
+										rawDataObject.Source = ntrack.Source.Web;
+										rawDataObject.rid=webpush;
+										rawDataObject.EventActivityType = ntrack.EventActivityType.Others;
+										ntrack.sendRamTrackEvent(rawDataObject);
+									}catch(e){
+										console.log(e);
+									}
+								}
+        					_gaq.push(['_trackEvent', 'Click First Popup Allow_Success'+'indexc.jsp',category]);
+        					}
+    }, 3000);			
+
+_gaq.push(['_trackEvent', 'Click First Popup Allow_'+'indexc.jsp',category]);
+//_gaq.push(['Click First Popup Allow', 'indexc.jsp', category]);
+}
+function remindMeLater()
+{
+$("#notification").hide();
+createCookieNotification("notificationFlag","N",0);
+_gaq.push(['_trackEvent', 'Click First Popup Not Now_'+'indexc.jsp',category]);
+//_gaq.push(['Click First Popup Not Now', 'indexc.jsp', category]);
+}
+function closeNotification()
+{
+$("#notification").hide();
+createCookieNotification("notificationFlag","N",0);
+_gaq.push(['_trackEvent', 'Click  First Popup  Close_'+'indexc.jsp',category]);
+//_gaq.push(['Click  First Popup  Close', 'indexc.jsp', category]);
+}
+
+// Browser Notification code end -----------------------------------------------------------------------------
+
+function loadAdvancedJS()
+{	
+	if(!(typeof isPostProperty === "undefined") && isPostProperty)		
+		loadScript('http://www.magicbricks.comhttp://cdn.staticmb.com/scripts/dwrGroup.js', true);
+	
+	loadScript('http://cdn.staticmb.com/scripts/multiselecthome.js', true);
+	loadScript('http://cdn.staticmb.com/scripts/advancedSearch.js', true);
+	loadScript('http://cdn.staticmb.com/scripts/search.js', true);
+}
+function loadAdvancedProjJs()
+{
+loadScript('http://cdn.staticmb.com/scripts/autoSuggession.js', true);
+loadAdvancedJS();
+}
+function loadScript(scriptSrc, isAsync) {
+	var s = document.getElementsByTagName('script')[0];
+	var oScript = document.createElement('script');
+	oScript.type = 'text/javascript';
+	oScript.async = isAsync;
+	oScript.src = scriptSrc;
+	s.parentNode.insertBefore(oScript, s);
+}
+function loadFooterTracking(){
+  try{
+	//Crazy Egg 
+	<!-- Click track by crazy egg starts -->
+	setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName('script')[0];
+		a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/5794.js?"+Math.floor(new Date().getTime()/3600000);
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)
+	}, 50);
+	<!-- Click track by crazy egg starts -->
+	
+	// Mouse Flow
+	var _mfq = _mfq || [];
+   (function() {
+       var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
+       mf.src = "//cdn.mouseflow.com/projects/abbdf9b5-e544-4446-a1d7-5f8999ab52f5.js";
+       document.getElementsByTagName("head")[0].appendChild(mf);
+   })();
+   
+   //vizury 
+    vizuryfire();
+   
+	//--
+	//DSS Tracking
+	if(!(typeof mbRunstats === "undefined")){
+		var Search_Tracker_SPAN = "";
+		if(document.getElementById("Search_Tracker_ID")!=null){
+			Search_Tracker_SPAN = document.getElementById("Search_Tracker_ID").innerHTML;
+		}
+		mbRunstats.endTime = new Date().getTime();
+		if(Search_Tracker_SPAN !='' && Search_Tracker_SPAN!=null){
+			mbRunstats.actionParam=Search_Tracker_SPAN;
+		}
+		if(Search_Tracker_SPAN !='' && Search_Tracker_SPAN!=null){
+			mbRunstats.captureDownloadTime({actionParam : Search_Tracker_SPAN, nav:'S'});
+		} else {
+			mbRunstats.captureDownloadTime(""); 
+		}
+		//MAS tracking.......
+		
+	}
+	//Google Tracking Pixel
+	googleTrackingPixel("TUWUCMHN3wEQj67M_AM");
+	
+	setTimeout(function(){var a=document.createElement("script");
+		var b=document.getElementsByTagName('script')[0];
+		a.src=document.location.protocol+"//tags.crwdcntrl.net/c/2889/cc.js?ns=_cc2889";
+		a.id="LOTCC_2889";
+		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b);
+		setTimeout(function(){_cc2889.bcp();}, 100);
+	}, 50);
+	
+  }catch(e){
+	if(!(typeof window.errorHandler === 'undefined')){
+		errorHandler('FooterNew.jsp', 'loadFooterTracking', e);
+     }
+  }
+
+}
+
+</script>
+<script type="text/javascript">
+
+</script>
+<a href="https://plus.google.com/111015854483076003257" rel="publisher" class="hidden"></a>
+<style>
+
+@media screen and (min-width:980px) and (max-width:1024px) {
+	.mbSFootr{height: 98px; width: 980px; background: url(http://www.magicbricks.com/images/Disclaimer_980.png); margin: auto;}
+}
+
+@media screen and (min-width: 1200px) {
+	.mbSFootr{height: 98px; width: 1199px; background: url(http://www.magicbricks.com/images/Disclaimer_1200.png) -1px 0; margin: auto;}
+	#propertySearch .mbSFootr{height: 98px; width: 980px; background: url(http://www.magicbricks.com/images/Disclaimer_980.png); margin: auto;}
+}
+</style>
+<script type="text/javascript">
+homepageId="proGalleryTop,localityOverviewTop,propertyadvice,featuredProjectTop,homeLoanSection,mobileApp,preferredAndusersLoveTop,magicbricksInitiativesTop,ourPartners,mbNewsSliderTop,popularSearchesTop,expOnlineSliderTop,ratesNtrendsTop,insightsCornerTop,homeLoan,topStoriesSliderTop,magecbricksnewTop,cityProjectsTop";
+function homeOnLoad(){
+loadRotatingBanner('htmlbanners.tiles', '51053', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'projGalSingle','proGalleryTop');
+loadRotatingBanner('htmlbanners.tiles', '51054', '', '', '10002', '3327','3327','Y', 'indexc.jsp','2','Y','N', 'projGalTwo','proGalleryTop');
+loadRotatingBanner('bannerSlider.tiles', '51055', '', '', '10002', '3327','3327','Y', 'indexc.jsp','16','Y','N', 'proGalleryFourSlider_1','proGalleryTop,proGalleryFourdive1');
+loadRotatingBanner('bannerSlider.tiles', '51056', '', '', '10002', '3327','3327','Y', 'indexc.jsp','16','Y','N', 'proGalleryFourSlider_2','proGalleryTop,proGalleryFourdive2');
+loadRotatingBanner('featureProjectBannerSlider.tiles', '51057', '', '', '10002', '3327','3327','Y', 'indexc.jsp','250','Y','N', 'featuredAgentSlider','featuredProjectTop');
+loadRotatingBanner('htmlbanners.tiles', '51058', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'mobileApp','mobileApp');
+loadRotatingBanner('htmlbanners.tiles', '51059', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'preferredchoice','preferredAndusersLoveTop');
+loadRotatingBanner('htmlbanners.tiles', '51060', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'usersLove1','preferredAndusersLoveTop');
+loadRotatingBanner('htmlbanners.tiles', '51061', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'usersLove2','preferredAndusersLoveTop');
+loadRotatingBanner('htmlbanners.tiles', '51062', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'usersLove3','preferredAndusersLoveTop');
+loadRotatingBanner('htmlbanners.tiles', '51063', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'propertyadvice','propertyadvice');
+loadRotatingBanner('htmlbanners.tiles', '51064', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'magecbricksnew1','magecbricksnewTop');
+loadRotatingBanner('htmlbanners.tiles', '51065', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'magecbricksnew2','magecbricksnewTop');
+loadRotatingBanner('htmlbanners.tiles', '51066', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'magicbricksInitiatives1','magicbricksInitiativesTop');
+loadRotatingBanner('htmlbanners.tiles', '51067', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'magicbricksInitiatives2','magicbricksInitiativesTop');
+loadRotatingBanner('htmlbanners.tiles', '51068', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'ourPartners','ourPartners');
+loadRotatingBanner('htmlbanners.tiles', '51069', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'mbNewsSliderTop','mbNewsSliderTop');
+loadRotatingBanner('bannerSlider.tiles', '51070', '', '', '10002', '3327','3327','Y', 'indexc.jsp','','Y','N', 'expOnlineSlider','expOnlineSliderTop');
+loadRotatingBanner('htmlbanners.tiles', '51071', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'insightsCornerTop','insightsCornerTop');
+loadRotatingBanner('htmlbanners.tiles', '51072', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'homeLoan','homeLoan');
+loadRotatingBanner('htmlbanners.tiles', '51073', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'topStoriesSliderTop','topStoriesSliderTop');
+showHomeLocality('2624','localities-container-ul','moreLocLinkId','other-loc-prop-container','otherLocHeadingId','otherLocHeadingUlId', document.getElementById('localityOverviewHomeDefault'));
+
+///////////////////////////////////////STRIP BANNERS MIDDLE/////////////////////////////////////
+//loadRotatingBanner('htmlbanners.tiles', '51075', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip1','');
+//loadRotatingBanner('htmlbanners.tiles', '51076', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip2','');
+//loadRotatingBanner('htmlbanners.tiles', '51077', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip3','');
+//loadRotatingBanner('htmlbanners.tiles', '51078', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip4','');
+//loadRotatingBanner('htmlbanners.tiles', '51079', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip5','');
+//loadRotatingBanner('htmlbanners.tiles', '51080', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip6','');
+//loadRotatingBanner('htmlbanners.tiles', '51081', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip7','');
+//loadRotatingBanner('htmlbanners.tiles', '51082', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip8','');
+//loadRotatingBanner('htmlbanners.tiles', '51083', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip9','');
+//loadRotatingBanner('htmlbanners.tiles', '51084', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip10','');
+//loadRotatingBanner('htmlbanners.tiles', '51085', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip11','');
+//loadRotatingBanner('htmlbanners.tiles', '51086', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip12','');
+//loadRotatingBanner('htmlbanners.tiles', '51087', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip13','');
+//loadRotatingBanner('htmlbanners.tiles', '51088', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip14','');
+//loadRotatingBanner('htmlbanners.tiles', '51089', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip15','');
+//loadRotatingBanner('htmlbanners.tiles', '51090', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip16','');
+//loadRotatingBanner('htmlbanners.tiles', '51091', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip17','');
+//loadRotatingBanner('htmlbanners.tiles', '51092', '', '', '10002', '3327','3327','Y', 'indexc.jsp','1','Y','N', 'middleStrip18','');
+
+
+
+///////////////////////////////////////STRIP BANNERS MIDDLE/////////////////////////////////////
+$('img.lazy').lazyload();
+
+}
+
+</script>
+<script type="text/javascript">
+	dataLayer.push({'type':'home_page'});
+	dataLayer.push({'event':'common_page_load'});
+	var allianceCookie = readCookie("allianceCookie");
+	if(allianceCookie != null && allianceCookie.indexOf('yahoo') > -1){
+		dataLayer.push({'event':'yahoo_alliance_common_page_load'});
+	} else {
+		dataLayer.push({'event':'except_yahoo_alliance_page_load'});
+	}
+	dataLayer.push({'event':'home_page_load'});
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQW25Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WQW25Z');</script>
+</body>
+</html>

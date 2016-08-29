@@ -1,0 +1,865 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+	<title>e-Filing Home Page, Income Tax Department, Government of	India</title>
+	<meta charset="utf-8">
+	
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<link type="image/x-icon" href="/favicon.ico" rel="shortcut icon" />
+	<link rel="icon" type="image/x-icon" href="/itax/images/efiling_favicon.ico" />
+	<link href="/itax/styles/style.min.css?1471305600000" rel="stylesheet" /> 
+		
+	<script	src="/itax/scripts/ITD_Efiling_Common_min.js?1471305600000"></script>
+	<script	src="/itax/scripts/NewsAndUpdate.js?1471305600000"></script>
+	
+	
+	<script src="/itax/jquery/external/jquery/jquery-2.1.3.min.js"></script>
+	<script src="/itax/jquery/jquery-ui.min.js"></script>
+	
+	<!-- CSS and JS for Carousel -->
+	<link rel="stylesheet" href="/itax/carousel/styles/style.css?1471305600000" />
+
+	<script src="/itax/carousel/scripts/jquery.flexslider-min.js"></script>
+	
+	<script src="/itax/carousel/scripts/main.js"></script>
+	<script src="/itax/jquery/jquery.marquee.min.js"></script>
+	<!-- CSS and JS for Carousel ends -->	
+		<script src="/itax/scripts/slider.js"></script>
+		
+			<link href="/itax/styles/slider.css" rel="stylesheet" /> 
+
+	<script type="text/javascript">
+		documentReadyFunction();
+		ticker();
+		function getCookie(name) {
+			var value = "; " + document.cookie;
+			var parts = value.split("; " + name + "=");
+			if (parts.length == 2)
+				return parts.pop().split(";").shift();
+				
+		}
+	</script>
+
+
+</head>
+
+<body oncontextmenu="return rightClickDisable()" ondragstart="return false" >
+	<section id="container">
+		<header id="header">
+
+			<div class="logorow">
+
+			 <div class="fl-l"><a href="/eFiling"><img src="/itax/images/efilinglogo.gif" title="e-Filing, Income Tax Department, Government of India" alt="e-Filing, Income Tax Department, Government of India" height="58" /></a></div>
+				
+				<div class="al-r">
+					<nav>
+					<ul class="mart5">
+					
+
+						 <li class="padt5"><a class="skip" href="/eFiling/index_hindi.html"><img src="/itax/images/hindi_logo.png" alt="Hindi" /></a></li>
+						 
+						 <li class="padt5">
+						 	<a class="skip pad0" href="javascript:void(0)" onclick="javascript:changeFontSize(-1,-1);" ><img src="/itax/images/Minimize.png" alt="Minimize" /></a> 
+						 	<a class="skip pad0" href="javascript:void(0)" onclick="javascript:resetFonSize();" ><img src="/itax/images/Standard.png" alt="Standard"  /></a>
+						 	<a class="skip pad0" href="javascript:void(0)" onclick="javascript:changeFontSize(1,1);" ><img src="/itax/images/Maximize.png" alt="Maximize"  /></a>
+						 </li>
+
+						<li><a href="#main" class="skip padt5">Skip to main
+								content</a></li>
+						<li><a href="javascript:void(0)"
+							onclick="getStaticPageFromHomePage('AboutUs.html')">About Us</a></li>
+						<li><a href="/e-Filing/Services/Feedback.html">Feedback</a></li>
+					    <li><a href="javascript:void(0)" onclick="getStaticPageFromHomePage('Contact.html')">Contact Us</a></li>
+						<li><a href="/e-Filing/Services/eNivaranHomePrelogin.html">e-Nivaran</a></li>						
+						<li class="help"><a href="#">Help</a>
+							<div class="helpmenu">
+								<!--Help contents go here. Add help contents in headerHelp.html -->
+							</div></li>
+					</ul>
+					</nav>
+					<div class="search">
+						<input name="Search" placeholder="Search" type="text" id="inputID"
+							value="" maxlength="100" onkeypress="return onlySearch(event,2)"
+							onclick="resetSearch()" /> 
+								
+						<a href="javascript:void(0)" onclick="searchInHomePage();" ><span class="searchimg val-m" title="Search"  ></span> </a>
+					</div>
+					
+				</div>
+			</div>
+
+		</header>
+		<div id="bodyContent">
+			<a id="main"></a>
+			<div class="marb2">
+
+				<section class="ltcol" id="ltcol">
+					<div class="bluecol">
+						<h1>I Am ...</h1>
+						<ul class=" padt10">
+							<li><a href="#"><span class="top">Tax Payer</span></a>
+								<ul>
+									<li><a href="javascript:void(0)"
+										onclick="setBaseUrl('homeLinks/IndividualHUF.html');getStaticPageFromHomePage('homeLinks/IndividualHUF.html')"><span>Individual
+												/ HUF</span></a></li>
+									<li><a href="javascript:void(0)"
+										onclick="setBaseUrl('homeLinks/firm.html');getStaticPageFromHomePage('homeLinks/firm.html')"><span>Firm</span></a></li>
+									<li><a href="javascript:void(0)"
+										onclick="setBaseUrl('homeLinks/trust.html');getStaticPageFromHomePage('homeLinks/trust.html')"><span>Trust</span></a></li>
+									<li><a href="javascript:void(0)"
+										onclick="setBaseUrl('homeLinks/company.html');getStaticPageFromHomePage('homeLinks/company.html')"><span>Company</span></a></li>
+									<li><a href="javascript:void(0)"
+										onclick="setBaseUrl('homeLinks/aop-boi-la.html');getStaticPageFromHomePage('homeLinks/aop-boi-la.html')"><span>AOP
+												/ BOI / LA / Co-op Soc / AJP / Gov</span></a></li>
+								</ul></li>
+
+							<li><a href="#"><span class="top">Professionals
+										For Tax Audit</span></a>
+								<ul>
+									<li><a href="javascript:void(0)"
+										onclick="setBaseUrl('homeLinks/ca.html');getStaticPageFromHomePage('homeLinks/ca.html')"><span>Chartered
+												Accountant</span></a></li>
+								</ul></li>
+
+							<li><a href="javascript:void(0)"
+								onclick="setBaseUrl('homeLinks/eri.html');getStaticPageFromHomePage('homeLinks/eri.html')"><span>e-Return
+										Intermediary</span></a></li>
+							<li><a href="javascript:void(0)"
+								onclick="setBaseUrl('homeLinks/BulkPANVerificationUser.html');getStaticPageFromHomePage('homeLinks/BulkPANVerificationUser.html')"><span>Bulk
+										PAN Verification User</span></a></li>
+							<li><a href="javascript:void(0)"
+								onclick="setBaseUrl('homeLinks/TaxDeductorCollector.html');getStaticPageFromHomePage('homeLinks/TaxDeductorCollector.html')"><span>Tax
+										Deductor and Collector </span></a></li>
+
+						</ul>
+					</div>
+				</section>
+
+				<div id="staticContentsUrl">
+
+				
+
+					<div class="midcolumn  fade" id="slideStarts">
+					<div>
+<div id="slidera_container"
+									style=" width: 510px;min-width:510px">
+  <div 
+										style="position: absolute; top: 0px; left: 0px;">
+    <div
+											style="filter: alpha(opacity = 20); opacity: 0.2; position: absolute; display: block; background-color: #000; top: 0px; left: 0px; width: 100%; height: 100%;"> </div>
+    <div
+											style="position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"> </div>
+  </div>
+ <div style="cursor: move; position: absolute;  top: 85px; width: 510px; height: 183px; overflow: hidden;" id="correctIndentation" onMouseover="stopShow()" onMouseout="startShow()">
+    <div> <img class="mySlides" src="/itax/images/EVS_images/eVerifyBanner_new.png" alt="Know more on e-Verification of Returns" border="0" usemap="#Map" >
+											
+<map name="Map">
+  <area shape="rect" coords="213,161,295,186" href="#" onclick="getStaticPageFromHomePage('EVC.html')"  >
+  <!-- <area shape="poly" coords="441,171,456,171,443,179,459,181"  href="#" id="dot"  onclick="currentSlide(1)" >
+    <area shape="poly" coords="460,171,468,170,467,178,463,179" href="#"  id="dot"  onclick="currentSlide(2)">
+	<area shape="poly" coords="473,169,485,169,485,178,476,178" href="#"  id="dot"  onclick="currentSlide(3)">-->
+</map>
+     
+</div>
+    <div> <img class="mySlides" src="/itax/images/EVS_images/IDS_new.png" alt="Income Declaration Scheme 2016" border="0" usemap="#Map2"  id="myBlueDiv">
+												
+												
+<map name="Map2">
+  <area shape="rect" coords="166,89,336,106"  href="#" onclick="javascript:openDisclaimer('https://www.youtube.com/watch?v=u-yHKClIFcM#t=18m48s')" >
+  <area shape="rect" coords="120,110,479,131" href="/eFiling/Portal/DownloadUtil/FORM_UTILITY/FORM1.zip">
+  <area shape="rect" coords="213,161,296,186"   href="#"  onclick="getStaticPageFromHomePage('incomeDeclarationScheme.html')">
+<!-- <area shape="poly" coords="441,171,456,171,443,179,459,181"  href="#" id="dot"  onclick="currentSlide(1)" >
+    <area shape="poly" coords="460,171,468,170,467,178,463,179" href="#"  id="dot"  onclick="currentSlide(2)">
+	<area shape="poly" coords="473,169,485,169,485,178,476,178" href="#"  id="dot"  onclick="currentSlide(3)">-->
+</map>
+      
+</div>
+
+
+    <div> <img class="mySlides" src="/itax/images/EVS_images/TRPS_slide.gif" alt="TRPS and ERI" border="0" usemap="#Map3"   >
+												
+												
+<map name="Map3">
+  
+  <area shape="rect"  coords="315,94,489,144"  href="/eFiling/Portal/StaticPDF/List_Of_ERI.pdf" title="PDF file opens in a new window" target="_blank" >
+  <area shape="poly" coords="6,43,8,190,281,189,277,44"  onclick="openDisclaimer('http://www.trpscheme.com/')" href="javascript:void(0)" >
+  <!--<area shape="poly" coords="441,171,456,171,443,179,459,181"  href="#" id="dot"  onclick="currentSlide(1)" >
+  <area shape="poly" coords="460,171,468,170,467,178,463,179" href="#"  id="dot"  onclick="currentSlide(2)">
+	<area shape="poly" coords="473,169,485,169,485,178,476,178" href="#"  id="dot"  onclick="currentSlide(3)">-->
+</map>
+      
+</div>
+
+
+
+<a class="prev" onclick="plusSlides(-1)"><</a>
+<a class="next" onclick="plusSlides(1)">></a>
+
+
+
+
+
+
+
+
+  </div>
+
+  
+</div>
+
+
+</div>
+						
+
+						<div class="tickerNew marquee">
+						
+												<strong><span> Electronic Verification Code (EVC) can now be generated by pre-validating your Bank Account details of Punjab National Bank and United Bank of India on e-Filing portal. </span></strong>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						
+						
+						
+						<strong><span>Electronic Verification Code (EVC) can now be generated by pre-validating your Demat Account details of NSDL and CDSL on e-Filing portal. </span></strong>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						
+							<strong><span>Electronic Verification Code (EVC) can now be generated using SBI and AXIS bank ATMs.</span></strong>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						
+							<strong><span>Form 1 of Income Declaration Scheme, 2016 is available for e-Filing.</span></strong>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						
+							
+						</div>
+
+	                 
+					</div>
+
+					<section class="rtcol al-c">
+
+						<div class="bluecol">
+							<ul class="right">
+								<li><h1>New To e-Filing?</h1> <input name="input"
+									type="button" class="sec_btn" value="Register Yourself"
+									onclick="gotoPage('/e-Filing/Registration/RegistrationHome.html')" /></li>
+								<li><h1>Registered User?</h1> <input name="input2"
+									type="button" class="pri_btn" value="Login Here"
+									onclick="gotoPage('/e-Filing/UserLogin/LoginHome.html')" /></li>
+								<li class="bor0"><h1>Need Assistance?</h1> <input
+									name="input3" type="button" class="pri_btn"
+									value="Customer Care"
+									onclick="getStaticPageFromHomePage('ContactUs.html')" /></li>
+
+							</ul>
+						</div>
+					</section>
+
+
+
+					<div class="cl-b">
+
+						<section class="ltcol" id="ltcol_services">
+							<div class="borb5">
+								<h1>Services</h1>
+							</div>
+							<ul class="clickableList">
+								<li><a
+									href="/e-Filing/UserLogin/LoginHome.html?nextPage=efileItr1"><span
+										class="lock"> Quick e-File ITR-1 &amp; ITR-4S</span></a></li>
+								<li><a
+									href="/e-Filing/UserLogin/LoginHome.html?nextPage=efile"><span
+										class="lock">Submit Returns / Forms </span></a></li>
+											<li><a  href="/e-Filing/UserLogin/LoginHome.html?nextPage=eVerifyReturn"><span
+										class="lock">e-Verify Return</span></a></li>
+								<li><a
+									href="/e-Filing/UserLogin/LoginHome.html?nextPage=taxCred"><span
+										class="lock">View Form 26AS (Tax Credit)</span></a></li>
+								<li><a
+									href="/e-Filing/UserLogin/LoginHome.html?nextPage=taxDemand"><span
+										class="lock">Outstanding Tax Demand</span></a></li>
+								<li><a
+									href="/e-Filing/UserLogin/LoginHome.html?nextPage=refundStatus"><span
+										class="lock">CPC Refund Status</span></a></li>
+								<li><a
+									href="/e-Filing/UserLogin/LoginHome.html?nextPage=rectStatus"><span
+										class="lock">Rectification Status</span></a></li>
+								<li><a href="/e-Filing/Services/ITRVStatusLink.html">ITR-V
+										Receipt Status</a></li>
+								<li><a
+									href="/e-Filing/Services/KnowYourJurisdictionLink.html">Know
+										Your Jurisdictional A.O.</a></li>
+								<li><a href="/e-Filing/Services/KnowYourPanLink.html">Know Your PAN </a>
+|
+<a class="no-bg" href="/e-Filing/Services/KnowYourTanLink.html"> TAN </a></li>
+						<li><a href="javascript:void(0)"
+									onclick="getStaticPageFromHomePage('TaxCalculator.html')">Tax
+										Calculator</a> | &nbsp;<a class="no-bg" onclick="getStaticPageFromHomePage('EPayTaxConfirm.html')" href="javascript:void(0)">E-Pay Tax</a></li>
+							</ul>
+							<ul class="clickableList vdo">
+								<li class="fl-l"><a data-size="9.53 sec"  onclick="openDisclaimer('http://www.youtube.com/watch?v=byabyM4NVds&amp;hd=1')" href="javascript:void(0)">e-Filing Video
+										</a></li>
+								<li class="fl-l"><a data-size="11.28 sec" onclick="openDisclaimer('http://www.youtube.com/watch?v=qcTOZionV3U&amp;hd=1')" href="javascript:void(0)">Rectification Video</a></li>
+								
+						
+							</ul>
+					
+
+							<div class="cl-b"></div>
+					
+
+						</section>
+
+
+						<div class="midcolumn">
+						
+							<article id="innerDivNews" class="marlr10 ">
+								<div class="news_hd borb5">
+									<div class="fl-l">
+										<h1>News &amp; Updates &nbsp; </h1>
+									</div>
+
+									<!-- <span class="fl-r"><a href="javascript:void(0)"
+										onclick="getStaticPageFromHomePage('NewsAndUpdates.html')">More</a></span> -->
+							
+									<div class="cl-b"></div>
+								</div>
+							<div id="newsId" class="news">
+									<ul id="newsulId">
+									
+									
+									
+											<li><div>
+
+												<strong>12/08/2016 </strong>&nbsp;&nbsp;&nbsp;<img alt="New Content" src="/itax/images/new.gif"/><br />
+												<br/>
+												There is a surge in the growth of electronic filing of returns for the F.Y. 2016-17. As  on  5th  August  2016,  over  226.98  Lakh  e-returns  were filed  in  F.Y. 2016-17 as compared to 70.97 Lakh for the same period in FY 2015-16.<br /><a href="/eFiling/Portal/StaticPDF/PressReleaseSurgingGroth8-08-2016.pdf" data-size="13KB" title="PDF file opens in a new window" target="_blank">Refer Press Release</a>
+											</div></li>
+									
+									
+									
+																		<li><div>
+
+												<strong>10/08/2016</strong>&nbsp;&nbsp;&nbsp;<br />
+												<br/>
+												Electronic Verification Code (EVC) can be generated by pre-validating your Bank Account on the e-Filing portal. Punjab National Bank and United Bank of India have launched this facility which will facilitate the account holders, who may not have a NetBanking account, to e-verify their return. Other banks are expected to launch this facility. 
+												<br/>
+                                                <br/>Electronic Verification Code (EVC) can be generated by pre-validating your Demat Account on the e-Filing portal. NSDL and CDSL have launched this facility which will facilitate the account holders to e-verify their return.
+											</div></li>
+											
+	
+	
+								</ul>
+								
+									 
+								</div>
+										          <div class="al-r">
+												<a href="javascript:void(0)"
+													onclick="getStaticPageFromHomePage('NewsAndUpdates/references-News&Updates.html')">News &amp Updates Archive</a>
+										
+													
+											</div>  
+								   
+							</article>
+						
+
+							<div >
+							
+								<!-- counters -->
+								
+								
+								<article class="cd-testimonials-wrapper cd-container" >
+							<ul class="cd-testimonials">
+							
+							<li>
+									<p>"Excellent Stuff.I am really delighted with entire tax filing and returns process this fiscal.Also I am glad to see that I got my refund in month of august which never ever happened before. Kudos to Modi Government and his Ministry.<br />Unbelievable example of Good Governance!!INDIA is Changing ."21-08-2016</p>
+									</li>
+							<li>
+									<p>"I have been filing returns online for myself and family, also helping friends in filing. The portal is extremely user friendly - and driven away our fears of the word "Income tax". Moreover, it is helpful in understanding of various taxes. I have received my refund within a week of filing."11-08-2016</p>
+									</li>
+							
+									<li>
+									<p>"This is the most amazing software application that I have used recently that belongs to Indian Govt. For someone like me who dread to file tax, this it was a piece of cake even when using the first time. The details are clear and no fancy jargon being used. Kudos to the team to build this!!!!."04-08-2016</p>
+									</li>
+							
+							<li>
+									<p>"Entire e filing and e verification process is simply superb;The portal is very user-friendly.If all the data / details are kept ready, e filing does not take more than fifteen minutes and another two minutes for e verification.. of India."04-08-2016</p>
+									</li>
+							
+							<li>
+									<p>"79 year old person using it for first time can understand and use. very well done by the Dept and thqnk F M and staff for all this site and make tax payers friendly to the dept instead of getting angry as earlier.Wish you all the best. of India."04-08-2016</p>
+									</li>
+							
+							
+							<li>
+									<p>"E-filing of the return is really easy and convenient. It gets uploaded and e-verified in no time. I was not only able to help myself and my family members but was equally happy to help some senior citizens as well. All the smiles only. Thanks CBDT, FinMin and Govt. of India."01-08-2016</p>
+									</li>
+							
+							<li>
+									<p class="three-line">"I feel proud that my country has made this advancement. I thank the Income Tax Department and CPC for making the whole process of filing returns easy and quick AND paperless too. Congratulations to all of us !."01-08-2016</p>
+									</li>
+							
+							
+							
+							<li>
+									<p class="three-line">"It has been good experience to fill ITR first time in life time that too with out consulting anybody .very simple and also refunded extra tax with in 15 days ,Great job by E-ITR."29-07-2016</p>
+									</li>
+							
+							<li>
+									<p class="three-line">"Awesome!! I am really glad to see the speedy pace of the site, ease of use and specially everything going digital is making our lives easier. Really Appreciate!Thank You, Pratima."28-07-2016</p>
+									</li>
+							
+							<li>
+									<p class="three-line">"An amazing user friendly website. Even an ordinary person can easily file return on his own. Also the new e-verify facility is easy, time saving and also money saving. kudos to the IT team behind this work."28-07-2016</p>
+									</li>
+							
+							
+								<li>
+									<p >"Kudos the Income Tax Department on developing such a user friendly website with the very latest technology avoiding every paper work and digitizing the entire workflow. Truly one of the greatest DIGITAL INDIA initiative. Salute the flawless and speedy execution of a complex financial system."27-07-2016
+									</p>
+									</li>
+							
+							<li>
+									<p class="three-line">"Even for a house-wife of 62+ years, it is a pleasure filling ITR through this website. I thank IT Department for making, once a cumbersome process, in to such a simple one."22-07-2016
+									</p>
+									</li>
+							
+							
+							 <li>
+									<p>"I am really amazed by the simple but powerful process, easiness on filing returns. Simplicity, transparency bring more smile on the tax payers like me. Thanks to IT department and their habit of thriving for best continuously- Prabu Arichandran."21-07-2016</p>
+									</li>
+							
+							 <li>
+									<p class="three-line">"I wish to express  my appreciation for this excellent website of IT Department. It has made online filing of income tax return so simple and easy that it hardly takes 30 minutes to complete the process. Thank you very much."20-07-2016</p>
+									</li>
+							
+							
+								 <li>
+									<p class="three-line">"Excellent work done by the IT Dept. It's user friendly and  takes a few minutes to complete the ITR and to get refund faster. KUDOS ! ....to IT Dept. Keep the excellent work going. JAI HIND."19-07-2016</p>
+									</li>
+							
+							
+							
+							 <li>
+									<p class="three-line">"Everything in life should be as easy as filling Income Tax Returns.
+                                          The Income tax department needs a lot of appreciation for their efforts in making the process so simple."18-07-2016</p>
+									</li>
+									
+									
+												 <li>
+									<p>"Three cheers to IT Department. There is an excellent positive improvement every year. It is so informative, easy and paperless transaction (eco-friendly). This is truly and successful DIGITAL INDIA assignment.
+                                        Jai Hind!!! 
+                                       I wish I could copy paste the National Flag and salute it as well."18-07-2016</p>
+									</li>
+							
+							
+							
+									 <li>
+									<p>"I have successfully filed my tax return by myself this time!! I am amazed at how easy it was! I am usually nervous about these things as I do not want to get it wrong, 
+									but the system was so easy to navigate that I finished it in 15-20 minutes! You guys have done great work! Keep it up!."17-07-2016</p>
+									</li>
+							
+							
+							
+									 <li>
+									<p class="three-line">"Amazing web portal & response timelines on feedback. Have used it last year and found to be very efficient & effective process. Kudos to the team who made it.."16-07-2016</p>
+									</li>
+
+														   <li>
+									<p class="three-line">"This is an amazing service introduced by IT department. It's got all the service that a tax payer would require without having to file any paperwork. Ranging from filling the ITR form to even replying to any CPC intimations."14-07-2016</p></li>
+							
+							
+							
+							   <li>
+									<p class="three-line">"I.T department has been so user friendly through this site where people are happy to file their returns without any hesitation like ever before.... Thanks to Dept of Income Tax."13-07-2016</p></li>
+							
+							        <li>
+									<p>"Excellent process and easy to use website and utilities. Have been filing my returns myself for the past 3 years and just love the utility. Thanks to IT department for working hard to make IT return filing an easy process."09-07-2016</p></li>
+							
+							        <li>
+									<p>"What a great and user friendly website designed by the Income Tax Department.It is so easy to e-verify uploaded returns.I e-verified it for the fist time so conveniently.Heartiest congratulations to all those who made and designed the portal."06-07-2016</p></li>
+							
+							
+							        <li>
+									<p class="three-line">"I am proud to say that this service introduced by IT department has crossed and set bar very high. Being in IT, this website is something that I look up to. This is outstanding in every aspect, educating the tax user to filing tax."06-07-2016</p></li>
+							
+						            <li>
+									<p>"Excellent process and easy to use website and utilities. Have been filing my returns myself for the past 3 years and just love the utility. Thanks to IT department for working hard to make IT return filing an easy process."09-07-2016</p></li>
+							
+							        <li>
+									<p>"What a great and user friendly website designed by the Income Tax Department.It is so easy to e-verify uploaded returns.I e-verified it for the fist time so conveniently.Heartiest congratulations to all those who made and designed the portal."06-07-2016</p></li>
+							
+							
+							        <li>
+									<p class="three-line">"I am proud to say that this service introduced by IT department has crossed and set bar very high. Being in IT, this website is something that I look up to. This is outstanding in every aspect, educating the tax user to filing tax."06-07-2016</p></li>
+							
+						            <li>
+									<p class="three-line">"I want to take this opportunity, to appreciate the efforts taken and significant improvement in paperless online e-tax filing. The system and processes are very simple and less time consuming."05-07-2016</p></li>
+
+							       <li>
+									<p class="three-line">"Simply awesome portal for e-Filling. I am fully satisfied with this IT e-filing application.Other Government e-goverance portal should be like this user friendly portal.."-01-07-2016</p></li>
+									
+									
+									<li>
+									<p class="three-line">"It is very easy to see the TDS deductions made and able to get the notification from TAX deductor. Efiling is made so easy that it is very handy and time saving. Well done! hats off!! JAI BHARAT."-28-06-2016</p></li>
+									
+									<li>
+									<p class="three-line">"Loved the E-Verify options for Tax filing online. That is going digital in the real sense. No more wastage of paper and resources to move the tax Ack letters manually to its destination. Great Stuff guys!."-27-06-2016</p>
+									</li>
+									
+									
+									<li>
+									<p class="three-line">"Dear Team , It is fantastic effort to bring this kind of experience to file a return online and acknowledge. Hi5 to the entire team including all govt officials to make this egovernance a great experience. Thanks again."-26-06-2016</p>
+									</li>
+									
+									
+									<li>
+									<p class="two-line">"Government of India- You are world class. Such am amazing system you have build is not available anywhere in the world. Thank you so much !!."-25-06-2016</p>
+									</li>
+							
+							
+								<li>
+									<p class="three-line">"Beautifully Designed, User Friendly and Salute to e-portal Department for introducing e-verification. It's simply awesome. 3 Cheers for the same !!!."-24-06-2016</p>
+									</li>
+							
+									<li>
+									<p>"The IT E-Filing is amazing now a days. A Very big thank you to IT Department who made our job very easier. Especially the repetitive work of taking ITR V and sending to Bangalore for processing and waiting for acknowledge. Good bye to paper and time consuming work. Appreciated the go green effort!."-23-06-2016</p>
+									</li>
+									
+									<li>
+									<p class="two-line">"The portal is equipped with the latest technological advances, the most user-friendly and utmost easy to understand along with the quick,utterly helping guidance from the Help desk Team !"-21/06/2016 </p>
+								</li>
+							
+							
+									<li>
+									<p class="two-line">"I am so much satisfied with efiling Return and EVC system introduced by CPC that I am free from worries in sending ITR-V to CPC as return efiled & e-verified on the same day.Thanks to all concerned."-21/06/2016 </p>
+								</li>
+							
+							
+									<li>
+									<p>"I am a Software Engineer in Quality Analysis.My job is test the application against the requirement. Usually government site doesn't have advanced level what usually an IT company as. But there is an exception in Efiling. This site is excellent & i am using this for past 10 years. Awesome!!!"-21/06/2016 </p>
+								</li>
+							
+							
+									<li>
+									<p>"Efiling has been simplified saving a lot of time and effort. After introduction of E-verification system, as a tax payer, it has been a very pleasant experience for me in filing returns. My heartiest congratulations to the e-filing team. Really a great service."-18/06/2016 </p>
+								</li>
+							
+							
+									<li>
+									<p>"Simply outstanding!!.....the whole e filing process is simple, fast and user friendly. It encourages honesty among tax payers and allows even amateurs like me to do self e-filing of income tax. Kudos to Government of India"-17/06/2016 </p>
+								</li>
+							
+							
+							<li>
+									<p>"It is very easy to file income tax return. It is just 15 min work. I like one concept of e-verify return and no need to submit hard copy to IPC bangluru. </br>
+
+                                        Awesome portal....:):):)</br>
+
+                                        Great Job!!!!!!!! 10 out 10 from my side...."-15/06/2016 </p>
+								</li>
+							
+								<li>
+									<p class="two-line">"Best example of e-governance.  Wish all Govt. e-governance websites are as good as this site.Kudos to the team.  Keep improving"  -15/06/2016 </p>
+								</li>
+							
+								<li>
+									<p>"The e-filing portal is extremely user-friendly and design makes it very easy to seek information. The e-verify feature introduced by the IT department is a game changer which makes the process of filing the IT returns smooth and environmentally friendly by eliminating the usage of paper."  -12/06/2016 </p>
+								</li>
+							
+							    <li>
+									<p class="two-line">"For the pleasure of e-filing alone I am encouraged to file my return electronically.  The IT office comes to my living room.  Excellent effort by You."  -11/06/2016 </p>
+								</li>
+							
+								<li>
+									<p>"Superb,cant imagine a better website than this. User friendly guide and on time assistance and guidance from customer care making it too easy. It has also saved lot of paper work which we use to do before. Hats off to IT Department."  -09/06/2016 </p>
+								</li>
+										
+							<li>
+									<p class="two-line">"One can't imagine that any website of government (in india) , specially website like Income Tax/E-filling can be so much fast and excellent. Very Good work by the team who are behind all this. Thanks and keep going."-07/06/2016 </p>
+								</li>
+									
+											
+							
+
+							
+							</ul>
+
+						</article>
+						
+					<div>
+							
+							<!--	<div class="counter">
+									<div class="fl-l">
+										<table>
+											<tr>
+												<td>E-Verified ITRs</td>
+												<td>:</td>
+												<td class="countertd"><div>
+														<div>
+																<span>15901510</span>
+														</div></div>
+												</td>
+											</tr>
+										</table>
+									</div>
+									<div class="fl-l divider">
+										<table>
+											<tr>
+												<td> | </td>
+											</tr>
+										</table>
+									</div>
+									<div class="fl-r">
+										<table>
+											<tr>
+												<td>Aadhaar-PAN linked</td>
+										<td>:</td>
+										<td class="countertd "><div>
+												<div>
+													<span>7587646</span>	
+
+
+												</div>
+
+											</div></td>
+											</tr>
+										</table>
+									</div>
+										
+										
+
+											</div> -->
+											
+								
+							</div>		
+						
+											
+								
+							</div>
+						</div>
+
+						<section class="rtcol">
+							<div class="borb5">
+								<h1>Downloads</h1>
+							</div>
+
+					
+								<div class="w260">
+                                
+  								<ul class="clickableList">
+                                
+                                                            
+									
+                              <li><a href="javascript:void(0)" onclick="goToPage('Downloads.html','page1')">ITR Forms - AY 2016-17  </a></li>
+									<li><a href="javascript:void(0)"
+										onclick="goToPage('Downloads.html','page1',true);">Previous Year ITRs</a></li>
+								
+									<li><a href="javascript:void(0)" onclick="goToPage('Downloads.html','page2')">Forms
+											(Other than ITR)</a></li>
+									<li><a href="javascript:void(0)" onclick="goToPage('Downloads.html','page4')">Form
+											BB (Return of Net Wealth)</a></li>
+							
+									<li><a href="javascript:void(0)" onclick="goToPage('Downloads.html','page3')">Schema
+											Downloads</a></li>
+									<li><a onclick="downloadDSCUtility()" href="javascript:void(0)">DSC Management Utility</a></li>
+								
+									
+								</ul>
+								
+                            <div>
+							
+							<section class="rtcol">
+							<div class="borb5">
+                            
+								
+								<h1>Statistics</h1>
+						
+
+							</div>
+							<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+                        				<ul class="clickableList stats ">
+                                <li class="last"><a href="javascript:void(0)"onclick="getStaticPageFromHomePage('Statistics/2016/efilingStatistics_July.html')">e-Filing
+									Statistics</a></li>
+									
+							</ul>
+							<br/>
+							
+						
+								     <div class="counter">
+									<div class="fl-l">
+										<table>
+											<tbody>
+                                            <tr>
+												<td class="w100">E-Verified ITRs</td>
+												<td>:</td>
+												<td class="countertd"><div>
+														<div>
+																<span>16146948</span>
+														</div></div>
+												</td>
+											</tr>
+                                             <tr>
+												<td>Aadhaar-PAN linked</td>
+												<td>:</td>
+												<td class="countertd"><div>
+														<div>
+																<span>7636399</span>
+														</div></div>
+												</td>
+											</tr>
+                                            
+                                            
+                                            
+										</tbody></table>
+									</div>
+									
+								</div>
+									</section>
+								</div>
+				<br/>	
+
+			
+
+							</div>
+					
+							
+				
+                &nbsp;&nbsp;
+                        
+</section>
+
+
+					</div>
+				</div>
+		 </div>
+ </div>
+  <div class="push"></div>
+
+</section>
+
+	<footer id="footer">
+
+		<div class="footerlinks footer_owner">
+			<table class="tbl_footer">
+				<tr>
+
+					<td class="al-l"><a href="javascript:void(0)"
+						onclick="getStaticPageFromHomePage('NationalGov.html')"><img
+							class="va-c" src="/itax/images/indiagoin.jpg" alt="india.gov.in" /></a></td>
+					<td class="al-c font-wt-nrml">
+						<div>
+							<a href="javascript:void(0)"
+								onclick="getStaticPageFromHomePage('WebsitePolicy.html')">Website Policies</a>
+								 | <a href="javascript:void(0)"
+								onclick="getStaticPageFromHomePage('RTI.html')"> RTI</a> | <a
+								href="javascript:void(0)"
+								onclick="getStaticPageFromHomePage('Grievance.html')">Grievance</a>
+								| <a href="javascript:void(0)"
+								onclick="getStaticPageFromHomePage('UsefulLinks.html')">Useful
+								Links</a> | <a href="javascript:void(0)"
+								onclick="getStaticPageFromHomePage('TermsOfUse.html')">Terms
+								of Use</a> | <a href="/e-Filing/Services/SiteMapLink.html">Site
+								Map</a> | <a href="javascript:void(0)"
+								onclick="getStaticPageFromHomePage('Disclaimer.html')">Disclaimer</a>
+						</div>
+						<div>Copyright @ Income Tax Department, Ministry of Finance,
+							Government of India. All Rights Reserved | Site Last
+							Updated on 24/08/2016</div>
+						
+					</td>
+					<td class="al-r va-c">Site owned by<br /> <span>
+							Income Tax Department</span></td>
+				</tr>
+			</table>
+		</div>
+		<div class="footer_viewdetails"></div>
+		
+		<div id="loading" title="Loading ..." class="disp-none">
+		<div class="al-c">
+			<img src="/itax/images/wait.gif" alt="Loading ..." />
+		</div>
+	</div>
+	</footer>
+	<div id="basic-modal-content" class="w500 disp-none">
+
+		<ul class="nonclickBulletedList marb1">
+			<li>The Income-Tax Department NEVER asks for your PIN ,
+				passwords or similar access information for credit cards, banks or
+				other financial accounts through e-mail. The Income-Tax Department
+				appeals to taxpayers NOT to click on hyperlinks contained in such
+				phishing mails, NOT to respond, and NOT to share information
+				relating to their credit card, bank and other financial
+				details/accounts.<div class="cl-l"></div> <br />
+			</li>
+			<li>Please change your passwords periodically and NEVER reveal
+				your passwords details to anyone.</li>
+			<li>Please update your contacts as and when it changes. This
+				will enable us to notify you on various critical information /
+				notification</li>
+		</ul>
+		<div class="al-c w100p">
+			<br />
+			<button onclick="$.modal.close()" value="Continue" class="marb20 marr20">Continue</button>
+		</div>
+	</div>
+<div id="disclaimer" class="disp-none">
+<p class="al-j discFont">
+This is to inform that by clicking on the hyper-link, you will be leaving e-Filing Portal and entering website operated by other parties. Such links are provided only for the convenience of the client and e-Filing Portal does not control or endorse such websites, and is not responsible for their contents. The use of such websites is also subject to the terms of use and other terms and guidlines, if any, contained with in each such website. In the event that any of the terms contained herein conflict with the terms of use or other terms and guidelines contained within any such website, then the terms of use and other terms guidelines for such website shall prevail.
+</p>
+</div>		
+</body>
+
+<div id="ids" ></div>
+         <script>
+         $( document ).ready(function() {
+                $( "#ids" ).dialog({
+                  autoOpen: false,
+                  modal: true,
+                  width: 880,
+                  height: '600',
+                  position: { at:'top', of: '#bodyContent' },
+				  closeOnEscape: false,
+				  show: {
+                      effect: "slide",
+                      duration: 500
+                    },
+                  hide: {
+                      effect: "fold",
+                      duration: 500
+                   }
+                });
+            $("#ids").load("/eFiling/Portal/IDS.html");
+                 $('#ids').dialog('open');
+         
+	var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0;
+	
+	
+	
+	if(isSafari){
+		document.getElementById('correctIndentation').style.left="382px";
+	}
+
+		 });
+		 
+		 
+
+
+            </script>
+			
+			
+
+
+
+<script>
+var timer;
+var slideIndex = 1;
+carousel();
+showSlides(slideIndex);
+
+</script>
+
+
+
+
+</html>

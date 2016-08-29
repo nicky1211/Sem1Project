@@ -1,0 +1,1540 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="format-detection" content="telephone=no" />
+<title>Rediff.com: Online Shopping, Rediffmail, Latest India News, Business, Bollywood, Sports, Stock, Live Cricket Score, Money, Movie Reviews</title>
+<meta name="keywords" content="India news, India breaking news, Hindi songs, new songs, listen to music, Live cricket score, sports, Stock market, share value, finance, free mail, web email free, social networking, make friends, free videos, video clip, india shopping, online shopping, news , Music, Cricket, Money, Rediffmail, MyPage, iShare, Shopping, Rediffmail NG" />
+<meta name="description" content="&#10004;Shop Online for Smart Products &#10004;Get Latest News in India &#10004;Live Cricket Score &#10004;Bollywood News &#10004;Real Time Stock Quotes" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.rediff.com" />
+<link rel="shortcut icon" type=image/x-icon href="http://www.rediff.com/favicon.ico" />
+<link rel="stylesheet" href="http://imworld.rediff.com/worldrediff/style_3_16/home_tile_ind_36.css" />
+<style type="text/css">.collect_table{margin:0 5px;display:table;}.collect_td1{display:table-cell;width:250px;text-align:center;vertical-align:middle;}.collect_td2{display:table-cell;vertical-align:top;padding:10px 0 0 10px;}.collect_thumb{width:100px;height:70px;background:#fff;overflow:hidden;margin:0 0 10px 0;border:solid 1px #dbdbdb;}.collect_name{color:#000;font-size:14px;margin:10px 0 0 0;font-weight:bold;}.allcollect{display:inline-block;font-size:13px;font-weight:700;color:#3a5a97;margin:5px 0 0 10px;text-decoration:underline;}</style>
+<script type="text/javascript">
+var homepage = 1;
+var glb_vid_num = 0 ;
+var dealimg_number = 5;
+var s_buzz_no = (Math.floor(Math.random()*3));
+var pages_domain ="http://pages.rediff.com" ;
+var imgpath = "http://imworld.rediff.com/worldrediff/pix";
+var loggedin = "";
+var totalvideos = "10";
+var totalfeaturedpages = "13";
+var glb_citymapped = 0; var glb_trackdeal = ""; var glb_trackshop = ""; var glb_trackshop1 = ""; var glb_trackbook = ""; var glb_altrpromo = 0; var glb_scrll_met = 0;
+var glb_promo_random = (Math.floor(Math.random()*3));
+var booksArr = new Array();var shopArr = new Array();var shopPromoArr = new Array();var shopCatArr = new Array();var bkbannerArr = new Array();var trndimgArr = new Array();
+document.domain = "rediff.com";
+var srch_tab_arr = new Array("shopping","books","realtime","realtime");
+var srch_tab_sel = "shopping";
+var srch_tab_num = 0;
+
+function rdCk(a){var b=document.cookie.split(";");var d=a+"=";for(var i=0;i<b.length;i++){var c=b[i];while(c.charAt(0)==" ")c=c.substring(1,c.length);if(c.indexOf(d)==0)return c.substring(d.length,c.length)}return null}function crtCk(n,v,x,p,d){var a=v==null||v==""?(new Date).getTime()*1E3+Math.round(Math.random()*1E3):escape(v);document.cookie=n+"="+a+(x?"; expires="+x:"")+"; path=/; domain=.rediff.com;"}function delCk(a){var b=new Date;b.setTime(b.getTime()+-1*24*60*60*1E3);crtCk(a,"",b)}function chkUVCk(){var a=rdCk("RuW");var b="Wed, 31-Dec-2031 23:59:59 GMT";if(a!=null&&a!="")crtCk("RuW",a,b);else crtCk("RuW",a,b)}chkUVCk();
+
+</script>
+</head>
+<body>
+<div id="trans_div"></div>
+
+<!-- homewrapper starts -->
+<div id="homewrapper" class="homewrapper">
+	<div class="topgreyline d_wednesday"></div>
+	<div class="popupcontainer"><div id="div_signup"></div><div id="div_confirm"></div></div>
+	<div class="floatL"><img id="redifflogo" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite homelogo" title="Rediff India" alt="Rediff.com" /></div>
+	<div class="userinfo floatR"><span id="username"></span><span id="hp" style="BEHAVIOR: url(#default#homepage)"></span><span id="sethome"></span> <span>
+<script type="text/javascript">
+var ck=document.cookie;function getcookie(n)
+{var ar=n+"=";var al=ar.length;var cl=ck.length;var i=0;while(i<cl)
+{j=i+al;if(ck.substring(i,j)==ar)
+{e=ck.indexOf(";",j);if(e==-1)
+e=ck.length;return unescape(ck.substring(j,e));}
+i=ck.indexOf(" ",i)+1;if(i==0)
+break;}
+return "";}
+</script>
+
+<span id="signin_info"> <a href='https://mail.rediff.com/cgi-bin/login.cgi'>Sign in</a>  &nbsp;|&nbsp; <a href='http://register.rediff.com/register/register.php?FormName=user_details'>Create a Rediffmail account</a></span>
+<iframe src="about:blank" name="metric_iframe" id="metric_iframe" width="1" height="1" frameborder="0" class="hide" ></iframe>
+	<script type="text/javascript">
+		
+		var querystring	= "";
+		var path	= "";
+		var domain	= "";
+		var Rkey_data	= "";
+		var Rkey	= Math.floor(Math.random() * 1000000);
+		querystring	= window.location.search;
+		path		= window.location.pathname;
+		domain		= window.location.host;
+		var tmp_ref = encodeURIComponent(document.referrer);
+		if((tmp_ref == null) || (tmp_ref.length == 0)){tmp_ref = "";}
+		
+					
+			var resolution = screen.width+'x'+screen.height;
+			if (querystring == "")
+			{
+				Rkey_data = "?rkey="+Rkey+"&w="+resolution;
+			}
+			else
+			{
+				Rkey_data = "&rkey="+Rkey+"&w="+resolution;
+			}
+			
+				
+		
+		if(tmp_ref != "")
+		{
+			Rkey_data += "&ref="+tmp_ref;
+		}
+		
+
+		document.getElementById('metric_iframe').src ='http://metric.ind.rediff.com/'+domain+path+querystring+Rkey_data+'&device=pc';	
+	</script>
+
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035613" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+
+	function comscore_ajax(url)
+	{
+		_comscore.push({ c1: "2", c2: "6035613",c4:url });
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	}
+</script>
+
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6035613&cv=2.0&cj=1" /></noscript>
+
+<script  type="text/javascript" >
+var endyear 	= "2016";
+var  cdn_domain = "http://www.rediff.com";
+var  org_domain = "http://mypage.rediff.com";
+var  imgpath	= "http://imworld.rediff.com/worldrediff/pix";
+var  ishare_domain	= "http://ishare.rediff.com";
+var OAS_sitepage = "" ;
+var OAS_listpos = "" ;
+
+
+var Rlo="";
+var Rl = "";
+Rlo	=	getcookie("Rlo");
+Rlo =	unescape(Rlo).replace(/\+/g," ");
+Rlo =	Rlo.replace("@rediffmail.com","");
+Rlo = Rlo.replace(/[^\w\d\s\-\_]/ig,'');
+Rl = getcookie("Rl");
+Rl = Rl.replace(/[^\w\d\s\-\_@\.]/ig,'');
+var tmp_rsc1 = "";
+tmp_rsc1 = getcookie("Rsc");
+if((Rlo != "" || Rl!="" ) && tmp_rsc1 != "")
+{
+	
+	if(Rlo != "" )
+	{
+		document.getElementById('username').innerHTML	= "<a href='"+org_domain+"/profile/myprofile' class='proper' onclick=\"trackURL('http://track.rediff.com/click?url=___"+org_domain+"/profile/myprofile___&cmp=mypage&lnk=mypage&nsrv1=inhome');return false;\">"+Rlo+"</a>&nbsp; | &nbsp;" ;
+	}
+	else
+	{
+		Rl = Rl.substring(0,Rl.lastIndexOf('@'));
+		document.getElementById('username').innerHTML	= "<a href='"+org_domain+"/profile/myprofile' onclick=\"trackURL('http://track.rediff.com/click?url=___"+org_domain+"/profile/myprofile___&cmp=mypage&lnk=mypage&nsrv1=inhome');return false;\">"+Rl+"</a>&nbsp; | &nbsp;" ;
+	}
+	
+	if(document.getElementById('signin_info'))document.getElementById('signin_info').innerHTML = "" ;
+}
+else
+{
+	if(document.getElementById('signin_info')){document.getElementById('signin_info').innerHTML = " <a href='https://mail.rediff.com/cgi-bin/login.cgi' title='Already a user? Sign in'>Sign in</a>  &nbsp;|&nbsp; <a href='http://register.rediff.com/register/register.php?FormName=user_details' >Create a Rediffmail account</a>";}
+	if(Rlo != "" && Rl != "" )
+	{
+		if(document.getElementById('signin_info')){document.getElementById('signin_info').innerHTML += "&nbsp;|&nbsp;";}
+	}
+}
+if(Rl != "")
+{
+	if(document.getElementById('signin_info')){document.getElementById('signin_info').innerHTML += "<a href='"+org_domain+"/signout' title='Sign out'>Sign out</a>";}
+}
+
+</script>
+<style type="text/css">.popupcontainer{z-index:1000;}</style></span></div><span class="clear"></span>
+
+	<div class="icondiv"><a href="https://mail.rediff.com/cgi-bin/login.cgi" title="Lightning fast free email" class="curhand"><div class="divicon"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite mailicon" alt="Lightning fast free email" /><u>rediffmail</u></div></a><a href="http://businessemail.rediff.com?sc_cid=inhome" title="Lightning fast business email hosting" onclick="trackURL('http://track.rediff.com/click?url=___http://businessemail.rediff.com?sc_cid=inhome___&cmp=host&lnk=inhome&nsrv1=host');return false;" class="curhand"><div class="divicon"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite mailproicon" alt="Lightning fast business email hosting" /><u>Company Email</u></div></a><a href="http://money.rediff.com/" title="Live commentary of the Indian stock markets, stock quotes and business news" onclick="trackURL('http://track.rediff.com/click?url=___http://money.rediff.com/___&cmp=money&lnk=money&nsrv1=inhome');return false;"><div  class="divicon"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite moneyicon" alt="Live commentary of the Indian stock markets, stock quotes and business news" /><u>Money</u></div></a><a href="https://vuplanner.vubites.com/static_html/campaign" onclick="trackURL('http://track.rediff.com/click?url=___https://vuplanner.vubites.com/static_html/campaign/___&cmp=vubites&lnk=vubites_icon&nsrv1=inhome');return false;" title="Affordable TV Ads"  class="curhand"><div class="divicon"><div class="floatL"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite vubitesicon" alt="Affordable TV Ads" /></div><div class="vubitescopy"><u>Affordable<br />TV Ads</u><i class="homesprite vub_new"></i></div></div></a><a href="http://ishare.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com___&cmp=ishare&lnk=ishare_icon&nsrv1=inhome');return false;" title="Watch videos"  class="curhand"><div class="divicon"><div class="floatL"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite videosicon" alt="Watch videos" /></div><div class="videocopy"><u>Videos</u></div></div></a><a href="http://books.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://books.rediff.com/?sc_cid=bk_inhome_icon___&cmp=HP&lnk=books_icon&nsrv1=HP');return false;" title="Buy books online"  class="curhand"><div class="divicon"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite booksicon" alt="Buy books online" /><u>Books</u></div></a><a href="http://shopping.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/?sc_cid=inhome_icon___&cmp=HP&lnk=shopping_icon&nsrv1=HP');return false;" title="Online Shopping" class="curhand"><div class="divicon relative"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite shopicon" alt="Online Shopping" /><u>Shopping</u><i id="cart_item" class="cart_item"></i></div></a><div class="diviconlast"><a href="http://realtime.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://realtime.rediff.com/?sc_cid=inhome_icon___&cmp=HP&lnk=rtnews_icon&nsrv1=HP');return false;" title="Realtime News" class="curhand"><div><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite rtnewsicon" alt="Realtime News" /><u>Realtime News</u></div></a></div><span class="clear"></span></div>
+	<div class="trng t_wednesday"></div><div class="d_wednesday alignC"><a href="http://shopping.rediff.com/categories/men-s-wear/cat-2/?sc_cid=inhome_top|fixcat_mens_lifestyle" id="topcat1" class="shcatlinkn" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fshopping.rediff.com%2Fcategories%2Fmen-s-wear%2Fcat-2%2F%3Fsc_cid%3Dinhome_top%7Cfixcat_mens_lifestyle___&cmp=HP&lnk=shopping_top_Mens%20Lifestyle&nsrv1=HP');return false;">Men's Lifestyle</a><a href="http://shopping.rediff.com/categories/women-s-apparel/cat-57/?sc_cid=inhome_top|fixcat_womensclothing" id="topcat2" class="shcatlinkn" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fshopping.rediff.com%2Fcategories%2Fwomen-s-apparel%2Fcat-57%2F%3Fsc_cid%3Dinhome_top%7Cfixcat_womensclothing___&cmp=HP&lnk=shopping_top_Womens%20Lifestyle&nsrv1=HP');return false;">Women's Lifestyle</a><a href="http://shopping.rediff.com/categories/mobile-phones---accessories/cat-8248/?sc_cid=inhome_top|fixcat_mobile" id="topcat3" class="shcatlinkn" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fshopping.rediff.com%2Fcategories%2Fmobile-phones---accessories%2Fcat-8248%2F%3Fsc_cid%3Dinhome_top%7Cfixcat_mobile___&cmp=HP&lnk=shopping_top_Mobiles&nsrv1=HP');return false;">Mobiles</a><a href="http://shopping.rediff.com/categories/electronics/cat-453/?sc_cid=inhome_top|fixcat_electronics" id="topcat4" class="shcatlinkn" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fshopping.rediff.com%2Fcategories%2Felectronics%2Fcat-453%2F%3Fsc_cid%3Dinhome_top%7Cfixcat_electronics___&cmp=HP&lnk=shopping_top_Electronics&nsrv1=HP');return false;">Electronics</a><a href="http://shopping.rediff.com/categories/watches/cat-9628/format-0/?sc_cid=inhome_top|fixcat_Watches" id="topcat5" class="shcatlinkn" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fshopping.rediff.com%2Fcategories%2Fwatches%2Fcat-9628%2Fformat-0%2F%3Fsc_cid%3Dinhome_top%7Cfixcat_Watches___&cmp=HP&lnk=shopping_top_Watches&nsrv1=HP');return false;">Watches</a><a href="http://shopping.rediff.com/categories/home-decor---furnishings/cat-615/?sc_cid=inhome_top|fixcat_home" id="topcat6" class="shcatlinkn" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fshopping.rediff.com%2Fcategories%2Fhome-decor---furnishings%2Fcat-615%2F%3Fsc_cid%3Dinhome_top%7Cfixcat_home___&cmp=HP&lnk=shopping_top_Home%20%26%20Decor&nsrv1=HP');return false;">Home & Decor</a><a href="http://shopping.rediff.com/categories/personal-care---beauty/cat-8551/?sc_cid=inhome_top|fixcat_personalcare_background_perfumes" id="topcat7" class="shcatlinkn" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fshopping.rediff.com%2Fcategories%2Fpersonal-care---beauty%2Fcat-8551%2F%3Fsc_cid%3Dinhome_top%7Cfixcat_personalcare_background_perfumes___&cmp=HP&lnk=shopping_top_Personal%20Care&nsrv1=HP');return false;">Personal Care</a><a href="http://shopping.rediff.com/categories/health-and-fitness/cat-9969/?sc_cid=inhome_top|fixcat_health_fitness" id="topcat8" class="shcatlinkn" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fshopping.rediff.com%2Fcategories%2Fhealth-and-fitness%2Fcat-9969%2F%3Fsc_cid%3Dinhome_top%7Cfixcat_health_fitness___&cmp=HP&lnk=shopping_top_Health%20%26%20Fitness&nsrv1=HP');return false;">Health & Fitness</a><a href="http://books.rediff.com/" class="shcatlinkn" id="topcatbooklink" onclick="trackURL('http://track.rediff.com/click?url=___http://books.rediff.com/?sc_cid=bk_inhome_top___&cmp=HP&lnk=books_top&nsrv1=HP');return false;">Books</a>&nbsp; <a href="http://shopping.rediff.com/categories/" class="shcatlinkn" id="topallcatlink" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/categories/?sc_cid=inhome_top_allcat___&cmp=HP&lnk=shopping_top_allcat&nsrv1=HP');return false;">All Categories &raquo;</a></div>	<div class="big_shopbar">
+		<div id="topsrchhome">
+			<div><form name="srchform" id="queryTop" method="post" action="http://shopping.rediff.com/" ><div class="srch_outer relative"><div id="srchinputcopy" class="srchinputcopy" onclick="this.style.display='none';document.getElementById('srchword').focus();"><span class="homesprite mgglass"></span> Search for a product, category, brand or books</div><input type="text" autocomplete="off" id="srchword" name="srchword" class="homesrchbox" autocorrect="off" /><input type="hidden" name="src" id="snsSRC" value="web"></input><input type="hidden" id="srchurl" value="http://shopping.rediff.com/product/"></input><input type="hidden" id="srchservice" value="shopping"></input><input type="hidden" id="srchsugtrack" value=""></input><input type="submit" value="Search" class="newsrchbtn" /></div></form><div id="sug" class="sug"></div>
+			<i class="ht5"></i>
+			</div>
+		</div>
+		<i class="clear  ht10"></i>
+		<div id="div_advt_x01" class="div_advt_x01"></div>		
+		<i class="clear ht10"></i>
+	</div>
+	<p class="botline d_wednesday"></p>
+	<i class="clear"></i>
+	<div id="hm_top_navlink_div" class="hm_top_navlink_div">
+		<div class="advtuslink"><div class="floatR"><a href="http://clients.rediff.com/rediff_advertisewithus/contact.htm">Advertise with us</a></div><a id="order_status_link" href="http://shopping.rediff.com/customer-care/order-list" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/customer-care/order-list___&cmp=inhome&lnk=inhome&nsrv1=trdorder');return false;" title="Know your order status"><u>Track my order</u></a> &nbsp; <a target="_parent" href="http://commerce.rediff.com/commerce/v2/displaybag.jsp" title="My shopping cart"><u>My Cart</u></a><i class="clear"></i></div>
+		<div class="n_tabsel">Home</div>
+		<a href="http://www.rediff.com/news" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_nav&lnk=news1_nav&nsrv1=inhome');return false;"><div class="n_tabnormal">News</div></a>
+		<a href="http://www.rediff.com/business" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=bus1_nav&lnk=bus1_nav&nsrv1=inhome');return false;"><div class="n_tabnormal">Business</div></a>
+		<a href="http://www.rediff.com/movies" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=mov1_nav&lnk=mov1_nav&nsrv1=inhome');return false;"><div class="n_tabnormal">Movies</div></a>
+		<a href="http://www.rediff.com/sports" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports___&cmp=sports1_nav&lnk=sports1_nav&nsrv1=inhome');return false;"><div class="n_tabnormal">Sports</div></a>
+		<a href="http://www.rediff.com/cricket" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/cricket___&cmp=cric1_nav&lnk=cric1_nav&nsrv1=inhome');return false;"><div class="n_tabnormal">Cricket</div></a>
+		<a href="http://www.rediff.com/getahead" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=get1_nav&lnk=get1_nav&nsrv1=inhome');return false;"><div class="n_tabnormal">Get Ahead</div></a>
+		<a href="http://www.rediff.com/sports/rio-olympics-2016" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports/rio-olympics-2016___&cmp=rio1_nav&lnk=rio1_nav&nsrv1=inhome');return false;"><div class="n_tabnormal">Rio Olympics</div></a>
+		<a href="http://www.rediff.com/appstore/rediffnews" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/appstore/rediffnews___&lnk=inhome&newservice=newsapp');return false;" title="Get Rediff News App"><div class="napp_tab"><span class="homesprite getapparrow" /></span><span>Rediff News App</span></div></a>
+	</div>
+	
+	<span class="clear"></span>
+	<!-- new design starts -->
+	<div id="new_design">
+	<span class="ht10"></span>
+	<!-- maincontainer starts -->
+	<div class="maincontainer">
+		<div id="leftcontainer" class="leftcontainer">
+			<div id="column1" class="wd50 floatL">
+				<div class="colbox" id="hdline_0"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_head&lnk=news1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/news">News</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://news.rediff.com/commentary/2016/aug/24/liveupdates.htm___&cmp=1&lnk=news-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/money/2011/jun/09exp8.jpg" class="img" href="http://news.rediff.com/commentary/2016/aug/24/liveupdates.htm"><img class="thumbimg" alt="LIVE! Tremors felt in Bengal, Bihar, Assam after 6.8 quake hits Myanmar" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://news.rediff.com/commentary/2016/aug/24/liveupdates.htm___&cmp=1&lnk=news-art-txt&nsrv1=inhome');return false;" class="black" href="http://news.rediff.com/commentary/2016/aug/24/liveupdates.htm">LIVE! Tremors felt in Bengal, Bihar, Assam after 6.8 quake hits Myanmar</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_more&lnk=news1_more&nsrv1=inhome');return false;" title="Go to News homepage" href="http://www.rediff.com/news">More News stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_0">http%3A%2F%2Fnews.rediff.com%2Fcommentary%2F2016%2Faug%2F24%2Fliveupdates.htm&cmp=1</i>								<div class="colbox" id="hdline_2"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_head&lnk=news1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/news">News</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/report/never-blamed-rss-as-a-body-for-gandhis-killing-rahul-to-sc/20160824.htm___&cmp=3&lnk=news-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/news/2013/may/04rahul1.jpg" class="img" href="http://www.rediff.com/news/report/never-blamed-rss-as-a-body-for-gandhis-killing-rahul-to-sc/20160824.htm"><img class="thumbimg" alt="Never blamed RSS as a body for Gandhi's killing: Rahul to SC" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/report/never-blamed-rss-as-a-body-for-gandhis-killing-rahul-to-sc/20160824.htm___&cmp=3&lnk=news-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/news/report/never-blamed-rss-as-a-body-for-gandhis-killing-rahul-to-sc/20160824.htm">Never blamed RSS as a body for Gandhi's killing: Rahul to SC</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_more&lnk=news1_more&nsrv1=inhome');return false;" title="Go to News homepage" href="http://www.rediff.com/news">More News stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_2">http%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fnever-blamed-rss-as-a-body-for-gandhis-killing-rahul-to-sc%2F20160824.htm&cmp=3</i>
+					
+								<div class="colboxR" id="hdline_4"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_head&lnk=movies1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/movies">Movies</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/pix-touring-with-katrina-kjo-and-alia/20160823.htm___&cmp=5&lnk=movies-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/movies/2016/aug/24dream-team-tour14.jpg" class="img" href="http://www.rediff.com/movies/report/pix-touring-with-katrina-kjo-and-alia/20160823.htm"><img class="trndimg" alt="PIX: Touring with Katrina, KJo and Alia" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/pix-touring-with-katrina-kjo-and-alia/20160823.htm___&cmp=5&lnk=movies-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/movies/report/pix-touring-with-katrina-kjo-and-alia/20160823.htm">PIX: Touring with Katrina, KJo and Alia</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_more&lnk=movies1_more&nsrv1=inhome');return false;" title="Go to Movies homepage" href="http://www.rediff.com/movies">More Movies stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_4">http%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Fpix-touring-with-katrina-kjo-and-alia%2F20160823.htm&cmp=5</i>
+					
+								<div class="colbox" id="hdline_7"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=getahead1_head&lnk=getahead1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/getahead">Get Ahead</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead/report/glamour-lfw-wf-2016-kangana-turns-up-the-heat-for-tarun-tahiliani/20160824.htm___&cmp=8&lnk=getahead-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/getahead/2016/aug/23lfw-tarun-tahiliani3.jpg" class="img" href="http://www.rediff.com/getahead/report/glamour-lfw-wf-2016-kangana-turns-up-the-heat-for-tarun-tahiliani/20160824.htm"><img class="thumbimg" alt="Kangana turns up the heat for Tarun Tahiliani" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead/report/glamour-lfw-wf-2016-kangana-turns-up-the-heat-for-tarun-tahiliani/20160824.htm___&cmp=8&lnk=getahead-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/getahead/report/glamour-lfw-wf-2016-kangana-turns-up-the-heat-for-tarun-tahiliani/20160824.htm">Kangana turns up the heat for Tarun Tahiliani</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=getahead1_more&lnk=getahead1_more&nsrv1=inhome');return false;" title="Go to Get Ahead homepage" href="http://www.rediff.com/getahead">More Get Ahead stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_7">http%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fglamour-lfw-wf-2016-kangana-turns-up-the-heat-for-tarun-tahiliani%2F20160824.htm&cmp=8</i>
+												<div class="colboxR" id="hdline_9"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/cricket___&cmp=cricket1_head&lnk=cricket1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/cricket">Cricket</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/cricket/report/india-west-indies-report-card-10-10-for-all-rounder-ashwin-kohli/20160823.htm___&cmp=10&lnk=cricket-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/cricket/2016/aug/22ashwin1.jpg" class="img" href="http://www.rediff.com/cricket/report/india-west-indies-report-card-10-10-for-all-rounder-ashwin-kohli/20160823.htm"><img class="trndimg" alt="India's WI Report Card: 10/10 for all-rounder Ashwin" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/cricket/report/india-west-indies-report-card-10-10-for-all-rounder-ashwin-kohli/20160823.htm___&cmp=10&lnk=cricket-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/cricket/report/india-west-indies-report-card-10-10-for-all-rounder-ashwin-kohli/20160823.htm">India's WI Report Card: 10/10 for all-rounder Ashwin</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/cricket___&cmp=cricket1_more&lnk=cricket1_more&nsrv1=inhome');return false;" title="Go to Cricket homepage" href="http://www.rediff.com/cricket">More Cricket stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_9">http%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Findia-west-indies-report-card-10-10-for-all-rounder-ashwin-kohli%2F20160823.htm&cmp=10</i>
+								
+				<div id="trend_8" class="colboxR"></div>
+								<div class="colbox" id="hdline_11"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_head&lnk=business1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/business">Business</a></div>				<div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/column/column-acs-among-indias-top-environment-criminals/20160824.htm___&cmp=12&lnk=business-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/money/2016/aug/23ac.jpg" class="img" href="http://www.rediff.com/business/column/column-acs-among-indias-top-environment-criminals/20160824.htm"><img class="thumbimg" alt="ACs, among India's top environment criminals!" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/column/column-acs-among-indias-top-environment-criminals/20160824.htm___&cmp=12&lnk=business-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/business/column/column-acs-among-indias-top-environment-criminals/20160824.htm">ACs, among India's top environment criminals!</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_more&lnk=business1_more&nsrv1=inhome');return false;" title="Go to Business homepage" href="http://www.rediff.com/business">More Business stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_11">http%3A%2F%2Fwww.rediff.com%2Fbusiness%2Fcolumn%2Fcolumn-acs-among-indias-top-environment-criminals%2F20160824.htm&cmp=12</i>
+												<div class="colbox" id="hdline_14"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_head&lnk=business1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/business">Business</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/report/column-a-load-too-heavy-for-the-indian-railways/20160824.htm___&cmp=15&lnk=business-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/business/2013/feb/26train20.jpg" class="img" href="http://www.rediff.com/business/report/column-a-load-too-heavy-for-the-indian-railways/20160824.htm"><img class="thumbimg" alt="A load too heavy for the Indian Railways" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/report/column-a-load-too-heavy-for-the-indian-railways/20160824.htm___&cmp=15&lnk=business-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/business/report/column-a-load-too-heavy-for-the-indian-railways/20160824.htm">A load too heavy for the Indian Railways</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_more&lnk=business1_more&nsrv1=inhome');return false;" title="Go to Business homepage" href="http://www.rediff.com/business">More Business stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_14">http%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Fcolumn-a-load-too-heavy-for-the-indian-railways%2F20160824.htm&cmp=15</i>
+												<div class="colbox" id="hdline_16"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_head&lnk=news1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/news">News</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/report/many-feared-dead-as-italy-hit-by-powerful-quake/20160824.htm___&cmp=17&lnk=news-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/news/2016/aug/24quake1.jpg" class="img" href="http://www.rediff.com/news/report/many-feared-dead-as-italy-hit-by-powerful-quake/20160824.htm"><img class="thumbimg" alt="Italy devastated by massive quake, 38 dead so far" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/report/many-feared-dead-as-italy-hit-by-powerful-quake/20160824.htm___&cmp=17&lnk=news-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/news/report/many-feared-dead-as-italy-hit-by-powerful-quake/20160824.htm">Italy devastated by massive quake, 38 dead so far</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_more&lnk=news1_more&nsrv1=inhome');return false;" title="Go to News homepage" href="http://www.rediff.com/news">More News stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_16">http%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fmany-feared-dead-as-italy-hit-by-powerful-quake%2F20160824.htm&cmp=17</i>
+								
+				<div id="trend_15" class="colboxR"></div>
+
+								<div class="colbox" id="hdline_19"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_head&lnk=movies1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/movies">Movies</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/pix-sasural-simar-ka-actress-mansi-srivastava-gets-engaged/20160823.htm___&cmp=20&lnk=movies-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/movies/2016/aug/24mansi-engagement6.jpg" class="img" href="http://www.rediff.com/movies/report/pix-sasural-simar-ka-actress-mansi-srivastava-gets-engaged/20160823.htm"><img class="thumbimg" alt="PIX: Sasural Simar Ka actress Mansi Srivastava gets engaged" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/pix-sasural-simar-ka-actress-mansi-srivastava-gets-engaged/20160823.htm___&cmp=20&lnk=movies-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/movies/report/pix-sasural-simar-ka-actress-mansi-srivastava-gets-engaged/20160823.htm">PIX: Sasural Simar Ka actress Mansi Srivastava gets engaged</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_more&lnk=movies1_more&nsrv1=inhome');return false;" title="Go to Movies homepage" href="http://www.rediff.com/movies">More Movies stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_19">http%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Fpix-sasural-simar-ka-actress-mansi-srivastava-gets-engaged%2F20160823.htm&cmp=20</i>
+												<div class="colboxR" id="hdline_22"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports___&cmp=sports1_head&lnk=sports1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/sports">Sports</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports/report/op-jaisha-water-row-was-there-mismanagement-on-governments-part-rio-olympics/20160824.htm___&cmp=23&lnk=sports-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/sports/2016/aug/24jaisha.jpg" class="img" href="http://www.rediff.com/sports/report/op-jaisha-water-row-was-there-mismanagement-on-governments-part-rio-olympics/20160824.htm"><img class="trndimg" alt="OP Jaisha water row: Was there mismanagement on government's part?" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports/report/op-jaisha-water-row-was-there-mismanagement-on-governments-part-rio-olympics/20160824.htm___&cmp=23&lnk=sports-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/sports/report/op-jaisha-water-row-was-there-mismanagement-on-governments-part-rio-olympics/20160824.htm">OP Jaisha water row: Was there mismanagement on government's part?</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports___&cmp=sports1_more&lnk=sports1_more&nsrv1=inhome');return false;" title="Go to Sports homepage" href="http://www.rediff.com/sports">More Sports stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_22">http%3A%2F%2Fwww.rediff.com%2Fsports%2Freport%2Fop-jaisha-water-row-was-there-mismanagement-on-governments-part-rio-olympics%2F20160824.htm&cmp=23</i>
+								
+				<div id="trend_19" class="colboxR"></div>
+								<div class="colbox"><div class="innerbox"><div class="sechead"><a href="http://track.rediff.com/click?url=___http://www.rediff.com/travel-living?sc_cid=inhome_ntv2_travelntvhome___&amp;cmp=HP&amp;lnk=shopping_ntv2_travelntvhome&amp;nsrv1=HP" title="#LifestyleTips">#LifestyleTips</a></div><div class="newimgthumb"><a rel="http://im.rediff.com/travel-living/2016/aug/caraccsone.jpg" class="img" href="http://track.rediff.com/click?url=___http://www.rediff.com/travel-living/report/6-all-time-useful-car-accessories-for-your-vehicle/20160822.htm?sc_cid=inhome_ntv2_usefulcaraccsnative___&cmp=HP&lnk=shopping_ntv2_usefulcaraccsnative&nsrv1=HP"><img class="thumbimg" alt="6 All Time Useful Car Accessories for Your Vehicle" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a></div><a class="black" href="http://track.rediff.com/click?url=___http://www.rediff.com/travel-living/report/6-all-time-useful-car-accessories-for-your-vehicle/20160822.htm?sc_cid=inhome_ntv2_usefulcaraccsnative___&cmp=HP&lnk=shopping_ntv2_usefulcaraccsnative&nsrv1=HP">6 All Time Useful Car Accessories for Your Vehicle</a><span class="ht10"></span><div class="newmorediv bold"><a href="http://track.rediff.com/click?url=___http://www.rediff.com/travel-living?sc_cid=inhome_ntv2_travelntvhome___&amp;cmp=HP&amp;lnk=shopping_ntv2_travelntvhome&amp;nsrv1=HP" title="More in Lifestyle Tips">More in Lifestyle Tips <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a></div></div></div>
+												<div class="colbox"><div class="innerbox"><div class="sechead"><a href="http://track.rediff.com/click?url=___http://www.rediff.com/fashion?sc_cid=inhome_ntv3_fashionntvhome___&amp;cmp=HP&amp;lnk=shopping_ntv3_fashionntvhome&amp;nsrv1=HP" title="#FashionTips">#FashionTips</a></div><div class="newimgthumb"><a rel="http://im.rediff.com/fashion/2016/apr/watchloveronentv.jpg" class="img" href="http://track.rediff.com/click?url=___http://www.rediff.com/fashion/report/10-watches-only-watch-lovers-will-appreciate/20160426.htm?sc_cid=inhome_ntv3_watchlovernative___&cmp=HP&lnk=shopping_ntv3_watchlovernative&nsrv1=HP"><img class="thumbimg" alt="10 Watches Only Watch Lovers will Appreciate" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a></div><a class="black" href="http://track.rediff.com/click?url=___http://www.rediff.com/fashion/report/10-watches-only-watch-lovers-will-appreciate/20160426.htm?sc_cid=inhome_ntv3_watchlovernative___&cmp=HP&lnk=shopping_ntv3_watchlovernative&nsrv1=HP">10 Watches Only Watch Lovers will Appreciate</a><span class="ht10"></span><div class="newmorediv bold"><a href="http://track.rediff.com/click?url=___http://www.rediff.com/fashion?sc_cid=inhome_ntv3_fashionntvhome___&amp;cmp=HP&amp;lnk=shopping_ntv3_fashionntvhome&amp;nsrv1=HP" title="More in Fashion Tips">More in Fashion Tips <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a></div></div></div>
+												<div class="colbox" id="hdline_28"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_head&lnk=news1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/news">News</a></div>				<div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/report/rewind-india-in-the-last-24-hours/20160824.htm___&cmp=29&lnk=news-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/news/2016/aug/24rewind01.jpg" class="img" href="http://www.rediff.com/news/report/rewind-india-in-the-last-24-hours/20160824.htm"><img class="thumbimg" alt="REWIND: India in the last 24 hours" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/report/rewind-india-in-the-last-24-hours/20160824.htm___&cmp=29&lnk=news-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/news/report/rewind-india-in-the-last-24-hours/20160824.htm">REWIND: India in the last 24 hours</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_more&lnk=news1_more&nsrv1=inhome');return false;" title="Go to News homepage" href="http://www.rediff.com/news">More News stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_28">http%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Frewind-india-in-the-last-24-hours%2F20160824.htm&cmp=29</i>
+							</div>
+			<div id="column2"  class="wd50 floatL">
+								<div class="colbox"  id="hdline_1"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_head&lnk=business1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/business">Business</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/report/crorepati-narendra-modi-is-richer-by-rs-32-lakh/20160824.htm___&cmp=2&lnk=business-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/money/2016/aug/24modi1.jpg" class="img" href="http://www.rediff.com/business/report/crorepati-narendra-modi-is-richer-by-rs-32-lakh/20160824.htm"><img class="thumbimg" alt="Crorepati Narendra Modi is richer by Rs 32 lakh!" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/report/crorepati-narendra-modi-is-richer-by-rs-32-lakh/20160824.htm___&cmp=2&lnk=business-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/business/report/crorepati-narendra-modi-is-richer-by-rs-32-lakh/20160824.htm">Crorepati Narendra Modi is richer by Rs 32 lakh!</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_more&lnk=business1_more&nsrv1=inhome');return false;" title="Go to Business homepage" href="http://www.rediff.com/business">More Business stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_1">http%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Fcrorepati-narendra-modi-is-richer-by-rs-32-lakh%2F20160824.htm&cmp=2</i>
+												<div class="colboxR" id="hdline_3"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=getahead1_head&lnk=getahead1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/getahead">Get Ahead</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead/report/glamour-lfw-wf-2016-why-is-arjun-so-angry/20160824.htm___&cmp=4&lnk=getahead-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/getahead/2016/aug/24lfw-sahil-aneja3.jpg" class="img" href="http://www.rediff.com/getahead/report/glamour-lfw-wf-2016-why-is-arjun-so-angry/20160824.htm"><img class="trndimg" alt="Why is Arjun so angry?" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead/report/glamour-lfw-wf-2016-why-is-arjun-so-angry/20160824.htm___&cmp=4&lnk=getahead-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/getahead/report/glamour-lfw-wf-2016-why-is-arjun-so-angry/20160824.htm">Why is Arjun so angry?</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=getahead1_more&lnk=getahead1_more&nsrv1=inhome');return false;" title="Go to Get Ahead homepage" href="http://www.rediff.com/getahead">More Get Ahead stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_3">http%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fglamour-lfw-wf-2016-why-is-arjun-so-angry%2F20160824.htm&cmp=4</i>
+												<div class="colbox" id="hdline_5"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports___&cmp=sports1_head&lnk=sports1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/sports">Sports</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports/report/rio-olympics-bronze-medalist-sakshi-malik-felicitated-pix/20160824.htm___&cmp=6&lnk=sports-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/sports/2016/aug/24sakshi-khattar.jpg" class="img" href="http://www.rediff.com/sports/report/rio-olympics-bronze-medalist-sakshi-malik-felicitated-pix/20160824.htm"><img class="thumbimg" alt="Rio Olympics bronze medallist Sakshi Malik felicitated" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports/report/rio-olympics-bronze-medalist-sakshi-malik-felicitated-pix/20160824.htm___&cmp=6&lnk=sports-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/sports/report/rio-olympics-bronze-medalist-sakshi-malik-felicitated-pix/20160824.htm">Rio Olympics bronze medallist Sakshi Malik felicitated</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports___&cmp=sports1_more&lnk=sports1_more&nsrv1=inhome');return false;" title="Go to Sports homepage" href="http://www.rediff.com/sports">More Sports stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_5">http%3A%2F%2Fwww.rediff.com%2Fsports%2Freport%2Frio-olympics-bronze-medalist-sakshi-malik-felicitated-pix%2F20160824.htm&cmp=6</i>
+												<div class="colbox" id="hdline_8"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_head&lnk=movies1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/movies">Movies</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/pix-ranveers-amazing-switzerland-holiday/20160823.htm___&cmp=9&lnk=movies-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/movies/2016/aug/22ranveer.jpg" class="img" href="http://www.rediff.com/movies/report/pix-ranveers-amazing-switzerland-holiday/20160823.htm"><img class="thumbimg" alt="PIX: Ranveer's AMAZING Swiss holiday" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/pix-ranveers-amazing-switzerland-holiday/20160823.htm___&cmp=9&lnk=movies-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/movies/report/pix-ranveers-amazing-switzerland-holiday/20160823.htm">PIX: Ranveer's AMAZING Swiss holiday</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_more&lnk=movies1_more&nsrv1=inhome');return false;" title="Go to Movies homepage" href="http://www.rediff.com/movies">More Movies stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_8">http%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Fpix-ranveers-amazing-switzerland-holiday%2F20160823.htm&cmp=9</i>
+								
+				<div id="trend_3" class="colboxR"></div>
+								<div class="colbox" id="hdline_10"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_head&lnk=news1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/news">News</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/report/scorched-july-2016-was-the-hottest-month-ever/20160824.htm___&cmp=11&lnk=news-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/news/2016/aug/23hot01.jpg" class="img" href="http://www.rediff.com/news/report/scorched-july-2016-was-the-hottest-month-ever/20160824.htm"><img class="thumbimg" alt="SCORCHED: July 2016 was the hottest month ever" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/report/scorched-july-2016-was-the-hottest-month-ever/20160824.htm___&cmp=11&lnk=news-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/news/report/scorched-july-2016-was-the-hottest-month-ever/20160824.htm">SCORCHED: July 2016 was the hottest month ever</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_more&lnk=news1_more&nsrv1=inhome');return false;" title="Go to News homepage" href="http://www.rediff.com/news">More News stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_10">http%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fscorched-july-2016-was-the-hottest-month-ever%2F20160824.htm&cmp=11</i>
+												<div class="colboxR" id="hdline_12"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/cricket___&cmp=cricket1_head&lnk=cricket1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/cricket">Cricket</a></div>				<div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://imsports.rediff.com/score/in_asa_103871.html___&cmp=13&lnk=cricket-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/cricket/2015/apr/ipl-bb-01.jpg" class="img" href="http://imsports.rediff.com/score/in_asa_103871.html"><img class="trndimg" alt="Scorecard: Sri Lanka vs Australia" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://imsports.rediff.com/score/in_asa_103871.html___&cmp=13&lnk=cricket-art-txt&nsrv1=inhome');return false;" class="black" href="http://imsports.rediff.com/score/in_asa_103871.html">Scorecard: Sri Lanka vs Australia</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/cricket___&cmp=cricket1_more&lnk=cricket1_more&nsrv1=inhome');return false;" title="Go to Cricket homepage" href="http://www.rediff.com/cricket">More Cricket stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_12">http%3A%2F%2Fimsports.rediff.com%2Fscore%2Fin_asa_103871.html&cmp=13</i>
+												<div class="colbox" id="hdline_15"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports___&cmp=sports1_head&lnk=sports1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/sports">Sports</a></div>				<div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports/report/sakshi-named-brand-ambassador-of-beti-bachao-beti-padhao-initiative/20160824.htm___&cmp=16&lnk=sports-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/sports/2016/aug/18sakshi1-1.jpg" class="img" href="http://www.rediff.com/sports/report/sakshi-named-brand-ambassador-of-beti-bachao-beti-padhao-initiative/20160824.htm"><img class="thumbimg" alt="Sakshi named brand ambassador of 'Beti Bachao, Beti Padhao' initiative" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports/report/sakshi-named-brand-ambassador-of-beti-bachao-beti-padhao-initiative/20160824.htm___&cmp=16&lnk=sports-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/sports/report/sakshi-named-brand-ambassador-of-beti-bachao-beti-padhao-initiative/20160824.htm">Sakshi named brand ambassador of 'Beti Bachao, Beti Padhao' initiative</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports___&cmp=sports1_more&lnk=sports1_more&nsrv1=inhome');return false;" title="Go to Sports homepage" href="http://www.rediff.com/sports">More Sports stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_15">http%3A%2F%2Fwww.rediff.com%2Fsports%2Freport%2Fsakshi-named-brand-ambassador-of-beti-bachao-beti-padhao-initiative%2F20160824.htm&cmp=16</i>
+				
+				<div id="bkbox_1" class="colbox"></div>
+
+								<div class="colboxR" id="hdline_18"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=getahead1_head&lnk=getahead1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/getahead">Get Ahead</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead/report/brazil-to-bollywood-is-she-the-hottest-new-model/20160819.htm___&cmp=19&lnk=getahead-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/getahead/2016/aug/19bruna.jpg" class="img" href="http://www.rediff.com/getahead/report/brazil-to-bollywood-is-she-the-hottest-new-model/20160819.htm"><img class="trndimg" alt="Brazil to Bollywood: Is she the hottest new model?" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead/report/brazil-to-bollywood-is-she-the-hottest-new-model/20160819.htm___&cmp=19&lnk=getahead-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/getahead/report/brazil-to-bollywood-is-she-the-hottest-new-model/20160819.htm">Brazil to Bollywood: Is she the hottest new model?</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=getahead1_more&lnk=getahead1_more&nsrv1=inhome');return false;" title="Go to Get Ahead homepage" href="http://www.rediff.com/getahead">More Get Ahead stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_18">http%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fbrazil-to-bollywood-is-she-the-hottest-new-model%2F20160819.htm&cmp=19</i>
+												<div class="colbox" id="hdline_20"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=getahead1_head&lnk=getahead1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/getahead">Get Ahead</a></div>				<div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead/report/at-50-internets-new-playboy/20160822.htm___&cmp=21&lnk=getahead-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/getahead/2016/aug/22gianluca-vacchi12.jpg" class="img" href="http://www.rediff.com/getahead/report/at-50-internets-new-playboy/20160822.htm"><img class="thumbimg" alt="At 50, Internet's new Playboy" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead/report/at-50-internets-new-playboy/20160822.htm___&cmp=21&lnk=getahead-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/getahead/report/at-50-internets-new-playboy/20160822.htm">At 50, Internet's new Playboy</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=getahead1_more&lnk=getahead1_more&nsrv1=inhome');return false;" title="Go to Get Ahead homepage" href="http://www.rediff.com/getahead">More Get Ahead stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_20">http%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fat-50-internets-new-playboy%2F20160822.htm&cmp=21</i>
+												<div class="colbox" id="hdline_23"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_head&lnk=news1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/news">News</a></div>				<div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/report/secret-data-about-indias-scorpene-submarines-leaked/20160824.htm___&cmp=24&lnk=news-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/news/2016/may/02sub1.jpg" class="img" href="http://www.rediff.com/news/report/secret-data-about-indias-scorpene-submarines-leaked/20160824.htm"><img class="thumbimg" alt="Sensitive data on Scorpene submarines leaked, Parrikar seeks report" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/report/secret-data-about-indias-scorpene-submarines-leaked/20160824.htm___&cmp=24&lnk=news-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/news/report/secret-data-about-indias-scorpene-submarines-leaked/20160824.htm">Sensitive data on Scorpene submarines leaked, Parrikar seeks report</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_more&lnk=news1_more&nsrv1=inhome');return false;" title="Go to News homepage" href="http://www.rediff.com/news">More News stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_23">http%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fsecret-data-about-indias-scorpene-submarines-leaked%2F20160824.htm&cmp=24</i>
+												<div class="colbox" id="hdline_24"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_head&lnk=movies1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/movies">Movies</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/pix-ram-charan-rakul-preet-at-chiranjeevis-birthday-celebrations/20160823.htm___&cmp=25&lnk=movies-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/movies/2016/aug/24ram-charan.jpg" class="img" href="http://www.rediff.com/movies/report/pix-ram-charan-rakul-preet-at-chiranjeevis-birthday-celebrations/20160823.htm"><img class="thumbimg" alt="PIX: Ram Charan, Rakul Preet at Chiranjeevi's birthday celebrations" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/pix-ram-charan-rakul-preet-at-chiranjeevis-birthday-celebrations/20160823.htm___&cmp=25&lnk=movies-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/movies/report/pix-ram-charan-rakul-preet-at-chiranjeevis-birthday-celebrations/20160823.htm">PIX: Ram Charan, Rakul Preet at Chiranjeevi's birthday celebrations</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_more&lnk=movies1_more&nsrv1=inhome');return false;" title="Go to Movies homepage" href="http://www.rediff.com/movies">More Movies stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_24">http%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Fpix-ram-charan-rakul-preet-at-chiranjeevis-birthday-celebrations%2F20160823.htm&cmp=25</i>
+												<div class="colbox" id="hdline_26"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports___&cmp=sports1_head&lnk=sports1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/sports">Sports</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports/report/djokovic-serena-get-top-billing-for-us-open/20160824.htm___&cmp=27&lnk=sports-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/sports/2016/jan/serena-djokovic.JPG" class="img" href="http://www.rediff.com/sports/report/djokovic-serena-get-top-billing-for-us-open/20160824.htm"><img class="thumbimg" alt="Djokovic, Serena get top billing for US Open" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports/report/djokovic-serena-get-top-billing-for-us-open/20160824.htm___&cmp=27&lnk=sports-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/sports/report/djokovic-serena-get-top-billing-for-us-open/20160824.htm">Djokovic, Serena get top billing for US Open</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports___&cmp=sports1_more&lnk=sports1_more&nsrv1=inhome');return false;" title="Go to Sports homepage" href="http://www.rediff.com/sports">More Sports stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_26">http%3A%2F%2Fwww.rediff.com%2Fsports%2Freport%2Fdjokovic-serena-get-top-billing-for-us-open%2F20160824.htm&cmp=27</i>
+					
+				<div id="trend_18" class="colboxR"></div>
+				<div id="trend_17" class="colboxR"></div>
+			</div>
+		</div>
+		<div id="column3" class="midcontainer">
+							<div class="colbox"><div class="innerbox"><div class="sechead"><a href="http://track.rediff.com/click?url=___http://www.rediff.com/fashion?sc_cid=inhome_ntv1_fashionntvhome___&amp;cmp=HP&amp;lnk=shopping_ntv1_fashionntvhome&amp;nsrv1=HP" title="#FashionTips">#FashionTips</a></div>
+								<div class="newimgthumb"><a rel="http://im.rediff.com/fashion/2016/aug/13designersareesone.jpg" class="img" href="http://track.rediff.com/click?url=___http://www.rediff.com/fashion/report/13-beautiful-designer-sarees-that-look-high-end-but-arent/20160823.htm?sc_cid=inhome_ntv1_13designersareesnative___&cmp=HP&lnk=shopping_ntv1_13designersareesnative&nsrv1=HP"><img class="thumbimg" alt="13 Beautiful Designer Sarees That Look High-End But Aren't" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a></div>
+								<a class="black" href="http://track.rediff.com/click?url=___http://www.rediff.com/fashion/report/13-beautiful-designer-sarees-that-look-high-end-but-arent/20160823.htm?sc_cid=inhome_ntv1_13designersareesnative___&cmp=HP&lnk=shopping_ntv1_13designersareesnative&nsrv1=HP">13 Beautiful Designer Sarees That Look High-End But Aren't</a><span class="ht10"></span>				<div class="newmorediv bold">
+				<a href="http://track.rediff.com/click?url=___http://www.rediff.com/fashion?sc_cid=inhome_ntv1_fashionntvhome___&amp;cmp=HP&amp;lnk=shopping_ntv1_fashionntvhome&amp;nsrv1=HP" title="More in Fashion Tips">More in Fashion Tips <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a>
+				</div></div></div>
+										<div class="colbox">
+					<div class="innerbox"><div class="sechead"><a href="http://money.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://money.rediff.com/___&cmp=money-box&lnk=money-box-head&nsrv1=inhome');return false;">MoneyWiz Live</a></div><iframe id="moneyiframe" name="moneyiframe" width="175" height="225" src="about:blank" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><div class="newmorediv bold"><a href="http://money.rediff.com" title="More on stock market" onclick="trackURL('http://track.rediff.com/click?url=___http://money.rediff.com/___&cmp=money-box-more&lnk=money-box-more&nsrv1=inhome');return false;">More from Money <img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite morearrow1" /></a></div></div>
+				</div>
+								<div class="colbox" id="hdline_6"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_head&lnk=business1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/business">Business</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/report/auto-pix-the-rs-1299-lakh-6th-gen-hyundai-elantra-is-here/20160823.htm___&cmp=7&lnk=business-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/money/2016/aug/23elantra.jpg" class="img" href="http://www.rediff.com/business/report/auto-pix-the-rs-1299-lakh-6th-gen-hyundai-elantra-is-here/20160823.htm"><img class="thumbimg" alt="The Rs 12.99-lakh 6th gen Hyundai Elantra is here!" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/report/auto-pix-the-rs-1299-lakh-6th-gen-hyundai-elantra-is-here/20160823.htm___&cmp=7&lnk=business-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/business/report/auto-pix-the-rs-1299-lakh-6th-gen-hyundai-elantra-is-here/20160823.htm">The Rs 12.99-lakh 6th gen Hyundai Elantra is here!</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_more&lnk=business1_more&nsrv1=inhome');return false;" title="Go to Business homepage" href="http://www.rediff.com/business">More Business stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_6">http%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Fauto-pix-the-rs-1299-lakh-6th-gen-hyundai-elantra-is-here%2F20160823.htm&cmp=7</i>
+												<div class="colbox"><div class="innerbox"><div class="sechead"><a href="http://track.rediff.com/click?url=___http://labs.rediff.com___&amp;cmp=labs-hd&amp;lnk=labs-hd&amp;nsrv1=inhome" title="Rediff Labs">Rediff Labs</a></div>
+								<div class="newimgthumb"><a rel="http://im.rediff.com/170-170/sports/2016/aug/22rio-medals.jpg" class="img" href="http://track.rediff.com/click?url=___http://www.rediff.com/sports/report/mapped-which-nations-won-medals-in-rio/20160822.htm___&cmp=labs-story&lnk=labs-story&nsrv1=inhome"><img class="thumbimg" alt="MAPPED: Which nations won medals in Rio?" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a></div>
+												<a class="black" href="http://track.rediff.com/click?url=___http://www.rediff.com/sports/report/mapped-which-nations-won-medals-in-rio/20160822.htm___&cmp=labs-story&lnk=labs-story&nsrv1=inhome">MAPPED: Which nations won medals in Rio?</a><span class="ht10"></span>																																<div class="newmorediv bold">
+				<a href="http://track.rediff.com/click?url=___http://labs.rediff.com___&amp;cmp=labs-hd&amp;lnk=labs-hd&amp;nsrv1=inhome" title="More in labs">More in labs <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a>
+				</div></div></div>
+												<div id="videobox_0" class="colbox">
+					<div class="innerbox">
+					<div class="sechead"><a href="http://ishare.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com___&cmp=ishare&lnk=ishare&nsrv1=inhome');return false;" title="More on Videos">Videos</a> &nbsp;<a  href="http://ishare.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com___&cmp=ishare&lnk=ishare&nsrv1=inhome');return false;"><img class="homesprite playbtn vmiddle" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div>
+					<div class="newimgthumb"><a href="http://ishare.rediff.com/video/entertainment/vaani-kapoor-steals-the-show-in-befikre-s-new-poster/10624231"  onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com/video/entertainment/vaani-kapoor-steals-the-show-in-befikre-s-new-poster/10624231___&cmp=ishare&lnk=ishare&nsrv1=inhome');return false;" rel="http://datastore.rediff.com/h115-w170/thumb/53615D675B5B615F706460626D72/3xfgxrx0uf9dg3vn.D.45000.Vaani-Kapoor-steals-the-show-in-Befikre-s-new-poster.mpg-0015.png" class="img" title="Vaani Kapoor steals the show in Befikre s new poster"><img alt="Vaani Kapoor steals the show in Befikre s new poster" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a></div>					<a href="http://ishare.rediff.com/video/entertainment/vaani-kapoor-steals-the-show-in-befikre-s-new-poster/10624231" class="black" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com/video/entertainment/vaani-kapoor-steals-the-show-in-befikre-s-new-poster/10624231___&cmp=ishare&lnk=ishare&nsrv1=inhome');return false;">Vaani Kapoor steals the show in Befikre s new poster</a>
+					<div class="newmorediv bold"><a  href="http://ishare.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com___&cmp=ishare&lnk=ishare&nsrv1=inhome');return false;" title="More on Videos">More Videos <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div>
+					</div>			
+				</div>
+																	<div class="colbox">
+					<div class="innerbox"><div class="sechead"><a href="http://www.rediff.com/editors-choice" class="capitalize" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/editors-choice___&cmp=editors-choice1_head&lnk=editors-choice1_head&nsrv1=inhome');return false;">Editor's Choice</a></div>
+					<div class="newimgthumb"><a href="http://www.rediff.com/news/interview/hoisting-the-tricolour-in-the-maoist-heartland/20160818.htm" class="img" rel="http://im.rediff.com/200-300/news/2016/aug/19soni-sori-in-gompad.jpg" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/interview/hoisting-the-tricolour-in-the-maoist-heartland/20160818.htm___&cmp=HP&lnk=editors-choice-art-img&nsrv1=inhome');return false;"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" alt="Hoisting the Tricolour in the Maoist heartland" class="thumbimg" ></a></div>
+					<a href="http://www.rediff.com/news/interview/hoisting-the-tricolour-in-the-maoist-heartland/20160818.htm" class="black" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/interview/hoisting-the-tricolour-in-the-maoist-heartland/20160818.htm___&cmp=HP&lnk=editors-choice-art-txt&nsrv1=inhome');return false;">Hoisting the Tricolour in the Maoist heartland</a><div class="newmorediv bold"><a href="http://www.rediff.com/editors-choice" title="Go to Editor's Choice homepage" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/editors-choice___&cmp=editors-choice1_more&lnk=editors-choice1_more&nsrv1=inhome');return false;">More Editor's Choice stories <img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite morearrow1" /></a></div></div>
+				</div>
+									<div id="videobox_1" class="colbox">
+				<div class="innerbox">
+				<div class="sechead"><a href="http://ishare.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com___&cmp=ishare1&lnk=ishare1&nsrv1=inhome');return false;" title="More on Videos">Videos</a> &nbsp;<a  href="http://ishare.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com___&cmp=ishare1&lnk=ishare1&nsrv1=inhome');return false;"><img class="homesprite playbtn vmiddle" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div>
+				<div class="newimgthumb"><a href="http://ishare.rediff.com/video/news-and-politics/inspiring-longest-marathon-drumming-by-srishti-patidar/10624702"  onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com/video/news-and-politics/inspiring-longest-marathon-drumming-by-srishti-patidar/10624702___&cmp=ishare1&lnk=ishare1&nsrv1=inhome');return false;" rel="http://datastore.rediff.com/h115-w170/thumb/53615D675B5B615F706460626D72/kuh1fjqgrgbx9bas.D.62000.Inspiring--Longest-marathon-drumming-by-Srishti-Patidar.mpg-0019.png" class="img" title="Inspiring! Longest marathon drumming by Srishti Patidar"><img alt="Inspiring! Longest marathon drumming by Srishti Patidar" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a></div>				<a href="http://ishare.rediff.com/video/news-and-politics/inspiring-longest-marathon-drumming-by-srishti-patidar/10624702" class="black" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com/video/news-and-politics/inspiring-longest-marathon-drumming-by-srishti-patidar/10624702___&cmp=ishare1&lnk=ishare1&nsrv1=inhome');return false;">Inspiring! Longest marathon drumming by Srishti Patidar</a>
+				<div class="newmorediv bold"><a  href="http://ishare.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com___&cmp=ishare1&lnk=ishare1&nsrv1=inhome');return false;" title="More on Videos">More Videos <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div>
+				</div>			
+			</div>
+										<div class="colbox">
+					<div class="innerbox"><div class="sechead"><a href="http://www.rediff.com/editors-choice" class="capitalize" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/editors-choice___&cmp=editors-choice2_head&lnk=editors-choice2_head&nsrv1=inhome');return false;">Editor's Choice</a></div>
+					<div class="newimgthumb"><a href="http://www.rediff.com/news/column/trolls-impact-no-letters-to-the-editor-please/20160818.htm" class="img" rel="http://im.rediff.com/200-300/news/2016/aug/17letters.jpg" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/column/trolls-impact-no-letters-to-the-editor-please/20160818.htm___&cmp=HP&lnk=editors-choice-art-img&nsrv1=inhome');return false;"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" alt="Trolls Impact? No Letters to the Editor please" class="thumbimg" ></a></div>
+					<a href="http://www.rediff.com/news/column/trolls-impact-no-letters-to-the-editor-please/20160818.htm" class="black" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news/column/trolls-impact-no-letters-to-the-editor-please/20160818.htm___&cmp=HP&lnk=editors-choice-art-txt&nsrv1=inhome');return false;">Trolls Impact? No Letters to the Editor please</a><div class="newmorediv bold"><a href="http://www.rediff.com/editors-choice" title="Go to Editor's Choice homepage" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/editors-choice___&cmp=editors-choice2_more&lnk=editors-choice2_more&nsrv1=inhome');return false;">More Editor's Choice stories <img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite morearrow1" /></a></div></div>
+				</div>
+						<div id="pagebox_0" class="colbox">
+				<div class="innerbox">
+				<div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://pages.rediff.com___&cmp=pages&lnk=pages&nsrv1=inhome');return false;" title="More on Pages" href="http://pages.rediff.com">Pages</a></div>
+								<div class="newimgthumb"><a href="http://pages.rediff.com/damayanthi/2136863" onclick="trackURL('http://track.rediff.com/click?url=___http://pages.rediff.com/damayanthi/2136863___&cmp=pages&lnk=pages&nsrv1=inhome');return false;" rel="http://simg02.rcdn.in/image.php?pageid=2136863&amp;type=pages" class="img" title="Damayanthi"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" alt="Damayanthi" /></a></div>
+								<a class="black" onclick="trackURL('http://track.rediff.com/click?url=___http://pages.rediff.com/damayanthi/2136863___&cmp=pages&lnk=pages&nsrv1=inhome');return false;" href="http://pages.rediff.com/damayanthi/2136863">Damayanthi : Movie Launch Photos</a>
+				<div class="div_second"><a href="http://pages.rediff.com/san-75-pachattar/2126965" class="black" onclick="trackURL('http://track.rediff.com/click?url=___http://pages.rediff.com/san-75-pachattar/2126965___&cmp=pages&lnk=pages&nsrv1=inhome');return false;">San 75 Pachattar :Movie Latest News and Photos</a></div>
+				<div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://pages.rediff.com___&cmp=pages&lnk=pages&nsrv1=inhome');return false;" title="More on Pages" href="http://pages.rediff.com">More Pages <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div>
+				</div>
+			</div>
+						<div class="colbox">
+				<div class="innerbox">
+				<div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fzarabol.rediff.com%2F%23%21YourFavouriteSuperHero%2F10406823___&cmp=zarabol&lnk=zarabol&nsrv1=inhome');return false;" href="http://zarabol.rediff.com/YourFavouriteSuperHero/10406823">#YourFavouriteSuperHero?</a></div>
+				<div class="newimgthumb"><a  href="http://zarabol.rediff.com/YourFavouriteSuperHero/10406823" rel="http://datastore.rediff.com/h115-w170/thumb/605E6C5C6F626C606A627572/aodlf3225vq8z5yf.D.0.YourFavouriteSuperHero.jpg" class="img" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fzarabol.rediff.com%2F%23%21YourFavouriteSuperHero%2F10406823___&cmp=zarabol&lnk=zarabol&nsrv1=inhome');return false;"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" alt="YourFavouriteSuperHero?"  /></a></div>
+				<p><a onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fzarabol.rediff.com%2F%23%21YourFavouriteSuperHero%2F10406823___&cmp=zarabol&lnk=zarabol&nsrv1=inhome');return false;" href="http://zarabol.rediff.com/YourFavouriteSuperHero/10406823" class="black">With A Flying Jatt movie releasing this Friday, tell us who is your favourite superhero and why?</a></p>				<div class="newmorediv bold"><a href="http://zarabol.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://zarabol.rediff.com___&cmp=zarabol&lnk=zarabol&nsrv1=inhome');return false;" title="More on ZaraBol">More ZaraBol stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div>
+				</div>
+			</div>
+									<div id="videobox_2" class="colbox">
+				<div class="innerbox">
+				<div class="sechead"><a href="http://ishare.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com___&cmp=ishare2&lnk=ishare2&nsrv1=inhome');return false;" title="More on Videos">Videos</a> &nbsp;<a  href="http://ishare.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com___&cmp=ishare2&lnk=ishare2&nsrv1=inhome');return false;"><img class="homesprite playbtn vmiddle" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div>
+				<div class="newimgthumb"><a href="http://ishare.rediff.com/video/entertainment/zarine-khan-feels-bold-scenes-of-only-a-listers-are-praised/10624120"  onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com/video/entertainment/zarine-khan-feels-bold-scenes-of-only-a-listers-are-praised/10624120___&cmp=ishare2&lnk=ishare2&nsrv1=inhome');return false;" rel="http://datastore.rediff.com/h115-w170/thumb/53615D675B5B615F706460626D72/c7q48xodzwueae36.D.43000.Zarine-Khan-feels-bold-scenes-of-only-A-listers-are-praised.mpg-0014.png" class="img" title="Zarine Khan feels bold scenes of only A-listers are praised"><img alt="Zarine Khan feels bold scenes of only A-listers are praised" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" /></a></div>				<a href="http://ishare.rediff.com/video/entertainment/zarine-khan-feels-bold-scenes-of-only-a-listers-are-praised/10624120" class="black" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com/video/entertainment/zarine-khan-feels-bold-scenes-of-only-a-listers-are-praised/10624120___&cmp=ishare2&lnk=ishare2&nsrv1=inhome');return false;">Zarine Khan feels bold scenes of only A-listers are praised</a>
+				<div class="newmorediv bold"><a  href="http://ishare.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://ishare.rediff.com___&cmp=ishare2&lnk=ishare2&nsrv1=inhome');return false;" title="More on Videos">More Videos <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div>
+				</div>			
+			</div>
+									<div class="colbox">
+				<div class="innerbox">
+				<div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fzarabol.rediff.com%2F%23%21MonsoonPics%2F10048578___&cmp=zarabol1&lnk=zarabol1&nsrv1=inhome');return false;" href="http://zarabol.rediff.com/MonsoonPics/10048578">#MonsoonPics</a></div>
+				<div class="newimgthumb"><a  href="http://zarabol.rediff.com/MonsoonPics/10048578" rel="http://datastore.rediff.com/h115-w170/thumb/605E6C5C6F626C606A627572/wl9da5injzds5sr7.D.0.MonsoonPics_-12-.jpg" class="img" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fzarabol.rediff.com%2F%23%21MonsoonPics%2F10048578___&cmp=zarabol1&lnk=zarabol1&nsrv1=inhome');return false;"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" alt="MonsoonPics"  /></a></div>
+				<p><a onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fzarabol.rediff.com%2F%23%21MonsoonPics%2F10048578___&cmp=zarabol1&lnk=zarabol1&nsrv1=inhome');return false;" href="http://zarabol.rediff.com/MonsoonPics/10048578" class="black">Share your monsoon snapshots and videos</a></p>				
+				<div class="newmorediv bold"><a href="http://zarabol.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://zarabol.rediff.com___&cmp=zarabol1&lnk=zarabol1&nsrv1=inhome');return false;" title="More on ZaraBol">More ZaraBol stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div>
+				</div>
+			</div>
+									<div id="realtimebox"  class="colbox">
+			<div class="innerbox">
+				<div class="sechead"><a href="http://realtime.rediff.com/topnews/india" onclick="trackURL('http://track.rediff.com/click?url=___http://realtime.rediff.com/topnews/india___&cmp=rt-box-head&lnk=rt-box-head&nsrv1=inhome');return false;">Realtime News</a></div>
+				<div class="newimgthumb"><a href="http://realtime.rediff.com/news/india/Khattar-greets-people-on-Janmashtami/50f326d0a2c9f522" rel="http://n01.rcdn.in/thumbnail2/617fd19d90a7ec32.jpg" class="img" onclick="trackURL('http://track.rediff.com/click?url=___http://realtime.rediff.com/news/india/Khattar-greets-people-on-Janmashtami/50f326d0a2c9f522___&cmp=rt-box-stimg&lnk=rt-box-stimg&nsrv1=inhome');return false;"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" alt="Khattar greets people on Janmashtami" /></a></div>				<a href="http://realtime.rediff.com/news/india/Khattar-greets-people-on-Janmashtami/50f326d0a2c9f522" class="black" onclick="trackURL('http://track.rediff.com/click?url=___http://realtime.rediff.com/news/india/Khattar-greets-people-on-Janmashtami/50f326d0a2c9f522___&cmp=rt-box-sttxt&lnk=rt-box-sttxt&nsrv1=inhome');return false;">Khattar greets people on Janmashtami</a>
+				<div class="newmorediv bold"><a href="http://realtime.rediff.com/topnews/india" title="More Realtime News" onclick="trackURL('http://track.rediff.com/click?url=___http://realtime.rediff.com/topnews/india___&cmp=rt-box-more&lnk=rt-box-more&nsrv1=inhome');return false;">More Realtime News <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div>
+			</div>
+			</div>
+			
+			<div id="bkbox_2" class="colbox"></div>
+
+						<div class="colboxR" id="hdline_27"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_head&lnk=business1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/business">Business</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/report/pix-special-india-is-richer-than-canada-australia/20160823.htm___&cmp=28&lnk=business-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/money/2016/aug/23nation1.jpg" class="img" href="http://www.rediff.com/business/report/pix-special-india-is-richer-than-canada-australia/20160823.htm"><img class="trndimg" alt="India is richer than Canada, Australia!" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/report/pix-special-india-is-richer-than-canada-australia/20160823.htm___&cmp=28&lnk=business-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/business/report/pix-special-india-is-richer-than-canada-australia/20160823.htm">India is richer than Canada, Australia!</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_more&lnk=business1_more&nsrv1=inhome');return false;" title="Go to Business homepage" href="http://www.rediff.com/business">More Business stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_27">http%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Fpix-special-india-is-richer-than-canada-australia%2F20160823.htm&cmp=28</i>
+			
+		</div>
+		<div id="rightcontainer" class="rightcontainer">
+			<div id="hm_rht_adcontainer" class="adcontainer hide"><div id="div_advt_right" style="width:300px;margin:0 auto;"></div></div>
+			<div id="collection_container" class="adcontainer hide"></div>
+			<span class="clear"></span>
+									<div id="column4"  class="wd50 floatL">
+				<div id="recent_0" class="colbox"></div>
+				<div id="bkbox_banner" class="colboxR"><div class="innerbox"><div class="newimgthumb"><a href="http://shopping.rediff.com/hourlydeals?sc_cid=inhome_hourlydeal_16pm_240816_remote_control_truck" class="img" rel="http://imshopping.rediff.com/shopping/homepix/hp_tile_1hourdeal_240816_16.jpg" ><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" alt="" /></a></div><p class="grey2"></p><p class="alignR"><a class="sm1 bold morelikecolor" href="">More like this &gt;</a></p></div></div>				
+				<div id="bdeal_2" class="colboxR" style="display:none;">
+																<div class="innerbox"><div class="sechead"><a href="http://shopping.rediff.com/categories/boots-for-men/cat-11614" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/categories/boots-for-men/cat-11614?sc_cid=inhome_cat_11614_RB3___&cmp=HP&lnk=shopping_cat_11614_RB3&nsrv1=HP');return false;">Boots For Men</a></div><div class="newimgthumb"><a href="http://shopping.rediff.com/product/bacca-bucci-leather-high-ankle-length-boots---greenhillcamel-/13985919" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/product/bacca-bucci-leather-high-ankle-length-boots---greenhillcamel-/13985919?sc_cid=inhome_best_RB3_13985919___&cmp=HP&lnk=shopping_best_RB3_13985919&nsrv1=HP');return false;" title="Bacca bucci leather High Ankle Length Boots  ( greenhill-camel )"><img src="http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/18366/s/sdl156211362_1384495130_image1-5f16f_5502bde94883c._bacca-bucci-leather-high-ankle-length-boots-greenhill-camel-.jpg" alt="Bacca bucci leather High Ankle Length Boots  ( greenhill-camel )"  class="trndimg" /></a></div><a href="http://shopping.rediff.com/product/bacca-bucci-leather-high-ankle-length-boots---greenhillcamel-/13985919" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/product/bacca-bucci-leather-high-ankle-length-boots---greenhillcamel-/13985919?sc_cid=inhome_best_RB3_13985919___&cmp=HP&lnk=shopping_best_RB3_13985919&nsrv1=HP');return false;" class="black"><p title="Bacca bucci leather High Ankle Length Boots  ( greenhill-camel )">Bacca bucci leather High Ankle Length Boots  ( greenhill-camel )<p class="shprice"><span class="listprice">Rs.2999</span> &nbsp;Rs.899</p></a><p class="alignR"><a href="http://shopping.rediff.com/categories/boots-for-men/cat-11614" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/categories/boots-for-men/cat-11614?sc_cid=inhome_like_11614_RB3___&cmp=HP&lnk=shopping_like_11614_RB3&nsrv1=HP');return false;" class="sm1 bold morelikecolor">More like this &gt;</a></p><i id="track_bdeal_2"  class="hide">RB3_13985919,</i></div>				</div>
+				<div class="colboxR"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://books.rediff.com/?sc_cid=bk_inhome_head___&cmp=HP&lnk=books_head&nsrv1=HP');return false;" href="http://books.rediff.com">Books</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fbooks.rediff.com%2Fbook%2FBrain-power-Workout-The--%2F9781907030123?sc_cid=bk_inhome_9781907030123___&cmp=HP&lnk=books_9781907030123&nsrv1=HP');return false;" rel="http://imshopping.rediff.com/imgchkbooks/140-140/books/pixs/23/9781907030123.jpg" class="img" title="Brain power Workout The  " href="http://books.rediff.com/book/Brain-power-Workout-The--/9781907030123"><img alt="Brain power Workout The  " src="http://imworld.rediff.com/worldrediff/pix/blank.gif" ></a></div><a href="http://books.rediff.com/book/Brain-power-Workout-The--/9781907030123" onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fbooks.rediff.com%2Fbook%2FBrain-power-Workout-The--%2F9781907030123?sc_cid=bk_inhome_9781907030123___&cmp=HP&lnk=books_9781907030123&nsrv1=HP');return false;" class="black"><span class="discotext">73 % OFF - </span>Brain power Workout The  </a><p class="shprice"><span class="listprice">Rs. 1099</span> &nbsp;Rs. 299</p><p class="alignR"><a onclick="trackURL('http://track.rediff.com/click?url=___http://books.rediff.com/similarbooks/9781907030123?sc_cid=bk_inhome_morelike___&cmp=HP&lnk=books_morelike&nsrv1=HP');return false;" class="sm1 bold morelikecolor" href="http://books.rediff.com/similarbooks/9781907030123">More like this &gt;</a></p></div></div>
+				<div id="trend_2" class="colboxR"></div>
+				<div id="trend_4" class="colboxR"></div>
+				<div id="trend_6" class="colboxR"></div>
+								<div class="colboxR"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://books.rediff.com/?sc_cid=bk_inhome_head___&cmp=HP&lnk=books_head&nsrv1=HP');return false;" href="http://books.rediff.com">Books</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fbooks.rediff.com%2Fbook%2FSet--2-Collins-Agatha-Christie--5-Books-with-5-CD%2F9788122316025?sc_cid=bk_inhome_9788122316025___&cmp=HP&lnk=books_9788122316025&nsrv1=HP');return false;" rel="http://imshopping.rediff.com/imgchkbooks/140-140/books/pixs/25/9788122316025.jpg" class="img" title="Set - 2 Collins Agatha Christie  (5 Books with 5 CD)" href="http://books.rediff.com/book/Set--2-Collins-Agatha-Christie--5-Books-with-5-CD/9788122316025"><img alt="Set - 2 Collins Agatha Christie  (5 Books with 5 CD)" src="http://imworld.rediff.com/worldrediff/pix/blank.gif" ></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http%3A%2F%2Fbooks.rediff.com%2Fbook%2FSet--2-Collins-Agatha-Christie--5-Books-with-5-CD%2F9788122316025?sc_cid=bk_inhome_9788122316025___&cmp=HP&lnk=books_9788122316025&nsrv1=HP');return false;" class="black" href="http://books.rediff.com/book/Set--2-Collins-Agatha-Christie--5-Books-with-5-CD/9788122316025"><span class="discotext">20 % OFF - </span>Set - 2 Collins Agatha Christie  (5 Books with 5 CD)</a><p class="shprice"><span class="listprice">Rs. 750</span> &nbsp;Rs. 603</p><p class="alignR"><a onclick="trackURL('http://track.rediff.com/click?url=___http://books.rediff.com/similarbooks/9788122316025?sc_cid=bk_inhome_morelike___&cmp=HP&lnk=books_morelike&nsrv1=HP');return false;" class="sm1 bold morelikecolor" href="http://books.rediff.com/similarbooks/9788122316025">More like this &gt;</a></p></div></div>
+												<div class="colboxR" id="hdline_17"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_head&lnk=movies1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/movies">Movies</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/i-dont-want-to-call-myself-a-star-yet/20160824.htm___&cmp=18&lnk=movies-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/movies/2016/aug/24tiger.jpg" class="img" href="http://www.rediff.com/movies/report/i-dont-want-to-call-myself-a-star-yet/20160824.htm"><img class="thumbimg" alt="'I don't want to call myself a star yet'" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/i-dont-want-to-call-myself-a-star-yet/20160824.htm___&cmp=18&lnk=movies-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/movies/report/i-dont-want-to-call-myself-a-star-yet/20160824.htm">'I don't want to call myself a star yet'</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_more&lnk=movies1_more&nsrv1=inhome');return false;" title="Go to Movies homepage" href="http://www.rediff.com/movies">More Movies stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_17">http%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Fi-dont-want-to-call-myself-a-star-yet%2F20160824.htm&cmp=18</i>
+								<div id="trend_9" class="colboxR"></div>
+				<div id="trend_11" class="colboxR"></div>
+				<div id="trend_13" class="colboxR"></div>
+								<div class="colbox" id="hdline_25"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=getahead1_head&lnk=getahead1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/getahead">Get Ahead</a></div>				<div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead/report/glamour-i-never-saw-myself-as-the-curvy-sexy-type/20160801.htm___&cmp=26&lnk=getahead-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/getahead/2016/aug/01radhika-lead1.jpg" class="img" href="http://www.rediff.com/getahead/report/glamour-i-never-saw-myself-as-the-curvy-sexy-type/20160801.htm"><img class="thumbimg" alt="'I never saw myself as the curvy, sexy type'" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead/report/glamour-i-never-saw-myself-as-the-curvy-sexy-type/20160801.htm___&cmp=26&lnk=getahead-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/getahead/report/glamour-i-never-saw-myself-as-the-curvy-sexy-type/20160801.htm">'I never saw myself as the curvy, sexy type'</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=getahead1_more&lnk=getahead1_more&nsrv1=inhome');return false;" title="Go to Get Ahead homepage" href="http://www.rediff.com/getahead">More Get Ahead stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_25">http%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fglamour-i-never-saw-myself-as-the-curvy-sexy-type%2F20160801.htm&cmp=26</i>
+						
+				
+				<div id="trend_16" class="colboxR"></div>
+
+								<div class="colboxR"><div class="innerbox"><div class="sechead"><a href="http://track.rediff.com/click?url=___http://blogs.rediff.com/rediffmailpro?sc_cid=inhome-promoAntiSpamAntiVirus___&cmp=host&lnk=inhome-promoAntiSpamAntiVirus&nsrv1=host">Rediffmail Enterprise</a></div>
+				<div class="newimgthumb"><a rel="http://businessemail.rediff.com/rediffmailpro/pix/ad-componets/tilepromo-spamvirus.gif" class="img" title="Rediffmail Enterprise" href="http://track.rediff.com/click?url=___http://blogs.rediff.com/rediffmailpro?sc_cid=inhome-promoAntiSpamAntiVirus___&cmp=host&lnk=inhome-promoAntiSpamAntiVirus&nsrv1=host"><img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" alt="Rediffmail Enterprise" class="trndimg hostimg" /></a></div><a href="http://track.rediff.com/click?url=___http://blogs.rediff.com/rediffmailpro?sc_cid=inhome-promoAntiSpamAntiVirus___&cmp=host&lnk=inhome-promoAntiSpamAntiVirus&nsrv1=host" class="black" ><p>Is your Business email Spam & Virus protected? Especially when 90-95% of email traffic around the world is spam..</p></a><span class="ht10"></span><p class="alignR"><a class="sm1 bold morelikecolor" href="http://track.rediff.com/click?url=___http://blogs.rediff.com/rediffmailpro?sc_cid=inhome-promoAntiSpamAntiVirus___&cmp=host&lnk=inhome-promoAntiSpamAntiVirus&nsrv1=host">Check it out now &gt;</a></p></div></div>
+							</div>
+			<div id="column5" class="wd50 floatL">
+				<div id="recent_1" class="colbox"></div>
+				<div id="bdeal_3" class="colboxR" style="display:none;">
+																<div class="innerbox"><div class="sechead"><a href="http://shopping.rediff.com/categories/kurtis/cat-8096" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/categories/kurtis/cat-8096?sc_cid=inhome_cat_8096_RB4___&cmp=HP&lnk=shopping_cat_8096_RB4&nsrv1=HP');return false;">Kurtis</a></div><div class="newimgthumb"><a href="http://shopping.rediff.com/product/janasya-pack-of-2-cotton-kurtikr107kr108/18491750" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/product/janasya-pack-of-2-cotton-kurtikr107kr108/18491750?sc_cid=inhome_best_RB4_18491750___&cmp=HP&lnk=shopping_best_RB4_18491750&nsrv1=HP');return false;" title="Janasya Pack of 2 Cotton Kurti-KR107-KR108"><img src="http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/19322/k/kr107-kr108._janasya-pack-of-2-cotton-kurti-kr107-kr108.jpg" alt="Janasya Pack of 2 Cotton Kurti-KR107-KR108"  class="trndimg" /></a></div><a href="http://shopping.rediff.com/product/janasya-pack-of-2-cotton-kurtikr107kr108/18491750" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/product/janasya-pack-of-2-cotton-kurtikr107kr108/18491750?sc_cid=inhome_best_RB4_18491750___&cmp=HP&lnk=shopping_best_RB4_18491750&nsrv1=HP');return false;" class="black"><p title="Janasya Pack of 2 Cotton Kurti-KR107-KR108">Janasya Pack of 2 Cotton Kurti-KR107-KR108<p class="shprice"><span class="listprice">Rs.2399</span> &nbsp;Rs.499</p></a><p class="alignR"><a href="http://shopping.rediff.com/categories/kurtis/cat-8096" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/categories/kurtis/cat-8096?sc_cid=inhome_like_8096_RB4___&cmp=HP&lnk=shopping_like_8096_RB4&nsrv1=HP');return false;" class="sm1 bold morelikecolor">More like this &gt;</a></p><i id="track_bdeal_3"  class="hide">RB4_18491750,</i></div>				</div>
+				<div id="bdeal_0" class="colboxR" style="display:none;">
+																<div class="innerbox"><div class="sechead"><a href="http://shopping.rediff.com/categories/womens-perfumes/cat-8588" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/categories/womens-perfumes/cat-8588?sc_cid=inhome_cat_8588_RB1___&cmp=HP&lnk=shopping_cat_8588_RB1&nsrv1=HP');return false;">Women's Perfumes</a></div><div class="newimgthumb"><a href="http://shopping.rediff.com/product/burberry-body-eau-de-toilette--85-ml-for-women/13945351" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/product/burberry-body-eau-de-toilette--85-ml-for-women/13945351?sc_cid=inhome_best_RB1_13945351___&cmp=HP&lnk=shopping_best_RB1_13945351&nsrv1=HP');return false;" title="Burberry Body Eau De Toilette - 85 Ml (for Women)"><img src="http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/17738/b/burberry_body_tender_body_milk_60ml_1403610565._burberry-body-eau-de-toilette-85-ml-for-women-.jpg" alt="Burberry Body Eau De Toilette - 85 Ml (for Women)"  class="trndimg" /></a></div><a href="http://shopping.rediff.com/product/burberry-body-eau-de-toilette--85-ml-for-women/13945351" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/product/burberry-body-eau-de-toilette--85-ml-for-women/13945351?sc_cid=inhome_best_RB1_13945351___&cmp=HP&lnk=shopping_best_RB1_13945351&nsrv1=HP');return false;" class="black"><p title="Burberry Body Eau De Toilette - 85 Ml (for Women)">Burberry Body Eau De Toilette - 85 Ml (for Women)</p><p class="shprice"><span class="listprice">Rs.4950</span> &nbsp;Rs.3180</p></a><p class="alignR"><a href="http://shopping.rediff.com/categories/womens-perfumes/cat-8588" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/categories/womens-perfumes/cat-8588?sc_cid=inhome_like_8588_RB1___&cmp=HP&lnk=shopping_like_8588_RB1&nsrv1=HP');return false;" class="sm1 bold morelikecolor">More like this &gt;</a></p><i id="track_bdeal_0"  class="hide">RB1_13945351,</i></div>				</div>
+				<div id="bdeal_1" class="colbox" style="display:none;">
+																<div class="innerbox"><div class="sechead"><a href="http://shopping.rediff.com/categories/sports-shoes-for-men/cat-11623" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/categories/sports-shoes-for-men/cat-11623?sc_cid=inhome_cat_11623_RB2___&cmp=HP&lnk=shopping_cat_11623_RB2&nsrv1=HP');return false;">Sports Shoes For Men</a></div><div class="newimgthumb"><a href="http://shopping.rediff.com/product/buwch-mens-sport-shoes/19111034" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/product/buwch-mens-sport-shoes/19111034?sc_cid=inhome_best_RB2_19111034___&cmp=HP&lnk=shopping_best_RB2_19111034&nsrv1=HP');return false;" title="BUWCH MEN'S SPORT SHOES"><img src="http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/20611/1/19111034_576cf7080b162._buwch-mens-sport-shoes.jpg" alt="BUWCH MEN'S SPORT SHOES"  class="trndimg" /></a></div><a href="http://shopping.rediff.com/product/buwch-mens-sport-shoes/19111034" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/product/buwch-mens-sport-shoes/19111034?sc_cid=inhome_best_RB2_19111034___&cmp=HP&lnk=shopping_best_RB2_19111034&nsrv1=HP');return false;" class="black"><p title="BUWCH MEN'S SPORT SHOES">BUWCH MEN'S SPORT SHOES</p></a><p class="shprice"><span class="listprice">Rs.1299</span> &nbsp;Rs.499</p><p class="alignR"><a href="http://shopping.rediff.com/bestdeals" onclick="trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/categories/sports-shoes-for-men/cat-11623?sc_cid=inhome_like_11623_RB2___&cmp=HP&lnk=shopping_like_11623_RB2&nsrv1=HP');return false;" class="sm1 bold morelikecolor">More like this &gt;</a></p><i id="track_bdeal_1"  class="hide">RB2_19111034,</i></div>				</div>
+				<div id="trend_0" class="colboxR"></div>
+				<div id="trend_1" class="colboxR"></div>
+								<div class="colbox" id="hdline_13"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_head&lnk=movies1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/movies">Movies</a></div>				<div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/deepika-mila-kunis-jennifer-forbes-highest-paid-actresses/20160824.htm___&cmp=14&lnk=movies-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/movies/2016/aug/04deepika.jpg" class="img" href="http://www.rediff.com/movies/report/deepika-mila-kunis-jennifer-forbes-highest-paid-actresses/20160824.htm"><img class="thumbimg" alt="Deepika, Mila Kunis, Jennifer: Forbes' HIGHEST PAID Actresses" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies/report/deepika-mila-kunis-jennifer-forbes-highest-paid-actresses/20160824.htm___&cmp=14&lnk=movies-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/movies/report/deepika-mila-kunis-jennifer-forbes-highest-paid-actresses/20160824.htm">Deepika, Mila Kunis, Jennifer: Forbes' HIGHEST PAID Actresses</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=movies1_more&lnk=movies1_more&nsrv1=inhome');return false;" title="Go to Movies homepage" href="http://www.rediff.com/movies">More Movies stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_13">http%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Fdeepika-mila-kunis-jennifer-forbes-highest-paid-actresses%2F20160824.htm&cmp=14</i>
+								<div id="trend_5" class="colboxR"></div>
+				<div id="bkbox_0" class="colboxR"></div>
+				<div id="trend_7" class="colboxR"></div>
+					
+				<div class="colbox" id="hdline_21"><div class="innerbox"><div class="sechead"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_head&lnk=business1_head&nsrv1=inhome');return false;" class="capitalize" href="http://www.rediff.com/business">Business</a></div><div class="newimgthumb"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/report/why-amazons-victory-may-be-short-lived/20160824.htm___&cmp=22&lnk=business-art-img&nsrv1=inhome');return false;" rel="http://im.rediff.com/200-300/money/2016/aug/24amazon.jpg" class="img" href="http://www.rediff.com/business/report/why-amazons-victory-may-be-short-lived/20160824.htm"><img class="thumbimg" alt="Why Amazon's victory may be short-lived" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business/report/why-amazons-victory-may-be-short-lived/20160824.htm___&cmp=22&lnk=business-art-txt&nsrv1=inhome');return false;" class="black" href="http://www.rediff.com/business/report/why-amazons-victory-may-be-short-lived/20160824.htm">Why Amazon's victory may be short-lived</a><div class="newmorediv bold"><a onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=business1_more&lnk=business1_more&nsrv1=inhome');return false;" title="Go to Business homepage" href="http://www.rediff.com/business">More Business stories <img class="homesprite morearrow1" src="http://imworld.rediff.com/worldrediff/pix/blank.gif"></a></div></div></div><i class="hide" id="track_hdline_21">http%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Fwhy-amazons-victory-may-be-short-lived%2F20160824.htm&cmp=22</i>
+								<div id="trend_10" class="colboxR"></div>
+				<div id="trend_12" class="colboxR"></div>
+				<div id="trend_14" class="colboxR"></div>
+							</div>
+		</div>
+		<span class="clear"></span><span class="ht10"></span>
+		<div class="n_tabsul">
+			<div class="n_tabsel">HOME</div>
+			<a href="http://www.rediff.com/news" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/news___&cmp=news1_nav_bot&lnk=news1_nav_bot&nsrv1=inhome');return false;"><div class="n_tabnormal">NEWS</div></a>
+			<a href="http://www.rediff.com/business" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/business___&cmp=bus1_nav_bot&lnk=bus1_nav_bot&nsrv1=inhome');return false;"><div class="n_tabnormal">BUSINESS</div></a>
+			<a href="http://www.rediff.com/movies" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/movies___&cmp=mov1_nav_bot&lnk=mov1_nav_bot&nsrv1=inhome');return false;"><div class="n_tabnormal">MOVIES</div></a>
+			<a href="http://www.rediff.com/sports" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/sports___&cmp=sports1_nav_bot&lnk=sports1_nav_bot&nsrv1=inhome');return false;"><div class="n_tabnormal">SPORTS</div></a>
+			<a href="http://www.rediff.com/cricket" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/cricket___&cmp=cric1_nav_bot&lnk=cric1_nav_bot&nsrv1=inhome');return false;"><div class="n_tabnormal">CRICKET</div></a>
+			<a href="http://www.rediff.com/getahead" onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/getahead___&cmp=get1_nav_bot&lnk=get1_nav_bot&nsrv1=inhome');return false;"><div class="n_tabnormal">GET AHEAD</div></a>
+			<a href="http://www.rediff.com/moreservices.html" title="More services"  onclick="trackURL('http://track.rediff.com/click?url=___http://www.rediff.com/moreservices.html___&cmp=moreservices&lnk=moreservices&nsrv1=inhome');return false;"><div class="n_tabnormal">MORE SERVICES</div></a>
+		</div>
+		<span class="clear"></span><span class="ht10"></span>
+	</div><!-- maincontainer ends -->
+	</div>
+	<!-- new design ends -->
+	<div id="div_alldata">
+		<div id="ul_shop"></div>
+		<div id="ul_books"><a id="bk_a_0" href="http://books.rediff.com/book?bksrno=1">Women of the World: The Rise of the Female...</a><br /><a id="bk_a_1" href="http://books.rediff.com/book?bksrno=2">A Complete Guide to Homoeopathy</a><br /><a id="bk_a_2" href="http://books.rediff.com/book?bksrno=3">4 in 1 - Bubbles</a><br /></div>
+		<div id="ul_shpromo"><a id="sprmo_a_0" href="http://shopping.rediff.com/product/biotique">Biotique</a><br /><a id="sprmo_a_1" href="http://shopping.rediff.com/product/apple-ipad-air-2-16gb-4g-wifi-apple-india-warranty/13600444">Ipad</a><br /><a id="sprmo_a_2" href="http://www.rediff.com/travel-living/report/5-simple-do-it-yourself-car-cleaning-tips/20141106.htm">Cleannative</a><br /><a id="sprmo_a_3" href="http://shopping.rediff.com">GOSF</a><br /><a id="sprmo_a_4" href="http://shopping.rediff.com/stores/5501">Designertable</a><br /><a id="sprmo_a_5" href="http://shopping.rediff.com/product/13604596">Micromax</a><br /></div>
+	</div>
+
+	<div id="mobtip" class="bubbletip"><div class="homesprite topl"></div><div class="topmid"></div><div class="homesprite topr"></div><div class="clear"></div><div class="bubblecontent"><center>Using your mobile's internet browser<br />go to:&nbsp; <span class="f14"><b>m.rediff.com</b></span></center></div><div class="clear"></div><div class="homesprite botl"></div><div class="botmid"></div><div class="homesprite botr"></div><div class="homesprite botarr1"></div></div>
+	<div id="div_mailsignin_ad" class="div_mailsignin_ad">
+		<div id="ad_outer_mail" class="ad_outer">
+			<div id="div_mailsignin_inner" class="mailAdinner">
+				<div id="div_rediffmail" ><span class="ht5"></span><form onsubmit="return chkLogin();" method="post" action="https://mail.rediff.com/cgi-bin/login.cgi" name="loginform" class="frmlogin"><div class="floatR"><a href="javascript:hideDiv1('trans_div');hideDiv1('div_mailsignin_ad');hideDiv1('frame_ad_hm_maillogin');" class="close" title="Close"><b>X</b></a></div><span class="clear ht10"></span><h2 class="homesprite nglogo1">&nbsp;</h2><span class="clear"></span><span class="ht10"></span><div><b class="f14">Username</b><br /><input id="login1" type="text" value="" class="uname" name="login" maxlength="30" tabindex="1" /></div><span class="clear ht10"></span>
+				<div><div class="floatL f14 bold">Password</div><div class="floatR"><a class="f12" href="http://register.rediff.com/utilities/newforgot/index.php?FormName=showlogin" target="_blank"><u>Forgot Password?</u></a>&nbsp; </div><span class="clsear ht2"></span><input type="password" value="" name="passwd"  class="uname" tabindex="2" /></div><span class="ht5"></span><div><input type="checkbox" value="1" id="remember" name="remember" checked="checked" class="vmiddle" /><span class="f10">Be signed in (Uncheck if on shared computer)</span><span class="ht10"></span><input type="submit" title="Sign in" value="  Go  " class="vmiddle" tabindex="3" />&nbsp; &nbsp;<img src="http://imworld.rediff.com/worldrediff/pix/blank.gif" class="homesprite lock vmiddle" alt="Secured login" /><span class="sm1">&nbsp; Secured login</span><input type="checkbox" name="seclogin" class="hide" checked  /><span class="ht10"></span><span class="sm1 grey2">For Rediffmail NG Mobile, SMS "MAIL" to 57333</span></div><input type="hidden" name="FormName" value="existing"/></form><span class="ht15"></span><div class="div_loginpromo alignC f14 bold">Don't have a Rediffmail ID?<span class="clear ht2"></span><a href="http://register.rediff.com/register/register.php?FormName=user_details"><u>Create a new account</u></a></div>
+				<div class="div_loginpromo f14 bold">Own a personalised email ID?<span class="clear ht2"></span><p class="f12 grey1">e.g. Raj Shah owns raj@shahtrading.in</p><a href="http://businessemail.rediff.com/email-ids-for-companies-with-less-than-50-employees?sc_cid=lgn" onclick="trackURL('http://track.rediff.com/click?url=___http://businessemail.rediff.com/email-ids-for-companies-with-less-than-50-employees?sc_cid=lgn___&cmp=lgn&lnk=lgn&nsrv1=host');return false;" ><u>Get yours today</u></a></div></div>
+				<div id="hm_mail_ad" class="floatR"><iframe id="frame_ad_hm_maillogin" src="about:blank" width="642" height="482" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="maillogin_ad hide"></iframe></div>
+			</div>
+		</div>
+	</div>
+	<img id="tabtrack" src="" class="hide" width="1" height="1" border="0" />
+	<iframe src="about:blank" name="tabtrack_iframe" id="tabtrack_iframe" width="1" height="1" frameborder="0" class="hide" ></iframe>
+	<div id="div_mypagelogin" class="div_mypagelogin"><div id="ad_outer_mypage" class="ad_outer"><div id="div_mypagelogin_inner" class="mypageAdinner"><div id="div_signin"></div><div id="hm_mpage_ad" class="floatR"><iframe id="frame_ad_hm_mypagelogin" src="about:blank" width="642" height="482" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" class="mypagelogin_ad hide"></iframe></div></div></div></div>
+	<div id="shoptippop" class="divshoptippop"><div class="homesprite poptop"></div><div id="assurancecopy" class="popmid"></div><div class="homesprite popbottom"></div></div>
+	<div class='footerhome' >&#169; 2016 <a href="http://ia.rediff.com/" title="Rediff.com US" >Rediff.com US</a> - <a id="mobicon" href="javascript:;;" onmouseover="findPosXY('mobicon','mobtip',-150,-65);" onmouseout="hideDiv1('mobtip');" >On Mobile</a> - <a href="http://investor.rediff.com/">Investors</a> - <a href="http://www.rediff.com/disclaim.htm">Disclaimer</a> - <a href="http://www.rediff.com/w3c/policy.html">Privacy</a> - <a href="http://labs.rediff.com" onclick="trackURL('http://track.rediff.com/click?url=___http://labs.rediff.com___&cmp=labs-footer&lnk=labs-footer&nsrv1=inhome');return false;">Rediff Labs</a> - <a href="http://careers.rediff.com/jobs/">Careers</a> - <a href="http://www.rediff.com/sitemap.xml"  title="Sitemap.xml">Sitemap</a> - <a href="http://mypage.rediff.com/feedback">Feedback</a> - <a href="http://support.rediff.com/index.html">Contact Us</a> - <a href="http://www.rediff.com/terms.html">Terms of use</a></div>
+
+<script language="JavaScript" type="text/javascript">
+OAS_loc=getcookie('RLOC');
+if (!(OAS_loc))
+{
+	   document.write("<table cellspacing='0' cellpadding='0' border='0'><tr><td><img src='http://loc.rediff.com/cgi-bin/loc/setup/blank.gif' border='0' hspace='0' vspace='0' alt='' /></td></tr></table>");
+}
+
+</script>
+
+
+<script language="JavaScript" type="text/javascript">
+function strpos( haystack, needle, offset){
+var i = (haystack+'').indexOf( needle, offset );
+return i===-1 ? false : i;
+}
+
+function trim(s){
+s = s.replace(/^\s*/,'').replace(/\s*$/, '');
+return s;
+}
+
+
+function signin()
+{
+	
+	if (typeof(r_controller) == "undefined")
+	{
+		r_controller	= "";
+	}
+	if (typeof(r_action) == "undefined")
+	{
+		r_action		= "";
+	}
+	document.getElementById('div_signin').innerHTML='<span class="ht10"></span><form method="post" id="loginform1" name="loginform1" action="'+org_domain+'/login/dologin" onsubmit="return validateloginform();"><div class="floatR"><span title="Close" class="close" onclick="hideDiv1(\'div_mypagelogin\');hideDiv1(\'trans_div\');hideDiv1(\'frame_ad_hm_mypagelogin\');"><b>X</b></span>&nbsp;</div><span class="clear"></span><div class="f14 bold">Already a User? Sign in!</div><span class="clear ht10"></span><div class="fontsm">Sign-in to see what your friends are upto and make friends with people with similar interests.</div><span class="clear ht15"></span><div class="f14 bold">Your email ID</div><div class="col2"><input type="text" name="id" id="c_uname"  class="uname" tabindex="1" /></div><span class="clear ht10"></span><div class="f14 bold">Password &nbsp;<a href="javascript:forgotpass()" class="f12 normal">(Forgot password?)</a></div><div class="col2"><span class="ht5"></span><input type="password" name="num" id="c_pass"  class="uname" tabindex="2" /></div><span class="clear ht2"></span><div class="besign"><input type="checkbox" name="remember" id="remember" value="1" checked="checked" class=vmiddle /><span class="f10">Be signed in (Uncheck if on shared computer)</span></div><span class="clear ht10"></span><div><input type="hidden" name="r_controller" id="id_r_controller" value="'+r_controller+'" /><input type="hidden" name="r_action" id="id_r_action" value="'+r_action+'" /><input type="hidden" name="login" /><input type="hidden" name="passwd" /><input value="existing" name="FormName" type="hidden" /><input type="submit" value="Go"  id="btn_login" class="gobtn vmiddle" tabindex="3" /> <img id="waitimg1" src='+imgpath+'/blank.gif class="waitimg" /></div><span class="clear ht15"></span><div class="div_loginpromo f14 bold alignC">Don\'t have a Rediffmail ID?<span class="clear ht2"></span><a href="http://register.rediff.com/register/register.php?FormName=user_details"><u>Create a new account</u></a></div><div class="div_loginpromo f14 bold">Own a personalised email ID?<span class="clear ht2"></span><p class="f12 grey1">e.g. Raj Shah owns raj@shahtrading.in</p><a href="http://track.rediff.com/click?url=___http://businessemail.rediff.com/email-ids-for-companies-with-less-than-50-employees?sc_cid=lgn___&cmp=lgn&lnk=lgn&nsrv1=host"><u>Get a Rediffmail Pro account</u></a><span class=clear></span></div></form>'
+	showDiv1('trans_div');
+	showDiv1('div_mypagelogin');
+	document.getElementById('tabtrack').src = "http://metric.ind.rediff.com/www.rediff.com/xt/?rkey="+Math.floor(Math.random() * 1000000);
+	if(document.getElementById("frame_ad_hm_mypagelogin")){document.getElementById("frame_ad_hm_mypagelogin").src = "http://imworld.rediff.com/worldrediff/pix/ind_home_mailLoginAd_1.html";}
+}
+
+var uname="";
+function validateloginform()
+{
+	uname	= document.getElementById("c_uname").value;
+	var pass	= document.getElementById("c_pass").value;
+	var remem	= document.getElementById("remember");
+	remember = "";
+	if (remem.checked)
+	{
+		remember = "On";
+	}
+
+	if ( uname == "" )
+	{
+		document.getElementById("c_uname").focus();
+		alert("Please enter your email ID");
+		return false;			
+	}
+	if ( pass == "" )
+	{
+		document.getElementById("c_pass").focus();
+		alert("Please enter a password");
+		return false;			
+	}
+
+	if(typeof(homepage) != "undefined")
+	{
+		if((strpos(uname,"@") == false || strpos(uname,"@rediffmail.com") != false) )
+		{
+			
+			document.getElementById("loginform1").login.value = uname;
+			document.getElementById("loginform1").passwd.value = pass;
+			document.getElementById("loginform1").action = "https://mail.rediff.com/cgi-bin/login.cgi";
+			return true;
+		}
+	}
+	var url		=  org_domain+"/login/dologin";
+	var postdata	= "id="+uname+"&num="+pass+"&format=xml";
+	if (remember == "On")
+	{
+		postdata += "&remember=On";
+	}
+	return true;
+}
+
+function forgotpass() 
+{
+	window.open("http://login.rediff.com/cgi-bin/subs/passwd_remind.cgi?FormName=showlogin",'forgetPswdWinRediff','toolbar=no,directories=no,resize=yes,menubar=no,location=no,scrollbars=yes,width=490,height=480,maximize=null,top=70,left=80'); 
+}
+var topkeywords = new Array("google","rediffmail","live score","rediffmail.com","facebook","google.com","gmail","live cricket score","cricket score","gmail.com","www.google.com","mail","yahoo","inbox","yahoo.com","cricket live score","login","www.gmail.com","live cricket","facebook.com","www.facebook.com","fb","irctc","youtube","www.rediffmail.com","cricket live","rediffmail login");
+function submitSearch(data,surl,service,prefix)
+{
+	var srchword = trim(document.getElementById('srchword').value) ;
+	var srchlink = "";	var srchservice = ""; var srchprefix = "";
+	var totalkeywords = topkeywords.length;
+	if(srchword=="")
+	{
+		document.getElementById('srchword').focus();
+		if(document.getElementById('srchinputcopy')){document.getElementById('srchinputcopy').style.display = "none";}
+		alert("Please enter search keyword");
+		return false;
+	}
+	for(var k=0; k<totalkeywords; k++)
+	{
+		if(srchword.toLowerCase() == topkeywords[k])
+		{
+			document.location.href = "http://track.rediff.com/click?url=___http://realtime.rediff.com/news/"+escape(srchword.replace(/\//g,' '))+"?sc_cid=rt_srch___&cmp=rt_srch&lnk=rt_srch&nsrv1=inhome&prefix="+escape(srchword.replace(/\//g,' '))+"&sug="+escape(srchword.replace(/\//g,' '))+"&service=realtime";
+			return false;
+		}
+	}
+	srchword = escape(srchword.replace(/\//g,' '));
+	if(surl != "" && surl != "undefined" && surl != undefined)
+	{
+		srchlink = surl;
+	}
+	else
+	{
+		if(document.getElementById('srchurl').value == "http://shopping.rediff.com/product/")
+		{
+			srchlink = "";
+		}
+		else
+		{
+			srchlink = document.getElementById('srchurl').value +"?sc_cid="+services_lnk_track[srch_tab_sel];
+		}
+	}
+	if(service != "" && service != "undefined" && service != undefined)
+	{
+		srchservice = service;
+	}
+	else
+	{
+		srchservice =document.getElementById('srchservice').value;
+	}
+
+	if(prefix != "" && prefix != "undefined" && prefix != undefined)
+	{
+		srchprefix = prefix;
+	}
+	else
+	{
+		srchprefix =document.getElementById('srchsugtrack').value;
+	}
+	if(srchservice == ""){srchservice="shopping"};
+	if(srchlink==""){srchlink = "http://shopping.rediff.com/product/"+srchword+"?sc_cid=shopping_inhomesrch";}
+	if(typeof(services_lnk_track) == 'undefined')
+	{
+		document.location.href = "http://shopping.rediff.com/product/"+srchword+"?sc_cid=shopping_inhomesrch";
+	}
+	else
+	{
+		document.location.href = "http://track.rediff.com/click?url=___"+srchlink+"___&cmp="+services_lnk_track[srchservice]+"&lnk="+services_lnk_track[srchservice]+"&nsrv1="+services_nsrv_track[srchservice]+"&prefix="+srchprefix+"&sug="+srchword+"&service="+srchservice;
+	}
+	return false;
+}
+if(document.getElementById('queryTop')){document.getElementById('queryTop').onsubmit = function(){return submitSearch();}}
+function PasswdRemindWin()
+{window.open("http://register.rediff.com/utilities/newforgot/index.php?FormName=showlogin","win1","toolbar=no,directories=no,resize=yes,menubar=no,location=no,scrollbars=yes,width=670,height=480,maximize=null,top=70,left=80");}
+_d = document;
+
+function chkLogin()
+{if(_d.loginform.login.value.replace(/ /g,"")==""&&_d.loginform.passwd.value=="")
+{alert("Please enter valid Username and Password");_d.loginform.login.value=""
+_d.loginform.login.focus();return false;}
+if(_d.loginform.login.value.replace(/ /g,"")=="")
+{alert("Please enter valid Username");_d.loginform.login.value=""
+_d.loginform.login.focus();return false;}
+if(_d.loginform.passwd.value=="")
+{alert("Please enter valid Password");_d.loginform.passwd.value=""
+_d.loginform.passwd.focus();return false;}
+var seclogin=_d.loginform.seclogin;if(seclogin.checked==true)
+{_d.loginform.action="https://mail.rediff.com/cgi-bin/login.cgi";}
+else
+{_d.loginform.action="http://mail.rediff.com/cgi-bin/login.cgi";}
+return true;}
+
+</script>
+</div><!-- homewrapper ends -->
+
+
+<noscript><div class="msg_noscript">Your browser does not support JavaScript or it may be disabled!</div></noscript>
+
+<script type="text/javascript">
+
+
+bn = 0
+booksArr[bn]=new Array("9781408840054","","599","480","http://imshopping.rediff.com/imgchkbooks/200-200/books/pixs/54/9781408840054.jpg","20","women-of-the-world:-the-rise-of-the-female-diplomat","","","women-of-the-world-the-rise-of-the-female-diplomat","Diplomacy","http://books.rediff.com/categories/diplomacy/cat-JPSD","JPSD");
+bn = 1
+booksArr[bn]=new Array("9788178223025","","295","284","http://imshopping.rediff.com/imgchkbooks/200-200/books/pixs/25/9788178223025.jpg","4","a-complete-guide-to-homoeopathy","","","a-complete-guide-to-homoeopathy","Homoeopathy","http://books.rediff.com/categories/homoeopathy/cat-VXHH","VXHH");
+bn = 2
+booksArr[bn]=new Array("9788120767034","","175","137","http://imshopping.rediff.com/imgchkbooks/200-200/books/pixs/34/9788120767034.jpg","22","4-in-1---bubbles","","","4-in-1--bubbles","Colouring & painting activity books","http://books.rediff.com/categories/colouring--painting-activity-books/cat-YBGC","YBGC");
+
+
+bkb = 0
+bkbannerArr[bkb]=new Array("http://imshopping.rediff.com/shopping/homepix/hp_tile_1hourdeal_240816_16.jpg","http://shopping.rediff.com/hourlydeals?sc_cid=inhome_hourlydeal_16pm_240816_remote_control_truck","");
+
+sn = 0
+shopArr[sn]=new Array("11685660","Formal shirts for men","8076","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/5362/s/stripes._Menaposs-Formal-Striped-Shirt.jpg","399","399","399","399","product/Menaposs-Formal-Striped-Shirt/11685660","Men&apos;s Formal Striped Shirt","formal-shirts-for-men");
+sn = 1
+shopArr[sn]=new Array("19895901","Nokia","13904","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/19697/2/233-xpress-music._Nokia-5233-Xpress-Music.jpg","6699","1499","6,699","1,499","product/Nokia-5233-Xpress-Music/19895901","Nokia 5233 Xpress Music","nokia");
+sn = 2
+shopArr[sn]=new Array("18657685","Others formal shoes for men","11668","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/18243/k/ka-05-bk._Leather-King-Genuine-Leather-Black-Formal-Shoes--Code-LKKA05BK.jpg","1999","899","1,999","899","product/Leather-King-Genuine-Leather-Black-Formal-Shoes--Code-LKKA05BK/18657685","Leather King Genuine Leather Black Formal Shoes - (Code -LK-KA-05-BK)","others-formal-shoes-for-men");
+sn = 3
+shopArr[sn]=new Array("17985039","Other health amp; fitness","11128","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/19192/k/kneecapwithhinged._Vitane-Hinged-Knee-Cap.jpg","480","350","480","350","product/Vitane-Hinged-Knee-Cap/17985039","Vitane Hinged Knee Cap","other-health-amp;-fitness");
+sn = 4
+shopArr[sn]=new Array("19568046","Wallets","221","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/17498/m/mypac-cruisegenuineleatherwalletwithatmcardholderbestgiftforalloccasionsblackc11561-1-1._mypaccruise-Genuine-Leather-wallet-with-atm-card-holder-Black--C115611.jpg","1388","888","1,388","888","product/mypaccruise-Genuine-Leather-wallet-with-atm-card-holder-Black--C115611/19568046","mypac-cruise Genuine Leather wallet with atm card holder Black  C11561-1","wallets");
+sn = 5
+shopArr[sn]=new Array("18393861","Desk accessories","868","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/11150/y/y-and-travel-kit._10in1-Office-Combo-Desktop-Accessory-And-Travel-Kit.jpg","1750","699","1,750","699","product/10in1-Office-Combo-Desktop-Accessory-And-Travel-Kit/18393861","10-in-1 Office Combo Desktop Accessory And Travel Kit","desk-accessories");
+sn = 6
+shopArr[sn]=new Array("13007338","Other mobile accessories","8287","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/14541/h/housing_84._Full-body-panel-faceplate-housing-for-nokia-6300.jpg","1500","500","1,500","500","product/Full-body-panel-faceplate-housing-for-nokia-6300/13007338","Full body panel faceplate housing for nokia 6300","other-mobile-accessories");
+sn = 7
+shopArr[sn]=new Array("18739449","Other kitchen utilities","8836","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/19612/e/essional-grade-p._Swifty-Sharp-Cordless-Motorised-Tool-amp-Knife-Sharpener-Professional-Grade-P.jpg","1899","590","1,899","590","product/Swifty-Sharp-Cordless-Motorised-Tool-amp-Knife-Sharpener-Professional-Grade-P/18739449","Swifty Sharp Cordless Motorised Tool &amp; Knife Sharpener Professional Grade P","other-kitchen-utilities");
+sn = 8
+shopArr[sn]=new Array("19567531","Designer sarees","9775","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/17929/s/sty-9105_57763d882c95d._Styloce-pink-georgette-saree.9105.jpg","1099","499","1,099","499","product/Styloce-pink-georgette-saree.9105/19567531","Styloce pink georgette saree.9105","designer-sarees");
+sn = 9
+shopArr[sn]=new Array("14715600","Bedroom","713","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/19069/r/room-magic-stars_554dbad36aa4c._Make-Night-Sky-In-Your-Room-Magic-Stars.jpg","1999","148","1,999","148","product/Make-Night-Sky-In-Your-Room-Magic-Stars/14715600","Make Night Sky In Your Room Magic Stars","bedroom");
+sn = 10
+shopArr[sn]=new Array("15959551","Car utilities","13450","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/17190/c/car-vision-visor._HD-Car-Vision-Visor.jpg","999","399","999","399","product/HD-Car-Vision-Visor/15959551","HD Car Vision Visor","car-utilities");
+sn = 11
+shopArr[sn]=new Array("12444394","Tea","10800","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/16790/m/mamra._Mamra-Almonds-Size-4-Biggest-Almond-Size-Imported-Best-For-Brain-Memory-Sha.jpg","3599","1999","3,599","1,999","product/Mamra-Almonds-Size-4-Biggest-Almond-Size-Imported-Best-For-Brain-Memory-Sha/12444394","Mamra Almonds Size 4 Biggest Almond Size Imported Best For Brain Memory Sha","tea");
+sn = 12
+shopArr[sn]=new Array("15274726","Graters, scrapers, openers","8833","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/18229/e/ess-steel-slicer._Stainless-Steel-Slicer.jpg","399","194","399","194","product/Stainless-Steel-Slicer/15274726","Stainless Steel Slicer","graters,-scrapers,-openers");
+sn = 13
+shopArr[sn]=new Array("15259395","Home utility","719","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/16363/m/mosqiuto-net_1._Folding-Mosquito-Net-Double-Bed-with-Cover.jpg","1559","1159","1,559","1,159","product/Folding-Mosquito-Net-Double-Bed-with-Cover/15259395","Folding Mosquito Net Double Bed with Cover","home-utility");
+sn = 14
+shopArr[sn]=new Array("15613541","Womens shorts","10969","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/16626/_/_dsc0222_55f3fe5175acb._Mini-denim-lycra-shorts-in-blue-colour.jpg","600","550","600","550","product/Mini-denim-lycra-shorts-in-blue-colour/15613541","Mini denim lycra shorts in blue colour","womens-shorts");
+sn = 15
+shopArr[sn]=new Array("19399549","Adcom","14426","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/18437/a/aqua121blkred_5770e9c8f3dfe._ADCOM-Aqua-121-dual-sim-mobile-phone-Black-amp-Red.jpg","700","600","700","600","product/ADCOM-Aqua-121-dual-sim-mobile-phone-Black-amp-Red/19399549","ADCOM Aqua 121 dual sim mobile phone_ Black &amp; Red","adcom");
+sn = 16
+shopArr[sn]=new Array("14744912","Bollywood replica sarees and lehengas","14410","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/17114/d/d-raw-silk-saree._Kareena-Kapoor-White-Sequins-Beauty-Georgette-And-Raw-Silk-Saree.jpg","6000","1999","6,000","1,999","product/Kareena-Kapoor-White-Sequins-Beauty-Georgette-And-Raw-Silk-Saree/14744912","Kareena Kapoor White Sequins Beauty Georgette And Raw Silk Saree","bollywood-replica-sarees-and-lehengas");
+sn = 17
+shopArr[sn]=new Array("17150427","Jeans for men","8080","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/21264/c/cj_b341_5._Carrie-Jeans-Menquots-Lycra-Regular-Fit-Beige-Jeans-Code--CJB341.jpg","1095","1095","1,095","1,095","product/Carrie-Jeans-Menquots-Lycra-Regular-Fit-Beige-Jeans-Code--CJB341/17150427","Carrie Jeans Men&quot;s Lycra Regular Fit Beige Jeans (Code - CJ_B341)","jeans-for-men");
+sn = 18
+shopArr[sn]=new Array("14468043","Portable dvd players","7893","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/17316/p/portabel_dvd_player._7.8-inch-Portable-DVD-Player-Cum-Game-Console-With-Fmtv-amp-Usbav-In-Outearpho.jpg","7999","2499","7,999","2,499","product/7.8-inch-Portable-DVD-Player-Cum-Game-Console-With-Fmtv-amp-Usbav-In-Outearpho/14468043","7.8 inch Portable DVD Player Cum Game Console With Fm,tv &amp; Usb,av In Out,earpho","portable-dvd-players");
+sn = 19
+shopArr[sn]=new Array("18680957","Laptop bags","11793","http://imshopping.rediff.com/imgshop/200-200/shopping/pixs/21670/i/imae6tg4m5zszga6_5721fdd0d7a50._WildHide-Genuine-Leather-14-inch-Laptop-BagCodeWH078.jpg","1999","1899","1,999","1,899","product/WildHide-Genuine-Leather-14-inch-Laptop-BagCodeWH078/18680957","WildHide Genuine Leather 14 inch Laptop Bag-(Code-WH078)","laptop-bags");
+
+
+var nativeimp1 = "13%20Beautiful%20Designer%20Sarees%20That%20Look%20High-End%20But%20Aren-t";
+var nativeimp2 = "6%20All%20Time%20Useful%20Car%20Accessories%20for%20Your%20Vehicle";
+var nativeimp3 = "10%20Watches%20Only%20Watch%20Lovers%20will%20Appreciate";
+var glb_bookids = "&book=9781907030123,9788122316025,";
+
+
+if(document.getElementById('div_alldata')){document.getElementById('div_alldata').style.display = "none";}
+function trackURL(url)
+{
+	if(navigator.userAgent.toLowerCase().indexOf('msie') != -1)
+	{
+		var referLink = document.createElement('a');
+		referLink.href = url;document.body.appendChild(referLink);
+		referLink.click();
+	}
+	else
+	{
+		document.location.href = url;
+	}
+}
+function findPosXY(tblid,tblid1,x,y){var curleft = 0;var curtop = 0;var obj = document.getElementById(tblid);if(obj.offsetParent){while(obj.offsetParent){curleft += obj.offsetLeft;obj = obj.offsetParent;}}else if(obj.x){curleft += obj.x;}document.getElementById(tblid1).style.left= parseInt(curleft + x) + 'px' ;var obj1 = document.getElementById(tblid);if(obj1.offsetParent){while(obj1.offsetParent){curtop += obj1.offsetTop;obj1 = obj1.offsetParent;}}else if(obj1.y){curtop += obj1.y;}document.getElementById(tblid1).style.top=parseInt(curtop + y) + 'px' ;document.getElementById(tblid1).style.display = "block";}
+function showDiv1(dvnm){if(document.getElementById(dvnm)){document.getElementById(dvnm).style.display = "block";}}
+function hideDiv1(dvnm){if(document.getElementById(dvnm)){document.getElementById(dvnm).style.display = "none";}}
+function validmailuser()
+{
+	var Rl	="";
+	var isvalidmailuser = true;
+	Rl	= getcookie("Rl");
+	var tmp_rsc = "";
+	tmp_rsc = getcookie("Rsc");
+	if(Rl.indexOf("@rediffmail") < 0 )
+	{
+		showDiv1('trans_div');
+		showDiv1('div_mailsignin_ad');
+		document.getElementById('login1').focus();
+		document.getElementById('tabtrack').src = "http://metric.ind.rediff.com/www.rediff.com/nxr?rkey="+Math.floor(Math.random() * 1000000);	
+		if(document.getElementById("frame_ad_hm_maillogin")){document.getElementById("frame_ad_hm_maillogin").src = "http://imworld.rediff.com/worldrediff/pix/ind_home_mailLoginAd_1.html";}	
+		return false;
+	}
+	if (Rl == "" || tmp_rsc == "")
+	{
+		isvalidmailuser = false;
+	}
+	else
+	{
+		window.location.href = "https://mail.rediff.com/cgi-bin/login.cgi";
+		return false;
+	}
+	if (!isvalidmailuser)
+	{
+		showDiv1('trans_div');
+		showDiv1('div_mailsignin_ad');
+		document.getElementById('login1').focus();
+		document.getElementById('tabtrack').src = "http://metric.ind.rediff.com/www.rediff.com/nxr?rkey="+Math.floor(Math.random() * 1000000);
+		if(document.getElementById("frame_ad_hm_maillogin")){document.getElementById("frame_ad_hm_maillogin").src = "http://imworld.rediff.com/worldrediff/pix/ind_home_mailLoginAd_1.html";}
+		return false;
+	}
+}
+if (navigator.userAgent.indexOf("MSIE")!=-1)
+{
+	var theText= '';
+	var var_hp = document.getElementById("hp");
+	var thePage='http://www.rediff.com/';
+	theText += 'Set as homepage<span class="grey1">&nbsp; | &nbsp;</span>';
+	if (!var_hp.isHomePage(thePage)) {document.getElementById("sethome").innerHTML="<a  href='#' onclick=\"style.behavior='url(#default#homepage)';setHomePage(thePage);window.location.href=window.location.href;return false;\">"+theText+"</a>";}
+}
+else if(navigator.userAgent.indexOf("Firefox")!=-1)
+{
+	document.getElementById("sethome").innerHTML += "<a onclick=\"alert('To set http://www.rediff.com as your home page, click and drag this link to the Home icon in your browser.'); return false;\" href='http://www.rediff.com'>Set as homepage</a> <span class='grey1'>&nbsp;|&nbsp;</span>" ;
+}
+if((getcookie("Rl") != "") && (getcookie("uid")!= "") )
+{
+if(document.getElementById('myphoto')){document.getElementById('myphoto').src = "http://simg.rcdn.in/image.php?uid="+getcookie("uid")+"&type=thumb";}	
+}
+else
+{
+if(document.getElementById('myphoto')){document.getElementById('myphoto').src = imgpath+"/blank.gif";}	
+}
+
+function showSearchTab(n)
+{
+var srcincopy = new Array("","Search for a product, category or brand","Search for the book you want to read","Search for current and trending news","Search for images and photographs");
+
+if(document.getElementById("srch_tab"+n).className == "srchtabsel")
+{
+	if(n==1)
+	{
+		document.location.href = "http://shopping.rediff.com";
+	}
+	else if(n==2)
+	{
+		document.location.href = "http://books.rediff.com";
+	}
+}
+
+
+for (var i=1;i<=2 ;i++ )
+{
+	if(i==n)
+	{
+		document.getElementById("srch_tab"+i).className = "srchtabsel";
+		document.getElementById("srchque_"+i).style.display = "block";
+		srch_tab_sel = srch_tab_arr[i-1];
+		kHost = "http://sns.rediff.com/HomeSns/api?command=home_sns&scount="+srch_tab_sel+",6&get_categories=1&get_products=1&prefix=";
+		srch_tab_num = i-1;
+		document.getElementById('srchurl').value = services_url[i-1];
+		document.getElementById('srchservice').value = services[i-1];
+		document.getElementById("srchinputcopy").innerHTML = "<span class='homesprite mgglass'></span> "+srcincopy[n];
+		document.getElementById("srchword").value = "";
+		document.getElementById("srchword").blur();
+		document.getElementById("srchinputcopy").style.display = "block";
+		//if(document.getElementById("red_icon"+i)){document.getElementById("red_icon"+i).style.display = "block";}
+	}
+	else
+	{
+		document.getElementById("srch_tab"+i).className = "srchtabnormal";
+		document.getElementById("srchque_"+i).style.display = "none";
+		//if(document.getElementById("red_icon"+i)){document.getElementById("red_icon"+i).style.display = "none";}
+	}
+}
+
+if(document.getElementById('srchword')){document.getElementById('srchword').focus();}
+}
+
+
+</script>
+
+
+<script type="text/javascript">
+var glb_boxmoved = 0;
+var Imgs=[];
+function ImgLoad(cls){
+ var as=zxcByClassName(cls);
+ for (var z0=0;z0<as.length;z0++){
+  if (as[z0].getAttribute('rel')&&as[z0].getElementsByTagName('IMG')[0]){
+   oop=new Fade(as[z0].getElementsByTagName('IMG')[0],as[z0].getAttribute('rel'));
+   Imgs.push(oop);
+  }
+ }
+ CkTop();
+}
+function Fade(img,src){
+ this.img=img;
+ this.src=src;
+ this.opc=90;
+ zxcOpacity(this.img,0);
+}
+Fade.prototype.fade=function(){
+ if (this.opc==90) this.img.src=this.src;
+ zxcOpacity(this.img,this.opc++);
+ var oop=this;
+ if (this.opc<101) setTimeout(function(){ oop.fade(); },2);
+}
+function CkTop(){
+ for (var z0=0;z0<Imgs.length;z0++){
+  if (zxcPos(Imgs[z0].img)[1]<zxcWWHS()[1]+zxcWWHS()[3]&&Imgs[z0].opc==90){
+   Imgs[z0].fade();
+   Imgs.splice(z0,1);
+   z0--;
+  }
+ }
+}
+function zxcOpacity(obj,opc){
+ if (opc<0||opc>100) return;
+ obj.style.filter='alpha(opacity='+opc+')';
+ obj.style.opacity=obj.style.MozOpacity=obj.style.KhtmlOpacity=opc/100-.001;
+}
+function zxcWWHS(){
+ if (window.innerHeight) return [window.innerWidth-10,window.innerHeight-10,window.pageXOffset,window.pageYOffset];
+ else if (document.documentElement.clientHeight) return [document.documentElement.clientWidth-10,document.documentElement.clientHeight-10,document.documentElement.scrollLeft,document.documentElement.scrollTop];
+ return [document.body.clientWidth,document.body.clientHeight,document.body.scrollLeft,document.body.scrollTop];
+}
+function zxcPos(obj){
+ var rtn=[0,0];
+ while(obj){
+  rtn[0]+=obj.offsetLeft;
+  rtn[1]+=obj.offsetTop;
+  obj=obj.offsetParent;
+ }
+ return rtn;
+}
+function zxcByClassName(nme,el,tag){
+ if (typeof(el)=='string') el=document.getElementById(el);
+ el=el||document;
+ for (var tag=tag||'*',reg=new RegExp('\\b'+nme+'\\b'),els=el.getElementsByTagName(tag),ary=[],z0=0; z0<els.length;z0++){
+  if(reg.test(els[z0].className)) ary.push(els[z0]);
+ }
+ return ary;
+}
+
+</script>
+
+
+
+<script type="text/javascript">
+var trackArr = new Array("","http://metric.ind.rediff.com/www.rediff.com/nx0?rkey=","http://metric.ind.rediff.com/www.rediff.com/nx2?rkey=","http://metric.ind.rediff.com/www.rediff.com/nx4?rkey=","http://metric.ind.rediff.com/www.rediff.com/nx1?rkey=","http://metric.ind.rediff.com/www.rediff.com/nx3?rkey=","http://metric.ind.rediff.com/www.rediff.com/nx6?rkey=","http://metric.ind.rediff.com/www.rediff.com/nx5?rkey=");
+var OAS_sitepage = "inrediffHP.com/mainhome.htm";
+var OAS_listpos = "Right,x01,Top";
+
+function createBookArray()
+{
+	var parent_ul = document.getElementById('ul_books');
+	var ah = parent_ul.getElementsByTagName('a');
+	var totalah = ah.length;
+	for(var i=0; i<totalah ; i++)
+	{
+		var hddata = document.getElementById('bk_a_'+i).innerHTML;
+		var aurl = document.getElementById('bk_a_'+i).href;
+		booksArr[i][1] = hddata;
+	}
+}
+
+
+createBookArray();
+
+var glb_productids = "";
+
+var trendpos = new Array("R1","R2","L1","R3","L2","R4","L3","R5","L4","L5","R6","L6","R7","L7","R8","L8","L9","R9","L10","L11");
+var recentpos = new Array("RE1","RE2");
+var recopos = new Array("RC1","RC2");
+var bestpos = new Array("RB1","RB2","RB3","RB4");
+function createBookData()
+{
+	var b_num = 0;
+	var totalhd = booksArr.length;
+	b_num = (Math.floor(Math.random()*totalhd));
+
+	for(var k=b_num,b=0; b<totalhd; k++,b++ )
+	{
+		if(k >= totalhd){k=0;}
+		var data = "";
+		data += "<div class=innerbox><div class=sechead>";
+		if(booksArr[k][10] != "")
+		{
+			data += "<a href=\""+booksArr[k][11]+"\" onclick=\"trackURL('http://track.rediff.com/click?url=___"+booksArr[k][11]+"?sc_cid=bk_inhome_head_"+booksArr[k][12]+"___&cmp=HP&lnk=books_head_"+booksArr[k][12]+"&nsrv1=HP');return false;\">"+booksArr[k][10]+"</a>";		
+		}
+		else
+		{
+			data += "<a href=\"http://books.rediff.com\" onclick=\"trackURL('http://track.rediff.com/click?url=___http://books.rediff.com/?sc_cid=bk_inhome_head___&cmp=HP&lnk=books_head&nsrv1=HP');return false;\">Books</a>";
+		}
+		data += "</div>";
+		if(booksArr[k][4] != "")
+		{                                         
+		data += "<div class=newimgthumb><a href=\"http://books.rediff.com/book/"+booksArr[k][9]+"/"+booksArr[k][0]+"\" title=\""+booksArr[k][1]+"\" class=img rel=\""+booksArr[k][4]+"\" onclick=\"trackURL('http://track.rediff.com/click?url=___http://books.rediff.com/book/"+booksArr[k][9]+"/"+booksArr[k][0]+"?sc_cid=bk_inhome_"+booksArr[k][0]+"___&cmp=HP&lnk=books_"+booksArr[k][0]+"&nsrv1=HP');return false;\"><img src='"+imgpath+"/blank.gif' alt=\""+booksArr[k][1]+"\" /></a></div>";
+		}
+		data += "<a href=\"http://books.rediff.com/book/"+booksArr[k][9]+"/"+booksArr[k][0]+"\" class=black  onclick=\"trackURL('http://track.rediff.com/click?url=___http://books.rediff.com/book/"+booksArr[k][9]+"/"+booksArr[k][0]+"?sc_cid=bk_inhome_"+booksArr[k][0]+"___&cmp=HP&lnk=books_"+booksArr[k][0]+"&nsrv1=HP');return false;\">";
+		if(booksArr[k][5] > 0)
+		{
+		data += "<span class=discotext>"+booksArr[k][5]+" % OFF - </span>";
+		}
+		data += booksArr[k][1] + "</a>";
+		if(booksArr[k][7] != "")
+		{
+		data += "<p class=grey2>"+booksArr[k][7]+"</p>";
+		}
+		
+		data += "<p class=shprice>";
+		if(booksArr[k][5] > 0)
+		{
+		data += "<span class=listprice>Rs. "+booksArr[k][2]+"</span> &nbsp;";
+		}
+		data += "Rs. "+booksArr[k][3]+"</p><p class=alignR><a href=\"http://books.rediff.com/similarbooks/"+booksArr[k][0]+"\" class='sm1 bold morelikecolor' onclick=\"trackURL('http://track.rediff.com/click?url=___http://books.rediff.com/similarbooks/"+booksArr[k][0]+"?sc_cid=bk_inhome_morelike___&cmp=HP&lnk=books_morelike&nsrv1=HP');return false;\">More like this &gt;</a></p></div>";
+		if(document.getElementById('bkbox_'+b))
+		{
+		document.getElementById('bkbox_'+b).innerHTML = data;
+		//glb_bookids += "&book"+b+"="+booksArr[k][0]; //for metric
+		glb_bookids += booksArr[k][0]+","; //for metric
+		}
+		
+		
+	}
+}
+
+function getNewDesign()
+{
+	createBookData();
+}
+
+function columnAdjust()
+{
+	var clientHeight = parseInt(document.body.clientHeight);
+	var height = "innerHeight" in window ? window.innerHeight : document.documentElement.offsetHeight;
+	if((zxcWWHS()[3] + height) >= (clientHeight - 200)){moveBox();}
+}
+function moveBox()
+{
+	var small = "";
+	var big = "";
+	var diff = 0;
+	var ht1 = parseInt(document.getElementById('column1').offsetHeight) ;	
+	var ht2 = parseInt(document.getElementById('column2').offsetHeight) ;	
+	var ht3 = parseInt(document.getElementById('column3').offsetHeight) ;	
+	if(ht1 < ht2 && ht1 < ht3){small = "column1";}else if(ht2 < ht1 && ht2 < ht3){small = "column2";}else if(ht3 < ht2 && ht3 < ht1){small = "column3";}
+	if(ht1 > ht2 && ht1 > ht3){big = "column1";}else if(ht2 > ht1 && ht2 > ht3){big = "column2";}else if(ht3 > ht2 && ht3 > ht1){big = "column3";}
+
+	if(small != "" && big != "")
+	{
+		var bigparent = document.getElementById(big);
+		var lastchild = bigparent.lastElementChild;
+		if(lastchild == "undefined" || lastchild == null){glb_boxmoved = 1; return false;}
+		diff = parseInt(document.getElementById(big).offsetHeight) - parseInt(document.getElementById(small).offsetHeight);
+		if(diff >= 150 && glb_boxmoved == 0 && (lastchild.offsetHeight < diff) )
+		{
+			document.getElementById(small).appendChild(lastchild);
+			glb_boxmoved = 1;
+		}
+	}
+}
+
+var glb_bk_bannertrack = "";
+function showBookBanner()
+{
+	var bb_num = 0;
+	var totalbkb = bkbannerArr.length;
+	if(totalbkb == 0){if(document.getElementById("bkbox_banner")){document.getElementById("bkbox_banner").style.display = 'none';}return false;}
+	bb_num = (Math.floor(Math.random()*totalbkb));
+	var btrack = "";
+	
+	if(bkbannerArr[bb_num][1] != "")
+	{
+		btrack = bkbannerArr[bb_num][1].split("sc_cid=")[1];
+		if(btrack != '' && btrack != 'undefined' &&  btrack != undefined)
+		{
+			btrack = btrack.replace('bk_inhome_','books_');
+		}
+		else
+		{
+			btrack = "";
+		}
+		var data = "";	
+		data += "<div class=innerbox>";
+		data += "<a href=\""+bkbannerArr[bb_num][1]+"\" onclick=\"trackURL('http://track.rediff.com/click?url=___"+bkbannerArr[bb_num][1]+"___&cmp=HP&lnk="+btrack+"&nsrv1=HP');return false;\" ><div class='newimgthumb'><img src='"+bkbannerArr[bb_num][0]+"' alt='' /></div></a>";
+		data += "<a href=\""+bkbannerArr[bb_num][1]+"\" onclick=\"trackURL('http://track.rediff.com/click?url=___"+bkbannerArr[bb_num][1]+"___&cmp=HP&lnk="+btrack+"&nsrv1=HP');return false;\"><p class='grey2'>"+bkbannerArr[bb_num][2]+"</p></a>";
+		data += "<p class='alignR'><a class='sm1 bold morelikecolor' href=\""+bkbannerArr[bb_num][1]+"\" onclick=\"trackURL('http://track.rediff.com/click?url=___"+bkbannerArr[bb_num][1]+"___&cmp=HP&lnk="+btrack+"&nsrv1=HP');return false;\">More like this &gt;</a></p>";
+		data += "</div>";
+		if(document.getElementById("bkbox_banner")){document.getElementById("bkbox_banner").innerHTML = data ;}
+		glb_bk_bannertrack = btrack+",";
+	}
+	else
+	{
+		if(document.getElementById("bkbox_banner")){document.getElementById("bkbox_banner").innerHTML = "" ;}
+	}
+}
+showBookBanner();
+var glb_reco_trending = 1;
+function showTrending()
+{
+	var totaltrend = 0;
+	glb_reco_trending = 0;
+	totaltrend = shopArr.length;
+	if(totaltrend <= 0){return false;}
+	if(totaltrend > 20){totaltrend = 20;}
+	for(var i=0; i<totaltrend; i++)
+	{
+		var trenddata = "";
+		var discount = 0;
+		var catid = shopArr[i][2];
+		var catname = shopArr[i][1];
+		catname = catname.replace("amp;","&");
+		var caturl = "http://shopping.rediff.com/categories/"+shopArr[i][10]+"/cat-"+catid;
+		caturl = caturl.replace(/[ '&(),]/g,"-");
+		caturl = caturl.replace(/amp;/g,"-");
+		var prdurl = "http://shopping.rediff.com/"+shopArr[i][8] ;
+		var prdimg = shopArr[i][3];
+		var prdtitle = shopArr[i][9];
+		var prdid = shopArr[i][0];
+		var listprice = parseInt(shopArr[i][4]);
+		var webprice = parseInt(shopArr[i][5]);
+		var displistprice = shopArr[i][6];
+		var dispwebprice = shopArr[i][7];
+		discount = Math.round((listprice - webprice) * 100/listprice);
+
+		trenddata = "<div class='innerbox'><div class='sechead'><a onclick=\"trackURL('http://track.rediff.com/click?url=___"+caturl+"?sc_cid=inhome_cat_"+catid+"_"+trendpos[i]+"___&cmp=HP&lnk=shopping_cat_"+catid+"_"+trendpos[i]+"&nsrv1=HP');return false;\" href=\""+caturl+"\">"+catname+"</a></div><div class='newimgthumb'>";
+		//if(discount > 0){trenddata += "<span class='discobox'>"+discount+"%<br>Off</span>";}
+		trenddata += "<a class='img' rel='"+prdimg+"' onclick=\"trackURL('http://track.rediff.com/click?url=___"+prdurl+"?sc_cid=inhome_trend_"+trendpos[i]+"_"+prdid+"___&cmp=HP&lnk=shopping_trend_"+trendpos[i]+"_"+prdid+"&nsrv1=HP');return false;\" href=\""+prdurl+"\"><img class='trndimg' src=\""+prdimg+"\" /></a></div><p><a class='black' onclick=\"trackURL('http://track.rediff.com/click?url=___"+prdurl+"?sc_cid=inhome_trend_"+trendpos[i]+"_"+prdid+"___&cmp=HP&lnk=shopping_trend_"+trendpos[i]+"_"+prdid+"&nsrv1=HP');return false;\" href=\""+prdurl+"\">"+prdtitle+"</a></p>";
+		trenddata += "<p class='shprice'>";
+		if(discount > 0){trenddata += "<span class='listprice'>Rs."+displistprice+"</span> &nbsp;";}
+		trenddata += "Rs."+dispwebprice+"</p><p class='alignR'><a class='sm1 bold morelikecolor' onclick=\"trackURL('http://track.rediff.com/click?url=___"+caturl+"?sc_cid=inhome_like_"+catid+"_"+trendpos[i]+"___&cmp=HP&lnk=shopping_like_"+catid+"_"+trendpos[i]+"&nsrv1=HP');return false;\" href=\""+caturl+"\">More like this &gt;</a></p></div>";
+		trenddata += "<i id=track_trend_"+i+" class='hide'>"+trendpos[i]+"_"+prdid+",</i>";
+		if(document.getElementById('trend_'+i)){document.getElementById('trend_'+i).innerHTML = trenddata;}
+		
+	}
+}
+function showRecoTrending(data)
+{
+	glb_reco_trending = 1;
+	var totaltrend = 0;
+	var trendproduct = data.trending_list.CAT_DATA[0].PRODUCTS;
+	if(trendproduct){
+		totaltrend = trendproduct.length;
+		if(totaltrend > 0)
+		{
+			if(totaltrend > 20){totaltrend = 20;}
+			for(var i=0; i<totaltrend; i++)
+			{
+				var trenddata = "";
+				var discount = 0;
+				var catid = trendproduct[i].CAT_ID;
+				var catname =  trendproduct[i].CATEGORY_NAME;
+				catname = catname.replace("&amp;","&");
+				var caturl = "http://shopping.rediff.com/categories/"+catname+"/cat-"+catid;
+				caturl = caturl.replace(/[ '&(),]/g,"-");
+				var prdurl = trendproduct[i].URL ;
+				var prdimg = trendproduct[i].BIG_IMAGE;
+				var prdtitle = trendproduct[i].NAME;
+				prdtitle = prdtitle.replace("&amp;","&"); 
+				var prdid = trendproduct[i].ID;
+				var listprice = parseInt(trendproduct[i].PRICE);
+				var webprice = parseInt(trendproduct[i].OFFER_PRICE);
+				var displistprice = trendproduct[i].DISPLAY_PRICE;
+				var dispwebprice = trendproduct[i].DISPLAY_OFFER_PRICE;
+				discount = Math.round((listprice - webprice) * 100/listprice);
+				var result_type = trendproduct[i].RESULT_TYPE;
+				trenddata = "<div class='innerbox'><div class='sechead'><a onclick=\"trackURL('http://track.rediff.com/click?url=___"+caturl.toLowerCase()+"?sc_cid=inhome_cat_"+catid+"_"+trendpos[i]+"___&cmp=HP&lnk=shopping_cat_"+catid+"_"+trendpos[i]+"&nsrv1=HP');return false;\" href=\""+caturl.toLowerCase()+"\">"+catname+"</a></div><div class='newimgthumb'>";
+				//if(discount > 0){trenddata += "<span class='discobox'>"+discount+"%<br>Off</span>";}
+				trenddata += "<a class='img' rel='"+prdimg+"' onclick=\"trackURL('http://track.rediff.com/click?url=___"+prdurl+"?sc_cid=inhome_trend_"+trendpos[i]+"_"+result_type+"_"+prdid+"___&cmp=HP&lnk=shopping_trend_"+trendpos[i]+"_"+result_type+"_"+prdid+"&nsrv1=HP');return false;\" href=\""+prdurl+"\"><img class='trndimg' src=\""+prdimg+"\" /></a></div><p><a class='black' onclick=\"trackURL('http://track.rediff.com/click?url=___"+prdurl+"?sc_cid=inhome_trend_"+trendpos[i]+"_"+result_type+"_"+prdid+"___&cmp=HP&lnk=shopping_trend_"+trendpos[i]+"_"+result_type+"_"+prdid+"&nsrv1=HP');return false;\" href=\""+prdurl+"\">"+prdtitle+"</a></p>";
+				trenddata += "<p class='shprice'>";
+				if(discount > 0)
+				{
+					trenddata += "<span class='listprice'>Rs."+displistprice+"</span> &nbsp;";
+				}
+				trenddata += "Rs."+dispwebprice+"</p><p class='alignR'><a class='sm1 bold morelikecolor' onclick=\"trackURL('http://track.rediff.com/click?url=___"+caturl+"?sc_cid=inhome_like_"+catid+"_"+trendpos[i]+"___&cmp=HP&lnk=shopping_like_"+catid+"_"+trendpos[i]+"&nsrv1=HP');return false;\" href=\""+caturl+"\">More like this &gt;</a></p></div>";
+				trenddata += "<i id=track_trend_"+i+" class='hide'>"+trendpos[i]+"_"+result_type+"_"+prdid+",</i>";
+				if(document.getElementById('trend_'+i)){document.getElementById('trend_'+i).innerHTML = trenddata;}
+			}		
+		}
+		else
+		{
+			showTrending();
+		}
+	}
+	else
+	{
+		showTrending();
+	}
+
+	var totalrecent = 0;
+	var rndno = 0;
+	var recentproduct = data.recent_list.CAT_DATA[0].PRODUCTS;
+	if(recentproduct)
+	{
+		totalrecent = recentproduct.length;
+		if(totalrecent > 0)
+		{
+			rndno = (Math.floor(Math.random()*totalrecent));
+			if(rndno == (totalrecent -1)){rndno = 0;}
+			if(totalrecent < 2){var rlimit = totalrecent;}else{var rlimit = 2;}
+			for(var j=rndno,s=0; s<rlimit; j++,s++)
+			{
+				var recentdata = "";
+				var discount = 0;
+				var prdurl = recentproduct[j].URL ;
+				var prdimg = recentproduct[j].BIG_IMAGE;
+				var prdtitle = recentproduct[j].NAME;
+				prdtitle = prdtitle.replace("&amp;","&"); 
+				var prdid = recentproduct[j].ID;
+				var listprice = parseInt(recentproduct[j].PRICE);
+				var webprice = parseInt(recentproduct[j].OFFER_PRICE);
+				var displistprice = recentproduct[j].DISPLAY_PRICE;
+				var dispwebprice = recentproduct[j].DISPLAY_OFFER_PRICE;
+				discount = Math.round((listprice - webprice) * 100/listprice);
+				var result_type = recentproduct[j].RESULT_TYPE;
+				if(totalrecent > 2)
+				{
+					recentdata = "<div class='innerbox'><div class='sechead'><a href='http://shopping.rediff.com/recently-viewed' onclick=\"trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/recently-viewed/?sc_cid=inhome_recent_"+recentpos[s]+"_more___&cmp=HP&lnk=shopping_recent_"+recentpos[s]+"_more&nsrv1=HP');return false;\">Recently Viewed</a></div><div class='newimgthumb'>";
+				}
+				else
+				{
+					recentdata = "<div class='innerbox'><div class='sechead'>Recently Viewed</div><div class='newimgthumb'>";
+				}
+				//if(discount > 0){recentdata += "<span class='discobox'>"+discount+"%<br>Off</span>";}
+				recentdata += "<a onclick=\"trackURL('http://track.rediff.com/click?url=___"+prdurl+"?sc_cid=inhome_recent_"+recentpos[s]+"-"+result_type+"_"+prdid+"___&cmp=HP&lnk=shopping_recent_"+recentpos[s]+"-"+result_type+"_"+prdid+"&nsrv1=HP');return false;\" href=\""+prdurl+"\"><img class='trndimg' src=\""+prdimg+"\" /></a></div><p><a class='black' onclick=\"trackURL('http://track.rediff.com/click?url=___"+prdurl+"?sc_cid=inhome_recent_"+recentpos[s]+"-"+result_type+"_"+prdid+"___&cmp=HP&lnk=shopping_recent_"+recentpos[s]+"-"+result_type+"_"+prdid+"&nsrv1=HP');return false;\" href=\""+prdurl+"\">"+prdtitle+"</a></p>";
+				recentdata += "<p class='shprice'>";
+				if(discount > 0){recentdata += "<span class='listprice'>Rs."+displistprice+"</span> &nbsp;";}
+				recentdata += "Rs."+dispwebprice+"</p>";
+				if(totalrecent > 2)
+				{
+				recentdata += "<p class='alignR'><a href='http://shopping.rediff.com/recently-viewed' onclick=\"trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/recently-viewed/?sc_cid=inhome_recent_"+recentpos[s]+"_more___&cmp=HP&lnk=shopping_recent_"+recentpos[s]+"_more&nsrv1=HP');return false;\" class='sm1 bold morelikecolor'>More &gt;</a></p>";
+				}
+				recentdata += "</div>";
+				recentdata += "<i id=track_recent_"+s+" class='hide'>"+recentpos[s]+"-"+result_type+"_"+prdid+",</i>";
+				if(document.getElementById('recent_'+s)){document.getElementById('recent_'+s).innerHTML = recentdata;}
+			}
+		}
+	}
+	var totalbest = 0;
+	var bestproduct = data.best_list.CAT_DATA[0].PRODUCTS;
+	if(bestproduct)
+	{
+		totalbest = bestproduct.length;
+		if(totalbest > 0)
+		{
+			if(totalbest > 4){totalbest = 4;}
+			for(var k=0; k<totalbest; k++)
+			{
+				var bestdata = "";
+				var discount = 0;
+				var catid = bestproduct[k].CAT_ID;
+				var catname =  bestproduct[k].CATEGORY_NAME;
+				catname = catname.replace("&amp;","&");
+				var caturl = "http://shopping.rediff.com/categories/"+catname+"/cat-"+catid;
+				caturl = caturl.replace(/[ '&(),]/g,"-");
+				var prdurl = bestproduct[k].URL ;
+				var prdimg = bestproduct[k].BIG_IMAGE;
+				var prdtitle = bestproduct[k].NAME;
+				prdtitle = prdtitle.replace("&amp;","&"); 
+				var prdid = bestproduct[k].ID;
+				var listprice = parseInt(bestproduct[k].PRICE);
+				var webprice = parseInt(bestproduct[k].OFFER_PRICE);
+				var displistprice = bestproduct[k].DISPLAY_PRICE;
+				var dispwebprice = bestproduct[k].DISPLAY_OFFER_PRICE;
+				discount = Math.round((listprice - webprice) * 100/listprice);
+				bestdata = "<div class='innerbox'><div class='sechead'><a onclick=\"trackURL('http://track.rediff.com/click?url=___"+caturl.toLowerCase()+"?sc_cid=inhome_cat_"+catid+"_"+bestpos[k]+"___&cmp=HP&lnk=shopping_cat_"+catid+"_"+bestpos[k]+"&nsrv1=HP');return false;\" href=\""+caturl.toLowerCase()+"\">"+catname+"</a></div><div class='newimgthumb'>";
+				//if(discount > 0){bestdata += "<span class='discobox'>"+discount+"%<br>Off</span>";}
+				bestdata += "<a class='img' rel='"+prdimg+"' onclick=\"trackURL('http://track.rediff.com/click?url=___"+prdurl+"?sc_cid=inhome_best_"+bestpos[k]+"_"+prdid+"___&cmp=HP&lnk=shopping_best_"+bestpos[k]+"_"+prdid+"&nsrv1=HP');return false;\" href=\""+prdurl+"\"><img class='trndimg' src=\""+prdimg+"\" /></a></div><p><a class='black' onclick=\"trackURL('http://track.rediff.com/click?url=___"+prdurl+"?sc_cid=inhome_best_"+bestpos[k]+"_"+prdid+"___&cmp=HP&lnk=shopping_best_"+bestpos[k]+"_"+prdid+"&nsrv1=HP');return false;\" href=\""+prdurl+"\">"+prdtitle+"</a></p>";
+				bestdata += "<p class='shprice'>";
+				if(discount > 0)
+				{
+					bestdata += "<span class='listprice'>Rs."+displistprice+"</span> &nbsp;";
+				}
+				bestdata += "Rs."+dispwebprice+"</p><p class='alignR'><a class='sm1 bold morelikecolor' onclick=\"trackURL('http://track.rediff.com/click?url=___"+caturl+"?sc_cid=inhome_like_"+catid+"_"+bestpos[k]+"___&cmp=HP&lnk=shopping_like_"+catid+"_"+bestpos[k]+"&nsrv1=HP');return false;\" href=\""+caturl+"\">More like this &gt;</a></p></div>";
+				bestdata += "<i id=track_bdeal_"+k+" class='hide'>"+bestpos[k]+"_"+prdid+",</i>";
+				if(document.getElementById('bdeal_'+k))
+				{
+					document.getElementById('bdeal_'+k).innerHTML = bestdata;
+					document.getElementById('bdeal_'+k).style.display = 'block';
+				}
+			}
+		}
+		else
+		{
+			showBestDeals();
+		}
+	}
+	else
+	{
+		showBestDeals();
+	}
+	
+	var totalproduct = 0;
+	var prdlist = data.product_list.CAT_DATA[0].PRODUCTS;
+	if(prdlist)
+	{
+		totalproduct = prdlist.length;
+		if(totalproduct > 0)
+		{
+			if(totalproduct>2){totalproduct = 2;}
+			if(totalrecent > 0)
+			{
+				var st = 1;
+				var lmt = totalproduct;
+			}
+			else
+			{
+				if(totalproduct > 1)
+				{
+					var st = 0;
+					var lmt = totalproduct;
+				}
+				else
+				{
+					var st = 0;
+					var lmt = 0;
+				}
+			}
+			for(var r=st,m=0; r<lmt; r++,m++)
+			{
+				var prddata = "";
+				var discount = 0;
+				var prdurl = prdlist[r].URL ;
+				var prdimg = prdlist[r].BIG_IMAGE;
+				var prdtitle = prdlist[r].NAME;
+				prdtitle = prdtitle.replace("&amp;","&"); 
+				var prdid = prdlist[r].ID;
+				var listprice = parseInt(prdlist[r].PRICE);
+				var webprice = parseInt(prdlist[r].OFFER_PRICE);
+				var displistprice = prdlist[r].DISPLAY_PRICE;
+				var dispwebprice = prdlist[r].DISPLAY_OFFER_PRICE;
+				discount = Math.round((listprice - webprice) * 100/listprice);
+				var result_type = prdlist[r].RESULT_TYPE;
+				prddata += "<div class='innerbox'><div class='sechead'><a onclick=\"trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/recommended-for-you/?sc_cid=inhome_recommended_more___&cmp=HP&lnk=shopping_recommended_more&nsrv1=HP');return false;\" href='http://shopping.rediff.com/recommended-for-you'>Recommended For You</a></div><div class='newimgthumb'>";
+				prddata += "<a onclick=\"trackURL('http://track.rediff.com/click?url=___"+prdurl+"?sc_cid=inhome_recommended_"+recopos[m]+"-"+result_type+"_"+prdid+"___&cmp=HP&lnk=shopping_recommended_"+recopos[m]+"-"+result_type+"_"+prdid+"&nsrv1=HP');return false;\" href=\""+prdurl+"\"><img class='trndimg' src=\""+prdimg+"\" /></a></div><p><a class='black' onclick=\"trackURL('http://track.rediff.com/click?url=___"+prdurl+"?sc_cid=inhome_recommended_"+recopos[m]+"-"+result_type+"_"+prdid+"___&cmp=HP&lnk=shopping_recommended_"+recopos[m]+"-"+result_type+"_"+prdid+"&nsrv1=HP');return false;\" href=\""+prdurl+"\">"+prdtitle+"</a></p>";
+				prddata += "<p class='shprice'>";
+				if(discount > 0){prddata += "<span class='listprice'>Rs."+displistprice+"</span> &nbsp;";}
+				prddata += "Rs."+dispwebprice+"</p><p class='alignR'><a class='sm1 bold morelikecolor' onclick=\"trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/recommended-for-you/?sc_cid=inhome_recommended_more___&cmp=HP&lnk=shopping_recommended_more&nsrv1=HP');return false;\" href='http://shopping.rediff.com/recommended-for-you'>More like this &gt;</a></p>";
+				prddata += "</div>";
+				prddata += "<i id=track_recent_"+r+" class='hide'>"+recopos[m]+"-"+result_type+"_"+prdid+",</i>";
+				if(document.getElementById('recent_'+r)){document.getElementById('recent_'+r).innerHTML = prddata;}
+			}
+		}
+	}
+	if(totalproduct == 0 && totalrecent == 0)
+	{
+		var totalcollection = 0;
+		var collectionlist = data.collection_list.CAT_DATA[0].PRODUCTS;
+		if(collectionlist)
+		{
+			totalcollection = collectionlist.length;
+			if(totalcollection >= 4)
+			{
+				var collection_name = data.collection_list.CAT_DATA[0].COLLECTION_NAME;
+				var collection_id = data.collection_list.CAT_DATA[0].COLLECTION_ID;
+				var enco_collection_name = encodeURIComponent(collection_name.replace(/[ '?"&(),]/g,"-").toLowerCase()) ;
+				var collection_url = "http://shopping.rediff.com/collections/"+enco_collection_name+"/"+collection_id ;
+				var coll_data = "";
+				coll_data += "<p class='alignL'><a href='http://shopping.rediff.com/collections?sc_cid=inhome_collecHome' class='allcollect' onclick=\"trackURL('http://track.rediff.com/click?url=___http://shopping.rediff.com/collections?sc_cid=inhome_collecHome___&cmp=HP&lnk=shopping_collecHome&nsrv1=HP');return false;\" >All Collections</a></p>";
+				coll_data += "<a href=\""+collection_url+"\" onclick=\"trackURL('http://track.rediff.com/click?url=___"+collection_url+"?sc_cid=inhome_collec_"+enco_collection_name+"___&cmp=HP&lnk=shopping_collec_"+enco_collection_name+"&nsrv1=HP');return false;\" ><div class=collect_table><div class=collect_td1><img src=\""+collectionlist[0].IMAGE.replace('100-100','200-200')+"\" alt='' /><p class='collect_name'>"+collection_name+"</p></div><div  class=collect_td2><div class=collect_thumb><img src=\""+collectionlist[1].IMAGE+"\"  alt='' /></div><div class=collect_thumb><img src=\""+collectionlist[2].IMAGE+"\" alt='' /></div><div class=collect_thumb><img src=\""+collectionlist[3].IMAGE+"\" alt='' /></div></div></div></a>";
+				coll_data += "<i id=track_collection_container class='hide'>&collecName=inhome_"+enco_collection_name+"&collecId=inhome_"+collection_id+"</i>";
+				
+				if(document.getElementById('collection_container'))
+				{
+					document.getElementById('collection_container').innerHTML = coll_data;
+					document.getElementById('collection_container').style.display = 'block';
+				}
+			}
+		}
+	}
+
+
+}
+getNewDesign();
+
+
+ImgLoad('img');
+
+if(screen.width <= 850 ){
+if(document.getElementById('ad_outer_mail')){document.getElementById('ad_outer_mail').style.marginLeft = "-480px";}
+if(document.getElementById('ad_outer_mypage')){document.getElementById('ad_outer_mypage').style.marginLeft= "-480px";}
+}
+
+function setIframeHeight(iframe){if(iframe){var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;if(iframeWin.document.body){iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;}}}
+
+var glb_rel_timer;
+
+
+window.onload = function(){if(document.getElementById("srchinputcopy")){document.getElementById("srchinputcopy").style.display = "block";document.getElementById('srchword').value = "";}};
+</script>
+
+
+
+<script type="text/JavaScript">
+function showBestDeals()
+{
+	for(var i=0;i<4;i++)
+	{
+		if(document.getElementById('bdeal_'+i))
+		{
+			document.getElementById('bdeal_'+i).style.display = 'block';
+		}
+	}
+}
+var glb_script_load = 0;
+function show_recommendation(data)
+{
+	glb_script_load = 1;
+	try{
+		if(data.trending_list.CAT_DATA[0].NUMFOUND > 0 || data.recent_list.CAT_DATA[0].NUMFOUND > 0 || data.best_list.CAT_DATA[0].NUMFOUND > 0 || data.product_list.CAT_DATA[0].NUMFOUND > 0 || data.collection_list.CAT_DATA[0].NUMFOUND > 0)
+		{
+			showRecoTrending(data);
+		}
+		else
+		{
+			showTrending();
+			showBestDeals();
+		}
+	}
+	catch(e)
+	{
+		showTrending();
+		showBestDeals();
+		if(document.getElementById('collection_container')){document.getElementById('collection_container').style.display = 'none';}
+	}
+}
+
+var recoscript = document.createElement('script');
+recoscript.src = 'http://recoprofile.rediff.com/shopping_recommendation/get_recommendation_new.php/?function=show_recommendation&frompage=rediffhome';
+document.body.appendChild(recoscript);
+</script>
+
+<script type="text/javascript" src="http://imworld.rediff.com/worldrediff/js_2_5/sns_ind_home_7.js"  async></script>
+
+<script type="text/JavaScript">
+
+if(document.getElementById("moneyiframe")){document.getElementById("moneyiframe").src = "http://money.rediff.com/widget/markets5";}
+if(document.getElementById('moneyiframe')){document.getElementById('moneyiframe').onload = function(){setIframeHeight(document.getElementById('moneyiframe'));}}
+
+if(document.getElementById('tabtrack_iframe')){document.getElementById('tabtrack_iframe').src = "http://metric.ind.rediff.com/www.rediff.com/impression?rkey="+Math.floor(Math.random() * 1000000)+glb_bookids+glb_bk_bannertrack+"&shop1="+encodeURIComponent(nativeimp1)+","+encodeURIComponent(nativeimp2)+","+encodeURIComponent(nativeimp3)+",";}
+
+/* code for popunder starts */
+function makePopunder(pUrl) {
+    var _parent = (top != self && typeof (top["document"]["location"].toString()) === "string") ? top : self;
+    var mypopunder = null;
+    var pName = "popunder";
+    var pWidth = 640;
+    var pHeight = 485;
+    var pPosX = window["screenX"];
+    var pPosY = window["screenY"];
+    var browser = function () {
+        var n = navigator["userAgent"]["toLowerCase"]();
+        var b = {
+            webkit: /webkit/ ["test"](n),
+            mozilla: (/mozilla/ ["test"](n)) && (!/(compatible|webkit)/ ["test"](n)),
+            chrome: /chrome/ ["test"](n),
+            msie: (/msie/ ["test"](n)) && (!/opera/ ["test"](n)),
+            firefox: /firefox/ ["test"](n),
+            safari: (/safari/ ["test"](n) && !(/chrome/ ["test"](n))),
+            opera: /opera/ ["test"](n)
+        };
+        b["version"] = (b["safari"]) ? (n["match"](/.+(?:ri)[\/: ]([\d.]+)/) || [])[1] : (n["match"](/.+(?:ox|me|ra|ie)[\/: ]([\d.]+)/) || [])[1];
+        return b;
+    }();
+		
+    function doPopunder(pUrl, pName, pWidth, pHeight, pPosX, pPosY) {
+        var sOptions = "toolbar=no,scrollbars=no,location=no,statusbar=no,menubar=no,resizable=0,width=" + pWidth.toString() + ",height=" + pHeight.toString() + ",screenX=" + pPosX + ",screenY=" + pPosY;
+            mypopunder = _parent["window"]["open"](pUrl, pName, sOptions);
+            if (mypopunder) {
+                pop2under();
+            };
+    };
+
+    function pop2under() {
+        try {
+            mypopunder["blur"]();
+            mypopunder["opener"]["window"]["focus"]();
+            window["self"]["window"]["blur"]();
+            window["focus"]();
+			if(browser["firefox"]) {
+                openCloseWindow();
+            };
+            if(browser["webkit"]) {
+				if(browser["safari"]){return;}
+                openCloseTab();
+            };
+        } catch (e) {};
+    };
+
+    function openCloseWindow() {
+        var ghost = window["open"]("about:blank");
+        ghost["focus"]();
+        ghost["close"]();
+    };
+
+    function openCloseTab() {
+        var ghost = document["createElement"]("a");
+        ghost["href"] = "about:blank";
+        ghost["target"] = "PopHelper";
+        document["getElementsByTagName"]("body")[0]["appendChild"](ghost);
+        ghost["parentNode"]["removeChild"](ghost);
+        var clk = document["createEvent"]("MouseEvents");
+        clk["initMouseEvent"]("click", true, true, window, 0, 0, 0, 0, 0, true, false, false, true, 0, null);
+        ghost["dispatchEvent"](clk);
+        window["open"]("about:blank", "PopHelper")["close"]();
+    };
+    doPopunder(pUrl, pName, pWidth, pHeight, pPosX, pPosY);
+}
+function detectIE()
+{
+	var msie = (navigator.userAgent.indexOf('MSIE ') > 0 ); //ie10 and less
+	var isie11 = (navigator.userAgent.indexOf('Trident/') > 0 ) // IE11
+	var isieEdge = (navigator.appName == "Netscape") && (navigator.appVersion.indexOf('Edge') !== -1); // IE Edge
+	if(isieEdge || isie11 || msie)
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+
+}
+if(!(detectIE()))
+{
+	makePopunder("http://im.rediff.com/uim/ads/ind-home-pop.htm");
+	parent.window.focus();
+	window.focus();
+}
+/* code for popunder ends */
+</script>
+
+<script type="text/javascript" src="http://im.rediff.com/uim/common/realmedia_banner_home_ind_1.js"></script>
+<div id="div_advt_right_hidden" class="hide"><script type="text/javascript">if(document.getElementById("div_advt_right")){OAS_AD('Right');}</script></div>
+<div id="div_advt_x01_hidden" class="hide"><script type="text/javascript">if(document.getElementById("div_advt_x01")){OAS_AD('Top');}</script></div>
+
+<script type="text/javascript">
+<!--
+if(document.getElementById("div_advt_right")){var hdn = document.getElementById("div_advt_right_hidden");var vsbl = document.getElementById("div_advt_right");copyInnerHtml(hdn, vsbl);}
+if(document.getElementById("div_advt_x01")){var hdn = document.getElementById("div_advt_x01_hidden");var vsbl = document.getElementById("div_advt_x01");copyInnerHtml(hdn, vsbl);}
+//-->
+</script>
+
+<script type="text/javascript">
+
+window.onscroll= function(){CkTop();trackInView();if(glb_boxmoved == 0){window.setTimeout('columnAdjust()',500);}if(glb_scrll_met == 0){glb_scrll_met = 1;if(document.getElementById('metric_iframe')){document.getElementById('metric_iframe').src = "http://metric.ind.rediff.com/www.rediff.com/newhomescroll?rkey="+Math.floor(Math.random() * 1000000);}}
+}
+
+function getViewportSize(w) {
+    var w = w || window;
+    if(w.innerWidth != null) return {w:w.innerWidth, h:w.innerHeight};
+    var d = w.document;
+    if(document.compatMode == "CSS1Compat") {
+        return {
+            w: d.documentElement.clientWidth,
+            h: d.documentElement.clientHeight
+        };
+    }
+    return { w: d.body.clientWidth, h: d.body.clientWidth };
+}
+function isViewportVisible(e) {
+    var box = e.getBoundingClientRect();
+    var height = box.height || (box.bottom - box.top);
+    var width = box.width || (box.right - box.left);
+    var viewport = getViewportSize();
+    if(!height || !width) return false;
+    if(box.top > viewport.h || box.bottom < 0) return false;
+    if(box.right < 0 || box.left > viewport.w) return false;
+    return true;    
+}
+function trackInView()
+{
+	var parentdiv = document.getElementById('new_design');
+	var divs = parentdiv.getElementsByTagName('div'); 
+	var tot_div = divs.length;
+	for(var i = 0; i < tot_div; i++)
+	{
+		if(divs[i].className.indexOf('colbox') >= 0)
+		{
+			if(divs[i].id.indexOf('trend_') >= 0 ||  divs[i].id.indexOf('bdeal_') >= 0  ||  divs[i].id.indexOf('recent_') >= 0)
+			{
+				if(isViewportVisible(divs[i]))
+				{
+					if(document.getElementById("track_"+divs[i].id))
+					{
+						divs[i].className = "boxcol"; 
+						var vtrackimg = new Image();
+						if(glb_reco_trending == 1)
+						{
+							vtrackimg.src = "http://metric.ind.rediff.com/www.rediff.com/dynimpression?rkey="+Math.floor(Math.random() * 1000000)+"&shop="+document.getElementById("track_"+divs[i].id).innerHTML;
+						}
+						else
+						{
+							vtrackimg.src = "http://metric.ind.rediff.com/www.rediff.com/impression?rkey="+Math.floor(Math.random() * 1000000)+"&shop="+document.getElementById("track_"+divs[i].id).innerHTML;					
+						}
+					}
+				}
+			}
+			else if(divs[i].id.indexOf('recomm_') >= 0)
+			{
+		
+			}
+			if(divs[i].id.indexOf('hdline_') >= 0)
+			{
+				if(isViewportVisible(divs[i]))
+				{
+					if(document.getElementById("track_"+divs[i].id))
+					{
+						divs[i].className = "boxcol"; 
+						var ntrackimg = new Image();
+						ntrackimg.src = "http://metric.ind.rediff.com/www.rediff.com/dynimpression?rkey="+Math.floor(Math.random() * 1000000)+"&news="+document.getElementById("track_"+divs[i].id).innerHTML.replace(/&amp;/g,"&");
+					}
+				}
+			}
+		}
+	}
+	if(glb_reco_trending == 1)
+	{
+		if(isViewportVisible(document.getElementById('collection_container'))  &&  document.getElementById("track_collection_container") )
+		{
+			if(document.getElementById("track_collection_container").innerHTML != '')
+			{
+				var ctrackimg = new Image();
+				ctrackimg.src = "http://metric.ind.rediff.com/www.rediff.com/collecImpression?rkey="+Math.floor(Math.random() * 1000000)+document.getElementById("track_collection_container").innerHTML.replace(/&amp;/g,"&");
+				document.getElementById("track_collection_container").innerHTML = "";
+			}
+		}
+	}
+}
+window.setTimeout("trackInView()",1500);
+function showCartInfo(){var crt_count = getcookie("cart_count");if(crt_count != "" && crt_count != null && document.getElementById('cart_item')){crt_count = eval('(' + crt_count + ')');var shc_total = 0;var shc_active = 0;var bkc_total = 0;var bkc_active = 0; if(crt_count.NSR.S){if(crt_count.NSR.S[0]){shc_total = parseInt(crt_count.NSR.S[0]);}if(crt_count.NSR.S[1]){shc_active = parseInt(crt_count.NSR.S[1]);}}if(crt_count.NSR.B){if(crt_count.NSR.B[0]){bkc_total = parseInt(crt_count.NSR.B[0]);}if(crt_count.NSR.B[1]){bkc_active = parseInt(crt_count.NSR.B[1]);}}var tot_in = shc_total+bkc_total;var tot_active = shc_active+bkc_active;if(shc_active == 0 && bkc_active == 0){if(isNaN(tot_in)==false){if(tot_in > 0){document.getElementById('cart_item').innerHTML = tot_in;showDiv1('cart_item');if(tot_in>1){document.getElementById('cart_item').title = "You have saved "+tot_in+ " items in your cart";}else{document.getElementById('cart_item').title = "You have saved "+tot_in+ " item in your cart";}}}}else{if(isNaN(tot_active)==false){document.getElementById('cart_item').innerHTML = tot_active;showDiv1('cart_item');if(tot_active>1){document.getElementById('cart_item').title = tot_active+ " items in cart";}else{document.getElementById('cart_item').title = tot_active+ " item in cart";}}}}}
+showCartInfo();
+
+window.setTimeout(function()
+{
+	if(glb_script_load == 0)
+	{
+		showTrending();
+		showBestDeals();
+	}
+},5000);
+
+</script>
+</body>
+</html>

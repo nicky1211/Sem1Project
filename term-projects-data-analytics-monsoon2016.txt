@@ -1,0 +1,106 @@
+(1)
+Run a script to list files and directories in the file system. If it is a
+machine running MS Windows OS, list file systems from all logical drives. If
+the machine runs on some flavor of Linux, collect data from all mounted file 
+systems. The script should obtain the following data about every file/
+directory:
+
+   complete name of the object (name and extension)
+   time of creation
+   size of the object
+
+The meta-data should include OS information, the name of the logical-drive or 
+the mounted file system, the time it took to obtain the listing for each file
+system, primary IP address, and such.
+
+Define what observations and correlations you might be able to draw from this 
+data. Define a plan of execution and deliverables.
+
+(2)
+The placement data of SOIS students for the past ten years is available. The 
+proposed analysis must take into account the fact that numerous programs were
+introduced and some discontinued during this period. 
+
+You are required to anonymize the data before using it. Suggest a suitable 
+method to anonymize the data. Provide technical arguments as to why the 
+proposed method is best suited to this context.
+
+Propose a few analyses of this valuable data. Provide visualization of the same.
+
+(3)
+The data about the academic performance of the students of SOIS is available. 
+This includes data from the past ten years. 
+
+You are required to anonymize the data before putting into use. Suggest a 
+suitable method to anonymize the data. Provide technical arguments as to why 
+the proposed method is best suited to this context.
+
+you would what analyses you would like to carry out on this data.
+
+(4)
+The following URL provides links to UNICEF data about the state of schooling, 
+education and literacy across globe:
+    http://data.unicef.org/education/overview.html
+
+It includes data under these sections:
+    (a) Youth and adult literacy rates
+    (b) Net attendance rates
+    (c) Completion rates
+    (d) Out-of-school rates
+
+Propose at least three different analyses that you could perform on this 
+data.  Describe the methods and techniques that you would like to adopt. 
+Develop interesting visualization of the same.
+
+
+(5)
+You may use the URL http://www.alexa.com/topsites/countries/IN to determine 
+top 200 Web sites that receive more traffic from/in India. Write a simple 
+script to scrape this data out of the HTML pages that you obtain by 
+retrieving these pages. You may use 'curl' to download these pages for 
+further processing.
+
+After determining the top 200 Web sites, use 'curl' once again to retrieve 
+the main or landing page of these Web sites. Make a simple text search over
+HTML to collect such information as the size of the HTML, the JavaScript 
+libraries included in these Web pages, and the size (in bytes) of these 
+individual JavaScript libraries. You may want to find out if these pages use 
+inline script and CSS, too,
+
+Obtain these metrics and provide a neat visualization of the same.
+
+(6)
+The following URL provides links to UNICEF data about the mortality of 
+children under five years of age:
+    http://data.unicef.org/child-mortality/under-five.html
+
+This page shows a bunch of charts, graphs, and visualization of interesting 
+data. Take a look a these carefully and learn from these resources.
+
+On the same page, you may access different data sets falling under following
+categories:
+    Under-five mortality rate (Trend data including uncertainty ranges)
+    Number of deaths of children under five
+    Infant mortality rate (Trend data including uncertainty ranges)
+    Number of infant deaths
+    Sex-specific under-five mortality rate
+    Sex-specific infant mortality rate
+    Cause of death Download Data 
+
+Suggest interesting analyses you wish to perform on this data set. 
+Design and develop solutions, including neat visualization of the same.
+
+(7)
+The following URL provides a wealth of data about Olympics:
+    http://www.sports-reference.com/olympics/
+
+Import interesting data about countries, medal tallied, sports, men and women
+who won medals, etc. Compile data for the past five Olympics games. Use CSV 
+format for exporting the data from the Web site mentioned above.
+
+Suggest interesting analyses you wish to perform on this data set. Design and
+develop solutions, including neat visualization of the same.
+
+
+
+

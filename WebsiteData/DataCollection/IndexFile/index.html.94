@@ -1,0 +1,2023 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" >
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" >
+<meta name="google-site-verification" content="1kia0zqFMMPaGxbNNJMN-zIfxFA8Djd6lYII_fbUjyM" />
+<meta name="robots" content="noodp" />
+<title>Zoho - Online Office Suite and SaaS Applications for Businesses</title>
+
+
+<meta name="description" content="Run your entire business with Zoho's suite of online productivity tools and SaaS applications. Over 20 million users trust us worldwide.Try our Forever Free Plan!" />
+<link href="https://www.zoho.com/lp/fonts/proxima-nova/stylesheet.css" rel="stylesheet" type="text/css" >
+<link rel="canonical" href="https://www.zoho.com">
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href="https://www.zoho.com/css/zoho-home-new.css" rel="stylesheet" type="text/css" >
+<style type="text/css" media="screen">
+#cookie-clear-bar {
+	display: none;
+	direction: ltr;
+	color: #DDD;
+	font: normal 13px/28px sans-serif;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 96%;
+	z-index: 99999;
+	padding: 2px 2% 0;
+	background-color: #464646;
+	background-image: -ms-linear-gradient(bottom, #373737, #464646 5px);
+	background-image: -moz-linear-gradient(bottom, #373737, #464646 5px);
+	background-image: -o-linear-gradient(bottom, #373737, #464646 5px);
+	background-image: -webkit-gradient(linear, left bottom, left top, from( #373737), to(#464646));
+	background-image: -webkit-linear-gradient(bottom, #373737, #464646 5px);
+	background-image: linear-gradient(bottom, #373737, #464646 5px);
+	text-align: left;
+}
+#cookie-clear-bar a {
+	color: #fff;
+}
+button#CookieClear {
+	margin: 0 10px;
+	line-height: 20px;
+	background: #45AE52;
+	border: none;
+	color: #fff;
+	padding: 0 12px;
+	border-radius: 3px;
+	cursor: pointer;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: sans-serif;
+	text-shadow: #555 1px 1px;
+}
+button#CookieClear:hover {
+	background: #5EC544;
+}
+</style>
+<script src="https://iplocation.zoho.com" type="text/javascript"></script>
+<script>
+
+function preventAction(){
+	var getsignupClass=document.getElementsByClassName('disabledClass').length;
+	if(0<getsignupClass){return false;}
+}
+
+	var getdomain=document.domain
+	var getdomain=getdomain.split('.')[1];
+	var script = document.createElement('script');
+    script.src = "https://accounts."+getdomain+".com/accounts/register.js?servicename=ZohoHome&loadcss=false&tvisit=true";
+    document.getElementsByTagName('head')[0].appendChild(script);
+	
+</script>
+<style type="text/css">
+/* HEADER CSS STARTS */
+.header {
+	padding: 120px 5% 100px;
+}
+h1 {
+	font-size: 58px;
+}
+/* HEADER CSS ENDS */
+.header .description {
+	padding: 5px 5% 25px;
+}
+.signup-button-part {
+	display: block;
+}
+.signup-button-part span {
+	font-size: 12px;
+}
+.header .description::after {
+	display: none;
+}
+.loggedin-main .signup-button-part {
+	display: none;
+}
+.userinfo-container, .userinfo-container .goto-link {
+	display: none !important;
+}
+.signing a {
+	padding: 0 10px;
+	color: #333 !important;
+	font-size: 14px;
+}
+.signing .signup {
+	text-transform: uppercase !important;
+}
+.signing a.zoho-apps {
+	color: #1894ea !important;
+	font-family: "proxima_novasemibold";
+}
+.video-part {
+	overflow: hidden;
+	background: #f1f1f1;
+}
+.mobile-apps {
+	background: #f1f1f1;
+}
+.floating-header .signing a span {
+	display: none;
+}
+.getstarted-box a, .getstarted-box-bottom a {
+	padding: 2px 40px;
+}
+.getstarted-box {
+	margin: 30px auto 0;
+	max-width: 230px;
+}
+.za-confirm {
+	display: none !important;
+}
+.mobile-sec-inner, .gapps-inner {
+	max-width: 350px;
+}
+/* FOOTER */
+
+.main-section {
+	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+	overflow: hidden;
+	position: relative;
+	z-index: 6;
+}
+.input-focus.signup-section:after {
+	background: rgba(0,0,0,0.6);
+}
+.signup-section:after, .testi-video-thumb {
+	transition: 0.7s ease;
+	-webkit-transition: 0.7s ease;
+}
+.input-focus.light-theme:after {
+	background: rgba(255,255,255,0.5);
+}
+.input-focus .testi-video-thumb {
+	opacity: 0.5;
+}
+.za-region-select {
+	display: none;
+}
+.signup-section {
+	border: none;
+}
+/* MADE IN INDIA AD BANNER CSS */
+
+.signup-section.dark-theme {
+	color: #fff;
+}
+.madeinindia-imgpart {
+	padding-top: 15px;
+	display: inline-block
+}
+.signup-section.bg1 {
+	background-color: #eeeeee;
+	background-image: url("images/usabanner-signupbg2.jpg");
+}
+.signup-section.bg2 {
+	background-color: #4e3f78;
+	background-image: url("images/zoho-home-signup-bg5.jpg");
+}
+.video-player.usvideos {
+	display: block;
+	opacity: 0;
+	visibility: hidden;
+	transition: 0.5s ease-in;
+	-webkit-transition: 0.5s ease-in;
+}
+.banner .zoho-logo span, .ad-video .play-icon small, .ad-video .play-icon2 small, .sbg-button, .fb-like-count, .fb-comment-count, .featuredapp-sec li span, .social-shares.popup-share a {
+	background-image: url("images/made-in-india-sprite.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	text-indent: -9999em;
+}
+.share-section {
+	opacity: 1;
+	transform: scale(1, 1);
+	-webkit-transform: scale(1, 1);
+}
+.share-section.view-share {
+	opacity: 1;
+	visibility: visible;
+	transform: scale(1, 1);
+	-webkit-transform: scale(1, 1);
+}
+.share-section .social-shares {
+	float: none;
+	margin: 0 auto;
+	max-width: 250px;
+	overflow: hidden;
+	padding: 20px 0 0;
+	position: relative;
+}
+.share-section .sbg-button-facebook {
+	display: inline-block;
+}
+.video-player {
+	background: rgba(255, 255, 255, 0.95) none repeat scroll 0 0;
+}
+.social-shares.popup-share a {
+	width: 120px;
+	height: 35px;
+	cursor: pointer;
+}
+.social-shares.popup-share a.sbg-button-facebook {
+	background-position: 0 -200px;
+}
+.social-shares.popup-share a.sbg-button-twitter {
+	background-position: -130px -200px;
+}
+.social-shares.popup-share a.sbg-button-linkedin {
+	background-position: -260px -200px;
+}
+.social-shares.popup-share a.sbg-button-google-plus {
+	background-position: 0 -245px;
+}
+.light-theme.usa-banner.signing a {
+	color: #000;
+}
+.signup-box {
+ //opacity: 0;
+ //visibility: hidden;
+ //transition: .7s;
+ //-webkit-transition: .7s;
+}
+.signup-section {
+	border: none;
+}
+.share-section {
+	opacity: 0;
+}
+.signupbtn {
+	opacity: .3;
+}
+.zohocrm-logo {
+	background-image: url("images/prd-common-sprite.png");
+	background-position: left -390px;
+	background-repeat: no-repeat;
+	color: #333;
+	display: block;
+	font-size: 22px;
+	font-family: 'proxima_novasemibold';
+	font-weight: inherit;
+	height: 30px;
+	line-height: 32px;
+	margin: 0 auto 5px;
+	max-width: 100px;
+	padding: 0 0 0 70px;
+	font-weight: inherit;
+}
+.zohocrmplus-section {
+	padding: 60px 0 10px;
+	text-align: center;
+	background: #f4f4f4;
+	box-shadow: 0 -44px 0 #fff inset;
+	-webkit-box-shadow: 0 -44px 0 #fff inset;
+}
+.zohocrmplus-section h2 {
+	font-size: 40px;
+	font-family: 'proxima_novalight';
+	font-weight: inherit;
+	letter-spacing: -1px;
+	line-height: 1.3;
+	padding-bottom: 25px;
+	color: #333;
+}
+.zohocrmplus-section .get-started-now {
+	display: block;
+	font-size: 14px;
+	font-family: 'proxima_novasemibold';
+	font-weight: inherit;
+	text-decoration: underline;
+	margin: 0 auto 70px;
+	text-transform: uppercase;
+	color: #00add5;
+}
+.zohocrmplus-section > a {
+	display: table;
+	margin: 0 auto;
+	max-width: 620px;
+}
+/* PROMOTION SECTION */
+
+.promotion-area {
+	background: #fff none repeat scroll 0 0;
+	overflow: hidden;
+	padding: 100px 3% 110px;
+}
+.promotion-part {
+	margin: 0 auto;
+	max-width: 1300px;
+	overflow: hidden;
+	padding: 10px 0 0;
+}
+.promotion-products {
+	float: left;
+	padding: 20px 0 25px 10%;
+	position: relative;
+	width: 23.333%;
+}
+.promotion-products.mobileapps {
+	padding: 20px 0 25px 14.333%;
+	width: 19%;
+}
+.promotion-products.developer {
+	padding: 20px 0 25px 8%;
+	width: 25.333%;
+}
+.promotion-products h4 {
+	color: #333;
+	display: block;
+	font-size: 20px;
+	font-family: 'proxima_novasemibold';
+	line-height: 26px;
+	margin: 0 0 10px;
+	font-weight: inherit;
+	text-align: left;
+	max-width: 200px;
+	position: relative;
+}
+.promotion-products h4 .new {
+	left: auto;
+	right: -30px;
+	text-align: center;
+	top: -5px;
+	width: 30px;
+	line-height: 16px;
+}
+.promotion-products.developer h4 .new {
+	margin-right: 12px;
+}
+.zoho-marketplace-logo {
+	background-image: url("images/prd-common-sprite.png");
+	background-position: left -390px;
+	background-repeat: no-repeat;
+	color: #333;
+	display: block;
+	font-size: 22px;
+	font-family: 'proxima_novasemibold';
+	height: 30px;
+	line-height: 32px;
+	margin: 0 0 5px;
+	max-width: 100px;
+	padding: 0 0 0 75px;
+	font-weight: inherit;
+}
+.zoho-developer-logo {
+	background-image: url("https://www.zoho.com/developer/images/zoho-developer-logo.png");
+	height: 30px;
+	line-height: 34px;
+	margin-top: 15px;
+	padding: 0 0 0 80px;
+	background-position: left 0;
+	background-repeat: no-repeat;
+	color: #333;
+	display: block;
+	font-size: 22px;
+	font-family: 'proxima_novasemibold';
+	font-weight: inherit;
+	margin: 0 0 5px;
+	max-width: 100px;
+}
+.promotion-products p {
+	color: #333;
+	font-size: 16px;
+	font-weight: inherit;
+	line-height: 22px;
+	margin: 14px 0 5px;
+	max-width: 220px;
+	text-align: left;
+}
+.promotion-products-img {
+	left: 0;
+	position: absolute;
+	top: 10px;
+}
+.mobileapps .promotion-products-img {
+	width: 150px;
+}
+.marketplace .promotion-products-img {
+	max-width: 100px;
+	top: 20px;
+}
+.learn-more {
+	color: #1894ea;
+	font-size: 14px;
+	text-decoration: underline;
+}
+/* PROMOTION SECTION CSS */
+
+/* BANNER VIDEO FOR FIRST TIME */
+
+.header-part {
+	min-height: 50px;
+	overflow: hidden;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: 99;
+}
+.signing {
+	color: #fff;
+	float: right;
+	max-width: 500px;
+	position: relative;
+}
+.header-part .logo {
+	margin-bottom: 20px;
+	float: left;
+	transform: scale(0.6);
+	margin-left: -15px;
+}
+.banner-firsttime {
+	background: #222;
+ //background: -moz-linear-gradient(left, #e9e9e9 0%, #f5f5f5 100%);
+ //background: -webkit-linear-gradient(left, #e9e9e9 0%, #f5f5f5 100%);
+ //background: linear-gradient(to right, #e9e9e9 0%, #f5f5f5 100%);
+//filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e9e9e9', endColorstr='#f5f5f5', GradientType=1 );
+	padding: 90px 5% 120px;
+	text-align: center;
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	background-position: center center;
+	overflow: hidden;
+}
+.banner-firsttime::after {
+ //background: none repeat scroll 0 0 rgba(0, 0, 0, 0.04);
+	content: "";
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 2;
+}
+.banner-firsttime h2 {
+	color: #ccc;
+	font-family: "proxima_novalight";
+	font-size: 26px;
+	font-weight: 100;
+	letter-spacing: 0;
+	line-height: 1.45;
+	margin: 0 auto 15px;
+	max-width: 600px;
+}
+.firsttime-video {
+	margin: 0 auto;
+	max-width: 1350px;
+	overflow: hidden;
+	padding: 25px 0;
+}
+.content-area {
+	z-index: 3;
+	position: relative;
+}
+.firsttime-video .watch-ad {
+	max-width: 700px;
+	margin: 0 1%;
+	float: left;
+	width: 48%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	background-position: center top;
+	background-color: #310000;
+	transition: 0.75s ease 0.5s;
+	-webkit-transition: 0.75s ease 0.5s;
+	transform: scale(0.95, 0.95);
+	-webkit-transform: scale(0.95, 0.95);
+}
+.watch-ad > a {
+	display: block;
+	position: relative;
+	z-index: 3;
+	padding: 25% 0;
+}
+.firsttime-video .watch-ad.animate {
+	transform: scale(1, 1);
+	-webkit-transform: scale(1, 1);
+}
+.firsttime-video .watch-ad::after {
+	background: rgba(0, 0, 0, 0.05) none repeat scroll 0 0;
+	content: "";
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 2;
+	transition: ease 0.5s;
+	-webkit-transition: ease 0.5s;
+}
+.firsttime-video .watch-ad:hover:after {
+	background: rgba(0, 0, 0, 0.15) none repeat scroll 0 0;
+}
+.firsttime-video .watch-ad.creator-video {
+	background-image: url('images/creator-firsttime-thumbnail.jpg');
+}
+.firsttime-video .watch-ad.books-video {
+	background-image: url('images/books-firsttime-thumbnail.jpg');
+}
+.firsttime-text {
+	color: #fff;
+	cursor: pointer;
+	display: block;
+	font-size: 36px;
+	font-weight: inherit;
+	position: relative;
+	text-align: center;
+	text-transform: uppercase;
+	z-index: 100;
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+	text-shadow: 0 0 20px #000;
+}
+.watch-ad-text {
+	color: #fff;
+	cursor: pointer;
+	display: block;
+	font-size: 18px;
+	font-weight: inherit;
+	position: relative;
+	text-align: center;
+	z-index: 100;
+	max-width: 130px;
+	padding: 0 20px 0 0;
+	margin: 0 auto;
+	text-shadow: 0 0 10px #000;
+}
+.watch-ad-text .playicon {
+	border: 1px solid #fff;
+	border-radius: 100%;
+	display: block;
+	height: 24px;
+	margin: 0;
+	position: absolute;
+	width: 24px;
+	right: 0;
+	top: -3px;
+}
+.watch-ad-text .playicon::after {
+	border-color: transparent transparent transparent #fff;
+	border-style: solid;
+	border-width: 5px 0 5px 5px;
+	content: "";
+	height: 0;
+	left: 10px;
+	position: absolute;
+	top: 7px;
+	width: 0;
+}
+.share-story {
+	margin-bottom: 40px;
+	font-size: 16px;
+}
+.share-story a {
+	color: #007ee9;
+	border-bottom: 1px solid #007ee9;
+}
+.z-bg-video {
+	display: none;
+	left: -0%;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 0;
+}
+.banner-inner {
+	z-index: 3;
+}
+.all-ads {
+	color: #1894ea;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 18px;
+	font-weight: inherit;
+	position: relative;
+	text-align: center;
+	margin-top: 20px;
+	padding: 0;
+	border-bottom: 1px solid;
+}
+.banner-content .logo {
+	display: none;
+}
+/* BANNER VIDEO FOR FIRST TIME ENDS */
+
+/* FEATURED PRODUCTS CSS START */
+
+.featuredapp-sec {
+	margin: 0 auto;
+	max-width: 1400px;
+	overflow: hidden;
+	padding: 70px 5% 0;
+	text-align: center;
+}
+.featuredapp-sec h4 {
+	color: #999;
+	font-family: "proxima_novasemibold";
+	font-size: 15px;
+	font-weight: inherit;
+	letter-spacing: 3px;
+	line-height: 1.4;
+	text-align: center;
+	text-transform: uppercase;
+	transition: all 0.7s ease 0s;
+	position: relative;
+	padding-bottom: 10px;
+}
+.featuredapp-sec h4:after {
+	display: none;
+	content: "";
+	width: 40px;
+	height: 2px;
+	background: #0099e7;
+	position: absolute;
+	left: 50%;
+	bottom: 0;
+	margin-left: -25px;
+}
+.featuredapp-sec ul {
+	margin: 0 auto;
+	max-width: 1040px;
+	overflow: hidden;
+	padding: 30px 0 0;
+}
+.featuredapp-sec li a {
+	border-right: 1px solid #f2f2f2;
+	color: #333;
+	box-sizing: border-box;
+	display: block;
+	float: left;
+	font-size: 24px;
+	line-height: 1.5;
+	margin: 0;
+	max-width: 100%;
+	min-height: 170px;
+	padding: 20px 2%;
+	position: relative;
+	width: 25%;
+	opacity: 0;
+	visibility: hidden;
+	transform: scale(0.7, 0.7);
+	-webkit-transform: scale(0.7, 0.7);
+	transition: 1s ease;
+	-webkit-transition: 1s ease;
+}
+.featuredapp-sec li a.animate {
+	opacity: 1;
+	transform: scale(1, 1);
+	-webkit-transform: scale(1, 1);
+	visibility: visible;
+}
+.category-container li.scaled {
+	opacity: 1;
+	visibility: visible;
+}
+.featuredapp-sec li a:last-child {
+	border: none;
+}
+.featuredapp-sec li span {
+	display: block;
+	height: 80px;
+	margin: 0 auto 15px;
+	width: 80px;
+}
+.featuredapp-sec .fea-app1 {
+	background-position: -10px -110px;
+	display: block;
+}
+.featuredapp-sec .fea-app2 {
+	background-position: -114px -110px;
+	display: block;
+}
+.featuredapp-sec .fea-app3 {
+	background-position: -210px -107px;
+	display: block;
+	width: 85px;
+}
+.featuredapp-sec .fea-app4 {
+	background-position: -312px -101px;
+	display: block;
+}
+.featuredapp-sec li small {
+	display: block;
+	font-weight: 400;
+	padding: 0;
+	text-transform: none;
+	color: #666;
+	font-size: 14px;
+}
+/* FEATURED PRODUCTS CSS ENDS */
+
+.category {
+	padding: 100px 0% 20px;
+}
+.category h5 {
+	color: #999;
+	font-family: "proxima_novasemibold";
+	font-size: 16px;
+	font-weight: inherit;
+	letter-spacing: 3px;
+	line-height: 1.4;
+	text-align: center;
+	text-transform: uppercase;
+	transition: all 0.7s ease 0s;
+	position: relative;
+	padding-bottom: 20px;
+}
+.zohocrmplus-section .get-started-now {
+	color: #1894ea;
+}
+
+/* MEDIA QUERY STARTS */
+
+ 
+ 
+
+@media screen and (max-width:1600px) {
+.category ul {
+	max-width: 1200px;
+}
+}
+
+@media screen and (max-width:1200px) {
+.loggedin-main .signing .signup {
+	color: #2fa763 !important;
+	display: inline-block !important;
+	padding: 0 10px 0 0;
+	background: none;
+}
+.header {
+	background-image: none;
+	background-position: center center;
+	background-size: cover;
+	border-bottom: medium none;
+	padding: 100px 0 80px;
+}
+.header .description {
+	font-size: 16px;
+	line-height: 26px;
+	max-width: 550px;
+}
+h1 {
+	font-size: 44px;
+}
+.featuredapp-sec {
+	padding: 60px 0 0;
+}
+.category {
+	padding: 80px 0;
+}
+.banner-firsttime {
+	padding: 80px 2.5%;
+}
+.promotion-products-img {
+	display: block;
+	left: auto;
+	margin: 20px 0 10px;
+	position: relative;
+	top: auto;
+	width: 110px;
+}
+.marketplace .promotion-products-img {
+	display: none;
+}
+.promotion-products, .promotion-products.mobileapps, .promotion-products.developer {
+	padding: 0 4%;
+	width: 25%;
+}
+.promotion-area {
+	padding: 70px 3% 80px;
+}
+}
+
+@media screen and (max-width:992px) {
+.z-bg-video {
+	left: -35%;
+	width: 170%;
+}
+.watch-ad > a {
+	padding: 20% 0;
+}
+}
+
+@media screen and (max-width:850px) {
+.header.header-india {
+	padding: 80px 5% 50px;
+}
+.banner-firsttime {
+	padding: 60px 0;
+}
+.zohocrmplus-section {
+	padding: 50px 10% 10px;
+	width: 80%;
+	margin-bottom: 0;
+}
+.zohocrmplus-section .get-started {
+	margin: 0 auto 40px;
+}
+.about-zoho {
+	padding: 0;
+}
+.zohocrmplus-section h2 {
+	font-size: 30px;
+	letter-spacing: -0.5px;
+}
+.firsttime-video {
+	padding: 0 0 20px;
+}
+.firsttime-video .watch-ad {
+	margin: 30px 1% 0;
+}
+.banner-firsttime h2 {
+	font-size: 20px;
+	margin-bottom: 0;
+	max-width: 460px;
+	padding: 0;
+}
+.featuredapp-sec h4 {
+	padding: 0;
+}
+.category {
+	padding: 80px 0 0;
+}
+.category h5 {
+	padding-bottom: 15px;
+}
+.category h5:after {
+	background: #0099e7 none repeat scroll 0 0;
+	bottom: 0;
+	content: "";
+	display: block;
+	height: 2px;
+	left: 50%;
+	margin-left: -20px;
+	position: absolute;
+	width: 40px;
+	opacity: 0.5;
+}
+.promotion-part {
+	max-width: 450px;
+	padding: 0;
+}
+.promotion-area {
+	padding: 30px 10%;
+}
+.promotion-products, .promotion-products.mobileapps, .promotion-products.developer {
+	padding: 40px 4%;
+	width: 92%;
+	border-bottom: 1px dashed #f2f2f2;
+}
+.promotion-products.marketplace {
+	border-bottom: none;
+}
+.promotion-products h4, .promotion-products p {
+	max-width: 100%;
+}
+.promotion-products h4 .new {
+	left: 200px;
+	right: auto;
+}
+.promotion-products.developer h4 .new {
+	left: 187px;
+	right: auto;
+}
+}
+
+@media screen and (max-width:767px) {
+.z-bg-video {
+	display: none;
+}
+.zohocrmplus-section h2 {
+	font-size: 22px;
+	letter-spacing: -0.5px;
+}
+h1 {
+	font-size: 36px;
+}
+.header-part .logo {
+	display: none;
+}
+.banner-content .logo {
+	display: block;
+}
+.header {
+	padding: 80px 5%;
+}
+.category {
+	padding: 60px 0 0;
+}
+.banner-firsttime {
+	padding: 60px 2.5%;
+}
+.featuredapp-sec {
+	overflow: visible;
+}
+.featuredapp-sec ul {
+	margin: 0 -5%;
+	padding: 30px 0 0;
+}
+.zohocrmplus-section {
+	box-shadow: none;
+	padding: 50px 10%;
+	width: 80%;
+}
+.zohocrmplus-section .get-started-now {
+	margin: 0 auto;
+}
+.crmplus-bundle-img {
+	display: none;
+}
+.watch-ad > a {
+	padding: 18% 0;
+}
+}
+
+@media screen and (max-height:650px) {
+.testi-video {
+	display: none !important;
+}
+.signup-box {
+	margin: -235px auto 0;
+}
+.zohocrmplus-section h2 {
+	font-size: 25px;
+	letter-spacing: 0;
+}
+}
+
+@media screen and (max-width:650px) {
+.header {
+	background-image: url("images/zoho-home-signup-bg5.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.loggedin-main .signing .signup {
+	color: #00add5 !important;
+}
+.for-india-link a {
+	color: #00add5;
+}
+.user-det {
+	color: #fff !important;
+}
+.loggedin-main .header .description {
+	padding: 0 10%;
+}
+.banner-firsttime h2 {
+	font-size: 16px;
+	letter-spacing: 0;
+	margin: 0 auto;
+	max-width: 380px;
+	padding: 0;
+}
+.header {
+	background-image: none;
+	background-color: #fff;
+}
+.signup-button-part span {
+	font-size: 12px;
+	color: #999;
+}
+h1, .header p, .header .description {
+	color: #333;
+}
+.banner-firsttime {
+	padding: 90px 10% 60px;
+}
+.banner-firsttime {
+	padding: 70px 10% 40px;
+}
+h1 {
+	font-size: 28px;
+	padding: 0 0 5px;
+}
+.featuredapp-sec li span {
+	margin: 0 auto 5px;
+}
+.all-ads {
+	margin: 5px 0 0;
+}
+.banner-firsttime {
+	padding: 50px 0;
+}
+.watch-ad > a {
+	padding: 15% 0;
+}
+.firsttime-text {
+	font-size: 20px;
+}
+.watch-ad-text {
+	font-size: 15px;
+	max-width: 95px;
+}
+.watch-ad-text .playicon {
+	height: 18px;
+	top: 0;
+	width: 18px;
+}
+.watch-ad-text .playicon::after {
+	left: 7px;
+	top: 4px;
+}
+.signing a.signin, .signing a.signup {
+	display: none !important;
+}
+.about-zoho-inner h3 span, .about-zoho-inner h3, .zohocrmplus-section h2 {
+	font-family: "proxima_novasemibold";
+}
+.featuredapp-sec ul {
+	margin: 0 auto;
+	max-width: 100%;
+	padding: 15px 0 0;
+}
+.featuredapp-sec li span {
+	margin: 0 auto -5px;
+	transform: scale(0.7);
+	-webkit-transform: scale(0.7);
+}
+.featuredapp-sec li a {
+	border: medium none;
+	font-size: 16px;
+	min-height: 80px;
+	padding: 0 0;
+	width: 25%;
+}
+.featuredapp-sec li small, .user-det {
+	display: none;
+}
+.umain .signing .signup {
+	border-bottom: 1px solid #5bb46c !important;
+}
+}
+
+@media screen and (max-width:450px) {
+.banner-content .logo {
+	margin-bottom: 0;
+}
+.logo span {
+	transform: scale(0.7);
+	-webkit-transform: scale(0.7);
+	margin-bottom: 15px;
+	margin-left: -22px;
+}
+h1 {
+	font-size: 26px;
+	margin: 0;
+	max-width: 270px;
+	padding: 0 0 5px;
+}
+.header {
+	padding: 70px 10% 50px;
+	text-align: left;
+}
+.header .description {
+	padding: 5px 0 20px;
+}
+.signup-button-part {
+	margin: 0;
+	max-width: 270px;
+}
+.signup-button-part a {
+	font-size: 15px;
+	height: 42px;
+	line-height: 42px;
+	margin: 0;
+	max-width: 180px;
+}
+.category {
+	padding: 50px 0 0;
+}
+.category li {
+	padding: 40px 0 !important;
+	width: 100%;
+}
+.featuredapp-sec ul {
+	margin: 0 -6%;
+	padding: 10px 0 0;
+	max-width: 112%;
+}
+.featuredapp-sec li span {
+	margin: 0 auto -5px;
+	transform: scale(0.7);
+	-webkit-transform: scale(0.7);
+}
+.featuredapp-sec li a {
+	border: medium none;
+	font-size: 16px;
+	min-height: 80px;
+	padding: 0 0;
+	width: 25%;
+}
+.about-zoho-inner {
+	padding: 0 10%;
+}
+.banner-firsttime h2 {
+	font-size: 16px;
+	max-width: 250px;
+	padding: 0;
+}
+.zohocrmplus-section h2 {
+	font-size: 16px;
+	letter-spacing: 0;
+}
+.about-zoho-inner h3 span, .about-zoho-inner h3 {
+	font-size: 16px;
+	letter-spacing: 0px;
+	line-height: 22px;
+}
+.featuredapp-sec ul {
+	padding: 15px 0 0;
+}
+.featuredapp-sec li small, .category h5::after {
+	display: none;
+}
+.category h5, .featuredapp-sec h4 {
+	font-size: 12px;
+	letter-spacing: 1px;
+	margin-bottom: -25px;
+	padding-bottom: 0;
+}
+.featuredapp-sec h4 {
+	margin: 0;
+	max-width: 280px;
+	text-align: left;
+}
+.featuredapp-sec {
+	padding: 50px 0 0;
+	overflow: visible;
+}
+.all-ads {
+	font-size: 12px;
+	margin: 50px 0 0;
+}
+.integrated-gapps p {
+	color: #333;
+	font-size: 14px;
+	line-height: 22px;
+}
+.zohoin, .mobile-sec, .integrated-gapps, .zoho-crmplus-bundle {
+	padding: 40px 0 50px;
+}
+.footer-links {
+	margin: 0 5%;
+}
+.banner-firsttime {
+	padding: 50px 0 50px;
+}
+.firsttime-video {
+	max-width: 320px;
+	overflow: visible;
+}
+.banner-firsttime h2 {
+	font-size: 18px;
+	max-width: 290px;
+	padding: 0;
+}
+.firsttime-video .watch-ad {
+	margin: 25px 3% 0;
+	max-width: 140px;
+	min-height: 85px;
+}
+.firsttime-text {
+	font-size: 12px;
+	letter-spacing: 1px;
+	margin-bottom: 0;
+	position: absolute;
+	text-align: center;
+	top: 100px;
+	width: 140px;
+}
+.watch-ad-text {
+	font-size: 15px;
+	max-width: 40px;
+	padding: 0;
+	text-indent: -9989px;
+}
+.watch-ad-text .playicon {
+	border: 2px solid #fff;
+	height: 32px;
+	top: 4px;
+	width: 32px;
+}
+.watch-ad-text .playicon::after {
+	border-color: transparent transparent transparent #fff;
+	border-style: solid;
+	border-width: 8px 0 8px 10px;
+	content: "";
+	height: 0;
+	left: 12px;
+	position: absolute;
+	top: 8px;
+	width: 0;
+}
+.promotion-products h4, .promotion-products p {
+	max-width: 230px;
+}
+.promotion-area {
+	padding: 10px 10%;
+}
+.common-footer li {
+	padding: 5px 7px;
+}
+.common-footer {
+	padding: 30px 0;
+}
+/* Accordion CSS */
+
+.footer-links li {
+	padding-left: 10px;
+}
+.footer-links ul {
+	margin-bottom: 10px !important;
+}
+.footer-links li:first-child {
+	position: relative;
+	cursor: pointer;
+	padding-left: 0;
+}
+.footer-links li:last-child {
+	margin-bottom: 20px;
+}
+.footer-links .added-plus:first-child:after {
+	position: absolute;
+	width: 10px;
+	height: 1px;
+	right: 0;
+	top: 5px;
+	content: "";
+	background: #aaa;
+	transform: rotate(45deg);
+}
+.footer-links .added-plus:first-child:before {
+	position: absolute;
+	width: 10px;
+	height: 1px;
+	right: -7px;
+	top: 5px;
+	content: "";
+	background: #aaa;
+	transform: rotate(-45deg);
+	transition: all 0.5s ease;
+}
+.footer-links .menu-extended:first-child:after {
+ //transform:rotate(0deg);
+}
+.footer-links .menu-extended:first-child:before {
+ //transform:rotate(0deg);
+}
+/* Accordion CSS - ENDS */
+}
+.overlay-loading {
+	background-color: #fff;
+	background-image: url("https://www.zoho.com/arts/images/loading.gif");
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 100%;
+	left: 0;
+	opacity: 1;
+	position: fixed;
+	top: 0;
+	visibility: visible;
+	width: 100%;
+	z-index: 9999;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-resolution: 240dpi) {
+.zohocrm-logo, .zoho-marketplace-logo {
+	background-image: url("images/prd-common-sprite@2x.png");
+	background-size: 115px 440px;
+}
+.promotion-products h4 .zoho-developer-logo {
+	background-image: url("https://www.zoho.com/developer/images/zoho-developer-logo@2x.png");
+	background-size: 225px 60px;
+}
+}
+.umain .signing .signup {
+ //border-bottom: 1px solid #5bb46c !important;
+	color: #5bb46c !important;
+	display: inline-block !important;
+	padding: 0 3px;
+}
+/******* Popup Video ******/
+.z-pouup-wrap, .z-popup-overlay {
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	outline: 0!important;
+	-webkit-backface-visibility: hidden;
+	z-index: 101;
+}
+.z-pouup-wrap {
+	display: none;
+}
+.z-pouup-wrap-inner {
+	display: none;
+	text-align: center;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	padding: 0;
+	overflow: auto;
+	z-index: 102;
+}
+.z-pouup-wrap-inner:before {
+	content: '';
+	display: inline-block;
+	height: 100%;
+	vertical-align: middle;
+	margin-left: -5px;
+}
+.z-popup-content-inner .popup-data {
+	display: block;
+}
+.z-popup-overlay {
+	background-color: rgba(255,255,255,0.9);
+	cursor: pointer;
+	display: none;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	outline: 0!important;
+	-webkit-backface-visibility: hidden;
+	z-index: 101;
+}
+.z-popup-content-wrap {
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 auto;
+	text-align: left;
+	width: 100%;
+}
+.z-popup-content {
+	margin: 20px auto;
+	max-width: 800px;
+	background: #fff;
+	z-index: 6;
+	position: relative;
+	text-align: initial;
+	width: 90%;
+	transition: height 0.5s ease;
+}
+.z-video-wrap .z-popup-content {
+	padding: 0px;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	max-width: 70%;
+}
+.popup-data {
+	display: none;
+}
+.popup-data-inner {
+	padding: 30px;
+}
+.z-popup-close {
+	display: block;
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	font-style: normal;
+	font-size: 28px;
+	font-family: Arial, Baskerville, monospace;
+	font-weight: inherit;
+	text-align: center;
+	color: #000;
+	text-decoration: none;
+	z-index: 2;
+	background: url('https://www.zoho.com/creator/images/e-p-sprite.png') no-repeat 10px -6px;
+	text-indent: -1000;
+	overflow: hidden;
+	z-index: 1001;
+}
+.popup-data {
+	display: none;
+}
+.uheader .signup-button-part {
+	display: none;
+}
+</style>
+</head>
+
+
+
+<body>
+<!-- Google Tag Manager -->
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-KBNVHH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KBNVHH');</script> 
+<!-- End Google Tag Manager --> 
+
+<!-- MAIN DIV STARTS-->
+<div class="main"> 
+  <!-- HEADER PART STARTS -->
+  <div class="header-part">
+    <div class="logo"><span>ZOHO</span></div>
+    <div class="signing"><a class="zoho-apps" href="https://www.zoho.com/index.html#">All Zoho Apps</a> <a href="https://help.zoho.com/portal/home">Support</a> <a class="signin" href="https://www.zoho.com/login.html">Login</a> <a class="signup" href="https://www.zoho.com/signup.html">Sign Up Now</a> </div>
+  </div>
+  <!-- HEADER PART ENDS --> 
+  
+  <!-- MAIN CONTENT STARTS --> 
+  
+  <!-- HOME BG SECTION STARTS-->
+  
+  <div class="home-bg"> 
+    <!-- BANNER PART STARTS-->
+    
+    <div class="header">
+      <div class="banner-content">
+        <div class="logo"><span>ZOHO</span></div>
+        <h1> The operating system for business. </h1>
+        <p class="description"> Zoho has everything you need to boost sales, step up productivity, and manage all day-to-day activities. <span> Tightly integrated. Ready for mobile.</span> </p>
+        <div class="signup-button-part"> <a class="signup-button" href="https://www.zoho.com/signup.html">Sign Up For Free</a> </div>
+        <div class="featuredapp-sec">
+          <h4>Featured Apps</h4>
+          <ul>
+            <li> <a class="crm" href="crm/?src=zoho"> <span class="fea-app1"></span> CRM <small> Close more deals.</small> </a> <a  class="mail" href="https://www.zoho.com/mail/"> <span class="fea-app2"></span> Mail <small>Clean and ad-free.</small> </a> <a class="books" href="https://www.zoho.com/books/"> <span class="fea-app4"></span> Books <small> Smart accounting.</small> </a> <a class="creator" href="https://www.zoho.com/creator/"> <span class="fea-app3"></span> Creator <small> Build custom apps.</small> </a> </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    
+    <!-- BANNER PART ENDS--> 
+    
+    <!--AD BANNER SEC -->
+    <div class="banner-firsttime"> 
+      <!--<video preload="auto" muted loop autoplay class="z-bg-video" >
+    <source type="video/mp4" src="images/zoho-banner-videobg.mp4" />
+    <source type="video/webm" src="images/zoho-banner-videobg.webm" />
+  </video>-->
+      <div class="content-area">
+        <h2> At #ThatFirstMoment in business, you created history. And we celebrate those moments in our ads.</h2>
+        <div class="firsttime-video">
+          <div class="watch-ad books-video"> <a  href="https://www.zoho.com/thatfirstmoment?ad=books&src=zoho" target="_blank" >
+            <div class="video-text"><span class="firsttime-text ">First Move</span><span class="watch-ad-text"><em class="playicon"> </em>Watch the ad</span></div>
+            </a></div>
+          <div class="watch-ad creator-video"><a href="https://www.zoho.com/thatfirstmoment?ad=creator&src=zoho" target="_blank" >
+            <div class="video-text"><span class="firsttime-text ">First Steps</span> <span class="watch-ad-text"><em class="playicon"></em> Watch the ad</span></div>
+            </a> </div>
+        </div>
+        <a href="https://www.zoho.com/thatfirstmoment?src=zoho" target="_blank" class="all-ads" >Watch all the ads</a> </div>
+    </div>
+    <!--AD BANNER SEC ENDS --> 
+    
+    <!-- PRODUCT CATEGORY SECTION STARTS-->
+    <div class="category">
+      <h5>All Zoho Apps</h5>
+      <ul class="category-container">
+        <li> <span class="ci1"></span>
+          <h4> Sales & Marketing<em style="background:#00add5"></em></h4>
+          <p> Give your sales team the perfect set of apps to help close more business deals in less time.<em></em></p>
+          <div class="category-apps sales-marketing"> <a   class="crm featured-app" href="crm/?src=zoho"><span class="pi1"></span> CRM</a><a href="https://www.zoho.com/salesinbox/" class="salesinbox noright"><em class="new">New</em><span class="pi36"></span> SalesInbox</a> <a    class="salesiq" href="https://www.zoho.com/salesiq/"><span class="pi5"></span>SalesIQ</a> <a    class="survey" href="https://www.zoho.com/survey/"><span class="pi3"></span>Survey</a> <a    class="campaign noright" href="https://www.zoho.com/campaigns/"><span class="pi2"></span>Campaigns</a> <a  class="sites" href="https://www.zoho.com/sites/"><span class="pi4"></span>Sites</a> <a   class="social" href="https://www.zoho.com/social/"><span class="pi24"></span>Social </a> <a  class="contactmanager noright" href="https://www.zoho.com/contactmanager/"><span class="pi6"></span>Contact<br>
+            Manager</a> <a class="forms nobottom" href="https://www.zoho.com/forms/"><span class="pi25"></span> Forms</a> <a class="motivator" href="https://www.zoho.com/motivator/"><span class="pi30"></span> Motivator</a> </div>
+        </li>
+        <li> <span class="ci3"></span>
+          <h4>Email & Collaboration<em style="background:#ea785d"></em></h4>
+          <p> Empower your workforce with apps to collaborate and transform the way they work.<em></em></p>
+          <div class="category-apps email-collab"> <a    class="mail featured-app" href="https://www.zoho.com/mail/"><span class="pi9"></span>Mail</a> <a href="https://www.zoho.com/notebook/" class="notebook noright"><em class="new">New</em><span class="pi35"></span> Notebook</a> <a  class="docs" href="https://www.zoho.com/docs/"><span class="pi10"></span>Docs</a> <a  class="projects" href="https://www.zoho.com/projects/"><span class="pi11"></span>Projects</a> <a  class="connect noright" href="https://www.zoho.com/connect/"> <span class="pi12"></span>Connect</a> <a  class="bugtracker" href="https://www.zoho.com/bugtracker/"> <span class="pi13"></span>BugTracker</a> <a class="meeting  " href="https://www.zoho.com/meeting/"> <span class="pi14"></span>Meeting</a> <a  class="vault noright" href="https://www.zoho.com/vault/"><span class="pi15"></span>Vault</a> <a href="https://www.zoho.com/showtime/" class="showtime nobottom" ><span class="pi29"></span> ShowTime</a> <a href="https://www.zoho.com/chat/" class="chat"><span class="pi31"></span> Chat</a> </div>
+        </li>
+        <li class="bp"> <span class="ci6"></span>
+          <h4>Business Process<em style="background:#4661ba"></em></h4>
+          <p>Simplify complex business processes with apps that will make your team's work easier. <em></em></p>
+          <div class="category-apps four-product"> <a class="creator featured-app noright" href="https://www.zoho.com/creator/"><span class="pi20"></span>Creator</a> <a href="https://www.zoho.com/appcreator/" class="appcreator nobottom"><em class="new">New</em><span class="pi33"></span> AppCreator</a> <a   class="reports nobottom" href="https://www.zoho.com/reports/"><span class="pi21"></span>Reports</a> <a  class="site24x7" target="_blank" href="https://www.site24x7.com/"><span class="pi26"></span>Site24x7</a> </div>
+        </li>
+        <li class="finance"> <span class="ci4"></span>
+          <h4>Finance<em style="background:#48bbb4"></em></h4>
+          <p>Solve business accounting challenges using our perfect set of finance apps on the cloud. <em></em></p>
+          <div class="category-apps  "> <a class="books featured-app " href="https://www.zoho.com/books/"><span class="pi16"></span>Books</a> <a class="invoice noright" href="https://www.zoho.com/invoice/"><span class="pi17"></span>Invoice</a> <a  class="subscription nobottom" href="https://www.zoho.com/subscriptions/"><span class="pi22"></span>Subscriptions</a> <a  class="expense   nobottom " href="https://www.zoho.com/expense/"><span class="pi27"></span>Expense</a> <a target="_blank" class="inventory noright" href="https://www.zoho.com/inventory/"><span  class="pi28"></span>Inventory</a> </div>
+        </li>
+        <li > <span class="ci2"></span>
+          <h4>IT &amp; Help Desk<em style="background:#5ab46c"></em></h4>
+          <p>Be right where your customers are with apps to help your business engage with them. <em></em></p>
+          <div class="category-apps four-product customer-support"> <a class="support featured-app noright" href="https://www.zoho.com/support/"><span class="pi7"></span>Support</a> <a class="sdp-ondemand nobottom" href="https://www.zoho.com/sdp-ondemand.html"><span class="pi32"></span>ServiceDesk Plus</a> <a class="mdm nobottom" href="https://www.zoho.com/mdm-cloud.html"><span class="pi34"></span>MDM</a> <a class="assist" href="https://www.zoho.com/assist/"><span class="pi8"></span>Assist</a> </div>
+        </li>
+        <li class="hr"> <span class="ci5"></span>
+          <h4>Human Resources<em style="background:#ffcc00"></em></h4>
+          <p>Focus on your people while our apps automate your human resources processes. <em></em></p>
+          <div class="category-apps two-product"> <a class="recruit featured-app nobottom" href="https://www.zoho.com/recruit/"><span class="pi18"></span>Recruit</a> <a   class="people" href="https://www.zoho.com/people/"><span class="pi19"></span>People</a> </div>
+        </li>
+      </ul>
+    </div>
+    <!-- PRODUCT CATEGORY SECTION ENDS--> 
+  </div>
+  <!-- HOME BG SECTION ENDS--> 
+  
+  <!-- ZOHO CRM PLUS SECTION -->
+  <div class="zohocrmplus-section"> <a href="https://www.zoho.com/crm/crmplus/?src=zoho-home" > <span class="zohocrm-logo">CRM Plus</span>
+    <h2> Customer-centricity in one package. </h2>
+    <span class="get-started-now" >Get Started Now</span> </a><a href="https://www.zoho.com/crm/crmplus/?src=zoho-home" ><img  class="crmplus-bundle-img" width="190" height="240" src="https://www.zoho.com/images/zoho-crmplus-bundle.png" alt="Zoho CRMPlus bundle" /></a> </div>
+  <!-- ZOHO CRM PLUS SECTION ENDS --> 
+  
+  <!-- -->
+  <div class="promotion-area">
+    <div class="promotion-part">
+      <div class=" promotion-products mobileapps"> <a href="https://www.zoho.com/mobile-apps.html" >
+        <h4> Take your business along with you.</h4>
+        <img class="promotion-products-img" width="150" height="120" src="https://www.zoho.com/images/zoho-mobile-apps-devices.png" alt="Zoho Mobile Apps" /> <span class="learn-more" >Check out our mobile apps</span> </a> </div>
+      <div class="promotion-products developer"> <a href="https://www.zoho.com/developer/" >
+        <h4><span class="zoho-developer-logo">Developer</span> <em class="new">New</em></h4>
+        <p>Build and sell extensions for Zoho products. </p>
+        <span class="learn-more"> Learn more </span> </a> </div>
+      <div class="promotion-products marketplace"> <a target="_blank" href="https://marketplace.zoho.com/" >
+        <h4><span class="zoho-marketplace-logo">Marketplace</span> <em class="new">New</em></h4>
+        <p>Install extensions that add new features to Zoho products. </p>
+        <img width="100" height="120" class="promotion-products-img" src="https://www.zoho.com/images/marketplace-logo.png" alt="Marketplace Logo" /> <span class="learn-more"> Learn more </span> </a> </div>
+    </div>
+  </div>
+  <!-- --> 
+  
+  <!--ABOUT ZOHO SECTION STARTS 
+  <div class="about-zoho white-bg">
+    <div class="about-zoho-inner">
+      <div class="mobile-sec">
+        <div class="mobile-sec-inner"> <a href="mobile-apps.html?src=zoho-home" >
+          <h3> Take your business along with you. </h3>
+          <div class="mobile-apps-img"> <img class="mobile-devices" width="300" height="240" src="https://www.zoho.com/images/zoho-mobileapps-devices.png" alt="Zoho Mobile Apps" /> <span class=" device-ipadair"><img alt="Zoho Apps for iPad" width="170" height="240" src="https://www.zoho.com/images/zoho-mobsec-ipadair.png" /></span> <span class="device-iphone"><img alt="Zoho Apps for iPhone" width="80" height="160" src="https://www.zoho.com/images/zoho-mobsec-iphone.png" /></span> <span class="device-iwatch"><img alt="Zoho Apps for Apple Watch" width="55" height="80" src="https://www.zoho.com/images/zoho-mobsec-iwatch.png" /></span> </div>
+          </a> <a href="https://www.zoho.com/mobile-apps.html"  class="view-more-detials">Check out our mobile apps</a> </div>
+      </div>
+      <div class="integrated-gapps">
+        <div class="gapps-inner"> <a href="google-apps.html?src=zoho-home"  >
+          <h3> Integrated with <img src="https://www.zoho.com/images/googleapps-for-work@2x.png" alt="Google Apps for work" height="45" width="330" /> </h3>
+          <p>We partner with Google Apps to help you seamlessly and effortlessly run your business.</p>
+          </a> <a href="https://www.zoho.com/google-apps.html" class="view-more-detials">View our integrated Google Apps</a></div>
+      </div>
+       <div style="display:none"  class="zohoin for-india">
+        <div class="zohoin-inner"> <a href="india-bundle.html?src=zoho-home" >
+          <h3>Get started with a free domain and an app bundle.</h3>
+          <img width="220" height="140" class="india-bundle-img"   src="https://www.zoho.com/images/india-bundle-illustration@2x.png" alt="free domain and an app bundle" /> </a> <a href="https://www.zoho.com/india-bundle.html" class="view-more-detials">Learn More</a></div>
+      </div> 
+    </div>
+  </div>
+   
+  
+  <!--ABOUT ZOHO SECTION ENDS--> 
+  
+  <!-- HOME BG VIDEO POPUP STARTS -->
+  <div style="display: none;" class="popup" id="videoMask2">
+    <div class="popup-close"><span></span> </div>
+  </div>
+  <div class="homebg-video" id="homebgVideo">
+    <div class="homebg-video-placing"> </div>
+    <div class="video-content-part">
+      <p> </p>
+    </div>
+    <div class="video-signup">
+      <p>Join the 15 million business users that are already using Zoho. <a href="https://www.zoho.com/signup.html">Try Zoho Now</a> </p>
+    </div>
+  </div>
+  <!-- HOME BG VIDEO POPUP ENDS --> 
+</div>
+<!-- MAIN CONTENT ENDS --> 
+
+<!-- FOOTER SECTION STARTS -->
+
+<div class="footer">
+  <div class="footer-links">
+    <ul>
+      <li>Apps</li>
+      <li><a href="https://www.zoho.com/mobile-apps.html">Mobile Apps</a></li>
+      <li><a href="https://www.zoho.com/google-apps.html">Google Apps Integration</a></li>
+      <li><a href="https://www.zoho.com/apple-watch.html">Apps for Apple Watch</a></li>
+    </ul>
+    <ul>
+      <li>Partners</li>
+      <li><a href="https://www.zoho.com/hosting/">Hosting Providers</a></li>
+      <li><a href="https://www.zoho.com/partners.html">Partners</a></li>
+      <li><a href="https://www.zoho.com/partners-resellers.html">Reseller Partners</a></li>
+      <li><a href="https://www.zoho.com/partners-api.html">API Integration Partners</a></li>
+      <li><a href="https://www.zoho.com/partners-strategic.html">Strategic Alliances</a></li>
+      <li><a href="https://www.zoho.com/partners-technology.html">Technology Partners</a></li>
+      <li><a href="https://www.zoho.com/referral-partners.html">Referral Partners</a></li>
+    </ul>
+    <ul>
+      <li>Resources</li>
+      <li><a href="https://support.zoho.com/portal/zohocorp/home">Support</a></li>
+      <li><a href="https://forums.zoho.com/">Discussions</a></li>
+      <li><a href="https://www.zoho.com/blog">Blogs</a></li>
+    </ul>
+    <ul>
+      <li>About</li>
+      <li><a href="https://www.zoho.com/aboutus.html">About Zoho</a></li>
+      <li><a href="https://www.zoho.com/press.html">Press</a></li>
+      <li><a href="https://www.zoho.com/inthenews.html">Zoho in the News</a></li>
+      <li><a href="https://www.zoho.com/contactus.html">Contact</a></li>
+    </ul>
+  </div>
+  <div class="common-footer">
+    <ul>
+      <li><a href="https://www.zoho.com/">Zoho Home</a></li>
+      <li><a href="https://www.zoho.com/contactus.html">Contact</a></li>
+      <li><a href="https://www.zoho.com/security.html">Security</a></li>
+      <li><a href="https://www.zoho.com/ipr-complaints.html">IPR Complaints</a></li>
+      <li><a href="https://www.zoho.com/policy.html"> Anti-spam Policy</a></li>
+      <li><a href="https://www.zoho.com/terms.html">Terms of Service</a></li>
+      <li><a href="https://www.zoho.com/privacy.html"> Privacy Policy</a></li>
+    </ul>
+    <p>&copy; 2016, Zoho Corporation Pvt. Ltd. All Rights Reserved.</p>
+    <div class="social-icons"> <a target="_blank" href="https://www.facebook.com/zoho" class="si1">Facebook </a> <a target="_blank" href="https://twitter.com/zoho" class="si2"> Twitter </a> <a target="_blank" href="https://www.linkedin.com/company/38373" class="si3"> Linkedin </a> </div>
+    <div class="footer-zohologo"> <a href="https://www.zoho.com/">Zoho</a> </div>
+  </div>
+</div>
+
+<!-- FOOTER SECTION ENDS --> 
+
+<!-- MAIN DIV ENDS --> 
+
+<!-- SCRIPT SECTION STARTS --> 
+
+<script type="text/javascript" src="https://www.zoho.com/js/prd-common.js"></script> 
+<script>
+
+ 
+ 
+$(document).ready(function(e) {
+	
+	if (window.devicePixelRatio >= 2) {
+		$('.crmplus-bundle-img').attr('src', 'images/zoho-crmplus-bundle@2x.png');
+		$('.promotion-products.marketplace .promotion-products-img').attr('src', 'images/marketplace-logo@2x.png');
+		$('.promotion-products.mobileapps .promotion-products-img').attr('src', 'images/zoho-mobile-apps-devices@2x.png');
+    }
+					 
+	
+	var $delay = 200;
+  			$('.featuredapp-sec li a').each(function() {
+						var $this = $(this);
+						$delay += 200;
+						setTimeout(function() {
+							$this.addClass('animate');
+						}, $delay);
+	                });
+	
+	$('.zoho-apps').click(function(e){
+		e.preventDefault();
+		var catagoryStop = $('.category').offset().top;
+		
+			$('html, body').animate({
+        scrollTop: catagoryStop
+      }, 800);
+		});
+	
+	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+				$('.z-bg-video').css({'display':'none'});
+	}
+	getCountry=false;
+	if(typeof(CountryCode)!='undefined'){
+		getCountry=true;
+	}
+	
+	 //popup();
+
+ 
+
+findHost();
+})
+	
+
+function findHost(){
+	var m = window.location.href;
+	m = m.replace("http://www.", '');
+	m = m.replace("https://www.", '');
+	m = m.replace("http://", '');
+	m = m.replace("https://", '');
+	host = m.split(".com")[0];
+	if(host=='eu.zoho'){
+	host=host.split('.')[1];
+	}
+}
+
+
+
+</script> 
+<script>
+	// JavaScript Document for share button */
+//sbg();
+function sbg(){
+	var buttons = document.getElementsByClassName('sbg-button')
+	var getElement = document.querySelector('[data-sbg-network="facebook"]');           		// select the first fb button using custome attr in the document
+	var getUrl=getElement.getAttribute('data-sbg-url');										// get the [data-sbg-url ]
+	var getWidth=getElement.getAttribute('data-sbg-width');
+	var getHeight=getElement.getAttribute('data-sbg-height');									   
+	for(var i=0;i<buttons.length;i++){
+		var button = buttons[i]
+		var socialUrl = buttons[i];  								 
+		var attUrl = document.createAttribute("data-sbg-url");       							// Create a "class" attribute
+		var attWidth = document.createAttribute("data-sbg-width");       						// Create a "class" attribute
+		var attHeight = document.createAttribute("data-sbg-height");       						// Create a "class" attribute
+		attUrl.value = getUrl;   
+		attWidth.value = getWidth;   
+		attHeight.value = getHeight;                           				
+		socialUrl.setAttributeNode(attUrl);  													// Set the value of the class attribute
+		socialUrl.setAttributeNode(attWidth);  
+		socialUrl.setAttributeNode(attHeight);   													
+
+		if(button.hasAttribute('data-sbg-isBinded')){continue}
+		button.setAttribute('data-sbg-isBinded','true')
+		var network = button.getAttribute('data-sbg-network')
+		bindButton(network,button)
+	}
+
+	function bindButton(network,button){
+		var height = button.getAttribute('data-sbg-height')
+			,width = button.getAttribute('data-sbg-width')
+			,top = Math.max(0,(screen.height-height)/2)
+			,left = Math.max(0,(screen.width-width)/2)
+			,specs = 
+				'height='+height+',width='+width+',top='+top+',left='+left
+				+',status=0,toolbar=0,directories=0,location=0'
+				+',menubar=0,resizable=1,scrollbars=1'
+			,windowName = 'sbg-window-'+Math.random()
+
+		switch(network){
+			case 'facebook':
+				var url = buildUrl('https://www.facebook.com/sharer.php',{
+					's':100
+					,'p[url]':button.getAttribute('data-sbg-url')
+					,'p[title]':button.getAttribute('data-sbg-title')
+					,'p[summary]':button.getAttribute('data-sbg-summary')
+					,'p[images][0]':button.getAttribute('data-sbg-image')
+				})
+				button.onclick=function(){
+					window.open(url,windowName,specs);
+				}
+				break;
+			case 'twitter':
+				var url = buildUrl('https://twitter.com/intent/tweet',{
+					'text':button.getAttribute('data-sbg-source')
+					,'via':button.getAttribute('data-sbg-via')
+					,'hashtags':button.getAttribute('data-sbg-hashtags')
+				})
+				button.onclick=function(){
+					window.open(url,windowName,specs);
+				}
+				break;
+			case 'linkedin':
+				var url = buildUrl('https://www.linkedin.com/shareArticle',{
+					'mini':'true'
+					,'url':button.getAttribute('data-sbg-url')
+					,'title':button.getAttribute('data-sbg-title')
+					,'source':button.getAttribute('data-sbg-source')
+					,'summary':button.getAttribute('data-sbg-summary')
+				})
+				button.onclick=function(){
+					window.open(url,windowName,specs);
+				}
+				break;
+			case 'google-plus':
+				var url = buildUrl(' https://plus.google.com/share',{
+					'url':button.getAttribute('data-sbg-url')
+				})
+				button.onclick=function(){
+					window.open(url,windowName,specs);
+				}
+				break;
+			
+
+		}
+	}
+
+	function buildUrl(url, parameters){
+	  var qs = "";
+	  for(var key in parameters) {
+	    var value = parameters[key];
+	    if(!value){continue}
+	   	value = value.toString().split('\"').join('"');
+	    qs += key + "=" + encodeURIComponent(value) + "&";
+	  }
+	  if (qs.length > 0){
+	    qs = qs.substring(0, qs.length-1); //chop off last "&"
+	    url = url + "?" + qs;
+	  }
+	  return url;
+	}
+	
+
+}
+
+</script> 
+<script>
+ var clearInt="";
+var clearInt1="";
+
+
+$(document).ready(function(e) {
+ 		trigger=true;
+		//checkWindowHeight();
+		scTop=$(window).scrollTop();
+		wHeight=window.innerHeight;
+		//setSignuppart();
+	 	var zIndex1=0;
+		var count1=0;
+ 		var zIndex=0;
+		var count=0;
+
+  $(window).scroll(function () {
+		 scTop=$(window).scrollTop();
+		 wHeight=window.innerHeight;
+		 //setSignuppart()
+		  
+	//if(scTop>($('.about-zoho-inner').offset().top+250)-wHeight){
+		//$('.about-zoho-inner').addClass('css-animated');
+	//}
+
+		 if ( scTop > 500) {
+			$('.floating-header').css({'top':'0px'});   
+		}
+		  else {
+		   $('.floating-header').css({'top':'-60px'});  
+		}
+});
+
+});
+
+</script> 
+<script>
+$(document).ready(function() {
+		if(sessionStorage.length>0){
+		var getview = sessionStorage.getItem('viewallapp');
+		if(getview!=null){
+			getview=getview.indexOf('yes')
+		
+		if(getview>0){
+			$(window).scrollTop($('.main-content .category').offset().top-100)
+			sessionStorage.clear();
+		}
+		}
+		}
+		
+		chageSignupLink();
+		resetH();
+		var script = document.createElement('script');
+		script.src = "https://accounts."+k+".com/u/info";
+		document.getElementsByTagName('head')[0].appendChild(script);
+		script.onload = urlL;
+}); 
+
+function chageSignupLink(){
+	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+		$('.signup-button').attr({'href':'https://accounts.zoho.com/accounts/register?servicename=ZohoMobile&serviceurl=https%3A%2F%2Fmobile.zoho.com'});}
+}
+
+	function urlL()
+		{
+			resetH();
+			var getusername=zohouser.DISPLAY_NAME;
+			if(!getusername){}
+			else
+			{
+				function decodeHexString(str){
+					 str = str.replace(/\\x([0-9A-Fa-f]{2})/g, function(){return String.fromCharCode(parseInt(arguments[1], 16));});
+					 str = str.replace(/\\u([\d\w]{4})/gi, function() {  
+					  return String.fromCharCode(parseInt(arguments[1], 16));
+					  }); 
+					return str;
+				}
+			
+		var getusername =  decodeHexString(zohouser.DISPLAY_NAME);
+		 
+		if($("body").find("main-section")){
+			$('.main-section').addClass('loggedin-main');
+			$('.signup-section').addClass('loggedin-sec');
+		}
+
+		$(".signing").html("<a target='_blank' href='https://support.zoho.com/portal/zohocorp/home' >Support</a> <a class='signup' href='https://home."+k+".com/' >  <span class='user-det' style='border-bottom:1px solid;margin-right:10px; color:#444'>Welcome "+getusername+"! </span>  Access Your Apps</a>");
+
+		$(".loggedin-userinfo").html(" <h2 class='username'>Welcome <span>"+getusername+"!</span></h2> <a href='https://home."+k+".com/' > Access Your Apps</a>");
+
+		$(".getstarted-box").html("<a class='signup' href='https://home."+k+".com/'> Access Your Apps</a><span>&nbsp;</span>");
+		
+		$(".video-signup p a").replaceWith("<a href='https://home."+k+".com/'> Access Your Apps</a>");			
+		$(".bottom-signup-band").css('display','none');
+		}
+	}
+	
+	function resetH(){
+		m=window.location.href;
+		m = m.replace("http://www.", '');
+		m = m.replace("https://www.", '');
+		m = m.replace("http://", '');
+		m = m.replace("https://", '');
+		k=m.split(".com");
+		k=k[0];
+	}
+</script> 
+<script type="application/ld+json">
+{ 
+  "@context" : "http://schema.org",  
+  "@type" : "WebSite",  
+  "name" : "Zoho",
+  "alternateName" : "zoho.com",  
+  "url" : "https://www.zoho.com" 
+}
+</script> 
+<script type="application/ld+json">
+{ 
+  "@context" : "http://schema.org",  
+  "@type" : "Organization",  
+  "name" : "Zoho Office Suite",
+  "logo": "https://www.zoho.com/images/zoho.png",
+  "url" : "https://www.zoho.com",  
+  "sameAs" : [ 
+  "https://en.wikipedia.org/wiki/Zoho_Office_Suite",
+  "https://www.freebase.com/m/0260z9l",
+  "https://twitter.com/zoho",
+  "https://plus.google.com/+Zoho/",
+  "https://www.facebook.com/zoho"
+  ]
+}
+
+</script> 
+<script>
+
+/* Remove the sites24*7 for zoho.eu*/
+	var zohoDomain=document.domain;
+	if(zohoDomain=="www.zoho.eu"){
+		
+		/* zoho .eu cookie policy */
+		
+		function getCookie(name) {
+    var cookiename = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        if(typeof String.prototype.trim !== 'function') {
+                String.prototype.trim = function() {
+                return this.replace(/^\s+|\s+$/g, '');
+                }
+        }
+        if (c.indexOf(cookiename) == 0) return c.substring(cookiename.length,c.length);
+    }
+    return c;
+}
+$(document).ready(function(e) {
+	
+	var cookieHtml='<div id="cookie-clear-bar" style="text-align:center;">We use cookies to give you the best online experience. By using our website you agree to our use of cookies in accordance with our cookie policy.<button id="CookieClear" onclick="CookieClearAccept()">OK</button><a href="https://www.zoho.com/cookiepolicy.html">Learn More.</a></div>'
+	$('body').append(cookieHtml);
+	
+	jQuery("html").css("margin-top","0");
+	var uidcookieVal = getCookie();
+	if(uidcookieVal.indexOf('euCookiepolicy') >= 0)
+	{
+		jQuery("#cookie-clear-bar").hide();
+		jQuery("html").css("margin-top","0");
+		jQuery('.signing').removeAttr('style');
+	}
+	else{
+		jQuery("#cookie-clear-bar").show();
+		jQuery("html").css("margin-top","32px");
+		jQuery('.signing').css('top','35px');
+	}
+});
+function CookieClearAccept(){
+	days = 30;
+	var date = new Date();
+	date.setTime(date.getTime()+(days*24*60*60*1000));
+	var expires = "; expires="+date.toGMTString();
+	document.cookie = "euCookiepolicy=true"+expires+"; path=/";
+	jQuery("#cookie-clear-bar").hide();
+	jQuery("html").css("margin-top","0");
+	jQuery('.signing').removeAttr('style');
+}
+		
+		}
+		
+		
+$(document).ready(function(e) {	
+
+if($(window).width()<=450){
+	$('.footer-links ul').find('li:gt(0)').css('display','none');
+	$('.footer-links ul').find('li:eq(0)').addClass('added-plus');
+}
+		
+	$('.footer-links ul').find('li:eq(0)').click(function(){
+		if($(this).hasClass('menu-extended')==false){
+			$('.footer-links > ul').find('li:eq(0)').removeClass('menu-extended');
+			$(this).addClass('menu-extended');
+			$('.footer-links > ul').find('li:gt(0)').slideUp(500);
+			$(this).siblings().slideDown(500);
+		}
+	});
+		
+});		
+</script>
+</body>
+</html>

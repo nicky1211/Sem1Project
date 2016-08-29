@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-IN" dir="ltr">
+
+<head>
+ <!-- data-info:v:2.0.6071.8678;a:9c237f64-a10c-4974-b8ac-78a5386f7d79;cn:16;az:{did:e49696a9a3d34998b8fe9dc831844260, rid: 16, sn: easia-hp, dt: 2016-08-21T12:19:00.9527475Z, bt: 2016-08-15T04:52:29.3792083Z};ddpi:1;dpio:;dpi:1;dg:downlevel.pc;th:start;PageName:startPage;m:en-in;cb:;l:en-in;mu:en-in;ud:{cid:,vk:homepage,n:,l:en-in,ck:};xd:AAgg4jq;ovc:f;al:;fxd:f;xdpub:2016-08-24 06:13:49Z;xdmap:2016-08-24 11:13:49Z;axd:;f:muidflt28cf,muidflt259cf -->
+ 
+ <link rel="canonical" href="http://www.msn.com/en-in/" />
+ <link rel="alternate" hreflang="en-in" href="http://www.msn.com/en-in/" />
+
+ <title>MSN India | Hotmail, Outlook, Skype, news, photos &amp; videos</title>
+ <meta name="description" content="MSN India offers latest local and world news, with the best of cricket, Bollywood, finance, lifestyle and more. Access Outlook mail, Skype and Bing search."/>
+ 
+<meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+ <link rel="stylesheet" href="//static-hp-eas-s-msn-com.akamaized.net/en-in/homepage/_sc/css/6670b51d-9ba8c85c/direction=ltr.locales=en-in.themes=start.dpi=resolution1x/61-b7ba12-4e3b0a9b/99-f12d7e-ee5f2b10/da-8a7ffb-f8ee39e8/d4-2167c0-f94d3276/12-c98a9e-a648eab2/1a-931e78-63b61fa3/2c-e51880-68ddb2ab/f7-ff38a0-4534563a/ae-07e0ba-654638bf?ver=2.0.6071.8678&amp;fdhead=muidflt28cf,muidflt259cf&amp;csopd=20160817234035&amp;csopdb=20160823165309" type="text/css" media="all" />
+ <script type="text/javascript">//<![CDATA[
+(function(n,t){function o(n,i,r){typeof n!="string"&&(r=i,i=n,n=t);i&&i.splice||(r=i,i=[]);n=="c.dom"&&(a=!0);s(n,i,r)}function s(n,t,i,r){var e,o,s;if(!n||!u[n]){if(e=g(n,t),!e){f.push(r||{i:n,d:t,f:i});return}o=typeof i=="function";s=a&&o&&n!="dap"&&n!="adLoad"&&t&&(t.length!=1||t[0]!="dap"&&t[0]!="c.dom");s?d(n,i,e,!0):k(o,n,i,e)}}function k(n,t,i,r){var u;u=n?i.apply(null,r):i;h(t,u)}function d(n,t,i,r){if(r)setTimeout(function(){var r=t.apply(null,i);h(n,r)},1);else{var u=t.apply(null,i);h(n,u)}}function h(t,i){t&&(i?(u[t]=i,v()):n.console&&console.error("Dependencies resolved, but object still not defined (or is otherwise falsey). id:"+t+"; typeof obj: "+typeof i))}function v(){var r,u,n,t;if(f.length&&!i){do for(r=f,u=r.length,f=[],i=1,t=0;t<u;t++)n=r[t],s(n.i,n.d,n.f,n);while(i>1);i=0}else i&&(i=2)}function g(i,r){for(var s,v,h,f=[],c=r?r.length:0,o=0;o<c;o++){var l=r[o],a=u[l],y=typeof a!="undefined";if(!y){if(s=b.exec(l),s)if(v=s[1],h=n[v],h!==t){f.push(h);continue}else e||(e=setTimeout(nt,w));break}f.push(a)}return c==f.length?f:0}function nt(){e=0;v()}function tt(n,i,r){(typeof n!="object"||n&&n.splice)&&(r=i,i=n,n={});i&&i.splice||(r=i,i=[]);it(n.js);r&&s(t,i,r)}function it(n){if(typeof n=="string")y(n);else if(n)for(var t=0;t<n.length;t++)y(n[t])}function y(n){if(!l[n]){l[n]=1;var i=document.getElementsByTagName("script")[0],t=document.createElement("script");t.src=n;t.onload=t.onreadystatechange=function(){this.readyState&&this.readyState!="loaded"&&this.readyState!="complete"||(t.onload=t.onreadystatechange=null,t.parentNode&&t.parentNode.removeChild(t))};i.parentNode.insertBefore(t,i)}}function rt(n){return p?n?r.now():Math.round(r.now()):new Date-c}var r=n.performance,c=((r||{}).timing||{}).navigationStart||(n._timing||{}).start||+new Date,p=r&&typeof r.now=="function",u={date:Date,document:document,image:Image,localStorage:n.localStorage,location:document.location,navigator:navigator,pageStart:c,pageTime:rt,screen:screen,window:n},f=[],i,w=50,e,l={},a=!1,b=/^window\.(.+)$/;o.amd={jQuery:1};o.is=function(n){return typeof u[n]!="undefined"};n.define=o;n.require=tt})(window);define("navigation",["escape","location"],function(n,t){function r(n,t,i){var s=function(n){return n=n.replace(/\+/g," "),decodeURIComponent(n)},u={},o,e;if(n)for(n=n.split("#")[0],o=n.split("&"),e=0;e<o.length;e++){var h=o[e].split("="),r=h[0],f=h[1];i&&(r=s(r),f&&(f=s(f)));t?(u[r]||(u[r]=[]),u[r].push(f)):u[r]=f}return u}function u(n){var t=f.exec(n);return t?t[2]:!1}var f=/[a-z][a-z0-9+\-.]*:\/\/([a-z0-9\-._~%!$&'()*+,;=]+@)?([a-z0-9\-._~%]+|\[[a-z0-9\-._~%!$&'()*+,;=:]+\])/i,i={getUrl:function(n){return i.filter?i.filter(n):n},navigate:function(n,r){i.filter&&(n=i.filter(n));r?t.replace(n):t.href=n},getHostName:u,isLocal:function(n){var i=u(n);return!i||t.hostname==i},getParams:r,getParamsFromUrl:function(n,t,i){var u=n.split("?")[1];return r(u,t,i)},mergeQueryStringParams:function(t,i){var e,f,o,u;if(i){if(e=t.split("?"),e[1]){f=r(e[1],!1,!0);for(u in i)f[u]=i[u]}else f=i;t=e[0];o="?";for(u in f)t+=f[u]?o+n.urlPart(u)+"="+n.urlPart(f[u]):o+n.urlPart(u),o="&"}return t},filter:null};return i});define("logging",["window"],function(n){function r(n,t){if(n.addEventListener)n.addEventListener("error",t,!1);else if(n.onerror){var i=n.onerror;n.onerror=function(n,r,u,f,e){return i(n,r,u,f,e),t(n,r,u,f,e)}}else n.onerror=t}function t(t){n.console&&(console.error||console.log)(t)}function u(){}function f(){}function e(t){(n.console||{}).timeStamp?console.timeStamp(t):(n.performance||{}).mark&&n.performance.mark(t)}var i=0;return r(n,function(n){return i++,n&&t("[SCRIPTERROR] "+n),!0}),{error:t,fatalError:t,unhandledErrorCount:function(){return i},perfMark:e,warning:u,information:f}})//]]></script><script type="text/javascript" src="//static-hp-eas-s-msn-com.akamaized.net/_h/4c59fa2c/webcore/externalscripts/jquery/jquery-1.11.1.min.js"></script>
+ 
+ <style>@media screen and (max-width:78.99em) and (min-width:58.875em){.layout-none:not(.mod1) .pos2{left:0}}.ie8 .grid .pick4~li.pick{display:none}.todaystripe .todayshowcasead:hover{opacity:1}.spartan #main .paging-container.snap{overflow-x:hidden}.facebook .meflyout>section ul li a span::before{line-height:inherit;top:.25rem;left:1.25rem;position:absolute}.facebook .meflyout>section ul li:nth-child(4) a span::before{top:.5rem}.facebook .meflyout>section ul li a span{position:relative}#addRemoveSectionsModalContainer #addRemoveSectionsModal{display:block}.tmx.mobile .superbowl .matchupstripe{margin:0 auto}.stripecontainer .stripeouter.noborder{height:33.7rem}.mobile .galleryinfo .img-divider{display:none}.homepage.tmx.pc.chrome #main .one-col,.homepage.tmx.pc.chrome #main .two-col,.homepage.tmx.pc.chrome #main .three-col{margin-right:-.016rem;margin-left:-.016rem}.homepage.midlevel .pagingsection>button.show,.channelplayerpage.midlevel .pagingsection>button.show{display:none}</style>
+</head>
+
+<body class="startpage sp center-content start">
+ 
+
+ <div id="banners">
+
+ <span>We are updating our Terms of Use and Privacy Statement.</span>
+
+
+ </div>
+
+<div class="head">
+<div>
+<div id="topnav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/en-in">Home</a>
+</li>
+ <li >
+<a href="/en-in/news">News</a>
+</li>
+ <li >
+<a href="/en-in/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-in/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-in/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-in/money">Money</a>
+</li>
+
+ <li class="more">
+<a href="#nav">More ></a>
+<ul>
+ <li >
+<a href="/en-in/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-in/health">Health</a>
+</li>
+ <li >
+<a href="/en-in/foodanddrink">Food</a>
+</li>
+ <li >
+<a href="/en-in/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-in/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-in/video">Video</a>
+</li>
+ </ul>
+</li>
+ </ul>
+</div>
+  <div id="header-common">
+<div class="header">
+<div class="header-logo">
+  <a class="logo" href="/en-in" tabindex="2">
+ 
+
+<img alt="" height="20" width="20" src="//static-hp-eas-s-msn-com.akamaized.net/sc/82/c22c7d.gif" />
+</a>
+ <a class="vertical" href="/en-in" tabindex="2">msn</a>
+
+
+
+</div>
+<div id="header-links">
+ <a href="http://www.outlook.com/">Outlook.com</a>
+ <span>|</span>
+ <a href="/en-in/settings/markettoggle"><img alt="en-in" src="//static-hp-eas-s-msn-com.akamaized.net/sc/6a/a62410.gif" /></a>
+
+<a class="navigation" href="#nav">
+<img  alt="go to navigation" width="27" height="20" src="//static-hp-eas-s-msn-com.akamaized.net/sc/57/a49b8d.gif" />
+                    </a>
+                </div>
+            </div>
+        </div>
+
+ 
+<div id="header-search">
+<form action="https://www.bing.com/search?scope=web" method="get" id="srchfrm">
+<div class="searchbox">
+<input type="text" id="q" name="q" value="" />
+<input type="hidden" name="form" value="PRINDL" />
+  <input type="hidden" name="httpsmsn" value="1">
+ <input type="hidden" name="refig" value="9c237f64a10c4974b8ac78a5386f7d79">
+<input type="submit" class="text" value="web search" title="web search"/>
+ </div>
+</form>
+</div>
+
+</div>
+ 
+ 
+<div class="upgradebrowser">
+ You are using an older browser version. Please use a <a href="http://support2.microsoft.com/kb/2999871/en-in">supported version</a> for the best MSN experience.
+</div>
+
+
+
+</div>
+<div id="maincontent">
+  <div id="breakingnews" class="" role="alert"  data-aop="breaking_news" >
+ 
+<div id="breakingnewsinner" >
+<a class=contentanchor href="http://www.msn.com/en-in/news/newsindia/68-earthquake-in-bengal-bihar-and-assam-epicentre-in-myanmar/ar-BBvZmBM" data-hl="BREAKING NEWS:6.8 magnitude earthquake hits Myanmar; tremors felt in Kolkata, Patna, Guwahati, Delhi" target="_blank"> <div class="headlinebar">
+<span>BREAKING NEWS</span>
+<span title="6.8 magnitude earthquake hits Myanmar; tremors felt in Kolkata, Patna, Guwahati, Delhi">6.8 magnitude earthquake hits Myanmar; tremors felt in Kolkata, Patna, Guwahati, Delhi</span>
+</div>
+</a> </div>
+ 
+</div>
+
+
+
+<div id="main"  data-region="main">
+ 
+
+ 
+ <div class="today">
+
+
+	<div class="weatodaytile"  data-module-id="startpage|todayDownlevel|section|DownlevelMiniWeather|WeatherTodayTileModule"   data-aop="todayweathersd_weathertodaythreedaystilemodule">
+<a  href="/en-in/weather/today/Udipi,Karnataka,India/we-city-13.351,74.793?iso=IN" data-loc="lat=13.35&amp;long=74.79&amp;c=Udipi&amp;st=Karnataka&amp;cn=India&amp;iso=IN&amp;type=1">
+<div class="weatileleft">
+<img class="skycond" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MKSg.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40"
+
+data-src="{&quot;default&quot;:&quot;//img-s-msn-com.akamaized.net/tenant/amp/entityid/BB8MKSg.img?m=6&amp;o=true&amp;u=true&amp;n=true&amp;w=40&amp;h=40&quot;}"
+alt="Partly Sunny" title="Partly Sunny" data-icon="3" />
+	<div><span class="currentcond">29&#176;</span><span class="tempunit">C</span></div>
+</div>
+<div class="weatileright">
+<span class="weacity">Udipi, Karnataka</span>
+<span class="skytext">Today, Partly Sunny</span>
+<span class="tempavghigh">High 29&#176;</span>
+<span class="tempavglow">Low 25&#176;</span>
+</div>
+	</a>
+
+ <div class="edit"  data-aop="change">
+<a class="edithome" href="#" data-degreetype="C" 
+data-home="Search for Location / City" title="Change">Change</a>
+</div>
+<div class="weapopup"  data-aop="editweatherflyout"  data-region="editweatherflyout">
+<div class="weaddn wpopbg"></div>
+<div class="weaddn wpopctn">
+<a class="close"  role="button" href="#" title="Close">Close</a>
+ 
+
+<div class="weaaddlocation">
+
+<form  action="/en-in/weather/search" data-action="/en-in/weather/ajax/places/search/" method="get" >
+ 
+<p>Set Default Location</p>
+<div class="add-loc-as-container">
+<input name="q" accesskey="L" autocomplete="off" type="search"
+value="" maxlength="250" data-auto-suggest-settings='{&quot;market&quot;:&quot;en-in&quot;,&quot;mode&quot;:&quot;AS&quot;,&quot;baseurl&quot;:&quot;/en-in/weather/today&quot;,&quot;action&quot;:&quot;sethome&quot;,&quot;method&quot;:&quot;custom&quot;,&quot;selector&quot;:&quot;.weaaddlocation&quot;,&quot;urltype&quot;:&quot;GeoLocation&quot;,&quot;formcode&quot;:&quot;&quot;,&quot;lat&quot;:13.3512,&quot;lon&quot;:74.7929}'
+                   placeholder="Search for Location / City" data-seemoretext="Press &lt;Enter&gt; to see more"
+ />
+<button title="Search" type="submit" class="searchbtn" value="search" role="button"
+></button>
+</div>
+<div class="nolocerr" data-message="No search results for &#39;{0}&#39;"></div>
+<div class="errmsg">An unexpected error occurred, please try again.</div>
+<div class="autosuggestresults" ></div>
+ 
+</form>
+</div>
+
+ 
+
+ <div>
+<p>Display Temperature In</p>
+<form class="setdegree"  action="/en-in/weather/ajax/places/savedegree/" method="get">
+ 
+<div>
+<button name="weaDegreeType" id="fahrenheit" value="F"
+                        class=""
+>
+<span class="dot"></span>
+</button>
+<label for="fahrenheit">Fahrenheit</label>
+            </div>
+            <div>
+                <button name="weaDegreeType" id="celsius" value="C"
+                        class="selected"
+>
+<span class="dot"></span>
+</button>
+<label for="celsius">Celsius</label>
+</div>
+ 
+</form>
+</div>
+
+ <button  class="donebutton disabled" disabled="disabled" title="Done">Done</button>
+ </div>
+</div>
+	</div>
+ </div>
+ <div class="stripe first">
+<h2>Today</h2>    <a href="/en-in/news/newsindia/68-earthquake-in-bengal-bihar-and-assam-epicentre-in-myanmar/ar-BBvZmBM?li=AAggbRN" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBvZk66.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="6.8 Earthquake In Bengal, Bihar And Assam, Epicentre In Myanmar - NDTV" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/news/newsindia/68-earthquake-in-bengal-bihar-and-assam-epicentre-in-myanmar/ar-BBvZmBM?li=AAggbRN" >
+
+6.8 quake in Bengal, Bihar &amp; Assam    </a>
+
+</li>
+ <li >
+     <a href="/en-in/news/newsindia/cabinet-clears-draft-bill-on-surrogate-motherhood/ar-BBvZ0qA?li=AAggbRN" >
+
+Cabinet clears bill on surrogacy    </a>
+
+</li>
+ <li >
+     <a href="/en-in/news/newsindia/as-public-figure-learn-to-take-criticism-supreme-court-to-jayalalithaa/ar-BBvYIRS?li=AAggbRN" >
+
+Take criticism: SC to Jaya    </a>
+
+</li>
+ <li >
+     <a href="/en-in/sports/olympics/haryana-cm-rewards-sakshi-malik-with-rs-25-crore-forgets-pv-sindhus-name/ar-BBvYW1X?li=AAggbRN" >
+
+Haryana CM rewards Sakshi Malik with Rs 2.5 crore    </a>
+
+</li>
+ <li >
+     <a href="/en-in/sports/olympics/is-wrestler-narsingh-yadav-fighting-a-losing-battle/ar-BBvZcmK?li=AAggbRN" >
+
+Is Narsingh fighting a losing battle?    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-in/news" >News</a></h2>    <a href="/en-in/news/world/n-korea-fires-missile-from-submarine/ar-BBvYtka?li=AAgges1" >
+<img alt="Footage of North Korea launching short-range projectiles into the sea was shown ..." height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBqjnZE.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=644&amp;y=213" title="Footage of North Korea launching short-range projectiles into the sea was shown ... - AP" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/news/world/n-korea-fires-missile-from-submarine/ar-BBvYtka?li=AAgges1" >
+
+N Korea sub fires ballistic missile    </a>
+
+</li>
+ <li >
+     <a href="/en-in/news/newsindia/cow-is-mother-of-not-only-hindus-but-also-of-muslims/ar-BBvYdum?li=AAgges1" >
+
+&#39;Cow is mother of Muslims also&#39;    </a>
+
+</li>
+ <li >
+     <a href="/en-in/news/newsindia/ramya-saying-pakistan-is-not-hell-is-not-an-insult-to-india-our-unnecessary-outrage-is/ar-BBvWKML?li=AAgges1" >
+
+Ramya case: Pointless outrage?    </a>
+
+</li>
+ <li >
+     <a href="/en-in/news/newsindia/sc-says-dahi-handi-pyramids-can%e2%80%99t-exceed-20-feet-rejects-appeal/ar-BBvZeuT?li=AAgges1" >
+
+No SC rethink on Dahi Handi height    </a>
+
+</li>
+ <li >
+     <a href="/en-in/news/crime/us-woman-killed-newborn-by-putting-him-in-refrigerator-authorities/ar-BBvYFfC?li=AAgges1" >
+
+US woman kills newborn by putting him in refrigerator    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-in/entertainment" >Entertainment</a></h2>    <a href="/en-in/entertainment/bollywood/deepika-padukone-motivates-fans-with-her-workout-responds-to-fan-videos/ar-BBvYBQY?li=AAgfTxu" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBvYTO8.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1202&amp;y=963" title="Deepika Padukone joins world&#39;s highest-paid actresses&#39; list" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/entertainment/bollywood/deepika-padukone-motivates-fans-with-her-workout-responds-to-fan-videos/ar-BBvYBQY?li=AAgfTxu" >
+
+Deepika motivates fans with her workout, responds to fan videos    </a>
+
+</li>
+ <li >
+     <a href="/en-in/entertainment/bollywood/age-gap-couples-celebs-with-big-age-difference/ss-AAclg1Z?li=AAgfTxu" >
+
+Celebrity couples with big age difference    </a>
+
+</li>
+ <li >
+     <a href="/en-in/entertainment/hollywood/professional-wrestlers-turned-movie-stars/ss-BBvVAOU?li=AAgfTxu" >
+
+Wrestlers who turned actors    </a>
+
+</li>
+ <li >
+     <a href="/en-in/entertainment/tv/hard-to-believe-that-my-fans-are-hurting-divyanka-tripathi-ssharad-malhotra/ar-BBvYCXq?li=AAgfTxu" >
+
+Ssharad is disappointed with his fans. Here&#39;s why    </a>
+
+</li>
+ <li >
+     <a href="/en-in/entertainment/bollywood/this-singer-had-a-problem-with-rahat-fateh-ali-khan%e2%80%99s-afreen-afreen-so-he-did-his-own-viral-version-watch-video/ar-BBvYIoQ?li=AAgfTxu" >
+
+Watch: A new version of &quot;Afreen Afreen&quot;    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-in/sports" >Sports</a></h2>    <a href="/en-in/sports/olympics/colorful-fans-at-2016-rio-olympics/ss-BBvW0mE?li=AAggjDC" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBvTtxl.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1293&amp;y=763" title="Brazil fan - Luis Acosta/AFP/Getty Images" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/sports/olympics/colorful-fans-at-2016-rio-olympics/ss-BBvW0mE?li=AAggjDC" >
+
+Colourful fans at Rio Olympics    </a>
+
+</li>
+ <li >
+     <a href="/en-in/sports/cricket/lodha-panel-secy-accused-selectors-of-taking-sexual-favours-ajay-shirke/ar-BBvY2Zo?li=AAggjDC" >
+
+Did Indian selectors seek sexual favours?    </a>
+
+</li>
+ <li >
+     <a href="/en-in/sports/cricket/he-is-still-the-same-old-little-virat-for-me-coach-rajkumar-sharma/ar-BBvWPEv?li=AAggjDC" >
+
+Kohli is still the same as he was at 10: Coach Rajkumar Sharma    </a>
+
+</li>
+ <li >
+     <a href="/en-in/sports/olympics/9-depressing-reasons-rio-was-the-most-sexist-olympics-yet/ar-BBvYFFP?li=AAggjDC" >
+
+9 depressing reasons Rio was the most sexist Olympics    </a>
+
+</li>
+ <li >
+     <a href="/en-in/sports/olympics/meet-the-10-hottest-olympians-from-rio-2016/ar-BBvW9nW?li=AAggjDC" >
+
+10 hottest Rio Olympians    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-in/video" >Video</a></h2>    <a href="/en-in/video/news/ndrf-rescues-26000-people-in-flood-hit-north-india/vi-BBvY42D" >
+<img alt="NDRF Rescues 26,000 People in Flood-hit North India" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBvY42A.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=376&amp;y=272" title="NDRF Rescues 26,000 People in Flood-hit North India - IBNLive" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/video/news/ndrf-rescues-26000-people-in-flood-hit-north-india/vi-BBvY42D" >
+
+NDRF rescues 26,000 people in flood-hit North India    </a>
+
+</li>
+ <li >
+     <a href="/en-in/video/watch/urjit-patel-the-chosen-one/vi-BBvX1Eg" >
+
+Urjit Patel: The chosen one    </a>
+
+</li>
+ <li >
+     <a href="/en-in/video/sport/look-who-challenged-pv-sindhu-to-a-game-of-badminton/vi-BBvWAWG" >
+
+Look who challenged Sindhu to a game of badminton    </a>
+
+</li>
+ <li >
+     <a href="/en-in/video/entertainment/daniel-radcliffe-open-to-returning-to-harry-potter-franchise/vi-BBvWCv1" >
+
+Daniel Radcliffe open to returning to Harry Potter franchise    </a>
+
+</li>
+ <li >
+     <a href="/en-in/video/living/babies-cry-in-the-same-language-as-their-mother/vi-BBvXERC" >
+
+Babies cry in the same language as their mother    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-in/money" >Money</a></h2>    <a href="/en-in/money/topstories/why-gold-soared-over-20percent-in-2016-so-far/ar-BBvYFZh?li=AAgfW3S" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBvZddp.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="gold" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/money/topstories/why-gold-soared-over-20percent-in-2016-so-far/ar-BBvYFZh?li=AAgfW3S" >
+
+Why gold soared over 20% in 2016 so far    </a>
+
+</li>
+ <li >
+     <a href="/en-in/money/markets/this-stock-hit-lower-circuit-for-3rd-day-in-a-row-down-42percent/ar-BBvYL23?li=AAgfW3S" >
+
+This stock hit lower circuit for 3rd day in a row    </a>
+
+</li>
+ <li >
+     <a href="/en-in/money/economy/india-the-7th-wealthiest-country-in-the-world/ar-BBvWtQc?li=AAgfW3S" >
+
+India the 7th wealthiest country?    </a>
+
+</li>
+ <li >
+     <a href="/en-in/money/topstories/snapdeal-lines-up-a-rs-200-crore-marketing-campaign-for-diwali/ar-BBvWZ2W?li=AAgfW3S" >
+
+Snapdeal lines up a Rs 200 cr Diwali marketing campaign    </a>
+
+</li>
+ <li >
+     <a href="/en-in/money/topstories/vijay-mallyas-rs-6027-cr-bank-loan-fraud-ed-registers-fresh-money-laundering-case/ar-BBvYFji?li=AAgfW3S" >
+
+Mallya&#39;s bank loan fraud: ED registers fresh case    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-in/lifestyle" >Lifestyle</a></h2>    <a href="/en-in/lifestyle/fashionweek/lakme-fashion-week-winter-festive-2016-tarun-tahiliani/ar-BBvYDbq?li=AAgg3KH" >
+<img alt="Kangana" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBvYSbF.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f&amp;x=1075&amp;y=1072" title="Kangana, the showstopper - Varinder Chawla" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/lifestyle/fashionweek/lakme-fashion-week-winter-festive-2016-tarun-tahiliani/ar-BBvYDbq?li=AAgg3KH" >
+
+LFW Winter/Festive 2016 - Kangana turns the rustic muse    </a>
+
+</li>
+ <li >
+     <a href="/en-in/lifestyle/horoscope/the-5-friendships-you-need-to-end-before-jupiter-leaves-virgo/ar-BBvYCPR?li=AAgg3KH" >
+
+5 friendships you need to end before Jupiter leaves Virgo    </a>
+
+</li>
+ <li >
+     <a href="/en-in/lifestyle/videos/get-dirty-to-look-beautiful-3-diy-recipes/vi-BBvVybO" >
+
+Get dirty to look beautiful: 3 DIY recipes    </a>
+
+</li>
+ <li >
+     <a href="/en-in/lifestyle/family/this-high-school-principals-strict-rule-for-parents-is-going-viral/ar-BBvWOo5?li=AAgg3KH" >
+
+A school rule that&#39;s going viral    </a>
+
+</li>
+ <li >
+     <a href="/en-in/lifestyle/smart-living/the-18-best-things-you-can-do-for-a-stress-free-productive-start-to-your-workday/ss-BBvW322?li=AAgg3KH" >
+
+Do these things for a stress-free, productive workday    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="http://www.msn.com/en-in/lifestyle/horoscope" >Daily Horoscope</a></h2>    <a href="http://www.msn.com/en-in/lifestyle/horoscope/cancer-your-daily-horoscope-22-september/ar-AAdEMwq?li=AAcF0KZ" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBuZ4Zt.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="REX Images" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="http://www.msn.com/en-in/lifestyle/horoscope/cancer-your-daily-horoscope-22-september/ar-AAdEMwq?li=AAcF0KZ" >
+
+Cancer : June 21-July 22    </a>
+
+</li>
+ <li >
+     <a href="http://www.msn.com/en-in/lifestyle/horoscope/leo-your-daily-horoscope-22-september/ar-AAdEZiA?li=AAcENS9" >
+
+Leo : July 23-Aug 22    </a>
+
+</li>
+ <li >
+     <a href="http://www.msn.com/en-in/lifestyle/horoscope/virgo-your-daily-horoscope-22-september/ar-AAdFck6?li=AAcEIGR" >
+
+Virgo : Aug 23-Sept 22    </a>
+
+</li>
+ <li >
+     <a href="http://www.msn.com/en-in/lifestyle/horoscope/libra-your-daily-horoscope-september-23/ar-AAdF9Mr?li=AAcEDAA" >
+
+Libra : Sept 23-Oct 22    </a>
+
+</li>
+ <li >
+     <a href="http://www.msn.com/en-in/lifestyle/horoscope/scorpio-your-daily-horoscope-september-23/ar-AAdEWLn?li=AAcF3yg" >
+
+Scorpio : Oct 23-Nov 21    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-in/health" >Health</a></h2>    <a href="/en-in/health/nutrition/25-foods-that-are-great-for-your-skin/ss-BBvVViU?li=AAgg4jn" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBmp4hD.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Walnut - Maksym Narodenko/Getty Images" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/health/nutrition/25-foods-that-are-great-for-your-skin/ss-BBvVViU?li=AAgg4jn" >
+
+Want healthy &amp; glowing skin? Eat these foods    </a>
+
+</li>
+ <li >
+     <a href="/en-in/health/fitness/should-i-exercise-on-an-empty-stomach-we-asked-the-experts/ar-BBvVVD7?li=AAgg4jn" >
+
+Should you exercise on an empty stomach?    </a>
+
+</li>
+ <li >
+     <a href="/en-in/health/wellness/11-health-facts-you-may-believe-but-arent-true/vi-BBvUfIg" >
+
+11 health &#39;facts&#39; that aren&#39;t true    </a>
+
+</li>
+ <li >
+     <a href="/en-in/health/medical/headache-cures-11-surprising-tips-to-get-rid-of-a-headache/ar-BBvW0Do?li=AAgg4jn" >
+
+Surprising tips to get rid of a headache    </a>
+
+</li>
+ <li >
+     <a href="/en-in/health/nutrition/30-top-diet-plans-that-are-actually-worth-trying/ss-BBrPegz?li=AAgg4jn" >
+
+Check out these diet plans that actually work!    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-in/foodanddrink" >Food</a></h2>    <a href="/en-in/foodanddrink/foodnews/heres-a-vegetarian-foodies-ultimate-guide-to-best-street-food-places-in-chandni-chowk/ss-BBvsV9M?li=AAgg9gJ" >
+<img alt="It’s hard to resist the whiff of hot oil and the aroma of sputtering spices. Stu..." height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBvsSEa.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="It’s hard to resist the whiff of hot oil and the aroma of sputtering spices. Stu... - itswhereiscribble.files.wordpress.com" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/foodanddrink/foodnews/heres-a-vegetarian-foodies-ultimate-guide-to-best-street-food-places-in-chandni-chowk/ss-BBvsV9M?li=AAgg9gJ" >
+
+Best vegetarian delights to gorge on in New Delhi    </a>
+
+</li>
+ <li >
+     <a href="/en-in/foodanddrink/videos/khasta-kachori-recipe-moong-dal-khasta-kachori-the-bombay-chef-varun-inamdar/vi-BBvU60E" >
+
+Learn to make Khasta Kachori    </a>
+
+</li>
+ <li >
+     <a href="/en-in/foodanddrink/foodnews/21-snacks-that-explain-our-delicious-world/ar-BBvU6KX?li=AAgg9gJ" >
+
+21 snacks that explain our delicious world    </a>
+
+</li>
+ <li >
+     <a href="/en-in/foodanddrink/recipes/get-a-loud-hurray-when-you-make-these-12-special-vegetarian-recipes-from-a-marwari-kitchen/ar-BBvTBDx?li=AAgg9gJ" >
+
+12 special vegetarian recipes from a Marwari kitchen    </a>
+
+</li>
+ <li >
+     <a href="/en-in/foodanddrink/videos/how-to-make-ghevar-the-bombay-chef-varun-inamdar/vi-BBvLojf" >
+
+How to make Ghevar    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-in/travel" >Travel</a></h2>    <a href="/en-in/travel/news/amazing-tourist-attractions-that-were-discovered-by-accident/ss-BBvWdcL?li=AAgfTxv" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBuEVhq.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Angkor Wat - Tang Chhin Sothy/AFP/Getty Images" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/travel/news/amazing-tourist-attractions-that-were-discovered-by-accident/ss-BBvWdcL?li=AAgfTxv" >
+
+Popular tourist destinations that were discovered by accident    </a>
+
+</li>
+ <li >
+     <a href="/en-in/travel/beaches/unusual-beaches-around-india-and-the-world/ss-AAfFMCT?li=AAgfTxv" >
+
+Unusual beaches around India &amp; the world    </a>
+
+</li>
+ <li >
+     <a href="/en-in/travel/airtravel/the-worst-airline-for-delays-%e2%80%93-and-what-youre-owed-if-your-trip-is-affected/ar-BBvWaPf?li=AAgfTxv" >
+
+These are the worst &amp; best airlines for delays    </a>
+
+</li>
+ <li >
+     <a href="/en-in/travel/video/avoid-online-hotel-booking-scams-with-these-tips/vi-BBvYUil" >
+
+Avoid online hotel booking scams with these tips    </a>
+
+</li>
+ <li >
+     <a href="/en-in/travel/airtravel/11-tips-and-tricks-for-sleeping-on-planes/ar-BBvW0tq?li=AAgfTxv" >
+
+Clever tips &amp; tricks for sleeping on planes    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="/en-in/autos" >Autos</a></h2>    <a href="/en-in/autos/autosphotos/the-most-expensive-convertibles-available-in-india/ss-AAhC1Xs?li=AAgg6KI" >
+<img alt="" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/AAhBZw9.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Most expensive convertibles in India - MotorTrend India" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="/en-in/autos/autosphotos/the-most-expensive-convertibles-available-in-india/ss-AAhC1Xs?li=AAgg6KI" >
+
+The most desirable topless beauties on Indian roads!    </a>
+
+</li>
+ <li >
+     <a href="/en-in/autos/other/comparison-maruti-suzuki-celerio-diesel-vs-tata-tiago-diesel/vi-BBvXDJB" >
+
+Comparison: Maruti Suzuki Celerio Diesel Vs Tata Tiago Diesel    </a>
+
+</li>
+ <li >
+     <a href="/en-in/autos/other/renault-kwid-10-litre-all-you-need-to-know/ar-BBvTTjL?li=AAgg6KI" >
+
+Renault Kwid 1.0-litre: All you need to know    </a>
+
+</li>
+ <li >
+     <a href="/en-in/autos/news/renault-launches-kwid-10-litre-priced-up-to-rs-395-lakh/ar-BBvTQKI?li=AAgg6KI" >
+
+Renault launches Kwid 1.0 at Rs 3.95 lakh    </a>
+
+</li>
+ <li >
+     <a href="/en-in/autos/enthusiasts/handle-with-car-the-25-greatest-cars-for-corners/ss-BBvQShc?li=AAgg6KI" >
+
+Revealed: The cars that corner the best    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2>Most Popular</h2>    <a href="http://www.msn.com/en-in/health/fitness/get-in-the-best-shape-of-your-life-with-this-30-day-fitness-challenge/ss-BBsym4O" >
+<img alt="&lt;p>&lt;strong>6 MINUTES, 30 SECONDS&lt;/strong>&lt;/p>&lt;br>&lt;p>50 JUMPING JACKS&lt;/p>&lt;p>10 SQ..." height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBsnswW.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="6 MINUTES, 30 SECONDS50 JUMPING JACKS10 SQUATS40-SECOND PLANK10 PUSH-UPS10 BENT-... - Getty" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="http://www.msn.com/en-in/health/fitness/get-in-the-best-shape-of-your-life-with-this-30-day-fitness-challenge/ss-BBsym4O" >
+
+Get in the best shape of your life with this 30 day fitness challenge    </a>
+
+</li>
+ <li >
+     <a href="http://www.msn.com/en-in/entertainment/news/rio-2016-olympics-these-amul-ads-are-%e2%80%98utterly-butterly-delicious%e2%80%99/ar-BBvTXNn" >
+
+These Amul Olympics ads are ‘utterly butterly delicious’    </a>
+
+</li>
+ <li >
+     <a href="https://www.msn.com/en-in/autos/news/can-you-guess-the-car-logo/ar-BBo0Icp" >
+
+Can you guess the car logo?    </a>
+
+</li>
+ <li >
+     <a href="http://www.msn.com/en-in/money/photos/how-jennifer-aniston-makes-and-spends-her-millions/ss-BBv0M1W" >
+
+How Jennifer Aniston makes and spends her millions    </a>
+
+</li>
+ </ul>
+
+</div>
+ <div class="stripe">
+<h2><a href="http://www.amazon.in/b/ref=as_li_ss_tl?_encoding=UTF8&camp=3626&creative=24822&linkCode=ur2&node=5449926031&pf_rd_i=2785596031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_p=570739207&pf_rd_r=1RJKNN0116SAKZ6AFBEH&pf_rd_s=merchandised-search-leftnav&pf_rd_t=101&tag=msn-enin-prime-hp-ss-21" >Microsoft Store</a></h2>    <a href="https://www.amazon.in/Micromax-LT666W-10-1-inch-Touchscreen-Integrated/dp/B01689FD2Q/ref=as_li_ss_tl?ie=UTF8&amp;m=A14UQ4H17XUX90&amp;ref_=aag_m_pw_dp&amp;tag=msn-enin-prime-hp-ss-21"                                                  target="_blank"
+ data-pg="TSTPRNUS32" data-pid="7HD66FC">
+<img alt="Buy Micromax Canvas Laptab LT666 Now" height="194" src="//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBvLwip.img?h=194&amp;w=300&amp;m=6&amp;q=60&amp;u=t&amp;o=t&amp;l=f" title="Micromax Canvas Laptab LT666" width="300" />
+    </a>
+ <ul>
+ <li  class="first">
+     <a href="https://www.amazon.in/Micromax-LT666W-10-1-inch-Touchscreen-Integrated/dp/B01689FD2Q/ref=as_li_ss_tl?ie=UTF8&amp;m=A14UQ4H17XUX90&amp;ref_=aag_m_pw_dp&amp;tag=msn-enin-prime-hp-ss-21"                                                  target="_blank"
+ data-pg="TSTPRNUS32" data-pid="7HD66FC">
+
+                <span  class="nativead">Sponsored: </span>
+₹5,000 Off on Micromax Canvas Laptab                <img  class="nativead"
+                      />
+    </a>
+
+</li>
+ <li >
+     <a href="http://clk.tradedoubler.com/click?p=239935&amp;a=2811266&amp;epi=PRIME_ENIN_HP_STORES&amp;url=https://www.microsoftstore.com/store/msin/en_GB/pdp/Office-365-Personal/productID.298279100"                                                  target="_blank"
+ data-pg="TSTPRNUS32" data-pid="7HD66FC">
+
+                <span  class="nativead">Sponsored: </span>
+Office 365 Personal Subscription for ₹330 per month                <img  class="nativead"
+                      />
+    </a>
+
+</li>
+ <li >
+     <a href="https://www.amazon.in/Microsoft-Lumia-640-XL-Orange/dp/B00VG0IXDE/ref=as_li_ss_tl?ie=UTF8&amp;keywords=lumia&amp;qid=1471020897&amp;ref_=as_li_ss_tl&amp;s=electronics&amp;sr=1-7&amp;linkCode=ll1&amp;tag=msn-enin-prime-hp-ss-21&amp;linkId=b4c504229bac529a0ab717691dcd9b3e"                                                  target="_blank"
+ data-pg="TSTPRNUS32" data-pid="7HD66FC">
+
+                <span  class="nativead">Sponsored: </span>
+₹6,800 Off on Microsoft Lumia 640 XL                <img  class="nativead"
+                      />
+    </a>
+
+</li>
+ <li >
+     <a href="https://www.amazon.in/Xbox-Console-Kinect-Free-Game/dp/B00OLYWJBY/ref=as_li_ss_tl?ie=UTF8&amp;keywords=xbox%20one&amp;qid=1470983194&amp;ref_=as_li_ss_tl&amp;ref_=sr_1_2&amp;s=videogames&amp;sr=1-2&amp;linkCode=ll1&amp;tag=msn-enin-prime-hp-ss-21&amp;linkId=7d7d20fe84aabe4dfc8b58ef53747f23"                                                  target="_blank"
+ data-pg="TSTPRNUS32" data-pid="7HD66FC">
+
+                <span  class="nativead">Sponsored: </span>
+Get 3 Free Game Titles &amp; ₹10,000 Off on Xbox One with Kinect                <img  class="nativead"
+                      />
+    </a>
+
+</li>
+ </ul>
+
+</div>
+
+ 
+</div>
+<div id="aside"  data-region="aside">
+ 
+</div>
+<div id="nav">
+ <ul class="verticalsnav">
+ <li  class="current">
+<a href="/en-in">Home</a>
+</li>
+ <li >
+<a href="/en-in/news">News</a>
+</li>
+ <li >
+<a href="/en-in/weather">Weather</a>
+</li>
+ <li >
+<a href="/en-in/entertainment">Entertainment</a>
+</li>
+ <li >
+<a href="/en-in/sports">Sports</a>
+</li>
+ <li >
+<a href="/en-in/money">Money</a>
+</li>
+ <li >
+<a href="/en-in/lifestyle">Lifestyle</a>
+</li>
+ <li >
+<a href="/en-in/health">Health</a>
+</li>
+ <li >
+<a href="/en-in/foodanddrink">Food</a>
+</li>
+ <li >
+<a href="/en-in/travel">Travel</a>
+</li>
+ <li >
+<a href="/en-in/autos">Autos</a>
+</li>
+ <li >
+<a href="/en-in/video">Video</a>
+</li>
+ </ul>
+</div>
+ </div>
+<div id="foot">
+<div> <a href="https://www.microsoft.com/en/in/">&#169; 2016 Microsoft</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=74170">Privacy</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=246338">Terms of use</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkID=286759">About our Ads</a>
+ <a href="https://jfe.qualtrics.com/form/SV_d4ir2X6Zkgjw0rb">Feedback</a>
+ <a href="https://go.microsoft.com/fwlink/?LinkId=512703">Help</a>
+ <a href="/en-in/msn-worldwide">MSN Worldwide</a>
+ <a href="https://www.bing.com/explore/newsletter?mkt=en-in&amp;FORM=MF12BH&amp;OCID=MF12BH&amp;wt.mc_id=MF12BH">Newsletter</a>
+ <a href="https://advertising.microsoft.com/en">Advertise</a>
+</div>
+</div>
+  <div>
+ <img src="//c.msn.com/c.gif?udc=true&amp;rid=9c237f64a10c4974b8ac78a5386f7d79&amp;rnd=636076340632417356&amp;rf=&amp;tp=http%253A%252F%252Fwww.msn.com%252Fen-in%252F&amp;di=9&amp;lng=en-in&amp;cv.product=prime&amp;pn=startpage&amp;activityId=9c237f64a10c4974b8ac78a5386f7d79&amp;d.dgk=downlevel.pc&amp;d.imd=0" alt="image beacon" width="1" height="1" /><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3000001&amp;rn=636076340632417356&amp;c7=http%253A%252F%252Fwww.msn.com%252Fen-in%252F&amp;c8=&amp;c9=" alt="image beacon" width="1" height="1" /><img src="//otf.msn.com/c.gif?js=0&amp;evt=impr&amp;di=9&amp;pi=&amp;ps=&amp;su=http%253A%252F%252Fwww.msn.com%252Fen-in%252F&amp;pageid=startpage&amp;mkt=en-in&amp;pn=startpage&amp;mv=15&amp;pp=False&amp;cv.product=prime&amp;cv.partner=&amp;cv.publcat=&amp;st.dpt=&amp;st.sdpt=&amp;dv.Title1=&amp;cts=636076340632417356&amp;rf=&amp;rid=9c237f64a10c4974b8ac78a5386f7d79&amp;cvs=Browser&amp;subcvs=homepage&amp;cv.entityId=&amp;cv.entitySrc=&amp;provid=&amp;ar=0&amp;d.dgk=downlevel.pc&amp;d.imd=0&amp;cv.parentId=&amp;isCorePV=&amp;pgIdx=&amp;pgTot=&amp;activityId=9c237f64a10c4974b8ac78a5386f7d79" alt="image beacon" width="1" height="1" />
+</div>
+
+ 
+ 
+ 
+</body>
+ <!--MSNAvailToken--></html>

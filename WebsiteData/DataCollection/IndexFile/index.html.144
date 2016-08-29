@@ -1,0 +1,939 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FileHippo.com - Download Free Software</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="description" content="Looking to download safe free versions of the latest software, freeware, shareware and demo programs from a reputable download site? Visit FileHippo today." />
+        <meta name="keywords" content="download software freeware shareware program filehippo file hippo" /> 
+		
+        <link rel="canonical" href="http://filehippo.com/" />
+
+        <link rel="stylesheet" type="text/css" href="http://cache.filehippo.com/style/v3/common.min.css" />
+        <link rel="stylesheet" type="text/css" href="http://cache.filehippo.com/style/v3/full.min.css" />
+        <link rel="alternate" type="application/rss+xml" title="FileHippo.com RSS" href="http://feeds2.feedburner.com/filehippo" />
+
+        <link rel="alternate" href="http://filehippo.com/en/" hreflang="en"/>
+
+        <link rel="alternate" href="http://filehippo.com/es/" hreflang="es"/>
+
+        <link rel="alternate" href="http://filehippo.com/jp/" hreflang="ja"/>
+
+        <link rel="alternate" href="http://filehippo.com/pl/" hreflang="pl"/>
+
+        <link rel="alternate" href="http://filehippo.com/de/" hreflang="de"/>
+
+        <link rel="alternate" href="http://filehippo.com/fr/" hreflang="fr"/>
+
+        <link rel="alternate" href="http://filehippo.com/it/" hreflang="it"/>
+
+        <link rel="alternate" href="http://filehippo.com/zh/" hreflang="zh"/>
+
+        <link rel="alternate" href="http://filehippo.com/" hreflang="x-default"/>
+
+        <link rel="search" type="application/opensearchdescription+xml" href="http://cache.filehippo.com/inc/opensearch.xml" title="FileHippo.com" />
+        <link rel="icon" href="http://cache.filehippo.com/favicon-new.ico" type="image/x-icon" />
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="http://cache.filehippo.com/inc/px.js?ch=1"></script>
+        <script type="text/javascript" src="http://cache.filehippo.com/inc/px.js?ch=2"></script>
+        <script type="text/javascript" src="http://cache.filehippo.com/inc/autocomplete.js?v2"></script>   
+        		       
+		
+				       
+        
+<script type='text/javascript'>
+/* MM: header biddr */ 
+(function() {
+var m2El = document.createElement("script"); m2El.type = "text/javascript";
+m2El.async = true; var isHttps = 'https:' === document.location.protocol;
+m2El.src = (isHttps ? "https://" : "http://") + 'd3f4u3khr0ycep.cloudfront.net/M2HB.filehippo.desktop.homepage.min.js';
+var m2TargetEl = document.getElementsByTagName("head")[0];
+m2TargetEl.insertBefore(m2El, m2TargetEl.firstChild);
+})();
+/*
+Start Google tag variables and M2HB vars
+*/
+window.googletag = window.googletag || {};
+window.googletag.cmd = window.googletag.cmd || [];
+if (!m2hb) { var m2hb = {}; m2hb.que = []; }
+var M2_TIMEOUT = 900;
+/*
+You need to wrap the gpt load on a timeout to wait for the bids to be received
+you can control the time to wait by changing the M2_TIMEOUT var it is in milliseconds,
+If no bids are received gpt will load properly
+*/
+function initAdserver() {
+if (m2hb.initAdserverSet) return;
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+m2hb.initAdserverSet = true;
+};
+setTimeout(initAdserver, M2_TIMEOUT);
+</script>
+
+
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+
+        
+            if (!abp || (abp && !false)) {
+                
+                googletag.defineOutOfPageSlot('/1001908/Homepage_1x1', 'div-gpt-ad-1384762460430-7e0f7feb08dc4fe6ad7bd8b6dda73984').addService(googletag.pubads());
+                
+            }
+            else {
+                console.log('Ad suppressed, abp on && ad.SuppressIfAdBlockDetected true:' + 'Homepage_1x1');
+            }
+            
+            if (!abp || (abp && !false)) {
+                 googletag.defineSlot('/1001908/Homepage_leaderboard_Top', [728,90], 'div-gpt-ad-1384762460430-754ec254693f4f3e8001e0f22f781c6e').addService(googletag.pubads());
+                
+            }
+            else {
+                console.log('Ad suppressed, abp on && ad.SuppressIfAdBlockDetected true:' + 'Homepage_leaderboard_Top');
+            }
+            
+            if (!abp || (abp && !false)) {
+                 googletag.defineSlot('/1001908/Homepage_MPU_Top', [300,250], 'div-gpt-ad-1384762460430-6716cab0c8334ee884b50b502d95aaf5').addService(googletag.pubads());
+                
+            }
+            else {
+                console.log('Ad suppressed, abp on && ad.SuppressIfAdBlockDetected true:' + 'Homepage_MPU_Top');
+            }
+            
+            if (!abp || (abp && !false)) {
+                 googletag.defineSlot('/1001908/Homepage_MPU_Bottom', [[300,250],[300,600]], 'div-gpt-ad-1384762460430-a3490d7a88f543f09e80dcedf42ce209').addService(googletag.pubads());
+                
+            }
+            else {
+                console.log('Ad suppressed, abp on && ad.SuppressIfAdBlockDetected true:' + 'Homepage_MPU_Bottom');
+            }
+            
+            if (abp) googletag.pubads().setTargeting("adblocker", "true");
+            
+            /* MM: Sets the targeting with the bids received in order to compete inside DFP with your Line Items */
+            m2hb.que.push(function() {
+                m2hb.setTargetingForGPTAsync();
+            });
+            
+
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+</script>
+
+
+        
+
+        <script type="text/javascript">            
+            ajaxURL = '/ajax/autocomplete.aspx';
+            dataLayer = [{ 'countryCode': 'IN', 'countryName': 'IN', 'pageInfo': { 'type': 'home', 'variant': 'B', 'keywords': 'free software,software downloads,latest software,freeware,shareware,buy software,download software,popular software', 'category': '', 'subCategory': '', 'platform': 'Windows', 'program': '' }, 'isMobile': 'False'}];
+        </script>  
+        <script type="text/javascript">
+        	window.cookieconsent_options = { "message": "Cookies help us to deliver our services. By using our services you agree to our use of cookies.", "dismiss": "Okay", "learnMore": "More info", "link": "/info/cookies/", "theme": "dark-bottom" };
+        </script>
+        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-5815250-1', 'auto');
+        ga('require', 'displayfeatures');
+        ga('send', 'pageview');
+        </script>  
+    </head>
+    <body class="en">
+        <!-- google tag manager code -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFZ45S" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script type="text/javascript">    (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-KFZ45S');</script>
+        <div class="grey-top">
+            
+            <div class="blue-menu">
+                <div class="container header">
+                    <div id="blue-menu">
+                        <div class="logo-holder" style="margin-top:12px">
+                            <a href="/" title="Home">
+                                <img src="http://cache.filehippo.com/img/new/logo-new.png" alt="FileHippo - Software that matters" />
+                            </a>
+                        </div>
+                        <div class="os-options">
+                        <ul id="m-options">
+                            <li><a id="m-windows" href="/">WINDOWS</a></li>
+                            <li class="divider"></li>
+                            <li><a id="m-mac" href="/mac/">MAC</a></li>
+                            <li class="divider"></li>
+                            <li><a id="A1" href="http://filehippo.com/web/web-apps/">WEB APPS</a></li>
+                            <li class="divider"></li>
+                            <li><a id="m-news" href="http://news.filehippo.com/">NEWS</a></li>
+                        </ul>
+                        </div>
+                        <div class="lang-options">
+                            <div class="social-buttons">
+                                <div id="social-facebook">
+                                    <a href="http://www.facebook.com/official.filehippo/"><img src="http://cache.filehippo.com/img/new/facebook-share-button.png" width="28" /></a>
+                                </div>
+                                <div id="social-twitter">
+                                    <a href="http://www.twitter.com/filehippo/"><img src="http://cache.filehippo.com/img/new/twitter-share-button.png" width="28" /></a>
+                                </div>
+                                <div id="social-rss">
+                                    <a href="http://feeds2.feedburner.com/filehippo/"><img src="http://cache.filehippo.com/img/new/rss-share-button.png" width="28" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="main-search-container">
+                            <div class="language-container">
+                                <div id="selected-language">English <span class="disclosure-arrow-down"></span></div>
+                            </div>
+                            <form name="f" action="/search">
+                            <div id="main-search-box">
+                                <input name="q" type="search" id="q" />
+                                <button type="submit" id="m-search-button">
+                                    <img src="http://cache.filehippo.com/img/new/search-button.png" />
+                                </button>
+                            </div>
+                            </form>
+                        </div>
+                    </div>                    
+                </div>
+            </div>
+
+            <!-- language drop down -->
+            <div class="language-select-box">
+                <div class="language-box">
+                    <a href="/en/" class="internal-link" title="English">English</a>
+                </div>
+                <div class="language-box">
+                    <a href="/de/" class="internal-link" title="Deutsch">Deutsch</a>
+                </div>
+                <div class="language-box">
+                    <a href="/es/" class="internal-link" title="Español">Español</a>
+                </div>
+                <div class="language-box">
+                    <a href="/fr/" class="internal-link" title="Français">Français</a>
+                </div>
+                <div class="language-box">
+                    <a href="/it/" class="internal-link" title="Italiano">Italiano</a>
+                </div>
+                <div class="language-box">
+                    <a href="/pl/" class="internal-link" title="Polski">Polski</a>
+                </div>
+                <div class="language-box">
+                    <a href="/jp/" class="internal-link" title="日本語">日本語</a>
+                </div>
+                <div class="language-box">
+                    <a href="/zh/" class="internal-link" title="汉语">汉语</a>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div id="content-wrapper">
+            
+
+
+
+<!-- Homepage_1x1 -->
+<!--DFPAd1 -->
+
+<div id='div-gpt-ad-1384762460430-7e0f7feb08dc4fe6ad7bd8b6dda73984' style='height:0'>
+
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1384762460430-7e0f7feb08dc4fe6ad7bd8b6dda73984'); });
+</script> 
+       
+
+</div>
+
+    <div class="grey-top height-fix">
+        <div class="left-bg"></div>
+        <div class="bg">
+            <div class="container main-splash">
+                <div>
+                    <div class="splash-text">
+                        <div class="splash-content">
+                            <h1>The Latest Versions<br />of the Best Software</h1> 
+                            <ul>
+                                <li>Hand picked software titles - only the best!</li>
+                                <li>Tested for malware, adware and viruses</li>
+                                <li>No added bundles, installers or toolbars</li>
+                            </ul>
+                        </div>
+                    
+                        <div class="software-button"><a href="/browse-software/">BROWSE SOFTWARE</a></div>
+						<div class="software-button latest-button"><a href="/latest/">Latest updates</a></div>
+                    </div>
+                    <div class="splash-image">
+                        <img src="http://cache.filehippo.com/img/new/splash.gif" alt="Download the latest versions of the best software titles" />
+                    </div>
+                </div>
+           </div>
+       </div>
+       <div class="right-bg"></div>
+    </div>
+    <div class="grey-top counter-container">
+        <div class="container main-splash">
+            <div id="splash-counts">
+                <div>
+                    <div class="s-count-items">                        
+                        <div id="downloads-served">3,115,888,226</div>
+                        <div class="splash-count-title">Downloads Served</div>
+                    </div>
+                </div>
+                <div class="v-spacer">&nbsp;</div>
+                <div>
+                    <div class="s-count-items">                        
+                        <div id="latest-updates">4 Minutes Ago</div>
+                        <div class="splash-count-title">Last Update Check</div>
+                    </div>
+                </div>
+                <div class="v-spacer">&nbsp;</div>
+                <div>
+                    <div class="s-count-items">
+                        <div id="windows-programs">25,127</div>
+                        <div class="splash-count-title">Program Versions Listed</div>
+                    </div>
+                </div>
+            </div>         
+        </div>
+    </div>
+
+    <div class="container">
+        <div id="root-content">
+            <div class="home-main-left"> 
+                <div class="left-hand-col">					
+                    <div>
+                        <div class="home-cat-container">
+                            <div id="categories"> 
+                                <h2>Categories</h2>
+                                    <ul id="categories-list">
+                                        
+                                                <li><a  title="Browsers" 
+                                                        href="/software/internet/">
+                                                        Browsers
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Anti-Malware" 
+                                                        href="/software/antimalware/">
+                                                        Anti-Malware
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="System Tuning" 
+                                                        href="/software/system_tuning/">
+                                                        System Tuning
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Photo / Image" 
+                                                        href="/software/photos_images/">
+                                                        Photo / Image
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="File Sharing" 
+                                                        href="/software/p2p/">
+                                                        File Sharing
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Security" 
+                                                        href="/software/security/">
+                                                        Security
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Compression" 
+                                                        href="/software/archiving/">
+                                                        Compression
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Multimedia" 
+                                                        href="/software/multimedia/">
+                                                        Multimedia
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Messaging" 
+                                                        href="/software/messaging/">
+                                                        Messaging
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Office / News" 
+                                                        href="/software/office/">
+                                                        Office / News
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Networking" 
+                                                        href="/software/networking/">
+                                                        Networking
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Desktop" 
+                                                        href="/software/desktop/">
+                                                        Desktop
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="File Transfer" 
+                                                        href="/software/file_transfer/">
+                                                        File Transfer
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Developer" 
+                                                        href="/software/developer/">
+                                                        Developer
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="Drivers" 
+                                                        href="/software/drivers/">
+                                                        Drivers
+                                                    </a>
+                                                </li>   
+                                            
+                                                <li><a  title="CD / DVD" 
+                                                        href="/software/dvd/">
+                                                        CD / DVD
+                                                    </a>
+                                                </li>   
+                                                                                                                                         
+                                    </ul>
+                            </div>
+                            <div class="categories-spacer"></div>
+                            <div class="download-manager">
+							<a href="http://www.filehippo.com/download_app_manager/">
+							<img src="http://cache.filehippo.com/img/new/download-icon.png" alt="Download FileHippo App Manager" /><div class="download-manager-text">Download FileHippo App Manager</div></a>
+							</div>
+                        </div>
+                        <div>
+                            <div id="popular">
+                                <h2><a href="/popular/">Popular</a></h2>
+								<a href="/popular/" class="view-more-link">View more</a>
+								<div class="clearfix-no-padding"></div>
+                                <ul id="popular-list">
+                                    
+                                            <li><a href="http://filehippo.com/download_ccleaner/">
+                                                    <img src="http://cache.filehippo.com/img/ex/6067t__ccleaner_icon.png" alt="Download CCleaner 5.21.5700" />CCleaner 5.21.5700
+                                                </a>
+                                            </li>
+                                        
+                                            <li><a href="http://filehippo.com/download_vlc_64/">
+                                                    <img src="http://cache.filehippo.com/img/ex/6050t__vlc-icon.png" alt="Download VLC Media Player 2.2.4 (64-bit)" />VLC Media Player 2.2.4 (64-bit)
+                                                </a>
+                                            </li>
+                                        
+                                            <li><a href="http://filehippo.com/download_shareit/">
+                                                    <img src="http://cache.filehippo.com/img/ex/6058t__shareit_icon.png" alt="Download SHAREit 3.5.0.1144" />SHAREit 3.5.0.1144
+                                                </a>
+                                            </li>
+                                        
+                                            <li><a href="http://filehippo.com/download_vlc_32/">
+                                                    <img src="http://cache.filehippo.com/img/ex/6049t__vlc-icon.png" alt="Download VLC Media Player 2.2.4 (32-bit)" />VLC Media Player 2.2.4 (32-bit)
+                                                </a>
+                                            </li>
+                                        
+                                            <li><a href="http://filehippo.com/download_advanced_ip_scanner/">
+                                                    <img src="http://cache.filehippo.com/img/ex/6936t__AIPS_icon.png" alt="Download Advanced IP Scanner 2.4.2601 " />Advanced IP Scanner 2.4.2601 
+                                                </a>
+                                            </li>
+                                        
+                                            <li><a href="http://filehippo.com/download_internet_download_manager/">
+                                                    <img src="http://cache.filehippo.com/img/ex/6068t__idm_icon.png" alt="Download Internet Download Manager 6.25 Build 25" />Internet Download Manager 6.25 Build 25
+                                                </a>
+                                            </li>
+                                        
+                                            <li><a href="http://filehippo.com/download_avast_antivirus/">
+                                                    <img src="http://cache.filehippo.com/img/ex/6053t__avast_icon.png" alt="Download Avast! Free Antivirus 12.3.2280" />Avast! Free Antivirus 12.3.2280
+                                                </a>
+                                            </li>
+                                        
+                                            <li><a href="http://filehippo.com/download_recuva/">
+                                                    <img src="http://cache.filehippo.com/img/ex/6052t__recuva-icon.png" alt="Download Recuva 1.53.1087" />Recuva 1.53.1087
+                                                </a>
+                                            </li>
+                                        
+                                            <li><a href="http://filehippo.com/download_utorrent/">
+                                                    <img src="http://cache.filehippo.com/img/ex/6054t__utorrent_logo.png" alt="Download uTorrent 3.4.8 Build 42501" />uTorrent 3.4.8 Build 42501
+                                                </a>
+                                            </li>
+                                        
+                                            <li><a href="http://filehippo.com/download_jre_64/">
+                                                    <img src="http://cache.filehippo.com/img/ex/62t__java.png" alt="Download Java Runtime Environment 8.0 build 101 (64-bit)" />Java Runtime Environment 8.0 build 101 (64-bit)
+                                                </a>
+                                            </li>
+                                        
+                                </ul>
+                            </div>
+                        </div>
+                    </div>                
+                    <div class="middle-column-leaderboard-ad-container">
+					<div class="middle-column-leaderboard-ad">
+
+
+<!-- Homepage_leaderboard_Top -->
+<!--middleLeaderboardAdUnit -->
+
+<div class="ad-unit-label" style="color: #869aab;font-size: 11px;margin-bottom: 2px;">Advertisement</div>
+
+<div id='div-gpt-ad-1384762460430-754ec254693f4f3e8001e0f22f781c6e' style='width:728px; height:90px;'>
+
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1384762460430-754ec254693f4f3e8001e0f22f781c6e'); });
+</script> 
+       
+
+</div>
+</div></div>
+                    <div>
+                        <div>
+                            <div id="soft-news">
+                            <h2><a href="http://news.filehippo.com/">Latest Software News</a></h2>
+							<div class="latest-software-news">
+																
+										<div class="news-data">
+											<div class="news-title"><h3><a href="http://news.filehippo.com/2016/08/will-autonomous-car-software-stop-road-rage/">Will Autonomous Car Software Stop Road Rage?</a></h3></div>
+                                            <a href="http://news.filehippo.com/2016/08/will-autonomous-car-software-stop-road-rage/">
+                                                <div class="news-image-overlay">
+                                                    <img class="news-image" src="http://news.filehippo.com/wp-content/uploads/2016/08/google-self-driving-car_large_verge_medium_landsca-190x110.png" alt="Will Autonomous Car Software Stop Road Rage?" />
+                                                </div>
+                                            </a>
+												
+											<div class="news-counts">
+											    <div class="news-name">
+												    <img src="http://0.gravatar.com/avatar/cc96d9151997a22593226efc458c04fd?s=24&#038;d=mm&#038;r=g" alt="Arianna Gael" />
+                                                    Arianna Gael
+											    </div>
+												<div class="news-dates">
+													<img src="http://cache.filehippo.com/img/new/news-date.png" />17 hours
+												</div>													
+												<div class="news-comments">
+													<img src="http://cache.filehippo.com/img/new/news-comments.png"/>
+                                                    <span class="disqus-comment-count" data-disqus-url="http://news.filehippo.com/2016/08/will-autonomous-car-software-stop-road-rage/">
+                                                        0 Comments
+                                                    </span>
+												</div>
+											</div>
+											<div class="news-excerpt">There are a lot of reasons to applaud the innovations behind autonomous vehicles, or so-called 'self-driving' cars. Visually impaired individuals will theoretically have greater access to daily task independence, like driving to work or to the market. Commercial transit will ideally improve, with long-distance tru<a href="http://news.filehippo.com/2016/08/will-autonomous-car-software-stop-road-rage/">read more</a></div>
+											<div style="clear:both;height:0"></div>
+										</div>									
+																	
+										<div class="news-data">
+											<div class="news-title"><h3><a href="http://news.filehippo.com/2016/08/russian-pizza-hacker-begins-trial-us-court/">Russian ‘ Pizza Hacker’ Begins Trial In US Court</a></h3></div>
+                                            <a href="http://news.filehippo.com/2016/08/russian-pizza-hacker-begins-trial-us-court/">
+                                                <div class="news-image-overlay">
+                                                    <img class="news-image" src="http://news.filehippo.com/wp-content/uploads/2016/08/Seleznev-1-190x110.jpg" alt="Russian ‘ Pizza Hacker’ Begins Trial In US Court" />
+                                                </div>
+                                            </a>
+												
+											<div class="news-counts">
+											    <div class="news-name">
+												    <img src="http://2.gravatar.com/avatar/e12e89229416c35c3f2e72d7ac6f8dc2?s=24&#038;d=mm&#038;r=g" alt="Euan Viveash" />
+                                                    Euan Viveash
+											    </div>
+												<div class="news-dates">
+													<img src="http://cache.filehippo.com/img/new/news-date.png" />1 day
+												</div>													
+												<div class="news-comments">
+													<img src="http://cache.filehippo.com/img/new/news-comments.png"/>
+                                                    <span class="disqus-comment-count" data-disqus-url="http://news.filehippo.com/2016/08/russian-pizza-hacker-begins-trial-us-court/">
+                                                        0 Comments
+                                                    </span>
+												</div>
+											</div>
+											<div class="news-excerpt">The trial of a Russian man accused of orchestrating a hacking scheme that targeted US pizza restaurants began this week in the USA.
+
+Prosecutors allege that Seleznev was the master hacker behind $170 million worth of fraudulent purchases, that mostly took place at targeted pizza restaurants in the USA.
+
+As par<a href="http://news.filehippo.com/2016/08/russian-pizza-hacker-begins-trial-us-court/">read more</a></div>
+											<div style="clear:both;height:0"></div>
+										</div>									
+																	
+										<div class="news-data">
+											<div class="news-title"><h3><a href="http://news.filehippo.com/2016/08/stolen-nsa-files-put-auction-hackers/">Stolen NSA Files Put Up for Auction By Hackers</a></h3></div>
+                                            <a href="http://news.filehippo.com/2016/08/stolen-nsa-files-put-auction-hackers/">
+                                                <div class="news-image-overlay">
+                                                    <img class="news-image" src="http://news.filehippo.com/wp-content/uploads/2016/08/system-failure-matrix-code-wallpaper-190x110.jpg" alt="Stolen NSA Files Put Up for Auction By Hackers" />
+                                                </div>
+                                            </a>
+												
+											<div class="news-counts">
+											    <div class="news-name">
+												    <img src="http://2.gravatar.com/avatar/e12e89229416c35c3f2e72d7ac6f8dc2?s=24&#038;d=mm&#038;r=g" alt="Euan Viveash" />
+                                                    Euan Viveash
+											    </div>
+												<div class="news-dates">
+													<img src="http://cache.filehippo.com/img/new/news-date.png" />2 days
+												</div>													
+												<div class="news-comments">
+													<img src="http://cache.filehippo.com/img/new/news-comments.png"/>
+                                                    <span class="disqus-comment-count" data-disqus-url="http://news.filehippo.com/2016/08/stolen-nsa-files-put-auction-hackers/">
+                                                        0 Comments
+                                                    </span>
+												</div>
+											</div>
+											<div class="news-excerpt">A hacker collective known as the Shadow Brokers are holding a Bitcoin auction to ransom off a collection of malware files stolen from the US National Security Agency.
+
+The hackers say they will give the malicious files to the highest bidder, whoever they may be.
+According to experts, the samples released, so po<a href="http://news.filehippo.com/2016/08/stolen-nsa-files-put-auction-hackers/">read more</a></div>
+											<div style="clear:both;height:0"></div>
+										</div>									
+																	
+										<div class="news-data">
+											<div class="news-title"><h3><a href="http://news.filehippo.com/2016/08/apple-adds-new-privacy-to-ios-thanks-to-microsoft/">Apple Adds New Privacy To iOS...Thanks To Microsoft</a></h3></div>
+                                            <a href="http://news.filehippo.com/2016/08/apple-adds-new-privacy-to-ios-thanks-to-microsoft/">
+                                                <div class="news-image-overlay">
+                                                    <img class="news-image" src="http://news.filehippo.com/wp-content/uploads/2016/08/apple-privacy-1-190x110.png" alt="Apple Adds New Privacy To iOS...Thanks To Microsoft" />
+                                                </div>
+                                            </a>
+												
+											<div class="news-counts">
+											    <div class="news-name">
+												    <img src="http://0.gravatar.com/avatar/cc96d9151997a22593226efc458c04fd?s=24&#038;d=mm&#038;r=g" alt="Arianna Gael" />
+                                                    Arianna Gael
+											    </div>
+												<div class="news-dates">
+													<img src="http://cache.filehippo.com/img/new/news-date.png" />2 days
+												</div>													
+												<div class="news-comments">
+													<img src="http://cache.filehippo.com/img/new/news-comments.png"/>
+                                                    <span class="disqus-comment-count" data-disqus-url="http://news.filehippo.com/2016/08/apple-adds-new-privacy-to-ios-thanks-to-microsoft/">
+                                                        0 Comments
+                                                    </span>
+												</div>
+											</div>
+											<div class="news-excerpt">In the current technology climate, privacy is every bit a commodity as the latest consumer gadget. With more and more everyday tech users understanding the ramifications of turning over control of their information to a corporation or the government, there's big money to be made in guaranteeing that no one is look<a href="http://news.filehippo.com/2016/08/apple-adds-new-privacy-to-ios-thanks-to-microsoft/">read more</a></div>
+											<div style="clear:both;height:0"></div>
+										</div>									
+																	
+										<div class="news-data">
+											<div class="news-title"><h3><a href="http://news.filehippo.com/2016/08/china-launches-unhackable-quantum-satellite/">China Launches Unhackable Quantum Satellite</a></h3></div>
+                                            <a href="http://news.filehippo.com/2016/08/china-launches-unhackable-quantum-satellite/">
+                                                <div class="news-image-overlay">
+                                                    <img class="news-image" src="http://news.filehippo.com/wp-content/uploads/2016/08/quantum-1-190x110.jpg" alt="China Launches Unhackable Quantum Satellite" />
+                                                </div>
+                                            </a>
+												
+											<div class="news-counts">
+											    <div class="news-name">
+												    <img src="http://2.gravatar.com/avatar/e12e89229416c35c3f2e72d7ac6f8dc2?s=24&#038;d=mm&#038;r=g" alt="Euan Viveash" />
+                                                    Euan Viveash
+											    </div>
+												<div class="news-dates">
+													<img src="http://cache.filehippo.com/img/new/news-date.png" />3 days
+												</div>													
+												<div class="news-comments">
+													<img src="http://cache.filehippo.com/img/new/news-comments.png"/>
+                                                    <span class="disqus-comment-count" data-disqus-url="http://news.filehippo.com/2016/08/china-launches-unhackable-quantum-satellite/">
+                                                        0 Comments
+                                                    </span>
+												</div>
+											</div>
+											<div class="news-excerpt">In a remote section of the Gobi Desert, China launched the world's first quantum satellite early on Tuesday morning, and in doing so may have just made the future hacking of communication networks almost impossible.
+Chinese state media reported the official launch as technological breakthrough seeking to harness <a href="http://news.filehippo.com/2016/08/china-launches-unhackable-quantum-satellite/">read more</a></div>
+											<div style="clear:both;height:0"></div>
+										</div>									
+																	
+										<div class="news-data">
+											<div class="news-title"><h3><a href="http://news.filehippo.com/2016/08/picasa-fans-urged-switch-google-photos/">Picasa Fans Urged To Switch To Google Photos</a></h3></div>
+                                            <a href="http://news.filehippo.com/2016/08/picasa-fans-urged-switch-google-photos/">
+                                                <div class="news-image-overlay">
+                                                    <img class="news-image" src="http://news.filehippo.com/wp-content/uploads/2016/08/picasa-1-190x110.jpg" alt="Picasa Fans Urged To Switch To Google Photos" />
+                                                </div>
+                                            </a>
+												
+											<div class="news-counts">
+											    <div class="news-name">
+												    <img src="http://0.gravatar.com/avatar/cc96d9151997a22593226efc458c04fd?s=24&#038;d=mm&#038;r=g" alt="Arianna Gael" />
+                                                    Arianna Gael
+											    </div>
+												<div class="news-dates">
+													<img src="http://cache.filehippo.com/img/new/news-date.png" />3 days
+												</div>													
+												<div class="news-comments">
+													<img src="http://cache.filehippo.com/img/new/news-comments.png"/>
+                                                    <span class="disqus-comment-count" data-disqus-url="http://news.filehippo.com/2016/08/picasa-fans-urged-switch-google-photos/">
+                                                        0 Comments
+                                                    </span>
+												</div>
+											</div>
+											<div class="news-excerpt">Digital cameras have been widely available in the consumer space for well over a decade, and have only gotten more inexpensive and more accessible as time has passed. With the advent of better quality camera phones, practically everyone carries a camera within reach at all times. The problematic end result for use<a href="http://news.filehippo.com/2016/08/picasa-fans-urged-switch-google-photos/">read more</a></div>
+											<div style="clear:both;height:0"></div>
+										</div>									
+																	
+										<div class="news-data">
+											<div class="news-title"><h3><a href="http://news.filehippo.com/2016/08/irs-warns-of-new-tax-related-phishing-scam/">IRS Warns Of New Tax-Related Phishing Scam</a></h3></div>
+                                            <a href="http://news.filehippo.com/2016/08/irs-warns-of-new-tax-related-phishing-scam/">
+                                                <div class="news-image-overlay">
+                                                    <img class="news-image" src="http://news.filehippo.com/wp-content/uploads/2016/08/1127935-190x110.jpg" alt="IRS Warns Of New Tax-Related Phishing Scam" />
+                                                </div>
+                                            </a>
+												
+											<div class="news-counts">
+											    <div class="news-name">
+												    <img src="http://0.gravatar.com/avatar/cc96d9151997a22593226efc458c04fd?s=24&#038;d=mm&#038;r=g" alt="Arianna Gael" />
+                                                    Arianna Gael
+											    </div>
+												<div class="news-dates">
+													<img src="http://cache.filehippo.com/img/new/news-date.png" />6 days
+												</div>													
+												<div class="news-comments">
+													<img src="http://cache.filehippo.com/img/new/news-comments.png"/>
+                                                    <span class="disqus-comment-count" data-disqus-url="http://news.filehippo.com/2016/08/irs-warns-of-new-tax-related-phishing-scam/">
+                                                        0 Comments
+                                                    </span>
+												</div>
+											</div>
+											<div class="news-excerpt">In the world of data breaches, phishing scams are some of the easiest to pull off, requiring very little tech know-how, at least compared to something like a retail or hospital data breach. As the name implies, the scammer simply casts the net by sending out mass emails, entices the would-be victim to click a link<a href="http://news.filehippo.com/2016/08/irs-warns-of-new-tax-related-phishing-scam/">read more</a></div>
+											<div style="clear:both;height:0"></div>
+										</div>									
+																	
+										<div class="news-data">
+											<div class="news-title"><h3><a href="http://news.filehippo.com/2016/08/cloud-software-will-make-25-sold-software-2020/">Cloud Software Will Make Up 25% Of All Sold Software By 2020</a></h3></div>
+                                            <a href="http://news.filehippo.com/2016/08/cloud-software-will-make-25-sold-software-2020/">
+                                                <div class="news-image-overlay">
+                                                    <img class="news-image" src="http://news.filehippo.com/wp-content/uploads/2016/08/CloudComputing_2-190x110.png" alt="Cloud Software Will Make Up 25% Of All Sold Software By 2020" />
+                                                </div>
+                                            </a>
+												
+											<div class="news-counts">
+											    <div class="news-name">
+												    <img src="http://2.gravatar.com/avatar/e12e89229416c35c3f2e72d7ac6f8dc2?s=24&#038;d=mm&#038;r=g" alt="Euan Viveash" />
+                                                    Euan Viveash
+											    </div>
+												<div class="news-dates">
+													<img src="http://cache.filehippo.com/img/new/news-date.png" />6 days
+												</div>													
+												<div class="news-comments">
+													<img src="http://cache.filehippo.com/img/new/news-comments.png"/>
+                                                    <span class="disqus-comment-count" data-disqus-url="http://news.filehippo.com/2016/08/cloud-software-will-make-25-sold-software-2020/">
+                                                        0 Comments
+                                                    </span>
+												</div>
+											</div>
+											<div class="news-excerpt">The reality of having Cloud Software becoming the major source of sold software may no longer be up in the clouds.
+According to IDC, a quarter of all software sales by the year 2020 will be made on Cloud based services, seeing revenue for this sector more than double the estimated figure for 2016 to around $200 b<a href="http://news.filehippo.com/2016/08/cloud-software-will-make-25-sold-software-2020/">read more</a></div>
+											<div style="clear:both;height:0"></div>
+										</div>									
+																	
+										<div class="news-data">
+											<div class="news-title"><h3><a href="http://news.filehippo.com/2016/08/adblock-plus-facebook-ad-block-bypassing-anti-user/">AdBlock Plus: Facebook ad block bypassing is ‘anti user.'</a></h3></div>
+                                            <a href="http://news.filehippo.com/2016/08/adblock-plus-facebook-ad-block-bypassing-anti-user/">
+                                                <div class="news-image-overlay">
+                                                    <img class="news-image" src="http://news.filehippo.com/wp-content/uploads/2016/08/adblock-be-williams-190x110.jpg" alt="AdBlock Plus: Facebook ad block bypassing is ‘anti user.'" />
+                                                </div>
+                                            </a>
+												
+											<div class="news-counts">
+											    <div class="news-name">
+												    <img src="http://2.gravatar.com/avatar/e12e89229416c35c3f2e72d7ac6f8dc2?s=24&#038;d=mm&#038;r=g" alt="Euan Viveash" />
+                                                    Euan Viveash
+											    </div>
+												<div class="news-dates">
+													<img src="http://cache.filehippo.com/img/new/news-date.png" />7 days
+												</div>													
+												<div class="news-comments">
+													<img src="http://cache.filehippo.com/img/new/news-comments.png"/>
+                                                    <span class="disqus-comment-count" data-disqus-url="http://news.filehippo.com/2016/08/adblock-plus-facebook-ad-block-bypassing-anti-user/">
+                                                        0 Comments
+                                                    </span>
+												</div>
+											</div>
+											<div class="news-excerpt">AdBlock Plus has reacted to the news that Facebook is to prevent ad blocking software from working on the desktop version of its social media site by labelling Facebook as ‘anti-user.’
+
+
+We already published a story here this week about Facebook’s intentions to prevent adblockers from working on PCs and l<a href="http://news.filehippo.com/2016/08/adblock-plus-facebook-ad-block-bypassing-anti-user/">read more</a></div>
+											<div style="clear:both;height:0"></div>
+										</div>									
+								
+							</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="home-right-col">
+                <div class="right-hand-col">
+					
+
+
+<!-- Homepage_MPU_Top -->
+<!--largeLayoutTopMPUAdUnit -->
+
+<div class="ad-unit-label" style="color: #869aab;font-size: 11px;margin-bottom: 2px;">Advertisement</div>
+
+<div id='div-gpt-ad-1384762460430-6716cab0c8334ee884b50b502d95aaf5' style='width:300px; height:250px;'>
+
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1384762460430-6716cab0c8334ee884b50b502d95aaf5'); });
+</script> 
+       
+
+</div>
+
+                    
+					<div class="featured-software">
+						<h2>Featured Software</h2>
+					    <a href="http://news.filehippo.com/2016/08/picasa-fans-urged-switch-google-photos/" title="FEATURED SOFTWARE: Picasa">
+					        <img src="http://news.filehippo.com/wp-content/uploads/2016/08/picasa-1-300x119.jpg" alt="FEATURED SOFTWARE: Picasa" />
+                            <div class="featured-title-container">
+                                <div class="feature-title">FEATURED SOFTWARE: Picasa</div>
+                            </div>
+					    </a>
+					</div>
+                    
+
+
+<!-- Homepage_MPU_Bottom -->
+<!--largeLayoutBottomMPUAdUnit -->
+
+<div class="ad-unit-label" style="color: #869aab;font-size: 11px;margin-bottom: 2px;">Advertisement</div>
+
+<div id='div-gpt-ad-1384762460430-a3490d7a88f543f09e80dcedf42ce209' style=''>
+
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1384762460430-a3490d7a88f543f09e80dcedf42ce209'); });
+</script> 
+       
+
+</div>
+
+					<div class="outbrain-container">
+					<div class="OUTBRAIN" data-src="http://filehippo.com" data-widget-id="AR_3" data-ob-template="FileHippo"></div>
+					<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+					</div>
+                </div>
+            </div>			
+        </div>    
+    </div>	  
+
+        </div>
+    
+        <div class="grey-top footer-space">
+            <div class="container">                
+                <div id="footer">
+                    <div class="row">     
+                        <div class="col-md-6">
+                            <div class="footer-menu left-footer-menu">
+                                <ul>
+                                    <li class="firstmenu"><a href="/info/about/"title="About">About</a></li>
+                                    <li><a href="/info/contact/" title="Contact Us">Contact Us</a></li>
+                                    <li class="lastmenu"><a href="/info/advertise/" title="Advertise">Advertise</a></li>                                    
+                                </ul>
+                            </div>
+                       </div>
+                            <div class="col-md-6">
+                                <div class="copy">&copy; Copyright 2016 Well Known Media. All rights reserved.</div>
+                                <div class="footer-menu right-footer-menu">
+                                    <ul>
+                                        <li class="firstmenu"><a href="/info/termsandconditions/" title="Terms and Conditions">Terms and Conditions</a></li>
+                                        <li><a href="/info/cookies/" title="Cookie Policy">Cookie Policy</a></li>
+                                        <li class="lastmenu"><a href="/info/privacy/" title="Privacy Policy">Privacy Policy</a></li>
+                                    </ul>
+                                </div>
+                            </div>                       
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--[if lt IE 10]>
+        <script type="text/javascript" src="http://cache.filehippo.com/inc/jquery.placeholder.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function () {
+        $('input').placeholder();
+        });
+        </script>
+        <![endif]-->
+
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+
+            //1 = windows 3 = mac 
+            
+            if (3==1) // mac
+            {
+                $('#m-windows').css('border-bottom','none');
+                $('#m-mac').css('border-bottom','solid 2px #fff');
+            }
+
+                $(document).click(function () { $('.language-select-box').hide(); });
+
+                // top menu click
+                $('.language-container').click(function (e) {
+                    var p = $('.language-container');
+                    var offset = p.offset();
+                    $('.language-select-box').css('top', offset.top + 20);
+                    $('.language-select-box').css('left', offset.left + 166);
+                    $('.language-select-box').toggle();
+                    e.stopPropagation();
+                });
+
+
+            });
+        </script>
+
+
+
+        
+<script type="text/javascript">
+	var step = 10;
+	var thousandSeparator = ',';
+	var value = 3115888226;
+	function increment(element) {
+		var max = step + 5;
+		var min = step - 5;
+		value = value + Math.floor(Math.random() * (max - min + 1) + min);
+		element.text(formatNumber(value, thousandSeparator));
+	}
+	function formatNumber(value, separator) {
+		return value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, separator);
+	}
+	$(document).ready(function () {
+		counter = $('#downloads-served');
+		setInterval(function () { increment(counter); }, 1000);
+	});
+</script>
+<!-- search box in google search -->
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.filehippo.com/",
+        "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.filehippo.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+        }
+    }
+</script>
+<script>
+_gaq.push(['_setCustomVar',1,'AB Test', 'new-home-v1', 1]);
+</script>
+<script id="dsq-count-scr" src="//techbeatnews.disqus.com/count.js" async></script>
+
+
+
+    </body>
+</html>

@@ -1,0 +1,575 @@
+<html>
+
+<head>
+<title>Welcome to NIC-Uttar Pradesh State Unit - Lucknow</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="refresh">
+<meta http-equiv="expires" content="-1">
+<link rel="stylesheet" href="js/style.css" type="text/css">
+
+<script type="text/javascript" src="http://goisas.nic.in/content/scripts/javaScripts/custom_result_jsversion.js"></script>
+
+<script src="http://goisas.nic.in/content/scripts/javaScripts/auto_jsversion.js"> </script>
+
+<link type="text/css" href="http://goisas.nic.in/content/scripts/jquery.1.8.7/themes/base/jquery.ui.all.css" rel="stylesheet">
+
+<link href="http://goisas.nic.in/content/css/en/custom_result.css" rel="stylesheet" type="text/css">
+
+<script>
+
+var currentKey=0;
+
+settings = new Array();
+
+settings["searchServer"] = "http://goisas.nic.in"; 
+
+settings["textBoxId"] = "q"; 
+
+settings["callBackFunction"]="callBack";
+
+loadSuggestionControls(settings); 
+
+ 
+
+function callBack()
+
+{
+
+                settings["q"]=document.getElementById('search_key').value;
+
+                settings["count"] = "10";        
+
+    settings["site"] = "nicsu.up.nic.in";
+
+                loadResultControls(settings);
+
+}
+
+ 
+
+settings = new Array();
+
+settings["searchServer"] = "http://goisas.nic.in";
+
+settings["textBoxId"] = "search_key";
+
+settings["q"]="";
+
+settings["site"] = "nicsu.up.nic.in";
+
+loadResultControls(settings);
+
+ 
+
+function modifySettings(key1)
+
+{
+
+                  if(document.getElementById('search_key').value != null){
+
+            settings[key1]=document.getElementById('search_key').value;    
+
+                                settings["count"] = "10";
+
+                settings["site"] = "nicsu.up.nic.in";
+
+            loadResultControls(settings);
+
+                                }
+
+                                hideAutoComplete();
+
+}
+
+</script>
+
+
+
+</head>
+
+<body topmargin="0" leftmargin="10">
+
+
+
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="20">
+  <tr>
+    <td width="100%" bgcolor="#C0C0C0" height="1" colspan="2"><font face="Verdana" size="1">&nbsp;&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td width="60%" height="63"><img border="0" src="images/top.jpg" width="393" height="92"><img border="0" src="images/satyameva-jayate1.jpg" width="61" height="93"></td>
+    <td width="40%" valign="top" height="63"><div align="center"><center>
+    <table border="0" width="90%" cellspacing="1" height="87">
+      <tr>
+        <td width="97%" height="6" colspan="2"><p align="center"><font face="Verdana" size="1">&nbsp;&nbsp;<img
+        border="0" src="images/imgDotLine.gif" width="130" height="3"></font> </td>
+      </tr>
+      <tr>
+        <td width="47%" height="21"><div align="center"><center><table border="1" cellpadding="0"
+        cellspacing="0" width="50%" style="border-collapse: collapse; border-width: 0px"
+        bordercolor="#808080">
+          <tr>
+            <td width="100%"><p align="center"><font face="Verdana" size="1">
+			<a href="default.htm">Home</a></font></td>
+          </tr>
+        </table>
+        </center></div></td>
+        <td width="50%" height="21"><div align="center"><center><table border="1" cellpadding="0"
+        cellspacing="0" width="50%" style="border-collapse: collapse; border-width: 0px"
+        bordercolor="#808080">
+          <tr>
+            <td width="100%"><p align="center"><font face="Verdana" size="1"><a href="sitemap.htm">Site
+            Map</a></font></td>
+          </tr>
+        </table>
+        </center></div></td>
+      </tr>
+      <tr>
+        <td width="47%" height="21"><div align="center"><center><table border="1" cellpadding="0"
+        cellspacing="0" width="50%" style="border-collapse: collapse; border-width: 0px"
+        bordercolor="#808080">
+          <tr>
+            <td width="100%"><p align="center"><font face="Verdana" size="1"><a
+            href="http://home.nic.in" target="_blank">NIC</a></font></td>
+          </tr>
+        </table>
+        </center></div></td>
+        <td width="50%" height="21"><div align="center"><center><table border="1" cellpadding="0"
+        cellspacing="0" width="50%" style="border-collapse: collapse; border-width: 0px"
+        bordercolor="#808080">
+          <tr>
+            <td width="100%"><p align="center"><font face="Verdana" size="1"><a href="contact.htm">Contact
+            Us</a></font></td>
+          </tr>
+        </table>
+        </center></div></td>
+      </tr>
+      <tr>
+        <td width="97%" colspan="2" height="23"><p align="center"><img border="0"
+        src="images/nextgen.jpg" width="235" height="26"> </td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+  <tr>
+    <td width="100%" bgcolor="#C0C0C0" height="1" colspan="2"><p align="center"><font
+    face="Verdana" size="1">&nbsp;&nbsp;</font></td>
+  </tr>
+</table>
+</center></div><div align="left">
+
+<table border="0" cellpadding="0" width="100%" cellspacing="0">
+  <tr>
+    <td width="50%" height="19" colspan="4"><p align="right">
+	<a href="staffdirectory.htm"><font
+    face="Verdana" size="1">Staff Telephone &amp; Email Directory</font>&nbsp;</a> <font color="#FF0000">|&nbsp;
+    </font><font face="Verdana" size="1">
+	<a target="_blank" href="http://webservices.nic.in">Webservices&nbsp;&nbsp;</a> <font color="#FF0000">|</font>&nbsp; 
+	<a href="archives/archives.htm">Archives</a>&nbsp;</font> </td>
+    <td width="50%" height="19" colspan="4">    
+	<form name="searchForm" action="search1.htm" accept-charset="UTF-8">
+
+                <p align="right">
+
+                <input type="text" name="search_key" id="search_key" onkeyup="autoComplete()" autocomplete="off"/>
+
+                <input type="submit" value="Search" /></p>
+
+</form>
+
+<!--This Div will be used for showing results -->
+
+
+
+ 
+
+  <tr>
+    <td width="25%" align="right" valign="top" height="232"><div align="left"><table
+    border="0" cellpadding="0" cellspacing="0" width="97%">
+      <tr>
+        <td width="100%" height="5" colspan="2"><img border="0" src="images/imgDotLine.gif" width="130" height="3"></td>
+      </tr>
+      <tr>
+        <td width="13%" height="14">
+		<a target="_blank" href="http://mail.nic.in"><img border="0"
+        src="images/csemail.jpg" width="33" height="31"></a></td>
+        <td width="87%" height="14">
+		<a target="_blank" href="http://mail.nic.in"><font face="Verdana" size="1">Click
+        here for<br>
+        NICUP-Email</font> </a></td>
+      </tr>
+      <tr>
+        <td width="100%" height="15" colspan="2"><font face="Verdana" size="1">&nbsp;<img
+        border="0" src="images/imgDotLine.gif" width="130" height="3"></font></td>
+      </tr>
+      <tr>
+        <td width="100%" height="15" colspan="2"><font face="Verdana" size="1"><img border="0"
+        src="images/imgDotLine.gif" width="130" height="3"></font></td>
+      </tr>
+      <tr>
+        <td width="20%" height="10"><a target="_blank" href="http://up.gov.in"><img border="0"
+        src="images/csupgov.jpg" width="33" height="31"></a></td>
+        <td width="80%" height="10"><font face="Verdana" size="1"><font color="#FF0000">New &amp;
+        Improved&nbsp;</font><br>
+        <a target="_blank" href="http://up.gov.in">Official Website&nbsp;<br>
+        Govt. of U.P.</a> &nbsp; </font></td>
+      </tr>
+      <tr>
+        <td width="100%" height="15" colspan="2"><font face="Verdana" size="1"><img border="0"
+        src="images/imgDotLine.gif" width="130" height="3"></font></td>
+      </tr>
+      <tr>
+        <td width="100%" height="1" colspan="2"><p align="left"><font face="Verdana" size="1"><img
+        border="0" src="images/imgDotLine.gif" width="130" height="3"></font></td>
+      </tr>
+      <tr>
+        <td width="100%" height="61" colspan="2"><div align="center"><center>
+			<table border="1"
+        cellpadding="0" cellspacing="0" width="99%" class="fntp1"
+        style="border-collapse: collapse; border-width: 0px" bordercolor="#C0C0C0" id="table1">
+          <tr>
+            <td width="100%" bgcolor="#C0C0C0"><font face="Verdana" size="2" color="#FFFFFF"><b>Email
+            &amp; Internet</b></font> </td>
+          </tr>
+          <tr>
+            <td width="100%" valign="middle"><img border="0" src="images/imgRedDot.gif" width="8" height="13"> <font
+            size="1"><a href="http://emaildirectory.up.nic.in" target="_blank">Email Directory</a></font>
+            <font size="1">&nbsp;<font color="#FF0000"><br>
+                        </a></font><img border="0" src="images/imgRedDot.gif" width="8" height="13"> 
+			
+			<font face="Verdana" size="1">Forms for Email<br>
+&nbsp;&nbsp; (<a target="_blank" href="webservices/mail-single-user-form.pdf">Single User</a>) / (<a target="_blank" href="webservices/mail-bulkmail-form.pdf">Bulk User</a>)
+			&nbsp;</font> </td>
+          </tr>
+        </table>
+        </center></div></td>
+      </tr>
+      <tr>
+        <td width="100%" height="76" colspan="2"><div align="center"><center><table border="1"
+        cellpadding="0" cellspacing="0" width="99%" class="fntp1"
+        style="border-collapse: collapse; border-width: 0px" bordercolor="#C0C0C0">
+          <tr>
+            <td width="100%" bgcolor="#C0C0C0"><font face="Verdana" size="2" color="#FFFFFF"><b>Virus Help Desk</b></font> </td>
+          </tr>
+          <tr>
+            <td width="100%" valign="middle"><img border="0" src="images/imgRedDot.gif" width="8" height="13">  
+			<font face="Verdana" size="1">
+			<a target="_blank" href="http://antivirus.nic.in">NIC Antivirus 
+			Portal</a></font><font size="1"><font face="Verdana" size="1"><a target="_blank" href="http://mail.nic.in/docs/subscriptionform.htm">&nbsp;</a></font> </td>
+          </tr>
+        </table>
+        </center></div></td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="2"><div align="left">
+        
+        <table border="1" cellpadding="0"
+        cellspacing="0" width="100%" style="border-collapse: collapse; border-width: 0px"
+        bordercolor="#C0C0C0">
+          <tr>
+            <td width="100%" bgcolor="#C0C0C0"><font face="Verdana" size="2" color="#FFFFFF"><b>Flash&nbsp;Desk&nbsp; </b></font></td>
+          </tr>
+          <tr>
+            <td width="100%"><img border="0" src="images/imgRedDot.gif" width="8" height="13"> 
+			<font face="Verdana" size="1">
+		<a target="_blank" href="weeksflash/bareilly.pdf">Bareilly </a>- 
+		<font color="#800000">Adapting Technology to Innovate</font></font></td>
+          </tr>  
+        </table>
+        
+        </div></td>
+      </tr>
+    </table>
+    </div></td>
+    <td width="1%" height="85" bgcolor="#FFFFFF" background="images/imgAshDots.gif"></td>
+    <td width="2%" height="119" bgcolor="#FFFFFF"><p style="line-height: 150%; text-indent: 0"
+    align="justify"><font face="Verdana" size="1">&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+    <td width="37%" height="119" bgcolor="#FFFFFF" valign="top"><div align="center"><center><table border="0" cellpadding="0"
+    cellspacing="0" width="90%">
+      
+  
+     
+        
+
+  
+
+          <tr>
+        <td width="100%" height="8" colspan="4"><hr size="1" color="#C0C0C0">
+        </td>
+      </tr>
+
+            <tr>
+    
+<tr>
+        <td width="29%" height="21"><div align="center"><center>
+			<table border="1" cellpadding="0"
+        cellspacing="0" width="59%" style="border-collapse: collapse; border-width: 0px"
+        bordercolorlight="#000080" bordercolordark="#000080" bordercolor="#000080">
+          <tr>
+            <td width="81%"><p align="center"><font face="Verdana" size="1"><a href="profile.htm">
+			Profile</a></font></td>
+          </tr>
+        </table>
+        </center></div></td>
+        <td width="29%" height="21"><div align="center"><center>
+			<table border="1" cellpadding="0"
+        cellspacing="0" width="53%" style="border-collapse: collapse; border-width: 0px"
+        bordercolorlight="#000080" bordercolordark="#000080" bordercolor="#000080">
+          <tr>
+            <td width="79%"><p align="center"><font face="Verdana" size="1"><a href="services.htm">
+			Services</a></font></td>
+          </tr>
+        </table>
+        </center></div></td>
+        <td width="50%" height="21"><div align="center"><center>
+			<table border="1" cellpadding="0"
+        cellspacing="0" width="44%" style="border-collapse: collapse; border-width: 0px"
+        bordercolorlight="#000080" bordercolordark="#000080" bordercolor="#000080">
+          <tr>
+            <td width="76%"><p align="center"><font face="Verdana" size="1"><a href="training.htm">
+			Training</a></font></td>
+          </tr>
+        </table>
+        </center></div></td>
+        <td width="27%" height="21"><div align="center"><center><table border="1" cellpadding="0"
+        cellspacing="0" width="90%" style="border-collapse: collapse; border-width: 0px"
+        bordercolorlight="#000080" bordercolordark="#000080" bordercolor="#000080">
+          <tr>
+            <td width="50%"><p align="center"><font face="Verdana" size="1">
+			<a href="dist/list.asp">Districts</a></font></td>
+          </tr>
+        </table>
+        </center></div></td>
+      </tr>
+      <tr>
+        <td width="100%" height="8" colspan="4"><hr size="1" color="#C0C0C0">
+        </td>
+      </tr>
+    </table>
+    </center></div><p style="line-height: 150%" align="justify"><font face="Verdana" size="1"><font
+    color="#000000">Welcome to the New and Improved </font><font color="#800000">UP.NIC.IN</font><font
+    color="#000000">, the Official Website of NIC - Uttar&nbsp; Pradesh State Unit Lucknow.
+    NIC UPSU started its services way back in 1988.&nbsp;</font><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
+    href="profile.htm">.... more</a> </font></p>
+    <div align="center"><center>
+		<table border="1" cellpadding="0" cellspacing="0" width="96%"
+    class="fntp" style="border-collapse: collapse; border-width: 0px" bordercolor="#C0C0C0">
+      <tr>
+        <td width="100%"><p align="center"><font face="Verdana" size="2" color="#800000">NIC UP -
+        Web Services</font><font face="Verdana" size="2" color="#000000"><b>&nbsp;</b></font></td>
+      </tr>
+      <tr>
+        <td width="100%" valign="middle"><p align="left">&nbsp; 
+        <img border="0" src="images/imgRedDot.gif" width="8" height="13">&nbsp;<a target="_blank" href="http://webservices.nic.in"><font face="Verdana" size="1">Web Hosting Services of NIC</font>
+		        </a>
+		        <br>&nbsp; </font>
+        <img border="0" src="images/imgRedDot.gif" width="8" height="13"> 
+        <font face="Verdana" size="1">
+		<a target="_blank" href="webservices/domainregistrationform.doc">NIC.IN Domain Registration Form
+		<br>
+&nbsp; 
+        <img border="0" src="images/imgRedDot.gif" width="8" height="13"> </a>
+		<a target="_blank" href="webservices/webregistrationform.doc">Website Registration Form</a><br>&nbsp; 
+        <img border="0" src="images/imgRedDot.gif" width="8" height="13"> 
+		<a target="_blank" href="webservices/remotewebpub-req.pdf">Remote Publishing Request Form</a><br>
+&nbsp; <img border="0" src="images/imgRedDot.gif" width="8" height="13"> 
+		<a target="_blank" href="http://vpn.nic.in/">VPN Account Request (Apply Online)</a> 
+		<br>
+&nbsp; <img border="0" src="images/imgRedDot.gif" width="8" height="13"> 
+		<a target="_blank" href="webservices/Web-site-Audit-Form_V.2.0.pdf">Website Audit Form</a> &nbsp;<font face="Verdana"
+        size="1">
+        <br>&nbsp; </font>
+        <img border="0" src="images/imgRedDot.gif" width="8" height="13"> </a>
+		<a target="_blank" href="http://www.cert-in.org.in">Panel of IT Security Auditors
+		</a>&nbsp;<br>
+        </td>
+      </tr>
+            </table>
+    </center></div></td>
+    <td width="3%" height="119" bgcolor="#FFFFFF"></td>
+    <td width="1%" height="85" bgcolor="#FFFFFF" background="images/imgAshDots.gif"></td>
+    <td width="1%" height="119" valign="top" align="left">&nbsp; </td>
+    <td width="32%" height="119" valign="top" align="left"><div align="center"><center><table
+    border="1" cellspacing="0" width="90%" bordercolor="#C0C0C0" cellpadding="0"
+    style="border-collapse: collapse; border-width: 0px" bordercolor="#C0C0C0">
+      <tr>
+        <td width="100%" height="16" bgcolor="#C0C0C0"><b><font face="Verdana" size="2"
+        color="#FFFFFF">Happenings&nbsp;</font></b></td>
+      </tr>
+      <tr>
+        <td width="100%" height="80"><div align="left"><table border="1" cellpadding="2"
+        width="100%" bordercolor="#DBDDEA">
+           <tr>
+            <td width="7%" valign="top"><img border="0" src="images/imgRedDot.gif" width="8" height="13"></td>
+            <td width="93%">
+        <font face="Verdana" size="1">
+		<a target="_blank" href="happenings/2016/LRYcopyright.doc">
+		Certification</a> -<font color="#800000">Copyright of SPIDER and e-Manchitra software products in UP</font></font><font color="#800000" face="Verdana" size="1"><b><font color="#FFFFFF"> </font></b></font><font color="#800000" face="Verdana" size="1"><b>
+		<font color="#FFFFFF"> &nbsp;<img border="0" src="images/new1.gif" width="39" height="21"></font></b></td>
+          </tr>
+          <tr>
+            <td width="7%" valign="top"><img border="0" src="images/imgRedDot.gif" width="8" height="13"></td>
+            <td width="93%">
+        	<font face="Verdana" size="1">
+		<a target="_blank" href="happenings/2016/epariyojna_banda.pdf">
+		Workshop</a> -<font color="#800000">e-Pariyojana at NIC Banda</font></font><font color="#800000" face="Verdana" size="1"> 
+				</font></td>
+          </tr>
+          <tr>
+            <td width="7%" valign="top"><img border="0" src="images/imgRedDot.gif" width="8" height="13"></td>
+            <td width="93%">
+        	<font face="Verdana" size="1">
+		<a target="_blank" href="happenings/2016/Land_rcords-Bijnor.pdf">
+		Inauguration</a> -<font color="#800000">Web Based Online Land Records at Tehsil Bijnor, Chandpur & Nagina,District Bijnor</font></font><font color="#800000" face="Verdana" size="1"> 
+				</font></td>
+          </tr>
+          
+          <tr>
+            <td width="7%" valign="top"><img border="0" src="images/imgRedDot.gif" width="8" height="13"></td>
+            <td width="93%">
+        	<font face="Verdana" size="1">
+		<a target="_blank" href="happenings/2016/Jansunwai_23-june-2016.pdf">
+		Training</a> -<font color="#800000">IGRS at Banda</font></font></td>
+          
+          <tr>
+            <td width="100%" valign="top" colspan="2">
+			<p align="right">
+			<font color="#800000" face="Verdana" size="1">
+			<a target="_blank" href="archives/archives.htm#Happenings">more.....</a></font></td>
+                      
+        </table>
+        </div></td>
+      </tr>
+    </table>
+    </center></div><div align="center"><center><table border="0" cellpadding="0"
+    cellspacing="0" width="90%" height="1">
+      <tr>
+        <td width="100%" height="1"><font face="Verdana" size="1">&nbsp;&nbsp;</font> <div
+        align="center"><center>
+			<table border="1" cellpadding="0" cellspacing="0" width="100%"
+        class="fntp" style="border-collapse: collapse; border-width: 0px" bordercolor="#C0C0C0"
+        height="65">
+          <tr>
+            <td width="243" bgcolor="#C0C0C0" height="15"><b>
+			<font color="#FFFFFF">Awards&nbsp;&nbsp; </font></b>
+			</td>
+          </tr>
+          <tr>
+        <td width="100%"><p align="center">
+		<font color="#800000" face="Verdana" size="1"> 
+		<a target="_blank" href="happenings/informatics-UP-january2015.pdf">Uttar Pradesh:Focusing on Rural e-Governance</a> 
+			</td>
+      	</tr>
+          <tr>
+            <td width="243" valign="middle" height="15" align="center">
+			<p align="right">
+			<font color="#800000" face="Verdana" size="1"><a href="awards.htm">more.....</a></font></td>
+          </tr>
+        </table>
+        </center></div></td>
+      </tr>
+      <tr>
+        <td width="100%" height="1"><font face="Verdana" size="1" color="#FF0000">&nbsp;&nbsp;</font></td>
+      </tr>
+    </table>
+    </center></div><div align="center"><center><table border="1" cellpadding="0"
+    cellspacing="0" width="90%" class="fntp"
+    style="border-collapse: collapse; border-width: 0px" bordercolor="#C0C0C0">
+      <tr>
+        <td width="243" bgcolor="#C0C0C0"><b><font color="#FFFFFF">Knowledge&nbsp;Desk&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</font></b></td>
+      </tr>
+      <tr>
+        <td width="100%"><p align="center">
+		<font face="Verdana"
+            size="1">
+			<a target="_blank" href="knowdesk/3D-Printing-Technology.pdf">
+			<font color="#800000">3D Printing Technology</font>&nbsp;</a><br>
+			by<br>
+            
+            </font><font face="Verdana" size="1" color="#FF0000">Gaurav Tyagi, TD/DIO, Muzaffarnagar</font></td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="8" height="21"><font face="Verdana" size="1" color="#000000">&nbsp;</font>
+    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+		<tr>
+			<td align="center" rowspan="2">
+			<p align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="http://india.gov.in">
+	<img
+        border="0" src="images/logo-eci.jpg" width="42" height="41"></a>&nbsp;&nbsp;
+			</td>
+			<td align="left"><b>
+			<font face="'PrimaSans BT,Verdana,sans-serif'" size="2">
+			<span xmlns="http://www.w3.org/TR/REC-html40" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+			&nbsp;&nbsp;&nbsp;
+			<a target="_blank" href="http://eci.nic.in">Election Commission of 
+			India</a></span></font></b></td>
+			<td align="center" rowspan="2">&nbsp;</td>
+		</tr>
+		<tr>
+			<td align="left"><b>
+			<font face="'PrimaSans BT,Verdana,sans-serif'" size="2">
+			<span xmlns="http://www.w3.org/TR/REC-html40" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+			&nbsp;&nbsp;&nbsp;
+			<a target="_blank" href="http://ceouttarpradesh.nic.in">Chief 
+			Electoral Officer Uttar Pradesh</a></span></font></b></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2"><a target="_blank" href="http://india.gov.in">
+	<img
+        border="0" src="images/National_Portal.jpg" width="380" height="66"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a target="_blank" href="http://web.guidelines.gov.in/">
+			<img border="0" src="images/guide_gov_sites.jpg" width="380" height="66" alt="Guidelines for Government Websites"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td align="center">&nbsp;</td>
+		</tr>
+	</table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="8" height="21"><p align="center"><font color="#FF0000">[ </font><font
+    face="Verdana" size="1"><a target="_blank" href="http://indiaimage.nic.in">India Image</a> <font
+    color="#FF0000">|</font> <a href="http://goidirectory.nic.in" target="_blank">Govt. Of
+    India Directory</a>&nbsp;<font color="#FF0000">|</font>&nbsp;<a href="http://districts.nic.in" target="_blank">Districts
+    of India</a>&nbsp;<font color="#FF0000">|</font>&nbsp;<a target="_blank" href="http://www.nic.in/rti">Right 
+	To Information</a>&nbsp;<font color="#FF0000">|&nbsp; </font><img border="0"
+    src="images/latest23.gif" width="45" height="13"><a href="http://informatics.nic.in" target="_blank">Informatics</a>
+    <font color="#FF0000">]</font></font></p>
+	<p align="center"><font
+    face="Verdana" size="1"><img border="0" src="images/imgDotLine.gif" width="130" height="3"></font> 
+	<br>
+	<font face="Verdana" size="1" color="#000000">Site Designed &amp;
+    Maintained by&nbsp;<br>
+    &nbsp; </font><font face="Verdana" size="1" color="#FF0000">Web Support Group</font><font
+    face="Verdana" size="1" color="#000000"><br>
+    <a href="http://home.nic.in" target="_blank">National Informatics Centre</a>, UP State
+    Unit<br>
+    Yojana Bhawan ,9 Sarojini Naidu Marg,&nbsp; Lucknow</font></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="8"><hr size="1" color="#808080">
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" height="36" colspan="8"><font face="Verdana" color="#FF0000"
+    class="fntp1" size="1">Disclaimer : </font><font face="Verdana" color="#808080"
+    class="fntp1" size="1">Every effort has been made to ensure accuracy of data on this web
+    site. However these need to be verified by and supplemented with documents issued finally
+    by the concerned authorities. NIC will not be responsible for any decision or claim that
+    is based on the basis of displayed data. Please note that this page also provides links to
+    the websites / WebPages of Government Ministries/ Departments/ Organisations. The content
+    of these websites are owned by the respective organisations and they may be contacted for
+    any further information or suggestion.This disclaimer is valid for all pages in this
+    website.<br>
+&nbsp;</font></td>
+  </tr>
+</table>
+</div>
+</body>
+</html>

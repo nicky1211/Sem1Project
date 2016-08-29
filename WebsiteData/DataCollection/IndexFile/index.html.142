@@ -1,0 +1,1282 @@
+
+<!DOCTYPE HTML>
+<html dir="ltr" class="ms-isBot" lang="en-US">
+    <head><meta http-equiv="X-UA-Compatible" content="IE=10" /><meta charset="utf-8" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" />		
+        <!-- ===== STARTER: Robots  ======================================================================================================= -->
+        		
+		<!-- ===== STARTER: Favicon / Windows Tile ======================================================================================== -->	
+		<link rel="shortcut icon" href="/_layouts/15/newsp/images/favicon.ico" type="image/vnd.microsoft.icon" id="favicon" /><meta name="msapplication-TileImage" /><meta name="msapplication-TileColor" content="#0072C6" />						
+		<!-- ===== STARTER: Page Title loaded from page or page layout ==================================================================== -->
+		<title>
+	
+	State Portal Government of Rajasthan
+
+</title>		
+		<!-- ===== STARTER: SP Scripts and CSS  ====================================-->
+		<script type="text/javascript" src="/_layouts/15/init.js?rev=0%2BjgcYFw8Xoj0N42kzP%2BcQ%3D%3D"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=gM3ngWOpQ_6DpJhMSIi5OgN4eQKSXWn-bKg80Wo56u0HHYbGGk30z-xSf0Ax3mLJcwJhvcDlLxFPROfJRyE10eWblKE9SUzwNQcuxPFsdBHxRxXXpxsx6DpeKqtWeNQ_fw6lKfDwN4vWUcIDedTvd-Gy-eXPOLPrzpvvnmWFedX5pUyZn_K-ftU3DO3_NuMZ0&amp;t=7b689585"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D"></script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=jvJC3Kl5gbORaLtf7kxULQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=yNk\u00252FhRzgBn40LJVP\u00252BqfgdQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=0xf6wCIW4E1pN83I9nSIJQ\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=q3IuDaBADYgaV\u00252BNJoTKbmA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=VYAJYBo5H8I3gVSL3MzD6A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=ryx2n4ePkYj1\u00252FALmcsXZfA\u00253D\u00253D");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=y3xh0qyJB62CM2ZD4nL8tw\u00253D\u00253D");RegisterSodDep("clienttemplates.js", "initstrings.js");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=kuxIlOxkkypT9A17r72Ljw\u00253D\u00253D");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=REwVU5jSsadDdOZlCx4wpA\u00253D\u00253D");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("clientrenderer.js", "\u002f_layouts\u002f15\u002fclientrenderer.js?rev=PWwV4FATEiOxN90BeB5Hzw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("srch.resources.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=Srch\u00252EResources\u0026rev=T\u00252BEc8BFdsTQbQuVAobKatQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("search.clientcontrols.js", "\u002f_layouts\u002f15\u002fsearch.clientcontrols.js?rev=O\u00252BK68MZr2muvHlW56sOe7w\u00253D\u00253D");RegisterSodDep("search.clientcontrols.js", "sp.init.js");RegisterSodDep("search.clientcontrols.js", "clientrenderer.js");RegisterSodDep("search.clientcontrols.js", "srch.resources.resx");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=5f2WkYJoaxlIRdwUeg4WEg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.search.js", "\u002f_layouts\u002f15\u002fsp.search.js?rev=nmyEEOXg53kzfXV9RnWsNw\u00253D\u00253D");RegisterSodDep("sp.search.js", "sp.init.js");RegisterSodDep("sp.search.js", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("ajaxtoolkit.js", "\u002f_layouts\u002f15\u002fajaxtoolkit.js?rev=4rOiCbaFgJMmqw9Ojtpa6g\u00253D\u00253D");RegisterSodDep("ajaxtoolkit.js", "search.clientcontrols.js");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=38t1tBEEonTR8ozTCV4YrA\u00253D\u00253D");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=Pbfi3FBmvy2ewPqDZp16\u00252BQ\u00253D\u00253D");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=sObFmln\u00252BGVrczIpXNeFRrg\u00253D\u00253D");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=ProfileBrowserScriptRes\u0026rev=J5HzNnB\u00252FO1Id\u00252FGI18rpRcw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=Ua8qmZSU9nyf53S7PEyJwQ\u00253D\u00253D");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=W2q45TO627Zi6ztdktTOtA\u00253D\u00253D");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=FJslh\u00252FITKI8BRLkElp\u00252FWdA\u00253D\u00253D");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
+<script type="text/javascript">RegisterSod("datepicker.js", "\u002f_layouts\u002f15\u002fdatepicker.js?rev=rG6q4pRH1LERpfn53ncDpA\u00253D\u00253D");RegisterSodDep("datepicker.js", "strings.js");</script>
+
+		<!-- Custome CSS & JS Start -->
+		<link rel="stylesheet" type="text/css" href="/_layouts/15/newsp/css/style_20160822.css" /><link rel="stylesheet" href="/_layouts/15/newsp/css/font-awesome.min_20160111.css" type="text/css" />
+		<script type="text/javascript" src="/_layouts/15/newsp/js/jquery.min.js"></script>
+		<!-- Custome CSS & JS End -->		
+		<link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx" />	
+		<!-- ===== STARTER: Additional header placeholder - overridden by asp:content on pages or page layouts  =========================== -->
+		
+		<link rel="canonical" href="http://rajasthan.gov.in:80/Pages/default.aspx" />
+		<!-- ===== STARTER: Core SharePoint CSS =========================================================================================== -->
+		<!-- ===== STARTER: Custom CSS  =================================================================================================== -->
+		</head>	
+	<body>
+		<!-- ===== STARTER: SP IDs / Prefetch SP images / SP Form  =========================================================================== -->
+		
+		<div id="imgPrefetch" style="display:none">
+<img src="/_layouts/15/newsp/images/favicon.ico?rev=23" />
+<img src="/_layouts/15/images/spcommon.png?rev=23" />
+</div>
+
+		<div id="ctl00_g_ef7e2cd1_7977_42df_8d13_c5bcb8dad46c" __MarkupType="vsattributemarkup" __WebPartId="{ef7e2cd1-7977-42df-8d13-c5bcb8dad46c}" WebPart="true">
+
+</div>
+		<form method="post" action="default.aspx" id="aspnetForm">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xF96BFA9DEAF202C635463DFFA304C2F40F067F97511DBA54DBC3785B6E2DE1889B7D265CDF7D71A495676249FC036C104EC25D4707B76433C8EE7703FA79FF79,24 Aug 2016 11:17:24 -0000" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAILD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTUuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAhsPZBYCZg9kFgJmDzwrAAYAZAIJD2QWBgIBD2QWCAUmZ18xMGY5YTgzOF8yMjUyXzQ5ODFfYjJiYl84MmFlM2UxYTIxNGIPZBYEZg8WAh4HVmlzaWJsZWhkAgEPFgIfAWhkBSZnX2JiNGExYjA0X2NiYjNfNDk3MV9hMGMwX2QzMDE4MzhjMGUyMg9kFgRmDxYCHwFoZAIBDxYCHwFoZAUmZ19kY2U5YTZiOV83ZTc3XzQ0NWFfOWQ3N18yZTNkMjkxMDM2NGQPD2RkZAUmZ19mZmNhOWVhNV83ZDQ1XzRmMzhfOTJiZl9jNTRkM2M2YzlhZTEPD2RkZAIDD2QWAgIID2QWAgICD2QWAgIFD2QWAgIDDxYCHwFoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYCHwFoZAIFDxYCHwFoZAIDDw8WAh4JQWNjZXNzS2V5BQEvZGQCBQ9kFgICDA9kFgICAQ9kFgYCAQ8PFgIeBFRleHQFCjQ6NDc6MjQgUE1kZAIDDw8WAh8DBRMyMDE2LTA4LTI0VDE2OjQ3OjI0ZGQCBQ8PFgIfAwUaV2VkbmVzZGF5LCBBdWd1c3QgMjQsIDIwMTZkZGR1W4nlE4HegO/xINN1+WdC/7kAVNDnv7Ycn23rX4iayg==" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "http:\u002f\u002frajasthan.gov.in", siteAbsoluteUrl: "http:\u002f\u002frajasthan.gov.in", serverRequestPath: "\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Home", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2016-08-24T11:17:24.4939572Z") - new Date(), siteClientTag: "2465$$15.0.4701.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{c52d3cfe-449a-4c94-98de-c3fb3c050fa0}",pageItemId:2, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};
+                            function DoCallBack(filterText)
+                            {WebForm_DoCallback('ctl00$ctl38$g_dce9a6b9_7e77_445a_9d77_2e3d2910364d',filterText,UpdateFilterCallback,0,CallBackError,true)
+                            }
+                            function CallBackError(result, clientsideString)
+                            {                
+                            }
+                        document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=ZaOXZEobVwykPO9g8hq%2F8A%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() 
+        {
+          ExecuteOrDelayUntilScriptLoaded(
+            function()
+            {
+              var pairs = SP.ScriptHelpers.getDocumentQueryPairs();
+              var followDoc, itemId, listId, docName;
+              for (var key in pairs)
+              {
+                if(key.toLowerCase() == 'followdocument') 
+                  followDoc = pairs[key];
+                else if(key.toLowerCase() == 'itemid') 
+                  itemId = pairs[key];
+                else if(key.toLowerCase() == 'listid') 
+                  listId = pairs[key];
+                else if(key.toLowerCase() == 'docname') 
+                  docName = decodeURI(pairs[key]);
+              } 
+
+              if(followDoc != null && followDoc == '1' && listId!=null && itemId != null && docName != null)
+              {
+                SP.SOD.executeFunc('followingcommon.js', 'FollowDocumentFromEmail', function() 
+                { 
+                  FollowDocumentFromEmail(itemId, listId, docName);
+                });
+              }
+
+            }, 'SP.init.js');
+
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+
+            if (typeof(SPClientTemplates) === 'undefined' || SPClientTemplates === null || (typeof(APD_InAssetPicker) === 'function' && APD_InAssetPicker())) {
+                return;
+            }
+
+            var renderFollowFooter = function(renderCtx,  calloutActionMenu)
+            {
+                if (renderCtx.ListTemplateType == 700) 
+                    myDocsActionsMenuPopulator(renderCtx, calloutActionMenu);
+                else
+                    CalloutOnPostRenderTemplate(renderCtx, calloutActionMenu);
+
+                var listItem = renderCtx.CurrentItem;
+                if (typeof(listItem) === 'undefined' || listItem === null) {
+                    return;
+                }
+                if (listItem.FSObjType == 0) {
+                    calloutActionMenu.addAction(new CalloutAction({
+                        text: Strings.STS.L_CalloutFollowAction,
+                        tooltip: Strings.STS.L_CalloutFollowAction_Tooltip,
+                        onClickCallback: function (calloutActionClickEvent, calloutAction) {
+                            var callout = GetCalloutFromRenderCtx(renderCtx);
+                            if (!(typeof(callout) === 'undefined' || callout === null))
+                                callout.close();
+                            SP.SOD.executeFunc('followingcommon.js', 'FollowSelectedDocument', function() { FollowSelectedDocument(renderCtx); });
+                        }
+                    }));
+                }
+            };
+
+            var registerOverride = function(id) {
+                var followingOverridePostRenderCtx = {};
+                followingOverridePostRenderCtx.BaseViewID = 'Callout';
+                followingOverridePostRenderCtx.ListTemplateType = id;
+                followingOverridePostRenderCtx.Templates = {};
+                followingOverridePostRenderCtx.Templates.Footer = function(renderCtx) {
+                    var  renderECB;
+                    if (typeof(isSharedWithMeView) === 'undefined' || isSharedWithMeView === null) {
+                        renderECB = true;
+                    } else {
+                        var viewCtx = getViewCtxFromCalloutCtx(renderCtx);
+                        renderECB = !isSharedWithMeView(viewCtx);
+                    }
+                    return CalloutRenderFooterTemplate(renderCtx, renderFollowFooter, renderECB);
+                };
+                SPClientTemplates.TemplateManager.RegisterTemplateOverrides(followingOverridePostRenderCtx);
+            }
+            registerOverride(101);
+            registerOverride(700);
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />		
+		<!-- ===== STARTER: SharePoint Reqs this for adding columns ===================================================== -->
+		<script type="text/javascript"> var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; </script>
+		<!-- ===== STARTER: Web Part Manager  ============================================================================================= -->
+				
+		
+			<!-- ===== STARTER: Main Scrolling Body Starts Here =============================================================================== -->
+			<div id="s4-workspace">
+				<div id="s4-bodyContainer">				
+				<!-- ===== STARTER: This decides where the web part menu lives ===================================================== -->
+				<div id="ctl00_DeltaPlaceHolderMain">				
+				<!-- ===== STARTER: style.css adds width and margin =========================================================================================== -->
+				<div class="customWidth">				
+					<!-- ===== STARTER: SharePoint looks for this div ID s4-titlerow for the "Focus on Content" Button ======================== -->
+					<div id="s4-titlerow" style="display:none !important;">						
+						<!-- ===== STARTER: Breadcrumbs ======================================================================================= -->
+						<div class="ms-dialogHidden" style="display:none !important">
+							<h1 id="pageTitle" class="ms-core-pageTitle">	
+								<div class="ms-displayInlineBlock ms-normalWrap">
+									<a href="javascript:;" id="ms-pageDescriptionDiv" style="display:none;">
+										<span id="ms-pageDescriptionImage">&#160;</span>
+									</a>
+									<span class="ms-accessible" id="ms-pageDescription">
+										
+									</span>
+									<script type="text/javascript">// <![CDATA[ 
+
+_spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout");// ]]>
+</script>
+								</div>
+							</h1>
+						</div>
+					</div>					
+				<!-- ===== STARTER: Body Area (includes left nav and body) ==================================================================== -->					
+					<!-- ===== STARTER: Current navigation =========================================================================================== -->
+					<div id="sideNavBox" class="ms-dialogHidden ms-forceWrap ms-noList">
+						<div class="ms-core-navigation">
+							<!-- ===== STARTER: SP Reqs PlaceHolderLeftNavBar for adding Apps in Site Content =================== -->						
+							
+								
+									<!-- ===== STARTER: hide the quick launch for any page the doesn't override the PlaceHolderLeftNavBar ============ -->
+									<!-- ===== STARTER: if you want the navigation back you can add it from the collab master ============ -->
+									<style type="text/css">
+										#contentBox { margin-left: 0; }
+										#sideNavBox { display: none; }
+									</style>
+								
+								
+								
+								
+								
+								
+							
+						</div>
+					</div>					
+					<!-- ===== STARTER: Main Content ========================================================================================== -->
+					<div id="contentBox">							
+							<!-- ===== STARTER: Main Placeholder gets replaced with content of the page ======================================= -->							
+							<div id="pageFull">							
+								<div class="section active forScroll">        
+										<span><div class="strip"><div class="innerStrip"><a href="#maincontent" tabindex="1" title="Skip to main content"><i class="fa fa-arrow-circle-down" title="Skip to main content"></i>Skip to main content</a>
+											
+											 <a href="http://rajasthan.gov.in:8080" tabindex="2" title="Email Account Activation"><span><i class="fa fa-envelope"></i>Email Account Activation</span></a> <a href="/pages/sitemap.aspx"tabindex="3" title="SiteMap"><span><i class="fa fa-sitemap" ></i>SiteMap</span></a> <a href="https://sso.rajasthan.gov.in/" tabindex="4" title="Login To Rajasthan Single Sign On"><span><i class="fa fa-sign-in" ></i>SSO Sign In</span></a> <a href="http://emitra.gov.in/" tabindex="5" title="Avail Services"><span><i class="fa fa-globe" ></i>Avail Services</span></a> <a href="#" onclick="whiteTheme()"class="colImg normalContrast" tabindex="10" title="light contrast">A</a> <a href="#" onclick="blackTheme()" tabindex="9"  class="colImg highContrast" title="High Contrast">A</a> <a href="#" onClick="aless()" tabindex="8" class="colImg font_text" title="Descrese text size">A-</a> <a href="#" onClick="anormal()" tabindex="7" class="colImg font_text"  title="Normal text size">A</a> <a href="#" onClick="aplus()"  tabindex="6" class="colImg font_text" title="Increse text size">A+</a> <!-- <span tabindex="3"><i class="fa fa-sign-in" ></i>SSO Sign In</span> 
+											<a href="http://www.ssdg.rajasthan.gov.in/">
+												<span tabindex="4"><i class="fa fa-globe" ></i>Avail Services</span></a>  --><!--<span class="colImg" tabindex="5"><i class="fa fa-square" style="color:#F60;"></i></span>
+												<span class="colImg" tabindex="6"><i class="fa fa-square" style="color:#666;"></i></span>
+												<span class="colImg" tabindex="7" id="lastsetting_menu"><i class="fa fa-square" style="color:#09C;"></i></span>--></div><!--<a href="#"  class="strip_a" title="Settings"></a>--><div class="strip_button"><i class="fa fa-cog"></i></div></div></span>
+						       		    <div id="header" class="header">
+								        	<img src="_layouts/15/newsp/images/logo.png" alt="" id="ashoklogo"/>
+											<div class="deptName">
+								                <span>Government of Rajasthan</span>
+								                <span>Official Web Portal</span>
+											</div>
+										</div> 	 	
+								        <div class="navIndex">
+								            <ul class="menu2_ul Hmenu">
+								            	<li class="menu2_li Smenu">
+								                	<a href="/government/Pages/default.aspx" tabindex="15"><i class="fa fa-institution"></i> <span>Government</span></a>
+								                    <div class="level2 Smenudiv nav1Img" style="width:420px">
+								                        <div class="menu_left" style="width:46%">
+								                        	<ul>
+								                        	    <li><a href="/Government/Governer/Pages/default.aspx">&nbsp;&nbsp;Governor</a></li>
+								                                <li><a href="/Government/ChiefMinister/Pages/default.aspx">&nbsp;&nbsp;Chief Minister</a></li>
+								                                <li><a href="/Government/ChiefSecretary/Pages/default.aspx">&nbsp;&nbsp;Chief Secretary</a></li>
+								                                <li><a href="/Government/DistrictGovernment/Pages/default.aspx">&nbsp;&nbsp;Districts</a></li>
+								                                <li><a href="/Government/ElectionAndVoting/Pages/default.aspx">&nbsp;&nbsp;Election & Voting</a></li>
+								                                <li><a href="http://www.dop.rajasthan.gov.in/Content/CivillistSubmenu.aspx?menu_id=398" rel="external" target="_blank">&nbsp;&nbsp;Civil List</a></li>
+								                                <li><a href="/Government/JudicialBranch/Pages/default.aspx">&nbsp;&nbsp;Judiciary</a></li>
+								                                <li><a href="/Government/LegislativeBranch/Pages/default.aspx">&nbsp;&nbsp;Rajasthan Assembly</a></li>
+								                                <li><a href="/Government/StateAgencies/Pages/SectorProfile.aspx">&nbsp;&nbsp;Sectors & Departments</a></li>
+								                                <li><a href="/Government/WebDirectory/Pages/default.aspx">&nbsp;&nbsp;Web Directory</a></li>
+									                       	</ul>
+								                        </div>
+								                        <div class="menu_right" style="display:block; width: 45%; float: right;  padding: .5rem .5rem .5rem 0;  font-size: 18px;">
+															
+															<div class="menu_rightLinks">
+								                                <ul>
+								                                    <li><a href="/Employment/Careers/Pages/default.aspx" class="jobs">Jobs <i class="fa fa-suitcase"></i></a></li>
+								                                    <li><a href="/Employment/EducationAndTraining/Pages/default.aspx" class="education">Education <i class="fa fa-graduation-cap"></i></a></li>
+								                                    <li><a href="http://www.rrecl.com/Index.aspx" class="energy" target="_blank">Energy <i class="fa fa-spinner"></i></a></li>
+								                                    <li><a href="/_layouts/15/newsp/IT%20Policy%202015.pdf" class="energy" target="_blank">IT Policy 2015<i class="fa fa-book"></i></a></li>
+								                                </ul>
+															</div>	
+														</div>
+								                    	<p style="background:rgba(0, 0, 0, 0.5);">Government News, Media, and Resources</p>
+								                	</div>
+								              	</li>
+												<li class="menu2_li Smenu">
+								                	<a href="/Employment/Pages/default.aspx"><i class="fa fa-briefcase"></i> <span>Employment</span></a>
+								                    <div class="level2 Smenudiv nav2Img">
+								                        <div class="menu_left " >
+								                        	<ul>
+								                                <li><a href="/Employment/Careers/Pages/default.aspx">&nbsp;&nbsp;Careers</a></li>
+								                                <li><a href="/Employment/EducationAndTraining/Pages/default.aspx">&nbsp;&nbsp;Education & Training</a></li>
+									                       	</ul>
+								                        </div>
+								                        <div class="menu_right">
+															<div class="menu_rightImg">
+															</div>
+														</div>
+								                    	<p style="background:rgba(0, 0, 0, 0.5);">Employment News, Media, and Resources</p>
+								                	</div>
+								              	</li>
+												<li class="menu2_li Smenu">
+								                	<a href="/Business/Pages/default.aspx"><i class="fa fa-building-o"></i> <span>Business</span></a>
+								                    <div class="level2 Smenudiv nav3Img">
+								                        <div class="menu_left">
+								                        	<ul>
+								                        	    <li><a href="/Business/StartingBusiness/Pages/default.aspx">&nbsp;&nbsp;Starting a Business</a></li>
+								                                <li><a href="/Business/OnlineBusinessServices/Pages/default.aspx">&nbsp;&nbsp;Online Business Services</a></li>
+								                                <li><a href="/Business/RunningBusiness/Pages/default.aspx">&nbsp;&nbsp;Running a Business</a></li>
+								                                <li><a href="/Business/SEZ/Pages/default.aspx">&nbsp;&nbsp;Special Economic Zones</a></li>
+								                            </ul>
+								                        </div>
+								                        <div class="menu_right">
+															<div class="menu_rightImg"></div>
+														</div>
+								                    	<p style="background:rgba(0, 0, 0, 0.5);">Business News, Media, and Resources</p>
+								                	</div>
+								              	</li>
+								                <li class="menu2_li Smenu">
+								                    <a href="/Education/Pages/default.aspx"><i class="fa fa-graduation-cap"></i> <span>Education</span></a>
+								                    <div class="level2 Smenudiv nav4Img">
+								                        <div class="menu_left">
+								                            <ul>
+								                                <li><a href="/Education/CollegesAndUniversities/Pages/default.aspx">&nbsp;&nbsp;Colleges & Universities</a></li>
+								                                <li><a href="/Education/EducationalResources/Pages/default.aspx">&nbsp;&nbsp;Educational Resources</a></li>
+								                                <li><a href="/Education/Libraries/Pages/default.aspx">&nbsp;&nbsp;Libraries</a></li>
+								                                <li><a href="/_layouts/15/rajhistory/index.html" target="_blank">&nbsp;&nbsp;Rajasthan History For Kids</a></li>
+								                                <li><a href="/Education/SchoolEducation/Pages/default.aspx">&nbsp;&nbsp;School Education</a></li>
+								                            </ul>
+								                        </div>
+								                        <div class="menu_right">
+								                            <div class="menu_rightImg"></div>
+								                        </div>
+								                        <p style="background:rgba(0, 0, 0, 0.5);">Education News, Media, and Resources</p>
+								                    </div>
+								                </li>
+								                <li class="menu2_li Smenu">
+								                    <a href="/Residents/Pages/default.aspx"><i class="fa fa-home"></i> <span>Residents</span></a>
+								                    <div class="level2 Smenudiv nav5Img">
+								                        <div class="menu_left">
+								                            <ul>
+								                                <li><a href="/Residents/CitizenAndCommunity/Pages/default.aspx">&nbsp;&nbsp;Citizen & Community</a></li>
+								                                <li><a href="/Residents/HealthAndSocialServices/Pages/default.aspx">&nbsp;&nbsp;Health & Social Services</a></li>
+								                                <li><a href="/Residents/JustForYouth/Pages/default.aspx">&nbsp;&nbsp;Just For Youth</a></li>
+								                                <li><a href="/Residents/SeniorCitizens/Pages/default.aspx">&nbsp;&nbsp;Senior Citizens</a></li>
+								                                <li><a href="/Residents/MovingToRajasthan/Pages/default.aspx">&nbsp;&nbsp;Moving To Rajasthan</a></li>
+								                            </ul>
+								                        </div>
+								                        <div class="menu_right">
+								                            <div class="menu_rightImg"></div>
+								                        </div>
+								                        <p style="background:rgba(0, 0, 0, 0.5);">Resident News, Media, and Resources</p>
+								                    </div>
+								                </li>
+								                <li class="menu2_li Smenu">
+								                    <a href="/Visiting/Pages/default.aspx"><i class="fa fa-user-secret"></i> <span>Visiting</span></a>
+								                    <div class="level2 Smenudiv nav6Img">
+								                        <div class="menu_left">
+								                            <ul>
+								                            	 <li><a href="/_layouts/15/ArtAndLeisure/index.html">&nbsp;&nbsp;Arts & Leisure</a></li>
+								                            	<li><a href="/Visiting/CarsAndTransportation/Pages/default.aspx">&nbsp;&nbsp;Cars & Transportation</a></li>
+								                                <li><a href="/Visiting/NewcomersGuide/Pages/default.aspx">&nbsp;&nbsp;Newcomers Guide</a></li>
+								                                <li><a href="/Visiting/HighwayInformation/Pages/default.aspx">&nbsp;&nbsp;Highway Information</a></li>
+								                                <li><a href="/Visiting/PlacesToVisit/Pages/default.aspx">&nbsp;&nbsp;Places To Visit</a></li>
+								                                <li><a href="/Visiting/SportsAndRecreations/Pages/default.aspx">&nbsp;&nbsp;Sports & Recreations</a></li>
+								                                <li><a href="/Visiting/TravelAndTourism/Pages/default.aspx">&nbsp;&nbsp;Travel & Tourism</a></li>
+								                            </ul>
+								                        </div>
+								                        <div class="menu_right">
+								                            <div class="menu_rightImg"></div>
+								                        </div>
+								                        <p style="background:rgba(0, 0, 0, 0.5);">Visiting Rajasthan News,Media and Resources</p>
+								                    </div>
+								                </li>
+								                <li class="menu2_li Smenu">
+								                    <a href="/AboutRajasthan/Pages/default.aspx"><i class="fa fa-globe"></i> <span>About Rajasthan</span></a>
+								                    <div class="level2 Smenudiv nav7Img">
+								                        <div class="menu_left">
+								                            <ul>
+								                                <li><a href="/AboutRajasthan/ArtsAndCulture/Pages/default.aspx">&nbsp;&nbsp;Arts And Culture</a></li>
+								                                <li><a href="/AboutRajasthan/DemographicsAndStatistics/Pages/default.aspx">&nbsp;&nbsp;Demographics & Statistics</a></li>
+								                                <li><a href="/AboutRajasthan/LandAndEnvironment/Pages/default.aspx">&nbsp;&nbsp;Land & Environment</a></li>
+								                                <li><a href="/AboutRajasthan/RajasthanHistory/Pages/default.aspx">&nbsp;&nbsp;Rajasthan History</a></li>
+								                                <li><a href="/AboutRajasthan/RajasthanMaps/Pages/default.aspx">&nbsp;&nbsp;Rajasthan Maps</a></li>
+								                                <li><a href="/AboutRajasthan/StateSymbols/Pages/default.aspx">&nbsp;&nbsp;State Symbols</a></li>
+								                                <li><a href="_layouts/15/ebook" target="_blank">&nbsp;&nbsp;Rajasthan City Guide</a></li>
+								                            </ul>
+								                        </div>
+								                        <div class="menu_right">
+								                            <div class="menu_rightImg"></div>
+								                        </div>
+								                        <p style="background:rgba(0, 0, 0, 0.5);">About Rajasthan News, Media, and Resources</p>
+								                    </div>
+								                </li>
+								                <li class="menu2_li Smenu">
+								                    <a href="/Connect/Pages/default.aspx"><i class="fa fa-share-alt"></i> <span>Connect</span></a>
+								                    <div class="level2 Smenudiv nav8Img">
+								                        <div class="menu_left">
+																<ul>
+																    <li><a href="/Connect/Pages/ContactUs.aspx">&nbsp;&nbsp;Contact Us</a></li>
+																    <li><a href="/Connect/Pages/FAQ.aspx">&nbsp;&nbsp;Faq</a></li>
+																    <li><a href="/Connect/Pages/HELP.aspx">&nbsp;&nbsp;Accessibility Options</a></li>
+																    <li><a href="/Connect/Pages/MediaGallery.aspx">&nbsp;&nbsp;Media Gallery</a></li>
+																    <li><a href="/Connect/Pages/Mobile.aspx">&nbsp;&nbsp;Mobile App Store</a></li>
+																    <li><a href="/Connect/Pages/UsefulDocuments.aspx">&nbsp;&nbsp;Useful Documents</a></li>																    
+																    <li><a href="/Connect/Pages/TermsAndConditions.aspx">&nbsp;&nbsp;Terms and Condition</a></li>
+																    <li><a href="/Connect/Pages/UsagePolicy.aspx">&nbsp;&nbsp;Usage Policy</a></li>
+																    <li><a href="/Connect/Pages/Webcast.aspx">&nbsp;&nbsp;Webcast</a></li>
+																</ul>								                          								                        </div>
+								                        <div class="menu_right">
+								                            <div class="menu_rightImg"></div>
+								                        </div>
+								                        <p style="background:rgba(0, 0, 0, 0.5);">view more Social Connections Resources</p>
+								                    </div>
+								                </li>
+								                <li class="menu2_li Smenu">
+								                    <a href="/Services/Pages/default.aspx"><i class="fa fa-support"></i> <span>Services</span></a>
+								                    <div class="level2 Smenudiv nav9Img">
+								                        <div class="menu_left">
+								                            <ul>
+								                            <li><a href="/Services/Pages/UtilityBillPayment.aspx">&nbsp;&nbsp;Utility Bill Payment<img src="/_layouts/15/NewSP/images/new1.png" alt="Business" style="float:right; width: 100px; height: 27px;margin:0% -1%;0; 10%"></a></li>
+ 								                            <li><a href="/Services/Pages/CertificatesandLicenses.aspx">&nbsp;&nbsp;Certificates and Licenses</a></li>
+								                            <li><a href="/Services/Pages/FeeandGovernmentLevies.aspx">&nbsp;&nbsp;Fee and Government Levies</a></li>
+								                            <li><a href="/Services/Pages/ApplicationSubmissionofVariousDepartment.aspx">&nbsp;&nbsp;Application Submission of Various Dept.</a></li>
+								                            <li><a href="/Services/Pages/GrantsScholarshipsEntitlements.aspx">&nbsp;&nbsp;Grants, Scholarships and Entitlements</a></li>
+								                           <!-- <li><a href="/Pages/TodayMandi.aspx">&nbsp;&nbsp;Today's Mandi Rates</a></li> -->
+								                            </ul>
+								                        </div>
+								                        <div class="menu_right">
+								                            <div class="menu_rightImg"></div>
+								                        </div>
+								                        <p style="background:rgba(0, 0, 0, 0.5);">view more rajasthan.gov.in Online Services</p>
+								                    </div>
+								                </li>
+											</ul>
+								        </div>									
+							          <div class="divplaceholder">
+							          		<div class="feedbacklinkl" style="display: block; height: 0px; width: 30px;">
+							          			<div>
+							          				<a class="popup"><img src="_layouts/15/newsp/images/feedback.png"  alt="Feedback" /></a>
+							          			</div>
+							          			<span></span>
+							          		</div>
+							          		
+							          	
+											<div id="searchInputBox" class="searchFormDiv1">
+											  <div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+	<div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex " OnlyForMePart="true" allowDelete="false" style="" ><div componentid="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr"><div id="SearchBox" name="Control"><div class="ms-srch-sb ms-srch-sb-border" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sboxdiv"><input type="text" value="Search this site" maxlength="2048" accessKey="S" title="Search this site" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox" autocomplete="off" autocorrect="off" onkeypress="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {if (Srch.U.isEnterKey(String.fromCharCode(event.keyCode))) {$find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr').search($get('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox').value);return Srch.U.cancelEvent(event);}})" onkeydown="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr');ctl.activateDefaultQuerySuggestionBehavior();})" onfocus="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr');ctl.hidePrompt();ctl.setBorder(true);})" onblur="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr'); if (ctl){ ctl.showPrompt(); ctl.setBorder(false);}})" class="ms-textSmall ms-srch-sb-prompt ms-helperText"/><a title="Search" class="ms-srch-sb-searchLink" id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_SearchLink" onclick="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {$find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr').search($get('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox').value);})" href="javascript: {}" ><img src="/_layouts/15/images/searchresultui.png?rev=23" class="ms-srch-sb-searchImg" id="searchImg" alt="Search" /></a><div class="ms-qSuggest-container ms-shadow" id="AutoCompContainer"><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList"></div></div></div></div></div><noscript><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_noscript">It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.</div></noscript><div id="ctl00_PlaceHolderSearchArea_SmallSearchInputBox1">
+
+	</div><div class="ms-clear"></div></div>
+</div>
+											</div>
+										
+								        
+<script src="/_layouts/15/newsp/js/waypoints.min.js"></script>
+
+<script src="/_layouts/15/newsp/js/jquery.counterup.min.js"></script>
+<!--<script src="/_layouts/15/newsp/js/custom.js"></script> -->
+
+
+ 
+ 
+<style type="text/css">
+.scroller {
+	height:25px !important;
+}
+.menu2_li{
+	height:85px !important;
+}
+.liveweb {
+    width: 94px;
+    float: right;
+    position: relative;
+    right: 60px;
+    height: 21px;
+    line-height: 20px;
+    background: red;
+    color: #FFF;
+    bottom: -22px;
+}
+.liveweb a {
+	color:#FFF !important;
+}
+.alerthome {
+	width: 175px;
+    height: 125px;
+    position: absolute;
+    bottom: 91px;
+    left: 36%;
+}
+.alerthome img {
+	width:175px;height: 125px;
+
+}
+.alerthome1 {
+	width: 160px;
+    height: 125px;
+    position: relative;
+   float:left;
+   margin-right:10px;
+}
+.alerthome1 img {
+	width:160px;height:125px;
+
+}
+.homebanner{position:absolute;height:150px;bottom:92px;width:345px;left:64.5%;margin-left:-300px}
+#slideshow2 { 
+  	
+    position: absolute; 
+    width: 240px; 
+    height: 300px; 
+    right:0px;
+    bottom:115px;
+ 
+}
+.slider1{   
+    position: absolute; 
+    top: 16px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+.slider2{
+  position: absolute; 
+    top: 158px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 	
+}
+.slider3{
+  position: absolute; 
+    top: 300px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 	
+}
+.forScroll {
+	overflow:hidden !important;
+}
+#background {
+    background-image: url("/_layouts/15/newsp/images/1.jpg");
+    opacity: 1;   
+    position: fixed; 
+    width: 100%; 
+    height: 100%; 
+    top: 0px; 
+    left: 0px; 
+    z-index: -1;
+    background-size: cover; 
+    background-position: 50% 50%; 
+    background-repeat: none;  
+}
+#searchInputBox{
+	display:block;
+}
+
+/*.AdScheme{
+	position: fixed; right: 0; bottom: 100px; border: 1px solid #CCC; border-radius: 4px 0 0 4px; height: 137px !important; width: 25px;
+	background-image: url('data:image/png;base64,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');
+	background-repeat:no-repeat;
+}
+.AdSchemeImg{
+	position:absolute; display:none;
+	margin-left:25px;
+}*/
+
+/*.AdScheme:hover .AdSchemeImg{-webkit-transform: translateX(250px); transform: translateX(250px);}*/
+</style>
+<!--<div class="sky_cloud">
+  <div class="clouds_one"></div>
+  <div class="clouds_two"></div>
+  <div class="clouds_three"></div>
+</div>
+<div class="rd_text_left"><img src="/_layouts/15/newsp/images/republicday/rd_text_left2.png" alt=""/></div>
+<div class="rd_text_right"><img src="/_layouts/15/newsp/images/republicday/rd_text_right2.png" alt=""/></div>
+
+<div class="ashoka_chakra"><img src="/_layouts/15/newsp/images/republicday/Ashoka_Chakra.svg.png" alt=""/></div> -->
+
+<!--<div class="demo-2">
+			<div class="">
+                <div id="large-header" class="large-header large-header2" style="height: 799px;">
+                
+                    <canvas id="demo-canvas" width="1600" height="799"></canvas>
+                   
+                 <h1 class="main-title"><b><span style="color:orange">होली की</span> 
+					हार्दिक<span style="color:green"> शुभ कामनाएँ</span></b></h1>
+                </div>
+            
+            </div>
+           
+		</div>-->
+<div class="dignitariesSection">
+	<div id="social" class="latestNewsLink"> 
+		<div class="searchPanel1">
+			<head>
+</head>
+<!--<div id="foot">
+    <span id="plane"></span>
+    <span id="sun"></span>
+    <span id="nearclouds"></span>
+    <span id="farclouds"></span>
+    <span id="balloon1"></span>
+    <span id="balloon2"></span>
+</div> 
+<ul class="slideshow">
+					    <li><span><h1>Ranakpur Jain Temple</h1></span></li>
+					    <li><span><h1>Rambagh Golf Club, Jaipur</h1></span></li>
+					    <li><span><h1>Rajasthan tourism</h1></span></li>
+					    <li><span><h1>Industries in Rajasthan</h1></span></li>
+					    <li><span><h1>Lake city,Udaipur</h1></span></li>
+					    <li><span><h1>Markets in Rajasthan</h1></span></li>
+					</ul>  -->
+
+
+					<ul class="slideshow">
+					    
+					    <li><span><img /><h1>Jaipur city view</h1></span></li>
+					    <li><span><img /><h1>Mehrangarh fort,Jodhpur</h1></span></li>
+					    <li><span><img /><h1>Havells-Lafert, Neemrana</h1></span></li>
+					    <li><span><img /><h1>Safari Adventure Rajasthan</h1></span></li>
+					    <li><span><img /><h1>Mining in Rajasthan</h1></span></li>
+					    <li><span><img /><h1>Rajasthan legislative assembly</h1></span></li>
+					</ul>   
+
+         </div>             
+     </div>
+</div>  
+<div class="homebanner">
+
+<div class="alerthome1">
+ <a href="http://rajasthan.gov.in/Pages/CMSpeech.aspx" >	<img src="http://rajasthan.gov.in/PublishingImages/CMSpeech.jpg" alt="raj"/></a>
+</div>
+
+<!--<div class="alerthome1">
+<a target="_blank" href="http://webcast.rajasthan.gov.in"><img src="http://rajasthan.gov.in/PublishingImages/bricsfinal.jpg" alt="raj"/></a>
+ <div class="bricsdiv">
+					<figure class="effect-sadie">
+						http://webcast.rajasthan.gov.in/
+						<figcaption> http://webcast.rajasthan.gov.in/#
+							<p>by Shri Roysten Abel</p>
+							<a href="#">View more</a>
+						</figcaption>		
+					</figure>
+				</div>		
+</div>-->
+
+</div>
+
+<div class="cm_img"><a href="#" ><img src="/_layouts/15/newsp/images/cm.png" alt="" border="0" /><span>Hon&#39;ble 
+	Chief Minister, Smt. Vasundhara Raje</span></a></div> 
+<div id="slideshow2">
+<div class="slider1">
+<div class="containerCount">
+  <div class="headerpg">
+    <div id="AddButton" style="color: #fff; float:left" class="conterTxt"><i class="fa fa-pie-chart"></i> 
+		<span class="topHeading" id="spnAppName">State E-Transactions</span></div>
+    <br>    
+     <div class="counterOne">
+      <div class="conterTxt1">Total<br>
+      </div>
+      <!--<div class="conterTxt2"> <img src="img/arrow.png"></div>-->
+      <div class="conterTxt3" id="displayCounter"><span class="countertop statetotalVal" id="totalValSpn">
+		0</span><br>
+      </div>
+      </div>      
+    <div class="counterOne">
+      <div class="conterTxt1"> This Year <br>
+      </div>
+      <!--<div class="conterTxt2"> <img src="img/arrow.png"></div>-->
+      <div class="conterTxt3" id="displayCounter"><span class="countertop stateyearVal" id="yearValSpn">
+		0</span><br>
+      </div>
+      <div class="counterOne">
+        <div class="conterTxt1"> This Month <br>
+        </div>
+        <div class="conterTxt3"><span class="countertop statemonthVal" id="monthValSpn">
+			0</span><br>
+        </div>
+        <div class="counterOne">
+          <div class="conterTxt1"> Today <br>
+          </div>
+          <div class="conterTxt3"><span class="countertop statedayVal" id="dayValSpn">
+			0</span><br>
+          </div>
+        </div>
+        <div> </div>
+      </div>
+    </div>  
+     <div class="counterOne dayclose" style="display:none">
+      DAY CLOSED
+    </div>  
+  </div>
+</div>
+</div>
+<br/>
+<div class="slider2">
+<div class="containerCount">
+  <div class="headerpg">
+    <div id="AddButton" style="color: #fff; float:left" class="conterTxt"><i class="fa fa-pie-chart"></i> 
+		<span class="bottomHeading" id="spnAppName"></span></div>
+    <br>    
+     <div class="counterOne">
+      <div class="conterTxt1">Total<br>
+      </div>
+      <!--<div class="conterTxt2"> <img src="img/arrow.png"></div>-->
+      <div class="conterTxt3" id="displayCounter"><span class="counter othertotalVal" id="totalValSpn">
+		0</span><br>
+      </div>
+      </div>      
+    <div class="counterOne">
+      <div class="conterTxt1"> This Year <br>
+      </div>
+      <!--<div class="conterTxt2"> <img src="img/arrow.png"></div>-->
+      <div class="conterTxt3" id="displayCounter"><span class="counter otheryearVal" id="yearValSpn">
+		0</span><br>
+      </div>
+      <div class="counterOne">
+        <div class="conterTxt1"> This Month <br>
+        </div>
+        <div class="conterTxt3"><span class="counter othermonthVal" id="monthValSpn">
+			0</span><br>
+        </div>
+        <div class="counterOne">
+          <div class="conterTxt1"> Today <br>
+          </div>
+          <div class="conterTxt3"><span class="counter otherdayVal" id="dayValSpn">
+			0</span><br>
+          </div>
+        </div>
+        <div> </div>
+      </div>
+    </div> 
+	 <div class="counterOne dayclose" style="display:none">
+	  DAY CLOSED
+	</div>    
+  </div>
+</div>
+</div>
+<br/>
+<div class="slider3">
+	<div class="containerCount-link">
+		<div class="headerpg"><a href="/Pages/ETransaction.aspx"> SHOW ALL</a></div>
+	</div>
+</div>
+</div>
+	
+	
+<!--<div class="AdScheme">
+<span class="AdSchemeImg">
+<a href="http://resurgent.rajasthan.gov.in/" target="_blank">
+	<img width="150" height="138" alt="" src="/_layouts/15/newsp/images/Resurgent.png" /></a>
+
+</span>
+</div> -->
+<div  class="scroller" style="color:#FFF;">  
+	<div id="homenews" class='slide_container' style='position:relative;overflow:hidden;height:26px;'></div>   
+   	<div class="clockdiv">
+		
+
+<script type="text/javascript">
+    var Cdate = new Date();
+
+    $(document).ready(function () {
+        var Edate = new Date($('.dateCls').text() + "Z");
+        Cdate = Edate;
+
+        var idleInterval = setInterval(timerIncrement, 1000);
+        $(".clockdiv").show();
+    });
+    function timerIncrement() {
+        Cdate.setTime(Cdate.getTime() + 1000);
+        var hours = Cdate.getUTCHours();
+        var ampm = hours >= 12 ? 'PM' : 'AM';
+        hours = hours % 12;
+        hours = hours ? hours : 12;
+        $('.timercla').text(("0" + hours).slice(-2) + ":" + ("0" + Cdate.getUTCMinutes()).slice(-2) + ":" + ("0" + Cdate.getUTCSeconds()).slice(-2) + " " + ampm);
+    }
+    
+</script>
+<div class="light" style="font-size:147%; color:#fff;">
+    <div >
+        <span id="ctl00_PlaceHolderMain_Time_lblTime" class="timercla">4:47:24 PM</span>  
+        <span id="ctl00_PlaceHolderMain_Time_lblDate" class="dateCls" style="display:none;">2016-08-24T16:47:24</span>  
+        .
+    </div>
+    
+</div>
+<div style="width: 250px;float: right; font-size: 147%; margin: -5px 1px -23px 0px;">
+     <span id="ctl00_PlaceHolderMain_Time_lblDispDate">Wednesday, August 24, 2016</span>
+
+
+</div>
+ 
+	</div>
+</div>
+<div id="section_0" class="scroll_button"><a href="#">More &nbsp; &nbsp;<i class="fa fa-angle-double-down"></i></a></div>
+    	<a href="#" class="page0a"></a>
+
+</div></div>
+<div id="pageHeight" class="section demo-wrapper forScroll">
+	<div id="heading"><H1>Quick Links</H1></div>		
+        <div class="TileContenor">
+            <div class="quickLinks">
+                <ul>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="r-page" data-page-name="random-directory-page">
+                        <a href="/Government/WebDirectory/Pages/default.aspx">
+                            <span class="icon_img"><i class="fa fa-book"></i></span>
+                            <span class="linkTxt">
+                                <H3>Web Directory</h3>                  	      
+                            </span>
+                        </a>
+                    </li>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="r-page" data-page-name="random-directory-page">
+                        <a href="/Employment/Careers/Pages/default.aspx" >
+                            <span class="icon_img"><i class="fa fa-suitcase"></i></span>
+                            <span class="linkTxt">
+                                <H3>Find a Job</h3>                  	        
+                            </span>
+                        </a>         
+                    </li>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="r-page" data-page-name="random-directory-page">
+                        <a href="/Business/OnlineBusinessServices/Pages/default.aspx" >
+                            <span class="icon_img"><i class="fa fa-cubes"></i></span>
+                            <span class="linkTxt">
+                                <h3>Online Business Services</h3>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="r-page" data-page-name="random-directory-page">
+                        <a href="/Education/CollegesAndUniversities/Pages/default.aspx" >
+                            <span class="icon_img"><i class="fa fa-mortar-board"></i></span>
+                            <span class="linkTxt">
+                                <h3>Colleges &amp; Universities</h3>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="r-page" data-page-name="random-directory-page">
+                        <a href="/Residents/HealthAndSocialServices/Pages/default.aspx" >
+                            <span class="icon_img"><i class="fa fa-home"></i></span>
+                            <span class="linkTxt">
+                                <h3>Health &amp; Social Services</h3>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="r-page" data-page-name="random-directory-page">
+                        <a href="/Visiting/TravelAndTourism/Pages/default.aspx">
+                            <span class="icon_img"><i class="fa fa-hand-o-right"></i></span>
+                            <span class="linkTxt">
+                                <h3>Travel &amp; Tourism</h3>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="r-page" data-page-name="random-directory-page">
+                        <a href="/AboutRajasthan/ArtsAndCulture/Pages/default.aspx" >
+                            <span class="icon_img"><i class="fa fa-crosshairs"></i></span>
+                            <span class="linkTxt">
+                                <h3>Art and Culture</h3>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="r-page" data-page-name="random-directory-page">
+                        <a href="/Connect/Pages/MediaGallery.aspx" >
+                            <span class="icon_img"><i class="fa fa-picture-o"></i></span>
+                            <span class="linkTxt">
+                                <h3>Media Gallery</h3>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="directory-page" data-page-name="random-directory-page">
+                        <a style="background:transparent !important;" href="/Services/Pages/UtilityBillPayment.aspx">
+                            <span class="icon_img"><i class="fa fa-globe"></i></span>
+                            <span class="linkTxt">
+                                <h3>Utility Bill Payment</h3>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="directory-page" data-page-name="random-directory-page">
+                        <a style="background:transparent !important;" href="https://www.utiitsl.com/UTIITSL_SITE/site/pan/index.html" rel="external1" target="_blank">
+                            <span class="icon_img"><img src="/_layouts/15/newsp/images/pancard.png" alt=""/></span>
+                            <span class="linkTxt">
+                                <h3>Apply PAN Card Online</h3>
+                            </span>
+                        </a>
+                    </li>
+					<li class="tile tile-big tile-1 slideTextUp" data-page-type="directory-page" data-page-name="random-directory-page">
+                        <a style="background:transparent !important;" href="/Pages/TodayMandi.aspx">
+                            <span class="icon_img"><i class="fa fa-shopping-cart"></i></span>
+                            <span class="linkTxt">
+                                <h3>Today&#39;s Mandi Rates</h3>
+                            </span>
+                        </a>
+                    </li>
+                    <li class="tile tile-big tile-1 slideTextUp" data-page-type="directory-page" data-page-name="random-directory-page">
+                        <a style="background:transparent !important;" href="https://sso.rajasthan.gov.in/signin?ru=fmdss" target="_blank">
+                            <span class="icon_img"><img src="/_layouts/15/newsp/images/wild_life.png" alt=""/></span>
+                            <span class="linkTxt">
+                                <h3>Rajasthan Wild Life OnLine Ticket Booking</h3>
+                            </span>
+                        </a>
+                    </li>
+
+                </ul>
+            </div>            
+		</div>
+		<div class="directory-page random-directory-page">
+                <div class="page-content">
+                    <div class="page-title"></div>
+                    <div class="content"></div>
+                </div>
+            	<div class="close-button r-close-button">x</div>
+            </div>	
+       		<footer class="fixedStyle">
+											<!--<ul id="footerSocial">
+								                <li class="grid_1-5" id="iconConnectMobile"><a href="#" title="Mobile"><i class="fa fa-mobile"></i> 
+												Mobile</a></li>
+								                <li class="grid_1-5" id="iconWidgets"><a href="#" title="Widgets"><i class="fa fa-cog"></i> 
+												Widgets</a></li>
+								                <li class="grid_1-5" id="iconConnectPhotos"><a href="/Connect/Media Gallery/Pages/default.aspx" title="Photos"><i class="fa fa-picture-o"></i> 
+												Photos</a></li>
+								                <li class="grid_1-5" id="iconRSS"><a href="#" title="RSS"><i class="fa fa-rss"></i> 
+												RSS</a></li>
+								                
+								            </ul>-->
+											<div class="wrapper" style="height: 165px;">
+								                <div class="flex-item">
+								                    <h4 id="footerHelp" class="footer-title"><a href="#">
+													Help</a></h4>
+								                    <ul>
+								                    <li><a href="http://india.gov.in/ " target="_blank" rel="external" target="_blank">
+														India.gov.in</a></li>
+								                        <li><a href="/AboutRajasthan/RajasthanMaps/Pages/default.aspx" rel="external" target="_blank">
+														Rajasthan Maps</a></li>
+								                      <li><a href="http://gramrajasthan.in" rel="external" target="_blank">
+								                      <!--<div style="float:left;">
+															GLOBAL RAJASTHAN AGRITECH MEET<span style="background-color:#FF9D00; color:#fff; float: right; padding: 2px 4px; border-radius: 16%; margin-left:10px; font-size:80%;">New</span></div>-->
+														<img width="95" height="95" title="" alt="" src="/_layouts/15/newsp/images/glob_logo.png" /></a>
+														</li>														
+								                   </ul>
+								                </div>
+								
+								                <div class="flex-item">
+								                    <h4 id="footerAlerts" class="footer-title"><a href="#">
+													Alerts</a></h4>
+								                    <ul>
+								                     <li><a href="http://sampark.rajasthan.gov.in/about_us.aspx" target="_blank" rel="external"> 
+														Rajasthan Sampark</a></li>
+														<li><a href="/_layouts/15/ArtAndLeisure/helpline.html">
+														Emergency Help</a></li>
+														 <li><a href="https://rsrtconline.rajasthan.gov.in/busenquiry/en" target="_blank" rel="external"> 
+															Road/travel info</a></li>
+														 <li><a href="http://jaipurtrafficpolice.rajasthan.gov.in/sms_alert.aspx" target="_blank" rel="external">
+															Traffic Mobile 
+															Alerts</a></li>
+														<li><a href="/Pages/weatherandagromet.aspx">
+															Weather And Agromet</a></li>
+								                      <!--  <li><a href="#">Weather 
+														&amp; Agromet</a></li> -->
+								                        </ul>
+								                </div>
+								        
+								                <div class="flex-item">
+								                    <h4 id="footerExecutive" class="footer-title"><a href="#">
+													Government</a></h4>
+								                    <ul>
+								                        
+								                        <li><a href="/Government/ChiefMinister/Pages/default.aspx">
+														Chief Minister</a></li>
+								                        <li><a href="/Government/ChiefSecretary/Pages/default.aspx">
+														Chief Secretary</a></li>
+								                        <li><a href="http://hcraj.nic.in/nsinha.aspx" target="_blank" rel="external">
+														Chief Justice</a></li>
+								                        <li><a href="http://dop.rajasthan.gov.in/Content/CivilOfficerDetail.aspx?ofcusername=P81RR01" target="_blank" rel="external">
+														Director General of 
+														Police</a></li>
+														<li><a href="/Government/Governer/Pages/default.aspx">
+														Governor</a></li>
+								                        <li><a href="http://agraj.cag.gov.in/index.html" target="_blank" rel="external">
+														State Auditor</a></li>
+								                    </ul>
+								                </div>
+								        
+								                <div class="flex-item">
+								                    <h4 id="footerLegislative" class="footer-title"><a href="#">
+													Assembly</a></h4>
+								                    <ul>
+								                    
+								                       <!-- <li><a href="#">
+														Assembly Web Site</a></li> -->
+								                        <li><a href="http://164.100.153.14/LoB/LoBView.aspx" target="_blank" rel="external">
+														Assembly Calendar</a></li>
+														 <li><a href="http://www.rajassembly.nic.in/Const.asp" target="_blank" rel="external">
+															Find Your MLA</a></li>
+														<li><a href="http://www.rajassembly.nic.in/loksabha.htm" target="_blank" rel="external">
+														Member of Parliament</a></li>
+														<li><a href="http://www.rajassembly.nic.in/" target="_blank" rel="external">
+														Vidhan Sabha</a></li>
+								                       
+								                       
+								                    </ul>
+								                </div>
+								        
+								              <div class="flex-item">
+								                    <h4 id="footerAwards" class="footer-title"><a href="#">
+													Achievements</a></h4>
+								                    <!---<p>Over 100 awards set 
+													rajasthan.gov.in as one of 
+													the best government sites in 
+													the nation.</p> --->
+								        
+								                    <p><a href="http://cmoffice.rajasthan.gov.in/govach.aspx" target="_blank" rel="external">
+													View more of 
+													rajasthan.gov.in 
+													achievements</a> »</p>
+													<!--<p><a href="" target="_blank" rel="external">
+													<img src="/_layouts/15/newsp/images/glob_logo.png" alt="glob_logo" />
+													</a></p> -->
+								                </div> 
+											</div>
+										</footer>
+    	
+		<div  id="section_1" class="scroll_top"><a href="#"><i class="fa fa-angle-double-up" tabindex="0" ></i></a></div>
+		<a href="#" class="page1a"></a>
+	</div>
+<div style='display:none' id='hidZone'><menu class="ms-hide">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+	</ie:menuitem>
+</menu></div>
+							          </div>					          							          							        
+								</div>
+							</div>
+					</div>
+				  </div>
+				</div>
+			</div>
+			</div>
+		<script type="text/javascript" src="/_layouts/15/newsp/js/stopajaxcall.js"></script>		
+		<script type="text/javascript" src="/_layouts/15/newsp/js/commonScript_20160823_17.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){		        
+				resizeContent();
+				$(window).resize(function() {
+					resizeContent();
+				});
+				$('.popup').click( function(){
+					 $('#Feedpopup').bPopup({
+							content:'iframe', //'ajax', 'iframe' or 'image'
+							contentContainer:'.Popupcontent',
+							loadUrl:'/_layouts/15/stateportalsolution/feedback.aspx?url='+ $(location).attr('href')
+						});						
+				
+				});
+				$(".feedbacklinkl").hover(function(){					
+					$(this).animate({ width: "190px" });
+					$(this).css('height','180px');
+					$('.feedbackImg').css('display', 'block');
+				}, function() {
+					$(this).animate({ width: "30px" });
+					$('.feedbackImg').css('display', 'none');
+					$(this).css('height','0px');
+				})
+			});	
+			function resizeContent() {				
+				//$height = $(window).height();
+				//$('body div#pageHeight').height($height);
+				//alert($height);
+				//$('.section').height($height);
+			}	
+			</script>
+			<script>
+				$(window).bind("load", function() {
+					$('.section').height($(window).height());
+					var limit = $(window).height()-495;
+			        //setTimeout(function(){alert($('.divplaceholder').height() +'>'+ limit );},1000);
+			        //alert($('.divplaceholder').height() +'>'+ limit );
+			        if($('.divplaceholder').height() >= limit ) {
+			        	$('footer').css('position','relative');
+			        } else {
+			        	$('footer').css('position','absolute');
+			        }
+			        
+			       
+			        
+			     });
+			      $('.divplaceholder').resize(function(){
+			        	console.log("Hita");
+			        });
+		</script>		
+					
+		<!-- ===== STARTER: Main Scrolling Body Ends Here ================================================================================= -->			
+		<!-- ===== STARTER: Needed for form stuff ========================================================================================= -->
+		
+			<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0xF96BFA9DEAF202C635463DFFA304C2F40F067F97511DBA54DBC3785B6E2DE1889B7D265CDF7D71A495676249FC036C104EC25D4707B76433C8EE7703FA79FF79,24 Aug 2016 11:17:24 -0000';
+            g_updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+				
+		<!-- ===== STARTER: Hidden Placeholders =========================================================================================== -->	
+						
+		
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{c52d3cfe-449a-4c94-98de-c3fb3c050fa0}",itemId: 2,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';
+            ExecuteOrDelayUntilScriptLoaded(
+                function() 
+                {                    
+                    Srch.ScriptApplicationManager.get_current().states = {"webUILanguageName":"en-US","webDefaultLanguageName":"en-US","contextUrl":"http://rajasthan.gov.in","contextTitle":"Home","supportedLanguages":[{"id":1025,"label":"Arabic"},{"id":1093,"label":"Bengali"},{"id":1026,"label":"Bulgarian"},{"id":1027,"label":"Catalan"},{"id":2052,"label":"Chinese (Simplified)"},{"id":1028,"label":"Chinese (Traditional)"},{"id":1050,"label":"Croatian"},{"id":1029,"label":"Czech"},{"id":1030,"label":"Danish"},{"id":1043,"label":"Dutch"},{"id":1033,"label":"English"},{"id":1035,"label":"Finnish"},{"id":1036,"label":"French"},{"id":1031,"label":"German"},{"id":1032,"label":"Greek"},{"id":1095,"label":"Gujarati"},{"id":1037,"label":"Hebrew"},{"id":1081,"label":"Hindi"},{"id":1038,"label":"Hungarian"},{"id":1039,"label":"Icelandic"},{"id":1057,"label":"Indonesian"},{"id":1040,"label":"Italian"},{"id":1041,"label":"Japanese"},{"id":1099,"label":"Kannada"},{"id":1042,"label":"Korean"},{"id":1062,"label":"Latvian"},{"id":1063,"label":"Lithuanian"},{"id":1086,"label":"Malay"},{"id":1100,"label":"Malayalam"},{"id":1102,"label":"Marathi"},{"id":1044,"label":"Norwegian"},{"id":1045,"label":"Polish"},{"id":1046,"label":"Portuguese (Brazil)"},{"id":2070,"label":"Portuguese (Portugal)"},{"id":1094,"label":"Punjabi"},{"id":1048,"label":"Romanian"},{"id":1049,"label":"Russian"},{"id":3098,"label":"Serbian (Cyrillic)"},{"id":2074,"label":"Serbian (Latin)"},{"id":1051,"label":"Slovak"},{"id":1060,"label":"Slovenian"},{"id":3082,"label":"Spanish (Spain)"},{"id":2058,"label":"Spanish (Mexico)"},{"id":1053,"label":"Swedish"},{"id":1097,"label":"Tamil"},{"id":1098,"label":"Telugu"},{"id":1054,"label":"Thai"},{"id":1055,"label":"Turkish"},{"id":1058,"label":"Ukrainian"},{"id":1056,"label":"Urdu"},{"id":1066,"label":"Vietnamese"}],"navigationNodes":[{"id":0,"name":"This Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Search this site"}],"showAdminDetails":false,"defaultPagesListName":"Pages","isSPFSKU":false,"userAdvancedLanguageSettingsUrl":"http://rc017-fg3:80/my/_layouts/15/EditProfile.aspx?Section=LanguageAndRegion\u0026UserSettingsProvider=234bf0ed%2D70db%2D4158%2Da332%2D4dfd683b4148\u0026ReturnUrl=http%3A%2F%2Frajasthan%2Egov%2Ein%2FPages%2Fdefault%2Easpx\u0026ShowAdvLang=1","defaultQueryProperties":{"culture":1033,"uiLanguage":1033,"summaryLength":180,"desiredSnippetLength":90,"enableStemming":true,"enablePhonetic":false,"enableNicknames":false,"trimDuplicates":true,"bypassResultTypes":false,"enableInterleaving":true,"enableQueryRules":true,"processBestBets":true,"enableOrderingHitHighlightedProperty":false,"hitHighlightedMultivaluePropertyLimit":-1,"processPersonalFavorites":true}};
+                    Srch.U.trace(null, 'SerializeToClient', 'ScriptApplicationManager state initialized.');
+                }, 'Search.ClientControls.js');var g_clientIdDeltaPlaceHolderMain = "ctl00_DeltaPlaceHolderMain";
+
+                    ExecuteOrDelayUntilScriptLoaded(
+                        function() 
+                        {
+                            if ($isNull($find('ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr')))
+                            {
+                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"initialPrompt":"Search this site","messages":[],"navigationNodes":[{"id":0,"name":"This Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Search this site"}],"queryGroupNames":["MasterPage"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox_Compact.js","resultsPageAddress":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","serverInitialRender":true,"showDataErrors":true,"showNavigation":true,"states":{},"tryInplaceQuery":false}, null, null, $get("ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr"));
+                                sb.activate('Search this site', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sboxdiv', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_NavButton', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_AutoCompList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_NavDropdownList', 'ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_SearchLink', 'ms-srch-sbprogress', 'ms-srch-sb-prompt ms-helperText');
+                            }
+                        }, 'Search.ClientControls.js');//]]>
+</script>
+</form>	
+		<!-- ===== STARTER: Adds extra stuff like another form for Survey management ====================================================== -->	
+		
+		
+<script type="text/javascript">
+	var EtransApps = [[0,"State"],[2,"Emitra"],[5,"Bhamashah"],[3,"Sampark"],[6,"Labour",],[7,"SJE"],[4,"RTI"],[9,"Raj Mandi"],[12,"RSPCB"],[14,"RAJFAB"],[15,"RPSC"],[18,"Industries"],[20,"Transport"],[19,"Housing Board"],[16,"Police"],[17,"M&H"],[21,"ePDS"],[23,"Excise"],[24,"Lites"],[25,"SIPF"]];//,[22,"Election"]
+	var EtranCounter = 1;
+
+	$(document).ready(function()
+	{
+		$('body').css('overflow','hidden');
+		$('html').css('overflow','hidden');
+		$(".scroll_button").click(function(event){event.preventDefault();scrollpagedown()});
+		$(".scroll_top").click(function(event){event.preventDefault();scrollpageup()});
+		$(".scroll_button").focusin(function(event){event.preventDefault();scrollpagedown()});
+
+		getnews();		
+		setInterval(loadimg(), 9000);
+		
+		LoadStateEtrans();
+		setTimeout(function(){LoadEtrans()},1000);
+
+
+		var win_height = $(window).innerHeight();
+		$("img#background").css("height",win_height);
+		// End
+			
+		function LoadStateEtrans()
+		{
+			GetEtransactionCountTop(0,"State");
+			setTimeout(LoadStateEtrans,10000*(EtransApps.length-1));
+		}
+		function LoadEtrans()
+		{
+			GetEtransactionCount(EtransApps[EtranCounter][0],EtransApps[EtranCounter][1]);
+			if (EtranCounter == EtransApps.length-1)
+	              EtranCounter = 1;
+	        else
+	              EtranCounter++;
+			setTimeout(LoadEtrans,10000);
+		}
+
+		//setTimeout(loadimg,5000);
+	});
+	var catcount=1;
+	
+	var d = $('.dateCls').html();
+	var monthnum=parseInt(d.substring(5, 7));
+	var day=parseInt(d.substring(8, 10));
+	function loadimg(){			  
+          //$('.slideshow').find("li:nth-child("+catcount+")").find("span").css("background-image", "url(/_layouts/15/newsp/images/1/1_1.jpg)");	
+
+   		if(catcount > 6){catcount=1;}
+		if(day<=31) 
+			{
+				$('.slideshow').find("li:nth-child("+catcount+")").find("span").css("background-image", "url(/_layouts/15/newsp/images/"+catcount+"/"+monthnum+"_1.jpg)");
+//				$('.slideshow').find("li:nth-child("+catcount+")").find("span").css("background-image", "url(/_layouts/15/newsp/images/"+catcount+"/"+"Img"+monthnum+"_1.jpg)");
+				$('.slideshow').find("li:nth-child("+catcount+")").find("h1").css("display", "block");			
+			}
+		if(day>31)
+			{ 
+				$('.slideshow').find("li:nth-child("+catcount+")").find("span").css("background-image", "url(/_layouts/15/newsp/images/"+catcount+"/"+"Img"+monthnum+"_1.jpg)");	
+			}
+		catcount++; 
+		setTimeout(loadimg,9000);
+	}
+	$(document).keydown(function(event) {
+		if(event.which  == 38 || event.which  == 33){event.preventDefault();scrollpageup()}	
+		else if(event.which  == 40 || event.which  == 34){event.preventDefault();scrollpagedown()}
+	});
+	$(document).bind('mousewheel DOMMouseScroll MozMousePixelScroll', function(event) {
+	    event.preventDefault();
+	    var delta = event.originalEvent.wheelDelta || -event.originalEvent.detail;
+		init_scroll(event, delta);
+	});
+	var lastAnimation =0;
+	function init_scroll(event, delta) {
+	   var timeNow = new Date().getTime();
+	   if(timeNow - lastAnimation < 1000) {event.preventDefault();return;}
+	   if (delta < 0) {scrollpagedown()} 
+	   else {scrollpageup()}
+	   lastAnimation = timeNow;
+	}
+	function resizeContent() {
+	   $height = $(window).height();
+	   $('body div#pageHeight').height($height);
+	}
+	function scrollpagedown(){$('html, body').animate({scrollTop: $(".demo-wrapper").offset().top}, 1000);}
+	function scrollpageup(){$('html, body').animate({scrollTop: $(".active").offset().top}, 1000);}		
+</script>
+
+		<div id="Feedpopup">
+        <span class="button b-close"><span>X</span></span>
+	<div class="Popupcontent" style="height: auto; width: auto;"></div>    
+</div>
+
+	</body>
+</html>

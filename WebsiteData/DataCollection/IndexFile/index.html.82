@@ -1,0 +1,1869 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<head><meta name="google-site-verification" content="7QBU7Nmlo2U33EIV8PgFVPz0Cov8uvoJ-6YKt53k_TE" /><title>
+	EENADU Online Edition - Telugu news paper
+</title><meta name="description" content="Eenadu is an Indian Telugu language daily newspaper which is the largest circulated Telugu newspaper in Andhra Pradesh and in Telangana, India." /><meta name="keywords" content="epaper telugu,telugu epaper,telugu news articles,antaryami,annadata telugu magazine,annadata telugu,special magazines,haibujji,sukhibava,graham-anugraham,Udyoga Avakasalu,telugu calender,pellipandiri,breaking news in telugu,weather news in telugu,cricket news in telugu" /><meta name="geo.region" content="IN-AP" /><meta name="geo.placename" content="Hyderabad" /><meta name="geo.position" content="17.5;78.4" /><meta name="ICBM" content="17.5, 78.4" /><meta name="author" content="Eenadu" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- css styles -->
+    <link href="UniFont/eenaduu-webfont.css" rel="stylesheet" type="text/css" /><link href="_assets/_css/normalize.css" rel="stylesheet" type="text/css" /><link href="_assets/_css/layout.css" rel="stylesheet" type="text/css" /><link href="_assets/_css/font-eUni.css" rel="stylesheet" type="text/css" /><link href="_assets/_css/owl.carousel.css" rel="stylesheet" /><link href="_assets/_css/responsive.css" rel="stylesheet" type="text/css" />  
+   
+    <!-- districts carousel -->
+    <link rel="stylesheet" href="_assets/_css/tinycarousel.css" type="text/css" media="screen" />    
+    <!-- tabbed menu css -->
+    <link href="_assets/_css/tabs.css" rel="stylesheet" type="text/css" />    
+    <!-- Owl Carousel Assets -->
+      
+    <!-- distrcit block slide simpl ecarousel  styles-->
+    <link rel="shortcut icon" type="image/x-icon" href="_assets/_images/favicon.ico" /><link href="_assets/_css/responsive.css" rel="stylesheet" type="text/css" />
+    <script src="_assets/_js/jquery.min.js" type="text/javascript"></script> 
+
+    
+
+    <script type='text/javascript'>
+        (function () {var useSSL = 'https:' == document.location.protocol;
+            var src = (useSSL ? 'https:' : 'http:') +  '//www.googletagservices.com/tag/js/gpt.js';
+            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        })();
+</script>
+
+<script type='text/javascript'>
+    googletag.cmd.push(function () {
+        googletag.defineSlot('/1673516/HP_TLB_728x90', [728, 90], 'div-gpt-ad-1468397808358-0').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/E_HP_Pagepush-989x200', [989, 200], 'div-gpt-ad-1462940925694-0').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/E-HP-680X70', [680, 70], 'div-gpt-ad-1462941697281-0').addService(googletag.pubads());
+       // googletag.defineSlot('/1673516/HomePage_TopMiddle_468x60', [468, 60], 'div-gpt-ad-1460531495350-0').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/HP_RHS_TBB', [300, 250], 'div-gpt-ad-1459864280742-0').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/GA-Adx_HP-300x250', [300, 250], 'div-gpt-ad-1459864280742-1').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/HP_RHS_MBB', [300, 250], 'div-gpt-ad-1459864280742-2').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/HP-RHS-BB4', [300, 250], 'div-gpt-ad-1459864280742-3').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/HP_RHS-BB5', [300, 250], 'div-gpt-ad-1459864280742-4').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/GAdx_ROS_BOTTOM_BB', [300, 250], 'div-gpt-ad-1459864732290-4').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/E-HP-300X100', [300, 100], 'div-gpt-ad-1462509157658-0').addService(googletag.pubads());
+        //googletag.defineSlot('/1673516/HP_Bottom_728x90', [[768, 90], [970, 250], [728, 90]], 'div-gpt-ad-1459864280742-5').addService(googletag.pubads());
+        //googletag.defineSlot('/1673516/HomePage_LeftEarPanel_144x90', [250, 90], 'div-gpt-ad-1459864280742-6').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/HomePage_rightEarPanel_144x90', [250, 90], 'div-gpt-ad-1464159619596-0').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/HomePage_SmallBanner_Fixed_2', [300, 50], 'div-gpt-ad-1459864280742-8').addService(googletag.pubads());
+
+      
+        googletag.defineSlot('/1673516/skin-left-130x760', [130, 760], 'div-gpt-ad-1456118239073-0').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/Skin_130x760', [130, 760], 'div-gpt-ad-1463033591563-0').addService(googletag.pubads());
+        googletag.defineSlot('/1673516/E-HP-680X40', [680, 40], 'div-gpt-ad-1467008577079-0').addService(googletag.pubads());
+
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.pubads().enableSyncRendering();
+        googletag.enableServices();
+    });
+</script>
+
+
+     <!-- Begin GA Tag -->
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-8844954-3', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+</script>
+<!-- End GA Tag -->
+<!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "20416623" });
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=20416623&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Begin ABC Tag -->
+<script type="text/javascript">
+    (function () {
+        var d = new Image(1, 1);
+        d.onerror = d.onload = function () { d.onerror = d.onload = null; };
+        d.src = ["//secure-gl.imrworldwide.com/cgi-bin/m?ci=ent1236951067&am=3&ep=1&at=view&rt=banner&st=image&ca=cmp235465&cr=crv1107056&pc=plc21308226&r=", (new Date()).getTime()].join('');
+    })();
+</script>
+<!-- End ABC Tag -->
+</head>
+<body>
+<div class="gridContainer clearfix"> 
+ <!-- road block body advt starts -->
+  <!--   <div id="body_ad">              
+                                
+              <div id="right">
+                    <!-- /1673516/Skin_Right_130x760 -->
+<!-- /1673516/Skin_130x760 -->
+<!--<div id='div-gpt-ad-1463033591563-0' style='height:760px; width:130px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1463033591563-0'); });
+</script>
+</div>-->
+                <!--    </div>   
+              <div id="left">-->
+<!-- /1673516/skin-left-130x760 -->
+<!--<div id='div-gpt-ad-1456118239073-0' style='height:760px; width:130px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function () { googletag.display('div-gpt-ad-1456118239073-0'); });
+</script>
+</div>
+ </div>            
+             <div id="close1">
+                    <img src="_assets/_images/close.png" id="closeit" alt="close" onclick="hidead()" /></div>
+            </div>-->
+         
+            <!-- road block body advt ends -->
+  <!-- content div starts here -->
+  <main id="wrapper">
+    <header>
+      <nav class="top-nav">
+          <ul>
+        
+          <li><span class="ep"><a href="http://epaper.eenadu.net/" target="_blank" title="eenadu e-paper"> E-PAPER </a></span></li>
+          <li><a href="http://archives.eenadu.net/home.aspx" target="_blank" title=" archives - eenadu"> ARCHIVES</a></li>
+          <li><a href="http://www.vasundhara.net" title="Vasundhara"  target="_blank"> VAS KUTUMBAM</a> </li>
+          <li><a href="http://www.eenadupratibha.net/" target="_blank" title="eenadu pratibha"> PRATIBHA</a> </li>         
+          <li><a href="http://www.eenadupellipandiri.net/" target="_blank" title="eenadu pellipandiri"> PELLIPANDIRI </a> </li>
+          <li><a href="http://www.eenaduindia.com/" target="_blank" title="eenaduindia"> EENADU INDIA</a> </li>
+          <li><a href="http://www.eenaduclassifieds.net/" target="_blank" title="eenaduclassifieds"> CLASSIFIEDS</a> </li>
+          <li><a href="http://www.eenaduinfo.com/internet.htm" target="_blank" title="tariff - eenadu">TARIFF </a></li>
+          <li><a href="http://www.eenaduinfo.com/csr_policy.htm" target="_blank" title="csr policy"> CSR POLICY</a></li>
+          <li><a href="contactus/contactus.aspx" target="_blank" title="contact us">CONTACT</a></li>
+          <li><span class="ep"><a href="contactus/feedback.aspx" target="_blank" title="feedback">FEEDBACK</a></span></li>
+          <li>
+          <span><a href="https://www.facebook.com/eenaduonline" target="_blank" title="eenadu facebook"><img src="_assets/_images/fb.png"></a></span>
+          <span><a href="https://twitter.com/eenadulivenews" target="_blank" title="eenadu twitter"><img src="_assets/_images/tw.png"></a></span>
+          </li>
+</ul>
+
+
+      </nav>
+      <!-- top-nav ends here -->
+      <section>
+        <figure class="logo"><img src="_assets/_images/logo1.png" alt="">
+          <figcaption><span id="lblDateTime">బుధవారం, ఆగస్టు 24, 2016</span></figcaption>
+        </figure>
+        <!-- logo class ends -->
+         <!-- /1673516/HP_TLB_728x90 -->
+      
+         <!-- ad 728*90 --> 
+        <div class="ear-ads">
+          <div class="ear-panel-left"><!-- include file = "ads/hm-earpannelleft.htm" --></div>
+          <div class="ear-panel-right"><!-- include file = "ads/hm-earpannelright.htm" --></div>        
+        </div>
+      </section>
+      <div class="clearfix"></div>
+      <nav>
+       <div class="menu">
+                  <ul>
+          <li class="active"><a href="/home.aspx"><div class="eenaduhome"></div></a></li>
+          <li><a href="andhra-pradesh-news.aspx"> ఆంధ్రప్రదేశ్ </a></li>
+          <li><a href="telangana-news.aspx"> తెలంగాణ</a></li>
+          <li><a href="national-international/national-international-news.aspx">జాతీయ- అంతర్జాతీయ</a></li>
+          <li><a href="crime-news/crime-news.aspx" title="crime news">క్రైమ్ </a></li>       
+          <li><a href="business/business-news.aspx" title="business">బిజినెస్‌ </a></li>
+          <li><a href="sports/sports.aspx" title="sports"> క్రీడలు </a></li>
+          <li><a href="movies/latest-movie-news.aspx" title="movies">సినిమా</a></li>
+          <li><a href="http://www.eenadu.net/vasundhara/vasundhara.aspx">వసుంధర</a></li>          
+          <li><a href="#" tabindex="1">ఫీచర్ పేజీలు <span class="arrow-down"></span></a>
+            <ul class="dropdown">
+                <li><a href="http://www.eenadu.net/special-pages/haibujji/haibujji.aspx">హాయ్‌ బుజ్జీ</a></li>
+                <li><a href="http://www.eenadu.net/special-pages/chaduvu/chaduvu.aspx"> చదువు</a></li>
+                <li><a href="http://www.eenadu.net/special-pages/sukhibhava/sukhibhava.aspx">సుఖీభవ </a></li>
+                <li><a href="http://www.eenadu.net/special-pages/e-eenadu/e-eenadu.aspx">ఈ-నాడు</a></li>
+                <li><a href="http://www.eenadu.net/special-pages/siri/siri.aspx">సిరి </a></li>
+                <li><a href="http://www.eenadu.net/special-pages/etharam/etharam.aspx">ఈ తరం</a></li>               
+                <li><a href="http://www.eenadu.net/special-pages/sthirasthi/sthirasthi.aspx">స్థిరాస్తి</a></li>
+				<li><a href="http://www.eenadu.net/special-pages/ruchulu/ruchulu.aspx">రుచులు </a></li>
+                <li><a href="http://www.eenadu.net/special-pages/aalayaalu/aalayaalu.aspx">దేవ‌తార్చ‌న</a></li>
+            </ul>          
+          </li>          
+          <li><a href="photos/photos.aspx">ఫొటోలు</a></li>
+          <li><a href="videos/videos.aspx">వీడియోలు </a></li>
+          <li><a href="nri/nri.aspx">ఎన్ఆర్ఐ</a></li>
+          <li><a href="#" tabindex="1">ఇంకా..<span class="arrow-down"></span></a>
+            <ul class="dropdown1">
+              <li><a href="web-exclusives/web-exclusives.aspx">వెబ్ ప్రత్యేకం</a></li>
+              <li><a href="social-media/social-media.aspx">సోషల్ మీడియా</a></li>  
+              <li><a href="http://www.eenadu.net/magazines/sunday-magazine/sunday-magazine.aspx">సండే మ్యాగజైన్</a></li> 
+              
+            <li><a href="#" tabindex="1">మ్యాగజైన్స్<span class="arrow-down1"></span></a>
+            <ul class="sub-dropdown">
+              <li><a href="http://www.eenadu.net/magazines/vipula-magazine/vipula-magazine.aspx">విపుల</a></li>
+              <li><a href="http://www.eenadu.net/magazines/chatura-magazine/chatura-magazine.aspx">చతుర</a></li>  
+              <li><a href="http://www.eenadu.net/magazines/annadata-magazine/annadata-magazine.aspx">అన్నదాత</a></li>
+            </ul>
+            </li>
+              <li><a href="calendar/telugu-calendar-2016.aspx">క్యాలెండర్</a></li>           
+              <li><a href="pellipandiri/eenadu-pellipandiri.aspx">పెళ్లిపందిరి</a></li>   
+              <li><a href="http://www.eenadu.net/tv-movie-listings/tv-listings.aspx">ఏ ఛానల్ లో ఏ సినిమా!</a></li>                  
+            </ul>
+          </li>
+        </ul>
+
+       </div>
+        <div class="nav_bg">
+            <div class="nav_bar"> <span></span> <span></span> <span></span> </div>
+          </div>
+      </nav>
+    </header>
+    <div class="clearfix"></div>
+    <!-- -----header ends----------- --> 
+
+    <!-- road block push over 1003x200 starts -->
+<!-- /1673516/E_HP_Pagepush-989x200 -->
+<!--<div class="Push1003-ad">
+<div id='div-gpt-ad-1462940925694-0' style='height:200px; width:989px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1462940925694-0'); });
+</script>
+</div>
+<br />
+</div>-->
+
+        <!-- road block push over 1003x200 end -->
+    <!-- -------------------------------------------------------Owl - slider start here----------------------------------------------- -->   
+    <!-- 	----------------------left coloumn / two column layout start here------------------	-->
+    
+    <div class="col-left">
+     <div id="owl-demo" class="owl-carousel">
+      <figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break98"><img src="images/slider98.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break98">చెర్రీకి రాఖీ కట్టిన పవన్‌కల్యాణ్‌ కుమార్తె</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break84"><img src="images/slider-84.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break84">జయలలితపై సుప్రీంకోర్టు ఆగ్రహం</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break79"><img src="images/sports-slider-79.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break79">రియో నుంచి వచ్చి.. పరీక్ష హాలుకు</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break55"><img src="images/slider-55.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break55">ఇటలీలో భారీ భూకంపం.. 21కి చేరిన మృతులు</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break67"><img src="images/slider67.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break67">నేను గుర్తించేలోపే.. ఎత్తుకున్నారు</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break45"><img src="images/slider45.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break45">మిగిలిస్తే.. జరిమానా కట్టాల్సిందే!</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break105"><img src="images/slider105.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break105">‘సుష్మా గారు.. నిజంగా మీరేనా?’</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break93"><img src="images/slider93.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break93">అందరి కృషితోనే పుష్కరాలు విజయవంతం</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break113"><img src="images/sliders113.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break113">కేసీఆర్‌ బృందానికి భారీగా స్వాగత ఏర్పాట్లు</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break77"><img src="images/slider77.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break77">ధోనీ మెచ్చిన ‘ధోనీ’</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break75"><img src="images/slider75.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break75">ఎందుకు వ్యతిరేకిస్తారో అర్థం కాదు</a>
+</figcaption>
+</figure>
+<figure class="owl-item">
+<a href="homeinner.aspx?category=home&item=break82"><img src="images/deepika82.jpg"></a>
+<figcaption class="telugu_uni_headings black">
+<a href="homeinner.aspx?category=home&item= break82">ఫోర్బ్స్‌ టాప్‌టెన్‌లో దీపిక</a>
+</figcaption>
+</figure>
+
+    </div>
+   
+    <div class="clearfix"></div>
+      <section class="two-col-left-block box-shadow telugu_uni_body no-space">
+           <!--News Ticker Start -->      
+      <!-- include file = "news-ticker-home.htm" -->
+<!--News Ticker end -->
+          
+      </section>
+      <div class="clearfix"></div>
+      <!-- taja block ticker ends here -->
+      <!-- Left Column Ads Starts -->
+            <div class="lcol-ad-block">
+            <div class="events-ad300">
+<a href="Krishna-pushkaralu-2016/krishna-pushkaralu-2016.aspx" target="_blank">
+<img src="ads/images/krishna-pushkaralu-2016-330x40-100816.gif"></a>
+</div>
+<!--<div class="events-ad300">
+<a href="sports/rio-olympics-2016/rio-olympics-2016.aspx" target="_blank">
+<img src="ads/images/rio-2016-330x40-100816.gif"></a>
+</div>-->
+<!-- 680x30 Ads Starts-->
+<ul class="ads680-30">
+ <li><a href="http://www.eenadu.net/Krishna-pushkaralu-2016/krishna-pushkaralu-2016.aspx" target="_blank">
+ <img src="ads/images/krishna-pushkaralu-2016-680x40-100816.gif"></a>
+ </li>
+<li>
+ <!--<li><a href="http://www.eenadu.net/sports/rio-olympics-2016/rio-olympics-2016.aspx" target="_blank">
+ <img src="ads/images/rio-680x40-100816.gif"></a>
+ </li>-->
+<li>
+<!-- /1673516/E-HP-680X40 -->
+<div id='div-gpt-ad-1467008577079-0' style='height:40px; width:680px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1467008577079-0'); });
+</script>
+</div></li>
+</ul>
+<!-- 680x30 Ads End -->
+<!-- 220x50 Ads Starts -->
+
+<!-- 220x50 Ads Starts Ads End -->
+<!-- 330x50 Ads Starts -->
+<!--<ul class="ads330-50"> 
+            <li><a href="Krishna-pushkaralu-2016/krishna-pushkaralu-2016.aspx" target="_blank"><img src="ads/images/krishna-pushkaralu-2016-330x40-100816.gif"></a></li>
+            <li><a href="sports/rio-olympics-2016/rio-olympics-2016.aspx" target="_blank"><img src="ads/images/rio-2016-330x40-100816.gif"></a></li>
+</ul>-->
+
+           
+           </div>
+             <div class="clearfix"></div> 
+            <!-- Left Column Ads Ends -->
+      <a href="homeinner.aspx?item=breaknews-more"><h3 class="telugu_uni_headings">తాజావార్తలు</h3></a>
+      <section class="two-col-left-block box-shadow offset-b"> 
+        <ul class="no-space">
+          <li class="two-col-left-by-two border-r offset-rt1">
+            <article class="telugu_uni_body">
+                             <aside class="thumb-content">  
+               <figure class="thumb">
+               <a href="homeinner.aspx?category=home&item=break118">
+               <img src="break118.jpg"></a>
+               </figure>
+               <figcaption class="thumb-description">
+               <a href="homeinner.aspx?category=home&item=break118">
+               <span class="article-title-rgt">18 ఏళ్లుగా కేవలం బ్లాక్‌ టీతో..<span class="ntime">[15:34]</span></span>
+               <br>ఒక్కరోజు ఏం తినకపోతేనే మనం ఉండలేం.. అలాంటిది సంవత్సరాల తరబడి ఏం తినకుండా కేవలం టీ మాత్రమే తాగి ఉండగలమా? కానీ
+ఒక మహిళ కేవలం...</a>
+               </figcaption>
+               </aside>           
+               <div class="clearfix"></div>
+               <aside class="thumb-content">  
+               <figure class="thumb">
+               <a href="homeinner.aspx?category=home&item=break102">
+               <img src="break102.jpg"></a>
+               </figure>
+               <figcaption class="thumb-description">
+               <a href="homeinner.aspx?category=home&item=break102">
+               <span class="article-title-rgt">ఎల్బీనగర్‌లో అదృశ్యం.. గోవాలో ప్రత్యక్షం<span class="nvid"><img src="_assets/_images/vid-icon.png"></span><span class="ntime">[14:07]</span></span>
+               <br>నగరంలో అదృశ్యమైన నలుగురు విద్యార్థులు గోవాలో ఉన్నట్లు
+పోలీసులు గుర్తించారు. విద్యార్థుల వద్ద సెల్‌ఫోన్‌ ఆధారంగా</a>
+               </figcaption>
+               </aside>           
+               <div class="clearfix"></div>
+               <aside class="thumb-content">  
+               <figure class="thumb">
+               <a href="homeinner.aspx?category=home&item=break59">
+               <img src="break59.jpg"></a>
+               </figure>
+               <figcaption class="thumb-description">
+               <a href="homeinner.aspx?category=home&item=break59">
+               <span class="article-title-rgt">మత్తులో హద్దులు దాటిన ప్రేమ జంట<span class="ntime">[09:46]</span></span>
+               <br>వేలూరు అన్నాసాలైలో సోమవారం మధ్యాహ్నం ఒక యువ జంట మద్యం మత్తులో వాహనాన్ని వేగంగా నడుపుతూ ఇతర వాహన చోదకులను
+హడలెత్తించారు.....</a>
+               </figcaption>
+               </aside>           
+               <div class="clearfix"></div>
+  
+            </article>
+          </li>
+           
+          <!-- item article 1 -->
+          <li class="two-col-left-by-two">           
+            <article class="telugu_uni_body">
+              <aside>
+                <ul class="article-box-list">
+                <li><p><a href="homeinner.aspx?category=home&item=break132">‘మనలో ఒకడు’ టీజర్‌ విడుదల</a><span class="nvid"><img src="_assets/_images/vid-icon.png"></span><span class="ntime">[16:39]</span></p></li>
+<li><p><a href="homeinner.aspx?category=home&item=break131">సీఎం కేసీఆర్‌కు ఘనస్వాగతం</a><span class="ntime">[16:32]</span></p></li>
+<li><p><a href="homeinner.aspx?category=home&item=break129">ఉత్తర భారతాన్ని తాకిన భారీ భూకంపం</a><span class="ntime">[16:26]</span></p></li>
+<li><p><a href="homeinner.aspx?category=home&item=break127">సరోగసీ ముసాయిదా బిల్లుకు కేంద్రం ఆమోదం</a><span class="ntime">[16:21]</span></p></li>
+<li><p><a href="homeinner.aspx?category=home&item=break126">పడవ ప్రమాదంలో తొమ్మిది మంది మృతి</a><span class="ntime">[16:17]</span></p></li>
+<li><p><a href="homeinner.aspx?category=home&item=break124">సింధూ, సాక్షి, దీపకు వజ్ర హారాలు</a><span class="ntime">[16:05]</span></p></li>
+<li><p><a href="homeinner.aspx?category=home&item=break123">26న చంద్రన్న ఉద్యోగ మేళా: రావెల</a><span class="ntime">[16:02]</span></p></li>
+<li><p><a href="homeinner.aspx?category=home&item=break122">హెలికాప్టర్ల ద్వారా సహాయక చర్యలు</a><span class="ntime">[15:59]</span></p></li>
+<li><p><a href="homeinner.aspx?category=home&item=break121">స్వల్ప లాభాలతో ముగిసిన మార్కెట్లు</a><span class="ntime">[15:56]</span></p></li>
+                
+                </ul>
+              </aside>            
+            </article>
+          </li>
+         </ul> 
+        <a href="homeinner.aspx?item=breaknews-more"  class="more">మరిన్ని</a>
+      </section>   
+      <div class="clearfix"></div>    
+      <!-- articles blocks ends here -->   
+       
+<!--<div class="events-ad300">
+ <a href="special-pages/chaduvu/educationfair2016/eenadu-online-education-fair-2016.aspx" onclick="ga('send', 'event', 'advertisements', 'education-fair', 'education-fair_320x50_120516');" target="_blank">
+ <img src="ads/images/educationfair-hm-300x50.gif"></a>
+</div>-->
+
+ <!-- 680x30 Ads Starts--> 
+<!--<ul class="ads680-30 no-space"> 
+<li>
+<div id='div-gpt-ad-1462941697281-0' style='height:70px; width:680px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1462941697281-0'); });
+</script>
+</div>
+</li>
+ </ul>-->
+<!-- 680x30 Ads End -->
+
+ <!-- 680x30 Ads Starts--> 
+<ul class="ads680-30 no-space"> 
+<!--<li>
+ <a href="ads/eenadu-job-fair/eenadu-job-fair.html" onclick="ga('send', 'event', 'advertisements', 'education-fair', 'education_fair_020816');" target="_blank">
+ <img src="ads/images/Eenadu-Job-Faire-020816.gif" alt="">
+ </a>
+</li>-->
+ </ul>
+<!-- 680x30 Ads End -->
+
+
+
+
+
+<!-- 330x50 Ads Starts -->
+<!--<ul class="ads330-50"> 
+            <li><a href="#"><img src="ads/330x50-1.gif"></a></li>
+            <li><a href="#"><img src="ads/330x50-2.gif"></a></li>
+</ul>-->
+
+
+
+<!-- 220x50 Ads Starts -->
+
+<!-- 220x50 Ads Starts Ads End -->
+
+
+   
+           
+      <!-- politics  two block blocks start here -->      
+      <section class="two-col-left-block offset-t">
+          <div id="slider1_container" >
+        <!-- Slides Container -->
+        <div u="slides" class="slidershow">
+            <!-- Slide -->
+            <div>
+                 <article class="two-col-left-by-three-slider  telugu_uni_body">
+              <div class="box-shadow by-row">
+                <a href="editorial/editorial.aspx?item=ap-editorial"><h4 class="telugu_uni_headings sub-head">సంపాదకీయం (ఆంధ్రప్రదేశ్)</h4></a>
+                <ul>
+                   <li><a href="editorial/editorial.aspx?item=ap-editorial">భక్తిశ్రద్ధల ఫలమిది...</a>
+</li>
+                   <li><a href="editorial/Vyakyanam.aspx?item=opinion-ap">వ్యాఖ్యానం</a></li>
+              <li><a href="editorial/antaryami.aspx">అంతర్యామి</a></li>                          
+                </ul>
+              </div>
+              <!-- first half -->
+              <div class="box-shadow by-row">
+                <a href="exclusive-news/eenadu-exclusive-news.aspx"><h4 class="telugu_uni_headings sub-head">ఈనాడు ప్రత్యేకం</h4></a>
+                <ul>
+                  <li><a href="exclusive-news/eenadu-exclusive-news.aspx?item=ems71">విశ్వగతిని మార్చిన సంగతి!</a></li>
+ <li><a href="exclusive-news/eenadu-exclusive-news.aspx?item=ems70">ఆశలు ఆవిరవుతున్నాయి..</a></li>
+ <li><a href="exclusive-news/eenadu-exclusive-news.aspx?item=ems69">రోగాలకు ఇవి సిరంజీవులు</a></li>
+  
+                 <a href="exclusive-news/eenadu-exclusive-news.aspx" class="more2">మరిన్ని</a> 
+                </ul>
+              </div>
+            </article>
+            
+            
+            <article class="two-col-left-by-three box-shadow">
+               <a href="cartoons/cartoons-ap.aspx"><h4 class="telugu_uni_headings sub-head"> ఇదీ సంగతి</h4></a>
+              <aside>
+                <figure><a href="cartoons/cartoons-ap.aspx"><img src="images/cartoon-ap.jpg" width="170" height="235"></a>
+                  <figcaption class="telugu_uni_body cartoon-txt"></figcaption>
+                </figure>
+                <a href="cartoons/cartoons-ap.aspx" class="more">మరిన్ని</a> 
+              </aside>
+            </article>
+                
+            </div>
+            <!-- Slide -->
+            <div>
+                 <article class="two-col-left-by-three-slider  telugu_uni_body">
+              <div class="box-shadow by-row">
+                <a href="editorial/editorial.aspx?item=ts-editorial"><h4 class="telugu_uni_headings sub-head">సంపాదకీయం (తెలంగాణ‌)</h4></a>
+                <ul>
+                   <li><a href="editorial/editorial.aspx?item=ts-editorial">భక్తిశ్రద్ధల ఫలమిది...</a>
+</li>
+                   <li><a href="editorial/Vyakyanam.aspx?item=opinion-ts">వ్యాఖ్యానం</a></li>
+              <li><a href="editorial/antaryami.aspx">అంతర్యామి</a></li>                         
+                </ul>
+              </div>
+              <!-- first half -->
+              <div class="box-shadow by-row">
+                <a href="exclusive-news/eenadu-exclusive-news.aspx"><h4 class="telugu_uni_headings sub-head">ఈనాడు ప్రత్యేకం</h4></a>
+                <ul>
+                  <li><a href="exclusive-news/eenadu-exclusive-news.aspx?item=ems71">విశ్వగతిని మార్చిన సంగతి!</a></li>
+ <li><a href="exclusive-news/eenadu-exclusive-news.aspx?item=ems70">ఆశలు ఆవిరవుతున్నాయి..</a></li>
+ <li><a href="exclusive-news/eenadu-exclusive-news.aspx?item=ems69">రోగాలకు ఇవి సిరంజీవులు</a></li>
+           
+                 <a href="exclusive-news/eenadu-exclusive-news.aspx" class="more2">మరిన్ని</a> 
+                </ul> 
+              </div>
+            </article>
+            
+            
+            <article class="two-col-left-by-three box-shadow">
+              <a href="cartoons/cartoons-ts.aspx"><h4 class="telugu_uni_headings sub-head">ఇదీ సంగతి</h4></a>
+              <aside>
+                <figure><a href="cartoons/cartoons-ts.aspx"> <img src="images/cartoon-ts.jpg"  width="170" height="235"></a>
+                  <figcaption class="telugu_uni_body cartoon-txt"></figcaption>
+                </figure>
+                <a href="cartoons/cartoons-ts.aspx" class="more">మరిన్ని</a> 
+              </aside>
+            </article>                
+            </div>            <!-- Slide -->
+                   </div>
+       </div>
+            
+            <article class="two-col-left-by-three box-shadow">
+              <a href="graham/graham.aspx"><h4 class="telugu_uni_headings sub-head">గ్రహం - అనుగ్రహం</h4></a>
+              <aside class="telugu_uni_body">
+                <p class="push-fixed1"> <a href="graham/graham.aspx">  <span id="lblGraham">  శ్రీ దుర్ముఖి నామ సం॥రం॥ దక్షిణాయనం;  వర్ష రుతువు;శ్రావణ మాసం; బహుళ పక్షం  సప్తమి: రా. 1-08 తదుపరి అష్టమి  భరణి నక్షత్రం: సా. 5-20 తదుపరి కృత్తిక  వర్జ్యం: తె. 4-29 నుంచి  అమృత ఘడియలు: మ. 12-52 నుంచి 2-22 వరకు  దుర్ముహూర్తం: ఉ. 11-38 నుంచి 12-28 వరకు  రాహుకాలం: మ. 12-00 నుంచి 1-30 వరకు  సూర్యోదయం: ఉ. 5-48, సూర్యాస్తమయం: సా.6-18</span><br>
+                  </a></p>
+                  <p class="more1 offset-t center"><a href="graham/graham.aspx">రాశిఫలం</a></p>
+              </aside>
+            </article>
+          </section>
+       <div class="clearfix"></div>
+      <!-- article with 2sub col - 3 vertical thumbs -->
+       <!-- /1673516/HomePage_TopMiddle_468x60 -->
+<!--<div class="ads468-60-raja">      
+<div id='div-gpt-ad-1460531495350-0' style='height:60px; width:468px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1460531495350-0'); });
+</script>
+</div>
+</div> 
+-->
+<!--<ul class="ads680-30">
+    <li><a href="http://www.eenadu.net/ads/eenadu-property-show/eenadu-property-show-2016.html"
+        target="_blank">
+        <img src="ads/images/property-banner-new-june2016.gif" onclick="ga('send', 'event', 'advertisements', 'education-fair2016-june', 'education-fair_june_310516');"></a>
+    </li>
+</ul>
+-->  
+       
+      <h3 class="telugu_uni_headings offset-tp3 sub-head">ప్రధానాంశాలు</h3>
+      
+      <!-- rajakeeyalu etc tabbed menu starts -->
+     
+      <div class="cd-tabs">
+        <nav>
+          <ul class="cd-tabs-navigation telugu_uni_headings  tab-head">
+           <li><a data-content="mainnews"  class="selected" href="#0">ముఖ్యాంశాలు</a></li>   
+            <li><a data-content="politics" href="#0">రాజకీయం</a></li>           
+            <li><a data-content="statenews" href="#0">రాష్ట్ర వార్తలు</a></li>   
+            <li><a data-content="stories" href="#0">కథనాలు</a></li>           
+          </ul>
+          <!-- cd-tabs-navigation --> 
+        </nav>
+        <ul class="cd-tabs-content no-space">
+        
+          
+          <li data-content="mainnews"  class="selected">
+            <!-- first tab content -->            
+            <section class="two-col-left-block box-shadow">
+              <div class="two-col-left-by-two border-r">
+                <article class=" telugu_uni_body">
+             <aside>
+<figure class="mid-thumb"><a href="news/news.aspx?item=main-news&no=1"><img src="news/main-news-medium1.jpg"></a></figure>
+<p class="push-fixed"><a href="news/news.aspx?item=main-news&no=1"><b class="telugu_uni_body article-title">గోస తీర్చ వస్తోంది గోదారి</b> <br>
+‘స్నేహపూర్వక వాతావరణంలో ప్రాజెక్టుల నిర్మాణానికి ఒప్పందాలు చేసుకోవడం శుభపరిణామం. దీనివల్ల
+రెండు రాష్ట్రాలకూ మేలు జరుగుతుంది. ఉమ్మడి ఆంధ్రప్రదేశ్‌లో నిత్యం ఘర్షణపూరిత వైఖరి ఉండేది. తెలంగాణ
+ఏర్పడిన తర్వాత సంబంధాలు మెరుగయ్యాయి. సీఎం కేసీఆర్‌ స్నేహపూర్వక...</a></p>
+</aside>             
+<div class="clearfix"></div>
+ 
+                </article>             
+              </div>              
+              <div class="two-col-left-by-two ">
+                <article class="telugu_uni_body">
+                  <aside class="thumb-content">
+<figure class="thumb"><a href="news/news.aspx?item=main-news&no=5"><img src="news/main-news-small5.jpg"></a></figure>
+<p class="thumb-description"><a href="news/news.aspx?item=main-news&no=5">
+<strong class="article-title-rgt">చరిత్రాత్మకం.. సువర్ణ లిఖితం</strong><br>
+గోదావరి జలాల వినియోగానికి సంబంధించి మహారాష్ట్రతో జరిగిన ఒప్పందం నూతన ఒరవడికి శ్రీకారం చుట్టిందని తెలంగాణ ముఖ్యమంత్రి కేసీఆర్‌...</a></figcaption>
+</aside>   
+<aside class="thumb-content">
+<figure class="thumb"><a href="news/news.aspx?item=main-news&no=4"><img src="news/main-news-small4.jpg"></a></figure>
+<p class="thumb-description"><a href="news/news.aspx?item=main-news&no=4">
+<strong class="article-title-rgt">కృష్ణమ్మకు నీరా‘జనం’</strong><br>
+కృష్ణా పుష్కరాలు ఘనంగా ముగిశాయి. చివరిరోజైన మంగళవారం మహబూబ్‌నగర్‌, నల్గొండ జిల్లాల్లోని ఘాట్లకు భక్తులు పోటెత్తారు. 12రోజులపాటు...</a></figcaption>
+</aside>   
+<aside class="thumb-content">
+<figure class="thumb"><a href="news/news.aspx?item=main-news&no=3"><img src="news/main-news-small3.jpg"></a></figure>
+<p class="thumb-description"><a href="news/news.aspx?item=main-news&no=3">
+<strong class="article-title-rgt">వందమంది సింధులను తయారు చేస్తాం</strong><br>
+నవ్యాంధ్ర రాజధాని అమరావతిలో 2029 నాటికి అంతర్జాతీయ ప్రమాణాలతో అద్భుతమైన క్రీడా నగరాన్ని నిర్మిస్తామని ముఖ్యమంత్రి చంద్రబాబు...</a></figcaption>
+</aside>   
+ 
+                </article>
+              </div>
+              <a href="news/news.aspx?item=main-news" class="more">మరిన్ని</a> </section>
+                 <div class="clearfix"></div>
+          </li>
+         
+            <li data-content="politics">
+            <!-- first tab content -->
+            <section class="two-col-left-block box-shadow">
+              <div class="two-col-left-by-two border-r">
+                <article class="telugu_uni_body">
+                <aside>
+<figure class="mid-thumb"><a href="politics-news/politics-news.aspx?item=politics-news&no=1"><img src="politics-news/politics-news-medium1.jpg"></a></figure>
+<p class="push-fixed"><a href="politics-news/politics-news.aspx?item=politics-news&no=1"><b class="telugu_uni_body article-title">భాజపా అంటే జాతీయవాదం</b> <br>
+భాజపా అంటేనే జాతీయవాదమని ప్రధాని నరేంద్రమోదీ స్పష్టం చేశారు. జాతీయ ఐక్యత, సమగ్రత స్ఫూర్తిని విస్తరించడంలో కేంద్ర మంత్రులు, పార్టీ నేతలు
+నిర్వహించిన తిరంగా యాత్ర ముఖ్యపాత్రను పోషించిందని చెప్పారు. వివిధ రాష్ట్రాల భాజపా కోర్‌ గ్రూపుల సమావేశాన్ని ఉద్దేశించి...</a></p>
+</aside>             
+<div class="clearfix"></div>
+ 
+                </article>
+                             
+              </div>
+              
+              <div class="two-col-left-by-two ">
+                <article class="telugu_uni_body">
+               <aside class="thumb-content">
+<figure class="thumb"><a href="politics-news/politics-news.aspx?item=politics-news&no=5"><img src="politics-news/politics-news-small5.jpg"></a></figure>
+<p class="thumb-description"><a href="politics-news/politics-news.aspx?item=politics-news&no=5">
+<strong class="article-title-rgt">కేసీఆర్‌కు ‘మహా’ స్వాగతం</strong><br>
+గోదావరిపై ప్రాజెక్టుల నిర్మాణానికి మహారాష్ట్రతో ఒప్పందం చేసుకొని హైదరాబాద్‌కు తిరిగొస్తున్న ముఖ్యమంత్రి కేసీఆర్‌కు బుధవారం...</a></figcaption>
+</aside>   
+<aside class="thumb-content">
+<figure class="thumb"><a href="politics-news/politics-news.aspx?item=politics-news&no=4"><img src="politics-news/politics-news-small4.jpg"></a></figure>
+<p class="thumb-description"><a href="politics-news/politics-news.aspx?item=politics-news&no=4">
+<strong class="article-title-rgt">ఒప్పందం.. కేసీఆర్‌ రాజనీతికి నిదర్శనం: నాయిని</strong><br>
+ముఖ్యమంత్రి కేసీఆర్‌ రాజనీతి వల్లనే మహారాష్ట్రతో కీలక ఒప్పందం కుదిరిందని, ఇకపై ప్రాజెక్టుల నిర్మాణం నిరాటంకంగా...</a></figcaption>
+</aside>   
+<aside class="thumb-content">
+<figure class="thumb"><a href="politics-news/politics-news.aspx?item=politics-news&no=3"><img src="politics-news/politics-news-small3.jpg"></a></figure>
+<p class="thumb-description"><a href="politics-news/politics-news.aspx?item=politics-news&no=3">
+<strong class="article-title-rgt">చారిత్రక ఒప్పందం కాదు శాశ్వత ద్రోహం</strong><br>
+తెలంగాణ ప్రభుత్వం మహారాష్ట్రతో చేసుకున్న ఒప్పందం చారిత్రక ఒప్పందం కాదని ఇది తెలంగాణకు శాశ్వతంగా ద్రోహం చేసే...</a></figcaption>
+</aside>   
+
+                </article>
+              </div>
+              <a href="politics-news/politics-news.aspx" class="more">మరిన్ని </a> 
+            </section>
+          <div  class="clearfix"></div>
+          </li>
+          
+        
+
+           <li data-content="statenews">
+            <!-- first tab content -->            
+            <section class="two-col-left-block box-shadow">
+              <div class="two-col-left-by-two border-r">
+                <article class=" telugu_uni_body">
+             <aside>
+<figure class="mid-thumb"><a href="news/news.aspx?item=state-news&no=1"><img src="news/state-news-medium1.jpg"></a></figure>
+<p class="push-fixed"><a href="news/news.aspx?item=state-news&no=1"><b class="telugu_uni_body article-title">నిరసనల వెల్లువ</b> <br>
+కొత్త జిల్లాల ఏర్పాటు విషయంపై నిరసనల సెగ రగులుతూనే ఉంది. మొదట ప్రతిపాదించిన సిరిసిల్ల జిల్లాను ముసాయిదాలో
+ప్రకటించకపోవడాన్ని నిరసిస్తూ జిల్లా సాధనసమితి నాయకులు సిరిసిల్ల నుంచి వేములవాడ రాజరాజేశ్వరస్వామి ఆలయానికి మంగళవారం ప్రదర్శన...</a></p>
+</aside>             
+<div class="clearfix"></div>
+ 
+                </article>             
+              </div>              
+              <div class="two-col-left-by-two ">
+                <article class="telugu_uni_body">
+                  <aside class="thumb-content">
+<figure class="thumb"><a href="news/news.aspx?item=state-news&no=5"><img src="news/state-news-small5.jpg"></a></figure>
+<p class="thumb-description"><a href="news/news.aspx?item=state-news&no=5">
+<strong class="article-title-rgt">సింధుని చూసి గర్వపడుతున్నా</strong><br>
+భారతీయుడిగా, తెలుగువాడిగా సింధు సాధించిన విజయాన్ని చూసి గర్వపడుతున్నానని కేంద్రమంత్రి వెంకయ్యనాయుడు తెలిపారు. మంగళవారం...</a></figcaption>
+</aside>   
+<aside class="thumb-content">
+<figure class="thumb"><a href="news/news.aspx?item=state-news&no=4"><img src="news/state-news-small4.jpg"></a></figure>
+<p class="thumb-description"><a href="news/news.aspx?item=state-news&no=4">
+<strong class="article-title-rgt">భద్రాద్రి రాముడి ఆభరణాల లెక్కింపు</strong><br>
+భద్రాచలం శ్రీసీతారామచంద్రస్వామి ఆలయంలో స్వామివారి బంగారు ఆభరణాల లెక్కింపు ప్రక్రియ మంగళవారం జరిగింది. ఈవో...</a></figcaption>
+</aside>   
+<aside class="thumb-content">
+<figure class="thumb"><a href="news/news.aspx?item=state-news&no=3"><img src="news/state-news-small3.jpg"></a></figure>
+<p class="thumb-description"><a href="news/news.aspx?item=state-news&no=3">
+<strong class="article-title-rgt">జోనళ్ల రద్దుపై సమగ్ర చర్చ జరగాలి</strong><br>
+జోనల్‌ వ్యవస్థ అనేది అతి సున్నితమైన, జటిలమైన సమస్య అనీ, దాని పూర్వాపరాలు, చారిత్రక, భౌగోళిక పరిస్థితులను...</a></figcaption>
+</aside>   
+ 
+                </article>
+              </div>
+              <a href="news/news.aspx?item=state-news" class="more">మరిన్ని</a> </section>
+                <div  class="clearfix"></div>
+          </li>
+
+           <li data-content="stories">
+            <!-- first tab content -->            
+            <section class="two-col-left-block box-shadow">
+              <div class="two-col-left-by-two border-r">
+                <article class=" telugu_uni_body">
+             <aside>
+<figure class="mid-thumb"><a href="news/news.aspx?item=story&no=1"><img src="news/story-medium1.jpg"></a></figure>
+<p class="push-fixed"><a href="news/news.aspx?item=story&no=1"><b class="telugu_uni_body article-title">విశ్వగతిని మార్చిన సంగతి!</b> <br>
+గాలికన్నా వేగమైంది! కాంతి..మరి కాంతికన్నా వేగమైంది! మనసు మరి మనసుకన్నా వేగమైంది!.. ఏమీ లేదు. కానీ దానంత వేగంతో పనిచేసేది మరోటి ఉంది. అదే.. ఇంటర్నెట్‌! కాస్త అతిశయోక్తిగా అనిపించవచ్చుగాక.. కానీ నిజమే.ఎందుకంటే ఇది తెచ్చిన విప్లవం.. మార్పు అలాంటిది మరి...</a></p>
+</aside>             
+<div class="clearfix"></div>
+ 
+                </article>             
+              </div>              
+              <div class="two-col-left-by-two ">
+                <article class="telugu_uni_body">
+                  <aside class="thumb-content">
+<figure class="thumb"><a href="news/news.aspx?item=story&no=5"><img src="news/story-small5.jpg"></a></figure>
+<p class="thumb-description"><a href="news/news.aspx?item=story&no=5">
+<strong class="article-title-rgt">రోగాలకు ఇవి సిరంజీవులు</strong><br>
+రూ.5కే సూది సహా సిరంజి దొరుకుతుంది. కానీ, ఒకసారి వాడిన సిరంజిలు మళ్లీ వాడే అలవాటు మన దేశంలో...</a></figcaption>
+</aside>   
+<aside class="thumb-content">
+<figure class="thumb"><a href="news/news.aspx?item=story&no=4"><img src="news/story-small4.jpg"></a></figure>
+<p class="thumb-description"><a href="news/news.aspx?item=story&no=4">
+<strong class="article-title-rgt">ఆవిరైన సంతోషం</strong><br>
+అమెరికా కఠిన నిబంధనలతో తెలుగు విద్యార్థులు ఆస్ట్రేలియాలో చదువుకునేందుకు ఆసక్తి చూపుతున్నారు. అక్కడైనా సీటు దక్కిందన్న సంతోషంతో...</a></figcaption>
+</aside>   
+<aside class="thumb-content">
+<figure class="thumb"><a href="news/news.aspx?item=story&no=3"><img src="news/story-small3.jpg"></a></figure>
+<p class="thumb-description"><a href="news/news.aspx?item=story&no=3">
+<strong class="article-title-rgt">‘ఇష్టం’గా చదువుకోనీరా..?</strong><br>
+ఏళ్లు గడుస్తున్నా కొందరు అధికారుల తీరులో మార్పు రావట్లేదు. విద్యా సంవత్సరం ఆరంభానికి ముందే చేయాల్సిన పనుల పట్ల ఇప్పటికీ ఉదాసీనత...</a></figcaption>
+</aside>   
+ 
+                </article>
+              </div>
+              <a href="news/news.aspx?item=stories" class="more">మరిన్ని</a> </section>
+                <div  class="clearfix"></div>
+          </li>
+          
+        </ul>
+        <!-- cd-tabs-content --> 
+      </div>
+
+      <!-- cd-tabs --> 
+      
+      <!-- cinema champion start herse -->
+      
+      <section class="two-col-left-block offset-tp3">
+        <ul class="no-space">
+          <li class="two-col-left-by-two ">
+            <a href="movies/latest-movie-news.aspx"><h4 class="telugu_uni_headings sub-head">సినిమా</h4></a>
+            <article class="box-shadow telugu_uni_body">
+             <aside>
+<figure class="mid-thumb"><a href="movies/latest-movie-news.aspx?item=tollywood&no=8"><img src="movies/23tollywood-medium8.jpg"></a></figure>                
+<p class="mid-thumb-description"><a href="movies/latest-movie-news.aspx?item=tollywood&no=8">
+<b class="article-title">ఒకరోజు ముందే‘జనతా గ్యారేజ్‌’</b>
+</a>
+<br>
+<a href="movies/latest-movie-news.aspx?item=tollywood&no=8">ఎన్టీఆర్‌ కథానాయకుడిగా నటించిన చిత్రం ‘జనతా గ్యారేజ్‌’. కొరటాల శివ దర్శకుడు. సమంత, నిత్య మేనన్‌ కథానాయికలుగా నటించిన ఈ చిత్రంలో
+మోహన్‌లాల్‌ కీలక పాత్ర పోషించారు. మైత్రీ మూవీస్‌ సంస్థ నిర్మించింది. ఈ చిత్రాన్ని వచ్చే నెల 2న విడుదల చేద్దామనుకొన్నారు...</a>
+</p>
+</aside>
+<a href="movies/latest-movie-news.aspx" class="more2">మరిన్ని</a> 
+ 
+             </article>
+          </li>
+          
+          <!-- article first -->
+          
+          <li class="two-col-left-by-two ">
+            <a href="sports/sports.aspx"><h4 class="telugu_uni_headings sub-head">ఛాంపియన్</h4></a>
+            <article class="box-shadow telugu_uni_body">
+              <aside>
+<figure class="mid-thumb"><a href="sports/sports.aspx?item=sports-news&no=1"><img src="sports/sports-news-medium1.jpg"></a></figure>
+<p class="mid-thumb-description"><a href="sports/sports.aspx?item=sports-news&no=1">
+<b class="article-title">ఇలా ఉంటే.. వెనుకే ఉంటాం!</b>
+</a>
+<br>
+<a href="sports/sports.aspx?item=sports-news&no=1">రియో ఒలింపిక్స్‌లో రెజ్లర్‌ సాక్షి మలిక్‌ కాంస్య పతకం సొంతం చేసుకుంది.. సంతోషం! బ్యాడ్మింటన్‌లో పీవీ సింధు రజతం గెలిచింది..రెట్టింపు సంతోషం!...</a>
+</p>
+</aside>
+<a href="sports/sports.aspx" class="more2">మరిన్ని </a> 
+ 
+          </li>
+          
+          <!-- article second -->
+          <li class="two-col-left-by-two offset-t">
+           <a href="vasundhara/vasundhara.aspx"> <h4 class="telugu_uni_headings sub-head">వసుంధర</h4></a>
+             <article class="box-shadow telugu_uni_body">
+              <aside >
+                
+                <figure class="mid-thumb"><a href='http://www.eenadu.net/vasundhara/vasundhara-inner.aspx?featurefullstory=6353'>               
+                <img src="http://www.eenadu.net/vasundhara/article-images/230816vasu1-h.jpg" id="vasundarafeaturehome_imgfeature_0" /></a></figure>              
+
+                <p class="mid-thumb-description"><a href='http://www.eenadu.net/vasundhara/vasundhara-inner.aspx?featurefullstory=6353'>
+                <span class="article-title"><span id="vasundarafeaturehome_lblfeaturestorytitle_0"> లెహెంగా.. అదిరెనుగా!</span></span><br>
+                <span id="vasundarafeaturehome_lblfeaturestoryintro_0"> పాతవన్నీ మళ్లీ వచ్చి.. సరికొత్త ట్రెండ్‌గా మురిపిస్తుంటాయి. కొన్నింటికి ఈ చక్రంతో పనిలేదు. ఎప్పుడూ కాలానికి ఎదురేగుతూ కొత్త మార్పులని సంతరించుకుంటూనే ఉంటాయి. కొత్తతరం తమని హత్తుకునేలా మత్తువేస్తాయి. లెహెంగాలు ఇందుకో మంచి ఉదాహరణ!</span> </a></p>
+                           
+              </aside>
+              <a href="http://www.eenadu.net/vasundhara/vasundhara.aspx" class="more2">మరిన్ని </a> 
+              
+              </article>
+          </li>
+          
+          <!-- article third -->
+          
+          <li class="two-col-left-by-two offset-t">
+            <a href="business/business-news.aspx"><h4 class="telugu_uni_headings sub-head">బిజినెస్‌</h4></a>
+            <article class="box-shadow telugu_uni_body">
+               <aside>
+<figure class="mid-thumb"><a href="business/business-news.aspx?item=business-news&no=1"><img src="business/business-news-medium1.jpg"></a></figure>
+<p class="mid-thumb-description"><a href="business/business-news.aspx?item=business-news&no=1">
+<b class="article-title">వచ్చాడు యువరాజు</b>
+</a>
+<br>
+<a href="business/business-news.aspx?item=business-news&no=1">ధీరూభాయ్‌ అంబానీ.. టాటా, బిర్లాల తర్వాత దేశంలోనే అతిపెద్ద వ్యాపార సామాజ్య సృష్టికర్త ముకేశ్‌- అనిల్‌.. వ్యాపార సామ్రాజ్యం విభజన అనంతరం...</a>
+</p>
+</aside>
+<a href="business/business-news.aspx" class="more2">మరిన్ని </a> 
+
+             </article>
+          </li>
+          <!-- article third -->
+        </ul>
+        <!-- ul ends here --> 
+      </section>
+      
+      <!-- fourth row ends here -->
+      <section class="two-col-left-block offset-t">
+        <ul class="no-space">
+          <li class="two-col-left-by-two ">
+            <h4 class="telugu_uni_headings sub-head">ఫీచర్ పేజీలు</h4>
+            <article class="box-shadow telugu_uni_body">
+              <aside>
+              
+                <figure class="mid-thumb"><a href='http://www.eenadu.net/special-pages/haibujji/haibujji-inner.aspx?featurefullstory=6341'>               
+                <img src="http://www.eenadu.net/special-pages/haibujji/article-images/230816hai1-A.jpg" id="homefeaturestory_imgfeature_0" /></a></figure> 
+                <p class="feature-thumb-description"><a href='http://www.eenadu.net/special-pages/haibujji/haibujji-inner.aspx?featurefullstory=6341'><strong class="telugu_uni_body article-title"><span id="homefeaturestory_lblfeaturestorytitle_0">పగడాల దిబ్బలో...మర జలకన్య!</span></strong><br>
+                <span id="homefeaturestory_lblfeaturestoryintro_0">సముద్రాల లోతుకు వెళుతుంది... నీటిలో చక్కర్లు కొడుతుంది... అక్కడి వివరాలన్నీ పంపిస్తుంది... ఇదంతా ఓ జలకన్య గురించి అంటే నమ్మగలరా? అయితే ఇది మర జలకన్య!</span> </a></p>
+              
+                
+
+                  <div class="feature">
+                      <a href="http://www.eenadu.net/special-pages/haibujji/haibujji.aspx" class="btn1" style="background-color: #cbffc1;">హాయ్‌ బుజ్జీ </a>
+                      <a href="http://www.eenadu.net/special-pages/chaduvu/chaduvu.aspx" class="btn1" style="background-color: #ffd9ed;">చదువు</a>
+                      <a href="http://www.eenadu.net/special-pages/sukhibhava/sukhibhava.aspx" class="btn1" style="background-color: #cbffc1;">సుఖీభవ</a>
+                      <a href="http://www.eenadu.net/special-pages/e-eenadu/e-eenadu.aspx" class="btn1" style="background-color: #ffd9ed;">ఈ-నాడు</a>
+                      <a href="http://www.eenadu.net/special-pages/etharam/etharam.aspx" class="btn1" style="background-color: #fdeec4;">ఈ తరం</a>
+                      <a href="http://www.eenadu.net/special-pages/siri/siri.aspx" class="btn1" style="background-color: #ffd9ed;">సిరి </a>
+                      <a href="http://www.eenadu.net/special-pages/sthirasthi/sthirasthi.aspx" class="btn1" style="background-color: #fdeec4;">స్థిరాస్తి</a>
+                      <a href="http://www.eenadu.net/special-pages/aalayaalu/aalayaalu.aspx" class="btn1" style="background-color: #cbffc1;">దేవ‌తార్చ‌న</a>
+                      <a href="http://www.eenadu.net/special-pages/ruchulu/ruchulu.aspx" class="btn1" style="background-color: #fdeec4;">రుచులు</a>                     
+                </div>
+              </aside>
+            </article>
+          </li>
+          
+          <!-- Feature Pages block ends here -->
+          
+         <li class="two-col-left-by-two ">
+            <h4 class="telugu_uni_headings sub-head">మ్యాగజైన్స్</h4>
+            <article class="box-shadow telugu_uni_body">
+              <aside>
+                               
+                <figure class="mid-thumb"><a href='http://www.eenadu.net/magazines/sunday-magazine/sunday-magazine.aspx'>                
+                <img src="http://www.eenadu.net/magazines/sunday-magazine/article-images/article-images/21sunday-article-image.jpg" id="homesunday_imgfeature_0" /></a></figure>
+                <p class="magzine-thumb-description"> <a href='http://www.eenadu.net/magazines/sunday-magazine/sunday-magazine.aspx'>  
+                <span class="article-title"><span id="homesunday_lblfeaturestorytitle_0">గోవిందుడు అందరివాడేలే...</span></span><br>
+                <span id="homesunday_lblfeaturestoryintro_0">ఇప్పటిదాకా బంగారాన్నీ, ఆస్తుల్నీ, హోదాల్నీ, ఎలక్ట్రానిక్‌ ఉపకరణాల్నీ...చాలాచాలా ప్రేమించి ఉంటారు. ఒక్కసారి కృష్ణుడిని ప్రేమించి చూడండి. ఇక దేన్నీ ప్రేమించాల్సిన అవసరం రాదు. ఎవర్నీ ద్వేషించాల్సిన పరిస్థితి ఉండదు. అంతా కృష్ణమయం అవుతుంది, ప్రేమమయం అవుతుంది (ఆగస్టు 25న కృష్ణాష్టమి). ఆనందాల వెన్నముద్దలేమైపోయాయి? ఆత్మీయతల పాలకుండకు చిల్లులెలా పడ్డాయి? దారితప్పిన లేగదూడల్లా, సమూహాల్లోనూ ఒంటరితనాలెందుకు? కాళీయ సర్పం ....</span></a></p>
+                                
+                <figure id="magzine-pic"><a href="http://www.eenadu.net/magazines/annadata-magazine/annadata-magazine.aspx"><img src="images/1.jpg"></a></figure>              
+              	<figure id="magzine-pic"><a href="http://www.eenadu.net/magazines/vipula-magazine/vipula-magazine.aspx"><img src="images/2.jpg"></a></figure>                            
+              	<figure id="magzine-pic"><a href="http://www.eenadu.net/magazines/chatura-magazine/chatura-magazine.aspx"><img src="images/3.jpg"></a></figure>
+              </aside>
+            </article>
+          </li>
+          <!-- magzines block ends here -->
+        </ul>
+      </section>
+      
+      <!-- fifth row ends here -->
+      
+       <section class="two-col-left-block offset-t">
+        <a href="photos/photos.aspx"><h4 class="telugu_uni_headings sub-head">ఫొటోలు</a><a href="http://gallery.eenadu.net/photos.aspx" class="showmore"> మరిన్ని </a></h4>
+        <ul class="gallery-thumbs-list no-space">
+        
+          <li class="box-shadow">
+            <figure><a href="http://gallery.eenadu.net/photo-gallery.aspx?galleryid=734"><img src="http://gallery.eenadu.net/Cinema/Heroine/rai-lakshmi-gal/railakshmi-gal-thumb.jpg" id="rephomephotogal_imgcinemathumb_0" height="160" width="220" /></a>
+              <figcaption class="telugu_uni_body offset-t"> <a href="photos/photo-gallery.aspx?galleryid=734"><span id="rephomephotogal_lblcinemathumbtitle_0">రాయ్ ల‌క్ష్మి</span></a></figcaption>
+            </figure>
+          </li>
+          
+          <!-- first thumbs -->
+          
+          <li class="box-shadow">
+            <figure><a href="http://gallery.eenadu.net/photo-gallery.aspx?sliderid=824"><img src="http://gallery.eenadu.net/Latest/grand-welcm-sakshimalic/grand-wlcm-sakshi-thumb.jpg" id="repotherphotogal_imgcinemathumb_0" height="160" width="220" /></a>
+              <figcaption class="telugu_uni_body offset-t"> <a href="http://gallery.eenadu.net/photo-gallery.aspx?sliderid=824"><span id="repotherphotogal_lblcinemathumbtitle_0">హరియాణా ‘సుల్తాన్‌’కి ఘ‌న స్వాగ‌తం</span></a></figcaption>
+            </figure>
+          </li>
+          
+          <li class="box-shadow">
+            <figure><a href="http://gallery.eenadu.net/photo-gallery.aspx?sliderid=823"><img src="http://gallery.eenadu.net/Life-Style/lakme-fashion-kangana-gal/24fashion-gal-thumb.jpg" id="repotherphotogal_imgcinemathumb_1" height="160" width="220" /></a>
+              <figcaption class="telugu_uni_body offset-t"> <a href="http://gallery.eenadu.net/photo-gallery.aspx?sliderid=823"><span id="repotherphotogal_lblcinemathumbtitle_1">ముంబ‌యి: లాక్మే ఫ్యాష‌న్ వీక్‌లో కంగ‌నా సంద‌డి </span></a></figcaption>
+            </figure>
+          </li>
+                    
+        </ul>
+        
+        <!-- photo gallery thumbrow --> 
+        
+      </section>
+ 
+      <section class="two-col-left-block offset-t">
+        <a href="videos/videos.aspx"><h4 class="telugu_uni_headings sub-head"> వీడియోలు</a> <a href="videos/videos.aspx" class="showmore"> మరిన్ని </a></h4>
+        <ul class="gallery-thumbs-list no-space">
+          
+            <li class="box-shadow">
+
+            <figure class="frame"><a href="videos/video-gallery.aspx?videoid=1332""><div id="playbutton"></div><img src="http://www.eenadu.net/videos/images/video1389.jpg" id="rptTop3Videos_imgcinemathumb_0" height="160" width="220" /></a>
+              <figcaption class="telugu_uni_body offset-t"> <a href="videos/video-gallery.aspx?videoid=1332""><span id="rptTop3Videos_lblcinemathumbtitle_0">పిల్లి ప్రేమ‌కు స‌లాం..</span></a></figcaption>
+            </figure>
+          </li>
+          
+            <li class="box-shadow">
+
+            <figure class="frame"><a href="videos/video-gallery.aspx?videoid=1331""><div id="playbutton"></div><img src="http://www.eenadu.net/videos/images/video1388.jpg" id="rptTop3Videos_imgcinemathumb_1" height="160" width="220" /></a>
+              <figcaption class="telugu_uni_body offset-t"> <a href="videos/video-gallery.aspx?videoid=1331""><span id="rptTop3Videos_lblcinemathumbtitle_1">పెంగ్విన్‌కు బ్రిగేడియ‌ర్ హోదా</span></a></figcaption>
+            </figure>
+          </li>
+          
+            <li class="box-shadow">
+
+            <figure class="frame"><a href="videos/video-gallery.aspx?videoid=1330""><div id="playbutton"></div><img src="http://www.eenadu.net/videos/images/video1387.jpg" id="rptTop3Videos_imgcinemathumb_2" height="160" width="220" /></a>
+              <figcaption class="telugu_uni_body offset-t"> <a href="videos/video-gallery.aspx?videoid=1330""><span id="rptTop3Videos_lblcinemathumbtitle_2">కొత్త చేతులు వ‌చ్చాయి..</span></a></figcaption>
+            </figure>
+          </li>
+          
+        </ul>
+        <!-- photo gallery thumbrow --> 
+      </section>
+    </div>
+    
+    <!-- 	---------------------------------------------	
+    	Left Panel ends &amp; Right panel starts 
+     -------------------------------------------------   -->
+    
+     <div class="col-right">
+    <style type="text/css">
+        optgroup
+        {
+            color: red;
+            font-weight: normal;
+            font-family: eenaduU;
+            font-size: 22px;
+        }
+        option
+        {
+            color: black;
+            font-weight: normal;
+            font-family: eenaduU;
+            font-size: 22px;
+        }
+    </style>
+    <script type="text/javascript">
+        function PostBackIfConditionMet(dropDown) {
+            if (dropDown.value == "sel" || dropDown.value == "ddd" || dropDown.value == "sss")
+                return false;
+            return true;
+        }
+
+        function hddlDistricts_onchange(url) {
+            window.location = url;
+            return false;
+        }
+    </script>
+    <section class="two-col-right-block box-shadow">
+    <div id="dist"><span class="telugu_uni_headings">జిల్లా వార్తలు</span>        
+          <select id="dist-option" onchange="return hddlDistricts_onchange(this.value)" name="districts" class="select-style">
+            <option value="#">ఏ జిల్లా</option>
+            <optgroup id="ddlts" label="తెలంగాణ">
+                <option value="district/main.aspx?dsname=adilabad">ఆదిలాబాద్</option>
+                <option value="district/main.aspx?dsname=hyderabad">హైదరాబాద్</option>
+                <option value="district/main.aspx?dsname=karimnagar">కరీంనగర్</option>
+                <option value="district/main.aspx?dsname=khammam">ఖమ్మం</option>
+                <option value="district/main.aspx?dsname=medak">మెదక్</option>
+                <option value="district/main.aspx?dsname=mahabubnagar">మహబూబ్ నగర్</option>
+                <option value="district/main.aspx?dsname=nalgonda">నల్గొండ</option>
+                <option value="district/main.aspx?dsname=nizamabad">నిజామాబాద్</option>
+                <option value="district/main.aspx?dsname=rangareddy">రంగారెడ్డి</option>
+                <option value="district/main.aspx?dsname=warangal">వరంగల్</option>
+            </optgroup>
+            <optgroup id="ddlap" label="ఆంధ్రప్రదేశ్">
+                <option value="district/main.aspx?dsname=amaravati">అమరావతి</option>
+                <option value="district/main.aspx?dsname=anantapur">అనంతపురం</option>
+                <option value="district/main.aspx?dsname=chittoor">చిత్తూరు</option>
+                <option value="district/main.aspx?dsname=eastgodavari">తూర్పుగోదావరి</option>
+                <option value="district/main.aspx?dsname=guntur">గుంటూరు</option>
+                <option value="district/main.aspx?dsname=kadapa">కడప</option>
+                <option value="district/main.aspx?dsname=krishna">కృష్ణా</option>
+                <option value="district/main.aspx?dsname=kurnool">కర్నూలు</option>
+                <option value="district/main.aspx?dsname=nellore">శ్రీపొట్టి శ్రీరాములు నెల్లూరు</option>
+                <option value="district/main.aspx?dsname=prakasam">ప్రకాశం</option>
+                <option value="district/main.aspx?dsname=srikakulam">శ్రీకాకుళం</option>
+                <option value="district/main.aspx?dsname=visakhapatnam">విశాఖపట్నం</option>
+                <option value="district/main.aspx?dsname=vizianagaram">విజయనగరం</option>
+                <option value="district/main.aspx?dsname=westgodavari">పశ్చిమగోదావరి</option>
+            </optgroup>
+            <optgroup label="రాష్ట్రాలు">               
+                <option value="district/main.aspx?dsname=karnataka">కర్ణాటక</option>                
+                <option value="district/main.aspx?dsname=odisha">ఒడిశా</option>
+                <option value="district/main.aspx?dsname=tamilnadu">తమిళనాడు</option>
+            </optgroup>
+        </select>         
+        </div>
+               
+    <!--  <article class="telugu_uni_body">        
+         
+    </article>-->
+  </section>
+    <!-- district ends -->
+    <section class="two-col-right-block">
+            <figure class="ad-block-300"><div class="ad-block-300">
+<!-- /1673516/HP_RHS_TBB -->
+<div id='div-gpt-ad-1459864280742-0' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1459864280742-0'); });
+</script>
+</div>
+</div>
+<div class="ad-block-300">
+ <a href="http://www.eenadu.net/tv-movie-listings/tv-listings.aspx" target="_blank">
+ <img src="ads/images/cinema-spcl-eechanel.jpg"></a>
+</div>
+<!--<div class="ad-block-300">
+ <a href="http://results.eenadu.net/lawcet-results-2016/ts-lawcet-results-2016.aspx" target="_blank">
+ <img src="ads/images/ts-lawcetresults-2016-300x50-23.gif"></a>
+</div>-->
+
+
+<!--<div class="ad-block-300">
+<iframe src="sports/ipl-2016/ipl-live-score.aspx" scrolling="no" width="300" height="410" marginheight="0" marginwidth="0" border="0" frameborder="0"></iframe>
+</div>--></figure>
+     </section>
+    <section class="two-col-right-block box-shadow">     
+            <article class="telugu_uni_body">
+              <div id="slider1">		
+		<div class="viewport">
+				<ul class="overview">
+				<li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Chittoor"><div class="dist-names">చిత్తూరు</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Chittoor&info=ctr-gen1">
+<img src="district/Chittoor/ctr-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Chittoor&info=ctr-gen1">
+<strong class="telugu_uni_body article-title">
+ఎద్దును కోతకు తరలిస్తున్న ఆటో అడ్డగింత</strong> <br>
+ఎద్దును చంపేందుకు తీసుకెళ్తున్న ఆటోను స్థానికులు అడ్డుకుని పట్టుకున్నారు. ఈ సంఘటన మదనపల్లె పట్టణంలో మంగళవారం మధ్యాహ్నం జరిగింది.</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Chittoor&info=ctr-gen8">దేశం గర్వించే క్రీడాకారులుగా ఎదగాలి</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Chittoor&info=ctr-gen7">విద్యా వ్యాపారం కార్పొరేట్‌ల నైజం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Chittoor&info=ctr-gen6">వారం రోజులు దాటితే వేరుసెనగకు నష్టమే</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Amaravati"><div class="dist-names">అమరావతి</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Amaravati&info=amr-gen1">
+<img src="district/Amaravati/amr-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Amaravati&info=amr-gen1">
+<strong class="telugu_uni_body article-title">
+నేటికీ పల్నాటిపోరు</strong> <br>
+ఇద్దరు వ్యక్తుల మధ్య రాజ్యాధికార పోరు చివరకు పల్నాటి యుద్ధానికి దారితీసింది. క్రీ.శ. 1181లో కారంపూడిలో పల్నాటి యుద్ధం జరిగినట్లు చారిత్రక
+ఆధారాలను.,..</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Amaravati&info=amr-gen8">బిలాల్లో భోళా శంకరుడు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Amaravati&info=amr-gen7">సర్వజన ‘‘శుభకర’’ సంగమం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Amaravati&info=amr-gen6">కంటిచూపుతో లెక్కించాం..</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Hyderabad"><div class="dist-names">హైదరాబాద్</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Hyderabad&info=hyd-gen1">
+<img src="district/Hyderabad/hyd-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Hyderabad&info=hyd-gen1">
+<strong class="telugu_uni_body article-title">
+విస్తరణ షురూ</strong> <br>
+రాష్ట్రంలో కొత్త జిల్లాలు ఏర్పాటయ్యేలోపే గ్రేటర్‌ కార్పొరేషన్‌ను కొత్త సర్కిళ్లు పలుకరించనున్నాయి. ప్రస్తుత మున్న 24 సర్కిళ్లు 30కి పెరగనున్నాయి.</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Hyderabad&info=hyd-gen23">చిత్రం చెప్పే విశేషాలు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Hyderabad&info=hyd-gen22">ధూల్‌పేట్‌ అభివృద్ధికి ప్రత్యేక ప్యాకేజీ</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Hyderabad&info=hyd-gen21">హెచ్‌సీయూలో బర్త్‌డే పార్కు...</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Adilabad"><div class="dist-names">ఆదిలాబాద్</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Adilabad&info=adb-gen1">
+<img src="district/Adilabad/adb-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Adilabad&info=adb-gen1">
+<strong class="telugu_uni_body article-title">
+‘మహా’ఒప్పందంపై అంబరాన్నంటిన తెరాస సంబరాలు</strong> <br>
+గోదావరి నదీజలాలను సద్వినియోగం చేసుకునేందుకు తెలంగాణ ముఖ్యమంత్రి మంగళవారం ముంబయిలో మహారాష్ట్ర
+ముఖ్యమంత్రి ఫడణవీస్‌తో చేసుకున్న..</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Adilabad&info=adb-gen8">రోడ్డు భద్రత నిబంధనలపై అవగాహన అవసరం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Adilabad&info=adb-gen7">ఆరోగ్య కేంద్రం ముందు 108లో ప్రసవం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Adilabad&info=adb-gen6">నెలానెలా చెల్లిస్తున్నా.. లక్షల్లో బకాయిలా..</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Karimnagar"><div class="dist-names">కరీంనగర్</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Karimnagar&info=krn-gen1">
+<img src="district/Karimnagar/krn-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Karimnagar&info=krn-gen1">
+<strong class="telugu_uni_body article-title">
+ప్రాజెక్టుల పేరుతో మోసాలను సహించం</strong> <br>
+ప్రాజెక్టుల పేరుతో ప్రజలను తప్పుదోవ పట్టించేందుకు చేసే మోసాలను సహించమని కాంగ్రెస్‌ శాసనసభ పక్ష
+ఉపనేత టి.జీవన్‌రెడ్డి అన్నారు. ముఖ్యమంత్రి కేసీఆర్‌ మహారాష్ట్రతో...</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Karimnagar&info=krn-gen8">ఎల్లంపల్లి పంపుహౌస్‌లకు త్వరలో ట్రయల్‌రన్‌</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Karimnagar&info=krn-gen7">మంత్రి ఆలోచన మార్చాలని ఆలయానికి పాదయాత్ర</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Karimnagar&info=krn-gen6">సంఘటితంగా నిలవకపోతే హక్కులు కాపాడుకోలేం</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Khammam"><div class="dist-names">ఖమ్మం</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Khammam&info=kmm-gen1">
+<img src="district/Khammam/kmm-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Khammam&info=kmm-gen1">
+<strong class="telugu_uni_body article-title">
+భక్తరామదాసు ప్రాజెక్టులో ఇంజినీర్లపై వివక్ష విడనాడాలి</strong> <br>
+జిల్లాలోని పాలేరు నియోజకవర్గంలో బీడు భూములకు సాగునీటిని అందించేందుకు ప్రభుత్వం ప్రతిష్ఠాత్మకంగా చేపట్టిన భక్తరామదాసు ఎత్తిపోతల పథకం ప్రాజెక్టు నిర్మాణ పనుల్లో...</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Khammam&info=kmm-gen8">గూడెంలో మెగా పుస్తక ప్రదర్శన</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Khammam&info=kmm-gen7">కొత్తగూడెం జిల్లా ఏర్పాటు పట్ల హర్షం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Khammam&info=kmm-gen6">కృష్ణా పుష్కరాల్లో తెదేపా అధ్యక్షుడు</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Medak"><div class="dist-names">మెదక్</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Medak&info=mdk-gen1">
+<img src="district/Medak/mdk-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Medak&info=mdk-gen1">
+<strong class="telugu_uni_body article-title">
+కప్పలకుంటలో భూఆక్రమణ</strong> <br>
+సిద్దిపేటలో వివిధ రూపాల్లో భూమాఫియా రెచ్చిపోతోంది. ప్రభుత్వ భూములను ఆక్రమిస్తున్నా.. చెరువు కట్టలను తుంచేస్తోన్నా.. ఎఫ్‌టిఎల్‌ భూముల్లో లేఅవుట్లకు
+సన్నద్ధం అవుతున్నా..</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Medak&info=mdk-gen8">రైతులకు రూ.200 కోట్ల రుణాలు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Medak&info=mdk-gen7">రేగోడ్‌ను సంగారెడ్డిలో ఉంచాలని ఆందోళన</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Medak&info=mdk-gen6">వైద్యులు ఉండటం లేదు</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Mahabubnagar"><div class="dist-names">మహబూబ్ నగర్</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Mahabubnagar&info=mbn-gen1">
+<img src="district/Mahabubnagar/mbn-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Mahabubnagar&info=mbn-gen1">
+<strong class="telugu_uni_body article-title">
+ఏం సాధించారని మహా ఒప్పందం</strong> <br>
+మహారాష్ట్ర ప్రభుత్వంతో ఒప్పందం తెలంగాణ రైతులను మభ్యపెట్టడమేనని గద్వాల ఎమ్మెల్యే డీకే అరుణ అన్నారు. ప్రాణహిత- చేవెళ్ల ప్రాజెక్టు నిర్మాణంలో
+మార్పులు చేసి మహారాష్ట్రతో తెరాస...</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Mahabubnagar&info=mbn-gen8">హరిత పందిళ్లకు రాయితీలు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Mahabubnagar&info=mbn-gen7">ఎంవీఎస్‌లో స్వాతంత్య్ర వజ్రోత్సవం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Mahabubnagar&info=mbn-gen6">పుష్కర రద్దీతో ఆర్టీసీకి మెరుగైన ఆదాయం</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Nalgonda"><div class="dist-names">నల్గొండ</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Nalgonda&info=nlg-gen1">
+<img src="district/Nalgonda/nlg-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Nalgonda&info=nlg-gen1">
+<strong class="telugu_uni_body article-title">
+ఫలించిన పుష్కర ప్రణాళిక</strong> <br>
+నీలగిరి వాకిట నీలవేణి పండుగ ఘనంగా ముసిగింది... పన్నెండు రోజుల పాటు తొమ్మిది మండలాల్లో 28 ఘాట్ల వద్ద ఆధ్యాత్మిక సందడి నెలకొంది.
+ప్రధాన ఘాట్లైన సాగర్‌, మట్టపల్లి..</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Nalgonda&info=nlg-gen8">ఎంజీయూలో కొనసాగుతున్న న్యాక్‌ బృందం పరిశీలన</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Nalgonda&info=nlg-gen7">కళ్లెదుటే అక్రమం... వారికంతా సక్రమం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Nalgonda&info=nlg-gen6">డిండిని నాగర్‌కర్నూల్‌లో కలపాలని ధర్నా</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Nizamabad"><div class="dist-names">నిజామాబాద్</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Nizamabad&info=nzb-gen1">
+<img src="district/Nizamabad/nzb-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Nizamabad&info=nzb-gen1">
+<strong class="telugu_uni_body article-title">
+తెరాస ప్రభుత్వానివి ఓటు బ్యాంకు రాజకీయాలు</strong> <br>
+తెరాస సర్కారు రాష్ట్రంలో ఓటు బ్యాంకు రాజకీయాలు చేస్తోందని భాజపా జిల్లా అధ్యక్షుడు పల్లె గంగారెడ్డి విమర్శించారు. ఎన్నికలకు ముందు ఒక మాట, అధికారంలోకి వచ్చాక మరో మాట...</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Nizamabad&info=nzb-gen8">కుర్తి అభివృద్ధికి రూ. 50 లక్షలు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Nizamabad&info=nzb-gen7">కాళేశ్వరం ఒప్పందంపై తెరాస సంబరాలు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Nizamabad&info=nzb-gen6">సీసీఎస్‌ విధానాన్ని రద్దు చేయాలి</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Rangareddy"><div class="dist-names">రంగారెడ్డి</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Rangareddy&info=rng-gen1">
+<img src="district/Rangareddy/rng-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Rangareddy&info=rng-gen1">
+<strong class="telugu_uni_body article-title">
+వేధింపులకు పాల్పడితే శిక్ష తప్పదు</strong> <br>
+కళాశాల విద్యార్థులు తోటి విద్యార్థినీ విద్యార్థులను వేధింపులకు గురిచేయడం వల్ల వారి
+జీవితం గాడి తప్పుతుందని కాబట్టి వాటిని నిరోధించాలని</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Rangareddy&info=rng-gen8">నాయకత్వ లక్షణాలతో రాణింపు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Rangareddy&info=rng-gen7">హరిత హారం మొక్కల సంరక్షణకు చర్యలు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Rangareddy&info=rng-gen6">ముసాయిదాలో చోటు దక్కని కోట్‌పల్లి</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Warangal"><div class="dist-names">వరంగల్</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Warangal&info=wgl-gen1">
+<img src="district/Warangal/wgl-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Warangal&info=wgl-gen1">
+<strong class="telugu_uni_body article-title">
+లభ్యతను బట్టి ఆయకట్టుకు నీరు</strong> <br>
+దేవాదుల, ఎస్సారెస్పీ కాలువల ద్వారా నీటి లభ్యతను గమనించి తాగునీటి సరిపడే నిల్వలు ఉంచిన తరువాతనే ఆయకట్టుకు నీరందించేందుకు నీటి పారుదల, వ్యవసాయ...</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Warangal&info=wgl-gen8">తెలంగాణ రాష్ట్ర చరిత్రలో సుదినం...!</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Warangal&info=wgl-gen7">ఉపాధ్యాయుల పనితీరుపై అసంతృప్తి</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Warangal&info=wgl-gen6">అంతిమ పోరు... ఆమరణ దీక్ష</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Anantapur"><div class="dist-names">అనంతపురం</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Anantapur&info=atp-gen1">
+<img src="district/Anantapur/atp-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Anantapur&info=atp-gen1">
+<strong class="telugu_uni_body article-title">
+ధీశాలి ప్రకాశం పంతులు</strong> <br>
+త్యాగశీలి, ధైర్యశాలి, ఆంధ్రకేసరి టంగుటూరి ప్రకాశం పంతులు అందరికీ ఆదర్శప్రాయులని
+ఇన్‌ఛార్జి కలెక్టర్‌ లక్ష్మీకాంతం కొనియాడారు.</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Anantapur&info=atp-gen8">చదువుతో సంస్కారం.. ఆటలతో వికాసం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Anantapur&info=atp-gen7">విద్యుత్తుశాఖ అధికారులకు తాఖీదులు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Anantapur&info=atp-gen6">కాండం కుళ్లు వైరస్‌ నిర్ధారణ కాలేదు</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Eastgodavari"><div class="dist-names">తూర్పుగోదావరి</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Eastgodavari&info=eag-gen1">
+<img src="district/Eastgodavari/eag-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Eastgodavari&info=eag-gen1">
+<strong class="telugu_uni_body article-title">
+క్షతగాత్రులకు మెరుగైన వైద్యసేవలు: కలెక్టర్‌</strong> <br>
+ఖమ్మం జిల్లా నాయకన్‌గూడెం వద్ద జరిగిన బస్సు ప్రమాదంలో గాయపడిన జిల్లావాసులకు మెరుగైన వైద్య సేవలు
+అందించేందుకు చర్యలు తీసుకున్నామని...</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Eastgodavari&info=eag-gen8">ఆదర్శప్రాయులు ప్రకాశం పంతులు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Eastgodavari&info=eag-gen7">పరిశుభ్రత పాటించకుంటే చర్యలు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Eastgodavari&info=eag-gen6">సార్వత్రిక సమ్మెకు సమాయత్తం</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Guntur"><div class="dist-names">గుంటూరు</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Guntur&info=gnt-gen1">
+<img src="district/Guntur/gnt-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Guntur&info=gnt-gen1">
+<strong class="telugu_uni_body article-title">
+దేవతలు సంతోషించేలా పుష్కర ఏర్పాట్లు</strong> <br>
+పవిత్ర కృష్ణా పుష్కరాలకు వచ్చే యాత్రికులకు ఎవరూ వూహించని రీతిలో రాష్ట్ర పభుత్వం ఏర్పాట్లు చేసిందని సినీ కవి జొన్నవిత్తుల రామలింగేశ్వరరావు తెలిపారు.</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Guntur&info=gnt-gen8">రోజులు ఇట్టే గడిచిపోయాయి</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Guntur&info=gnt-gen7">‘రైతులను రాజకీయాల్లోకి లాగొద్దు’</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Guntur&info=gnt-gen6">ఘనంగా ప్రకాశం పంతులు జయంతి</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Kadapa"><div class="dist-names">కడప</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Kadapa&info=kdp-gen1">
+<img src="district/Kadapa/kdp-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Kadapa&info=kdp-gen1">
+<strong class="telugu_uni_body article-title">
+ఆక్రమణల తొలగింపునకు రంగం సిద్ధం</strong> <br>
+పట్టణంలోని జమ్మలమడుగు రోడ్డు విస్తరణలో భాగంగా సమస్యాత్మక ప్రాంతాల్లోని అక్రమ కట్టడాల
+తొలగింపునకు అడ్డంకులు ఎట్టకేలకు తొలగిపోయాయి.</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Kadapa&info=kdp-gen8">బీఎస్‌ఎన్‌ఎల్‌ సేవలను విస్తరిస్తాం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Kadapa&info=kdp-gen7">జిల్లాకు రెండు వేల క్యూసెక్కులు అవసరం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Kadapa&info=kdp-gen6">‘ఉక్కు’ పిడికిలి బిగించాల్సిందే</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Krishna"><div class="dist-names">కృష్ణా</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Krishna&info=kri-gen1">
+<img src="district/Krishna/kri-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Krishna&info=kri-gen1">
+<strong class="telugu_uni_body article-title">
+నేటికీ పల్నాటిపోరు</strong> <br>
+ఇద్దరు వ్యక్తుల మధ్య రాజ్యాధికార పోరు చివరకు పల్నాటి యుద్ధానికి దారితీసింది. క్రీ.శ. 1181లో కారంపూడిలో పల్నాటి యుద్ధం జరిగినట్లు చారిత్రక ఆధారాలను బట్టి తెలుస్తోంది.</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Krishna&info=kri-gen8">బిలాల్లో భోళా శంకరుడు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Krishna&info=kri-gen7">సర్వజన ‘‘శుభకర’’ సంగమం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Krishna&info=kri-gen6">కంటిచూపుతో లెక్కించాం..</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Kurnool"><div class="dist-names">కర్నూలు</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Kurnool&info=knl-gen1">
+<img src="district/Kurnool/knl-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Kurnool&info=knl-gen1">
+<strong class="telugu_uni_body article-title">
+నూతన రైలు మార్గంతో సీమ అభివృద్ధి</strong> <br>
+దశాబ్దాల కృషి అనంతరం రూపుదిద్దుకున్న నంద్యాల-ఎర్రగుంట్ల రైలు మార్గం ప్రారంభంతో రాయలసీమలో పలు రంగాల అభివృద్ధికి మార్గమేర్పడిందని...</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Kurnool&info=knl-gen8">భూబాధిత రైతులకు అండగా ఉంటాం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Kurnool&info=knl-gen7">వైభవంగా సాయం సంధ్యా హారతి</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Kurnool&info=knl-gen6">సంగమేశ్వరుని సంకల్పంతో కృష్ణాపుష్కరాలు విజయవంతం</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Nellore"><div class="dist-names">నెల్లూరు</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Nellore&info=nlr-gen1">
+<img src="district/Nellore/nlr-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Nellore&info=nlr-gen1">
+<strong class="telugu_uni_body article-title">
+సంగం ఆనకట్ట వద్ద భారీగా తగ్గిన నీటిమట్టం</strong> <br>
+సంగం ఆనకట్ట వద్ద మంగళవారం ఉదయానికి నీటిమట్టం గణనీయంగా తగ్గింది. సోమశిల జలాశయం నుంచి సంగం ఆనకట్ట వద్దకు నీటి సరఫరా అకస్మాత్తుగా ఆగడంతో ఈ పరిస్థితి తలెత్తింది.</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Nellore&info=nlr-gen8">ఆరోపణలపై సమాధానం చెప్పేందుకు ‘హౌస్‌’ కమిటీ</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Nellore&info=nlr-gen7">లైసెన్సు కార్డులు లేక రవాణాశాఖ పరేషాన్‌</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Nellore&info=nlr-gen6">అంతర్జాలంతో అన్ని రంగాల అభివృద్ధి: ఏజేసీ</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Prakasam"><div class="dist-names">ప్రకాశం</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Prakasam&info=pks-gen1">
+<img src="district/Prakasam/pks-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Prakasam&info=pks-gen1">
+<strong class="telugu_uni_body article-title">
+పర్యాటక కేంద్రంగా అభివృద్ధి</strong> <br>
+దేవరంపాడు గ్రామ సమీపంలోని విజయస్తూపం ప్రాంతాన్ని పర్యాటకంగా అభివృద్ధి చేసేందుకు తమ వంతు కృషి చేస్తానని జేసీ డాక్టర్‌ ఎం.హరిజవహర్‌లాల్‌ అన్నారు.</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Prakasam&info=pks-gen8">ప్రకాశం స్మారక కేంద్రంగా వినోదరాయనిపాలెం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Prakasam&info=pks-gen7">ప్రకాశం జీవితం యువతకు స్ఫూర్తి</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Prakasam&info=pks-gen6">తపాలా వినియోగదారులకు అధునాతన సేవలు</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Srikakulam"><div class="dist-names">శ్రీకాకుళం</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Srikakulam&info=skl-gen1">
+<img src="district/Srikakulam/skl-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Srikakulam&info=skl-gen1">
+<strong class="telugu_uni_body article-title">
+అరకొర పాఠాలా! జీవితాలతో ఆటలా!</strong> <br>
+రణస్థలం మండలం గొర్లెపేట జిల్లా పరిషత్తు ఉన్నత పాఠశాలలో 12 మంది ఉపాధ్యాయులు ఉండాలి. ఐదుగురే పనిచేస్తున్నారు. వీరిలో ఒకరే స్కూల్‌ అసిస్టెంట్‌. నలుగురు ఎస్‌జీటీలు.</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Srikakulam&info=skl-gen8">విద్యార్థులకు నైపుణ్యాభివృద్ధిపై శిక్షణ</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Srikakulam&info=skl-gen7">బాధ్యత మరచి విధులు</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Srikakulam&info=skl-gen6">వంశధారలో నీరున్న మేరకే ఇస్తాం</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Visakhapatnam"><div class="dist-names">విశాఖపట్నం</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Visakhapatnam&info=vsp-gen1">
+<img src="district/Visakhapatnam/vsp-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Visakhapatnam&info=vsp-gen1">
+<strong class="telugu_uni_body article-title">
+క్రమబద్ధీకరణ దరఖాస్తులపై పునర్‌ విచారణ</strong> <br>
+నగరంలో వందగజాల లోపు స్థలాల క్రమబద్ధీకరణకు వచ్చిన దరఖాస్తులపై మరో విడత విచారణ చేయాలని కలెక్టర్‌ ప్రవీణ్‌కుమార్‌ అధికారులను ఆదేశించారు.</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Visakhapatnam&info=vsp-gen8">చింతపల్లిలో సేంద్రియ వ్యవసాయ పాలిటెక్నిక్‌ కళాశాల</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Visakhapatnam&info=vsp-gen7">రౌడీ - పోలీస్‌!</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Visakhapatnam&info=vsp-gen6">అక్రమాలకు అడ్వాన్సులు</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Vizianagaram"><div class="dist-names">విజయనగరం</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Vizianagaram&info=viz-gen1">
+<img src="district/Vizianagaram/viz-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Vizianagaram&info=viz-gen1">
+<strong class="telugu_uni_body article-title">
+టంగుటూరిని ఆదర్శంగా తీసుకోవాలి</strong> <br>
+భావితరాలు ఆంధ్రకేశరి టంగుటూరి ప్రకాశం పంతులు జీవితాన్ని ఆదర్శంగా తీసుకోవాలని కలెక్టర్‌ వివేక్‌ యాదవ్‌ పిలుపునిచ్చారు. ప్రభుత్వ ఆధ్వర్యంలో
+మంగళవారం...</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Vizianagaram&info=viz-gen8">ఘనంగా టంగుటూరి జయంతి</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Vizianagaram&info=viz-gen7">రెండు రోజుల్లో ‘ఆకృతి’</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Vizianagaram&info=viz-gen6">సింధుకు జేజేలు</a></p></li>
+</ul>
+</aside>
+</li>
+                <li><aside class="ad-block-thumb-content">
+<a href="district/main.aspx?dsname=Westgodavari"><div class="dist-names">పశ్చిమగోదావరి</div></a>
+<figure class="thumb"><a href="district/inner.aspx?dsname=Westgodavari&info=weg-gen1">
+<img src="district/Westgodavari/weg-gen1s.jpg" /></a></figure>
+<p class="ad-block-thumb-description right"><a href="district/inner.aspx?dsname=Westgodavari&info=weg-gen1">
+<strong class="telugu_uni_body article-title">
+కలెక్టర్‌ ఆదేశాలు బేఖాతర్‌..!</strong> <br>
+నల్లజర్ల మండలం పడమర చోడవరం పేరేడుకుంట చెరువులో అక్రమంగా మట్టి తవ్వకాలు సాగిస్తున్నారు. ‘నీరు-చెట్టు’ పథకంలో పనులు చేయకుండానే...</a></p>
+<div class="clearfix"></div>
+<ul class="article-box-list">
+<li><p><a href="district/inner.aspx?dsname=Westgodavari&info=weg-gen8">అనిశా వలలో అవినీతి తిమింగలం</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Westgodavari&info=weg-gen7">కౌలురైతులకు రుణాలివ్వడంలో బ్యాంకులు వెనుకంజ</a></p></li>
+<li><p><a href="district/inner.aspx?dsname=Westgodavari&info=weg-gen6">‘కృష్ణా’ సేవకులు వచ్చేస్తున్నారు</a></p></li>
+</ul>
+</aside>
+</li>
+			</ul>
+		</div>
+	</div>   
+            </article>
+            </section>
+   
+            <!-- /1673516/E-HP-300X100 -->
+<!--<div class="ad-block-300">
+    <div id='div-gpt-ad-1462509157658-0' style='height: 100px; width: 300px;'>
+
+        <script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1462509157658-0'); });
+        </script>
+
+    </div>
+</div>-->
+
+
+<!--<div class="ad-block-300">
+    <a href="http://www.indianclicks.com/clicks.php?url=http://www.vizagrealestate.com/&sid=EE " target="_blank" onclick="ga('send', 'event', 'advertisements', 'VizagRealEstate', 'VizagRealEstate_010716');">
+        <img src="ads/Indian_Clicks_Right_Prose_VizagSteel_07012016.gif" alt="VizagRealEstate" width="300" height="50"></a>
+</div>-->
+<div class="ad-block-300">
+    <a href="http://www.indianclicks.com/clicks.php?url=http://www.Vijayawadarealestate.net/&sid=EE" target="_blank" onclick="ga('send', 'event', 'advertisements', 'VijayawadaRealEstate_Eenadu', 'VijayawadaRealEstate_Eenadu_020816');">
+        <img src="ads/IndianClicks_RitePros_VijayawadaRealEstate_Eenadu_300x50_08012016_1.gif" alt="VijayawadaRealEstate_Eenadu" width="300" height="50"></a>
+</div>
+
+<!--<div class="ad-block-300">
+    <a href="http://www.indianclicks.com/clicks.php?url=http://www.tirupatirealestate.com/&sid=EE" target="_blank" onclick="ga('send', 'event', 'advertisements', 'TirupatiRealEstate', 'TirupatiRealEstate_280716');">
+        <img src="ads/IndianClicks_RitePros_TirupatiRealEstate_Eenadu_300x50_07272016_1.gif" alt="TirupatiRealEstate" width="300" height="50"></a>
+</div>-->
+<div class="ad-block-300">
+    <!-- /1673516/HomePage_SmallBanner_Fixed_2 -->
+    <div id='div-gpt-ad-1459864280742-8' style='height: 50px; width: 300px;'>
+
+        <script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1459864280742-8'); });
+        </script>
+
+    </div>
+</div>
+
+
+
+<!--<div class="ad-block-300">
+    <a href="http://www.indianclicks.com/clicks.php?url=http://www.svlotustemple.org/&sid=Ee" target="_blank" onclick="ga('send', 'event', 'advertisements', 'svlotustemple', 'svlotustemple_240616');">
+        <img src="ads/IndianClicks_SVLotusTemple_GA_300x50_06022016_1.gif" alt="svlotustemple" width="300" height="50"></a>
+</div>-->
+
+
+
+
+     
+<!--    <section class="two-col-right-block no space">    
+            <figure class="ad-block-300"><a href="http://epaper.eenadu.net/" target="_blank">
+            <img src="_assets/_images/e-paper-1.gif"></a></figure>
+     </section>-->
+   <!-- ad block 300X250px -->
+   
+
+<div class="ad-block-300">
+<!-- /1673516/GA-Adx_HP-300x250 -->
+<div id='div-gpt-ad-1459864280742-1' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1459864280742-1'); });
+</script>
+</div>
+</div>
+
+    <!-- ad block 300X250px end -->   
+   <!-- Most Read Articles Begin  -->
+      <section class="two-col-right-block box-shadow">
+<iframe src="http://in.eenadu.net/mostread.aspx"  scrolling=no frameborder=0 marginheight=0 marginwidth=0 width="100%" height="280px"></iframe>
+</section>
+    <!--  <iframe src="mostread.aspx" scrolling=no frameborder=0 marginheight=0 marginwidth=0 width="100%" height="250px"></iframe>-->
+      
+   <!-- Most Read Articles Ends  --> 
+    <div class="clearfix"></div>
+   <!-- ad block 300X250px -->
+   <div class="ad-block-300">
+     <a href="ads/eco-friendly-ganesha/eco-friendly-ganesha.html" target="_blank">
+        <img src="ads/eco-friendly-ganesha/Eco-friendly-Ganesha_300x150.jpg" width="300px" height="150px" alt="Eco friendly Ganesha" /></a>
+</div>
+
+<div class="ad-block-300">
+<!-- /1673516/HP_RHS_MBB -->
+<div id='div-gpt-ad-1459864280742-2' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1459864280742-2'); });
+</script>
+</div>   
+</div>
+
+
+   <!-- ad block 300X250px end -->
+    <h3 class="telugu_uni_headings black">
+        <a href="special-pages/aalayaalu/aalayaalu.aspx">దేవ‌తార్చ‌న</a></h3>
+    <section class="two-col-right-block">
+        <article class="box-shadow">
+          <aside>
+                       
+            <figure class="ad-block-mid-thumb"><a href='http://www.eenadu.net/special-pages/aalayaalu/aalayaalu-inner.aspx?featurefullstory=2911'>
+              <img src="http://www.eenadu.net/special-pages/aalayaalu/article-images/kukke-290-160.jpg" id="reprightemp_img1_0" />   
+              </a></figure>
+            
+                <p class="telugu_uni_body mid-thumb-description"><a href='http://www.eenadu.net/special-pages/aalayaalu/aalayaalu-inner.aspx?featurefullstory=2911'>
+                <strong class="telugu_uni_body article-title"><span id="reprightemp_lblfeaturestorytitle_0">నాగుల రక్షకుడు ‘సుబ్రమణ్య’</span></strong><br>
+                <span id="reprightemp_lblfeaturestoryintro_0">జగన్మాత పార్వతీదేవి, లయకారకుడు పరమేశ్వరుల రెండో పుత్రరత్నం శ్రీ సుబ్రమణ్యస్వామి. నెమలిని వాహనంగా వేలాయుధాన్ని చేతబూని యావత్‌ దేవతాసైన్యానికి ఆయన సేనానిగా వ్యవహరిస్తారు. తన కంటే పెద్దవాడయిన విఘ్నేశ్వరునితో కలిసి అనేక శిష్టరక్షణ కోసం అనేక యుద్ధాలు చేశారు. ..</span> </a></p>
+     
+
+
+    
+          </aside>
+        </article>
+      </section>
+    <!-- ad block 300X250px -->
+    <!--<div class="ad-block-300">
+     <a href="http://www.eenadu.net/ads/Ambience/Home.aspx" target="_blank" onclick="ga('send', 'event', 'advertisements', 'Ambience', 'Ambience_25042016');">
+        <img src="ads/venktes-300-501.gif" width="300px"; height="50px"/></a>
+</div>-->
+
+<!--<div class="ad-block-300">
+     <a href="http://spacevisioninfra.com/eenadu/ambiencelp/index.html" target="_blank" onclick="ga('send', 'event', 'advertisements', 'spacevisioninfra', 'spacevisioninfra250516');">
+        <img src="ads/SPACE-300X50-25052016.gif" width="300px"; height="50px"/></a>
+</div>-->
+<div class="ad-block-300">
+<!-- /1673516/HP-RHS-BB4 -->
+<div id='div-gpt-ad-1459864280742-3' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1459864280742-3'); });
+</script>
+</div>
+</div>
+    <!-- ad block 300X250px end -->
+    <!-- ruchulu -->
+    <h6 class="telugu_uni_headings black">
+         <a href="../special-pages/ruchulu/ruchulu.aspx">రుచులు</a></h6>
+    <section class="two-col-right-block box-shadow">
+        <article class="telugu_uni_body">
+          
+          <aside class="thumb-content">
+            <figure class="thumb"><a href='http://www.eenadu.net/special-pages/ruchulu/ruchulu-inner.aspx?topfullstory=6339'>
+              <img src="http://www.eenadu.net/special-pages/ruchulu/article-images/bengal-sinny-100.jpg" id="reprightruchulu_imgfeature_0" />   
+              </a></figure>
+              <p class="ad-block-thumb-description"><a href='http://www.eenadu.net/special-pages/ruchulu/ruchulu-inner.aspx?topfullstory=6339'><span class="ad-block-article-title blue"><span id="reprightruchulu_lblfeaturestorytitle_0">బెంగాలీ శిన్నీ</span></span><br>
+                <span id="reprightruchulu_lblfeaturestoryintro_0">కావలసినవి పచ్చి పాలు: లీటరు, అరటిపండ్లు: నాలుగు, పంచదార లేదా బెల్లం తురుము: కప్పు.....</span> </a></p>
+            <div class="clearfix"></div>
+          </aside>
+      
+          <aside class="thumb-content">
+            <figure class="thumb"><a href='http://www.eenadu.net/special-pages/ruchulu/ruchulu-inner.aspx?topfullstory=6337'>
+              <img src="http://www.eenadu.net/special-pages/ruchulu/article-images/dhaniyaki-panjeera-100.jpg" id="reprightruchulu_imgfeature_1" />   
+              </a></figure>
+              <p class="ad-block-thumb-description"><a href='http://www.eenadu.net/special-pages/ruchulu/ruchulu-inner.aspx?topfullstory=6337'><span class="ad-block-article-title blue"><span id="reprightruchulu_lblfeaturestorytitle_1">దనియా కీ పంజీరీ</span></span><br>
+                <span id="reprightruchulu_lblfeaturestoryintro_1">కావలసినవి దనియాలు: కప్పు, నెయ్యి: 2 టేబుల్‌స్పూన్లు, బాదం: ఎనిమిది, కిస్‌మిస్‌: టేబుల్‌స్పూను....</span> </a></p>
+            <div class="clearfix"></div>
+          </aside>
+      
+        
+        
+        
+        </article>
+      </section>
+    <!-- ad block 300X250px -->
+   <div class="ad-block-300">
+<!-- /1673516/HP_RHS-BB5 -->
+<div id='div-gpt-ad-1459864280742-4' style='height:250px; width:300px;'>
+<script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1459864280742-4'); });
+</script>
+</div>
+
+</div>
+
+     
+    <!-- ad block 300X250px end -->
+    <!-- ad block 300X250px -->
+   <div class="ad-block-300">
+
+    <script type="text/javascript">
+    var pictures = ["telugu-velugu", "bala-bharatam"];
+
+    var links = ["http://ramojifoundation.org/flipbook/link.php", "http://balabharatam.net/bbflipbook/link.php"];
+    //pick a random image from the pictures array and displays by creating an img tag and
+    //appending the src attribute to the filename
+    var randNum = Math.floor(Math.random() * 2);
+    document.write("<a href='" + links[randNum] + "' target='_blank onclick=ga(['send', 'event','advertisements', 'balantelugu', 'balantelugu-100616']) ' ><img src = 'ads/" +
+                   pictures[randNum] + ".gif' /></a>");
+    </script>
+
+</div>
+<div class="ad-block-300">
+    <!-- /1673516/GAdx_ROS_BOTTOM_BB -->
+    <div id='div-gpt-ad-1459864732290-4' style='height: 250px; width: 300px;'>
+
+        <script type='text/javascript'>
+    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1459864732290-4'); });
+        </script>
+
+    </div>
+</div>
+<!--<div class="ad-block-300">
+    <a href="http://ramojifilmcity.com/funtazia/" target="_blank" onclick="ga('send', 'event', 'advertisements', 'ramojifilmcity', 'ramojifilmcity29042016');">
+        <img src="ads/funtazia_bannner300x250.gif" width="300px" height="250px" /></a>
+</div>-->
+ 
+    <!-- ad block 300X250px end -->
+   
+</div>
+
+    <!-- 	---------------------------------------------- Right Panel end ------------------------------------------------------------- --> 
+  
+    <div class="clearfix"></div>
+    <footer>
+       <p> &copy; 1999- 2016 Ushodaya Enterprises Pvt.Ltd,All rights reserved.<br>
+        <span>Designed & Developed by Eenadu WebHouse</span> <br>
+        For Digital Marketing enquiries Contact : 9000180611, 040 - 23318181 eMail :marketing @eenadu.net<br>
+        <span>Best Viewed In Latest Browsers</span></p>
+        <p> Contents of eenadu.net are copyright protected.Copy and/or reproduction and/or re-use
+            of contents or any part thereof, without consent of UEPL is illegal.Such persons
+            will be prosecuted.<span style="float:right"><img src="http://www.eenadu.net/_assets/_images/ABC Digital_2.jpg"></span> </p>
+            <script>
+                $('#lblDateTime').each(function () {
+                    var text = $(this).text();
+                    $(this).text(text.replace('జూలై', 'జులై'));
+                });
+</script>
+           
+
+    </footer>
+  </main>
+  <!-- wrapper --> 
+</div>
+<!-- gridContainer --> 
+
+
+<!-- All Scripts follows -->    
+    
+    <!-- jquery tabbed menu --> 
+    <script type="text/javascript" src="_assets/_js/tabbed-menu/tabs.js"></script> 
+    <!-- owl sliding script -->   
+    <script type="text/javascript" src="_assets/_js/owl-carousel/owl.carousel.js"></script> 
+<script type="text/javascript">
+$(document).ready(function () {
+$("#owl-demo").owlCarousel({
+autoPlay: 3000,
+items: 1,
+rewindNav: true,
+itemsDesktop: [1199, 1],
+itemsDesktopSmall: [979, 1],
+callbacks: false
+});
+});  
+</script>
+
+    <script src="_assets/_js/district-carousel-tiny/jquery.tinycarousel.js"></script>
+    <script type="text/javascript">    
+        $(document).ready(function(){    
+            $('#slider1').tinycarousel({        
+            start: 0, // where should the carousel start?        
+            display: 0, // how many blocks do you want to move at a time?        
+            axis: 'x', // vertical or horizontal scroller? 'x' or 'y' .        
+            controls: false, // show left and right navigation buttons?        
+            pager: false, // is there a page number navigation present?        
+            interval: true, // move to the next block on interval.        
+            intervaltime: 3000, // interval time in milliseconds.        
+            animation: true, // false is instant, true is animate.        
+            duration: 5000, // how fast must the animation move in milliseconds?        
+            callback: null, // function that executes after every move        
+            });    
+        });    
+    </script>
+
+    <script type="text/javascript">
+        $("#slider1").tinycarousel({ interval: true });
+        var slider = $("#slider1").data("plugin_tinycarousel");
+        // The start method starts the interval.        //
+        $('#slider1').on('mouseout', function () {
+          slider.start();
+            return false;
+        });
+        // The stop method stops the interval.
+        //
+        $('#slider1').on('mouseover', function () {
+                    slider.stop();
+            return false;
+        });
+    </script>
+    <!-- Begin Scroll Top  -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 1000) {
+                    $('.scrollup').fadeIn();
+                } else {
+                    $('.scrollup').fadeOut();
+                }
+            });
+            $('.scrollup').click(function () {
+                $("html, body").animate({ scrollTop: 0 }, 600);
+                return false;
+            });
+        });
+</script>
+  <!-- End Scroll Top  -->
+    <!-- menu responsive script toggle -->    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.nav_bar').click(function () {
+                $('.menu').toggleClass('visible');
+                $('body').toggleClass('opacity');
+            });
+        });
+    </script>
+    <script type="text/javascript" src="_assets/_js/respond.min.js"></script>
+    <script type="text/javascript" src="_assets/_js/modernizr-2.8.3.min.js"></script>
+    
+      <!-- it works the same with all jquery version from 1.x to 2.x -->
+    
+    <!-- use jssor.slider.mini.js (40KB) instead for release -->
+    <!-- jssor.slider.mini.js = (jssor.js + jssor.slider.js) -->
+    <script type="text/javascript" src="_assets/_js/slider/jssor.js"></script>
+    <script type="text/javascript" src="_assets/_js/slider/jssor.slider.js"></script>
+    <script>        
+        jQuery(document).ready(function ($) {
+            var _CaptionTransitions = [];
+
+            var options = {
+                $AutoPlay: true,                                    //[Optional] Whether to auto play, to enable slideshow, this option must be set to true, default value is false
+                $DragOrientation: 3,                                //[Optional] Orientation to drag slide, 0 no drag, 1 horizental, 2 vertical, 3 either, default value is 1 (Note that the $DragOrientation should be the same as $PlayOrientation when $DisplayPieces is greater than 1, or parking position is not 0)
+                $CaptionSliderOptions: {                            //[Optional] Options which specifies how to animate caption
+                    $Class: $JssorCaptionSlider$,                   //[Required] Class to create instance to animate caption
+                    $CaptionTransitions: _CaptionTransitions,       //[Required] An array of caption transitions to play caption, see caption transition section at jssor slideshow transition builder
+                    $PlayInMode: 1,                                 //[Optional] 0 None (no play), 1 Chain (goes after main slide), 3 Chain Flatten (goes after main slide and flatten all caption animations), default value is 1
+                    $PlayOutMode: 3                                 //[Optional] 0 None (no play), 1 Chain (goes before main slide), 3 Chain Flatten (goes before main slide and flatten all caption animations), default value is 1
+                }
+            };
+            var jssor_slider1 = new $JssorSlider$("slider1_container", options);
+        });
+    </script>
+    <!-- Jssor Slider Begin -->
+    <!-- You can move inline styles to css file or css block. -->
+   
+  
+
+   <script type="text/javascript">
+        $(document).ready(function () {
+            //if mask is clicked
+            $('.mask').click(function () {
+                $(this).hide();
+                $('.Push1003-ad').hide();
+                $("#aftr").slideDown();
+            });
+        });
+    </script>
+   <script type="text/javascript">
+       $(document).ready(function () {
+           // when the tag with id="btn" is clicked, apply slideDown to #dv1, then to #dv2
+           $(document).ready(function () {
+               $(".Push1003-ad").delay(10000).slideUp(3000, function () {
+                   $("#aftr").slideDown(500);
+               });
+           });
+       });
+    </script>
+   <script type="text/javascript">
+         function hidead() {
+             $('#close1').click(function () {
+                 $('body').removeClass("bg_img").addClass("body_bg");
+                 $('#body_ad').hide();
+             });
+         }
+    </script>
+    
+
+</body>
+</html>
